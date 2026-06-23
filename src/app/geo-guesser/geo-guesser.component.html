@@ -1,0 +1,24 @@
+<div class="geo-guesser-shell">
+  @switch (state().status) {
+    @case ('difficulty') {
+      <app-difficulty-select />
+    }
+
+    @case ('playing') {
+      <app-game-hud />
+      <main class="game-area" aria-label="Game area">
+        <app-world-map
+          [player]="state().currentPlayer"
+          [showTeamNames]="state().showTeamNames"
+          [showPlayerName]="state().showPlayerName"
+          [lastGuessResult]="state().lastGuessResult"
+        />
+        <app-player-guess />
+      </main>
+    }
+
+    @case ('game-over') {
+      <app-game-over />
+    }
+  }
+</div>

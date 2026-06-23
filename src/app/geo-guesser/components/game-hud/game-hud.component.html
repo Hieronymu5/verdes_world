@@ -1,0 +1,37 @@
+<header class="hud" role="banner">
+  <!-- Lives -->
+  <div class="hud-section lives-section" aria-label="Lives remaining">
+    @for (life of lives().remaining; track $index) {
+      <span class="life life-active" aria-hidden="true" title="Life remaining">💚</span>
+    }
+    @for (life of lives().lost; track $index) {
+      <span class="life life-lost" aria-hidden="true" title="Life lost">🖤</span>
+    }
+    <span class="sr-only">{{ state().lives }} lives remaining</span>
+  </div>
+
+  <!-- Score -->
+  <div class="hud-section score-section" aria-label="Current score">
+    <span class="score-label">SCORE</span>
+    <span class="score-value">{{ state().score }}</span>
+  </div>
+
+  <!-- Timers -->
+  <div class="hud-section timer-section">
+    <div class="game-timer" [class.urgent]="isUrgent()" aria-label="Time remaining" aria-live="polite">
+      <span class="timer-icon">⏱</span>
+      <span class="timer-value">{{ timerDisplay() }}</span>
+    </div>
+
+    @if (hintCountdown() !== null) {
+      <div class="hint-countdown" aria-label="Hint appears in">
+        Hint in <strong>{{ hintCountdown() }}s</strong>
+      </div>
+    }
+  </div>
+
+  <!-- Difficulty badge -->
+  <div class="hud-section difficulty-badge">
+    {{ state().selectedDifficulty?.name ?? '' }}
+  </div>
+</header>

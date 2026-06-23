@@ -1,0 +1,151 @@
+<section
+  class="guess-panel"
+  [class.shake]="state().lastGuessResult === 'wrong'"
+  aria-label="Player guess area"
+>
+  <!-- ── Prompt header ──────────────────────────────────────────── -->
+  <div class="guess-header">
+    <div class="guess-question">
+      <span class="question-icon" aria-hidden="true">🌍</span>
+      <span class="question-text">Who played for these clubs?</span>
+    </div>
+    @if (state().currentPlayer?.jerseyNumbers?.length) {
+      <div
+        class="jersey-badge"
+        [attr.aria-label]="
+          'Jersey number ' + state().currentPlayer!.jerseyNumbers[0] + ' at Austin FC'
+        "
+      >
+        <span class="jersey-label">Austin FC #</span>
+        <span class="jersey-number">{{ state().currentPlayer!.jerseyNumbers[0] }}</span>
+      </div>
+    }
+  </div>
+
+  <!-- ── Feedback slot (reserved height to prevent layout shift) ── -->
+  <div class="feedback-slot">
+    @if (state().lastGuessResult === 'wrong') {
+      <div class="feedback wrong" role="alert" aria-live="assertive">
+        <span class="feedback-icon" aria-hidden="true">✗</span>
+        <span>Wrong guess <strong>–1 life</strong></span>
+      </div>
+    }
+  </div>
+
+  <!-- ── Hint / reveal strips (reserved height to prevent shift) ── -->
+  <div class="hint-slot">
+    @if (state().showPlayerName) {
+      @if (state().lastGuessResult === 'correct') {
+        <p class="hint-strip correct-reveal" role="alert" aria-live="assertive">
+          ✓ Correct! <strong>{{ state().currentPlayer?.name }}</strong>
+        </p>
+      } @else if (state().lastGuessResult === 'wrong') {
+        <p class="hint-strip reveal" role="alert">
+          ✗ The answer was <strong>{{ state().currentPlayer?.name }}</strong> — moving on…
+        </p>
+      } @else {
+        <p class="hint-strip reveal" role="alert">
+          ⏱ Time's up — the answer was <strong>{{ state().currentPlayer?.name }}</strong>
+        </p>
+      }
+    }
+  </div>
+
+  <!-- ── Input area (kept in layout so map doesn't jump on reveal) ── -->
+  <div
+    class="input-area"
+    [class.input-area-hidden]="state().showPlayerName"
+    [attr.aria-hidden]="state().showPlayerName ? 'true' : null"
+  >
+    <!-- Instruction line -->
+    <p class="input-instructions" id="guess-instructions">
+      Type a player's name below, pick from the list, then press
+      <kbd>Enter</kbd> or click <kbd>↵</kbd> to guess
+    </p>
+
+    <!-- Combobox wrapper -->
+    <div
+      class="input-wrapper"
+      role="combobox"
+      aria-haspopup="listbox"
+      aria-owns="suggestion-list"
+      [attr.aria-expanded]="showDropdown() && suggestions().length > 0"
+    >
+      <input
+        #inputRef
+        type="text"
+        class="guess-input"
+        name="player-guess-input"
+        placeholder="e.g. Driussi, Ring, Zardes…"
+        autocomplete="new-password"
+        autocapitalize="none"
+        autocorrect="off"
+        spellcheck="false"
+        aria-label="Type a player name to guess"
+        aria-describedby="guess-instructions"
+        aria-autocomplete="list"
+        aria-controls="suggestion-list"
+        [value]="inputValue()"
+        [disabled]="state().showPlayerName"
+        (input)="onInput($any($event.target).value)"
+        (keydown)="onKeydown($event)"
+        (blur)="onBlur()"
+      />
+      <button
+        class="submit-btn"
+        aria-label="Submit guess (Enter)"
+        title="Submit guess (Enter)"
+        (click)="submitFromInput()"
+        [disabled]="state().showPlayerName || !inputValue().trim()"
+      >
+        ↵
+      </button>
+    </div>
+
+    <!-- Inline hint below input ──────────────────────────────── -->
+    @switch (inputHint()) {
+      @case ('idle') {
+        <p class="input-hint idle">
+          Start typing — matches from all {{ state().currentPlayer ? '' : '' }}70 Austin FC players
+          will appear
+        </p>
+      }
+      @case ('too-short') {
+        <p class="input-hint too-short">Keep typing… (at least 2 characters to search)</p>
+      }
+      @case ('no-results') {
+        <p class="input-hint no-results">
+          No players match "<em>{{ inputValue() }}</em
+          >" — check the spelling
+        </p>
+      }
+      @case ('results') {
+        <p class="input-hint results">
+          {{ suggestions().length }} match{{ suggestions().length === 1 ? '' : 'es' }} — first
+          selected, <kbd>↑</kbd><kbd>↓</kbd> to change, <kbd>Enter</kbd> to confirm
+        </p>
+      }
+    }
+
+    <!-- Autocomplete dropdown ────────────────────────────────── -->
+    @if (!state().showPlayerName && showDropdown() && suggestions().length > 0) {
+      <ul id="suggestion-list" class="suggestions" role="listbox" aria-label="Matching players">
+        @for (player of suggestions(); track player.id; let i = $index) {
+          <li
+            role="option"
+            [id]="'suggestion-' + i"
+            [attr.aria-selected]="i === highlightedIndex()"
+            [class.highlighted]="i === highlightedIndex()"
+            (mousedown)="selectSuggestion(player)"
+          >
+            <div class="suggestion-left">
+              <span class="suggestion-name">{{ player.name }}</span>
+              <span class="suggestion-meta">{{ player.nationality }} · {{ player.position }}</span>
+            </div>
+            <span class="suggestion-clubs"> {{ player.clubs.length }} clubs </span>
+          </li>
+        }
+      </ul>
+    }
+  </div>
+</section>

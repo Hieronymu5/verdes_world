@@ -1,0 +1,54 @@
+<div class="select-screen" role="main">
+  <div class="branding">
+    <span class="crest" aria-hidden="true">⚽</span>
+    <h1 class="title">
+      <span class="title-top">Los Verdes</span>
+      <span class="title-bottom">GeoGuesser</span>
+    </h1>
+    <p class="subtitle">
+      Track the global journey of Austin FC legends.<br />
+      How many can you identify from their career map?
+    </p>
+  </div>
+
+  <nav aria-label="Difficulty selection">
+    <ul class="difficulty-list">
+      @for (level of difficulties(); track level.id; let i = $index) {
+        <li>
+          <button
+            #difficultyBtn
+            [class]="'difficulty-card difficulty-' + level.id + (i === selectedIndex() ? ' selected' : '')"
+            [attr.tabindex]="i === selectedIndex() ? 0 : -1"
+            [attr.aria-pressed]="i === selectedIndex()"
+            [attr.aria-label]="'Start game on ' + level.name + ' difficulty. ' + level.description"
+            (focus)="onCardFocus(i)"
+            (click)="onCardClick(level, i)"
+          >
+            <div class="card-name">{{ level.name }}</div>
+            <div class="card-description">{{ level.description }}</div>
+            <div class="card-stats">
+              <span class="stat">
+                <span class="stat-icon" aria-hidden="true">⏱</span>
+                {{ level.gameDurationSeconds / 60 }} min
+              </span>
+              <span class="stat">
+                <span class="stat-icon" aria-hidden="true">💚</span>
+                {{ level.lives }} {{ level.lives === 1 ? 'life' : 'lives' }}
+              </span>
+              <span class="stat">
+                <span class="stat-icon" aria-hidden="true">👤</span>
+                {{ poolSize(level.playerPercentile) }} players
+              </span>
+            </div>
+
+          </button>
+        </li>
+      }
+    </ul>
+  </nav>
+
+  <footer class="select-footer">
+    <p>{{ allPlayers().length }} Austin FC players in the database</p>
+    <p class="footer-note">Verde y Negro — Los Verdes Supporters</p>
+  </footer>
+</div>

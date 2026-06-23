@@ -1,0 +1,122 @@
+.game-over-screen {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: radial-gradient(ellipse at 50% 40%, #0d2e18 0%, #061525 70%);
+  padding: 24px;
+}
+
+.overlay-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  max-width: 420px;
+  width: 100%;
+  animation: slide-up 0.4s ease-out;
+}
+
+@keyframes slide-up {
+  from { opacity: 0; transform: translateY(30px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ── End reason ───────────────────────────────────────────────────── */
+.end-reason {
+  font-size: 14px;
+  color: #7ab398;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin: 0;
+}
+
+.end-icon {
+  font-size: 18px;
+}
+
+/* ── Score ────────────────────────────────────────────────────────── */
+.final-score-label {
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #00b140;
+  margin: 0;
+}
+
+.final-score {
+  font-size: 96px;
+  font-weight: 800;
+  color: #ffffff;
+  line-height: 1;
+  text-shadow: 0 0 40px rgba(0, 177, 64, 0.4);
+}
+
+/* ── Rating ───────────────────────────────────────────────────────── */
+.rating {
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+}
+
+/* ── Stats ────────────────────────────────────────────────────────── */
+.stats-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  border-top: 1px solid rgba(0, 177, 64, 0.2);
+  border-bottom: 1px solid rgba(0, 177, 64, 0.2);
+}
+
+.stat-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+  font-size: 14px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.stat-row:last-child {
+  border-bottom: none;
+}
+
+.stat-name {
+  color: #7ab398;
+}
+
+.stat-val {
+  font-weight: 600;
+  color: #ffffff;
+}
+
+/* ── Play again ───────────────────────────────────────────────────── */
+.play-again-btn {
+  background: #00b140;
+  border: none;
+  border-radius: 12px;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 700;
+  padding: 14px 48px;
+  cursor: pointer;
+  font-family: inherit;
+  letter-spacing: 0.04em;
+  transition: background 0.2s, transform 0.1s;
+  margin-top: 8px;
+}
+
+.play-again-btn:hover {
+  background: #00d44d;
+}
+
+.play-again-btn:active {
+  transform: scale(0.97);
+}
+
+.play-again-btn:focus-visible {
+  outline: 3px solid #00b140;
+  outline-offset: 3px;
+}

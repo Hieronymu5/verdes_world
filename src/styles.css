@@ -1,1 +1,47 @@
-/* You can add global styles to this file, and also import other style files */
+/* ── Reset & base ─────────────────────────────────────────────────── */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  background: #061525;
+  color: #ffffff;
+  font-family:
+    'Inter',
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── Focus ring ───────────────────────────────────────────────────── */
+:focus-visible {
+  outline: 3px solid #00b140;
+  outline-offset: 2px;
+}
+
+/* ── Scrollbar ────────────────────────────────────────────────────── */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0d2340;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #00b140;
+  border-radius: 3px;
+}

@@ -1,0 +1,50 @@
+<div class="game-over-screen" role="main" aria-live="polite">
+  <div class="overlay-content">
+    <p class="end-reason">
+      @if (outOfLives()) {
+        <span class="end-icon" aria-hidden="true">💔</span> You ran out of lives
+      } @else {
+        <span class="end-icon" aria-hidden="true">⏱</span> Time's up!
+      }
+    </p>
+
+    <h1 class="final-score-label">Final Score</h1>
+    <div class="final-score" aria-label="Final score: {{ state().score }}">
+      {{ state().score }}
+    </div>
+
+    <div class="rating" [style.color]="rating().color">
+      {{ rating().label }}
+    </div>
+
+    <ul class="stats-list" aria-label="Game stats">
+      <li class="stat-row">
+        <span class="stat-name">Players guessed</span>
+        <span class="stat-val">{{ state().score }}</span>
+      </li>
+      <li class="stat-row">
+        <span class="stat-name">Time played</span>
+        <span class="stat-val">{{ timePlayed() }}</span>
+      </li>
+      <li class="stat-row">
+        <span class="stat-name">Lives remaining</span>
+        <span class="stat-val">{{ state().lives }}</span>
+      </li>
+      <li class="stat-row">
+        <span class="stat-name">Difficulty</span>
+        <span class="stat-val">{{ state().selectedDifficulty?.name }}</span>
+      </li>
+    </ul>
+
+    <button
+      #playAgainBtnRef
+      type="button"
+      class="play-again-btn"
+      autofocus
+      (click)="playAgain()"
+      aria-label="Play again — return to difficulty selection"
+    >
+      Play Again
+    </button>
+  </div>
+</div>

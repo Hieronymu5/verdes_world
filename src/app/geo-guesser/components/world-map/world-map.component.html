@@ -1,0 +1,139 @@
+<div class="map-wrapper">
+  <svg
+    [attr.viewBox]="'0 0 ' + mapW + ' ' + mapH"
+    class="world-map"
+    role="img"
+    aria-label="World map showing the selected player's career journey"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <defs>
+      <!-- Green glow for journey lines and Austin FC dot -->
+      <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+        <feGaussianBlur stdDeviation="3" result="blur"/>
+        <feMerge>
+          <feMergeNode in="blur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+
+      <!-- Softer glow for regular club dots -->
+      <filter id="dot-glow" x="-80%" y="-80%" width="260%" height="260%">
+        <feGaussianBlur stdDeviation="2" result="blur"/>
+        <feMerge>
+          <feMergeNode in="blur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+
+      <radialGradient id="ocean-grad" cx="50%" cy="40%" r="70%">
+        <stop offset="0%" stop-color="#0d2a4a"/>
+        <stop offset="100%" stop-color="#061525"/>
+      </radialGradient>
+
+      <style>
+        /* Keyframes live here so they are always in SVG scope regardless of
+           Angular's view-encapsulation attribute scoping. */
+        @keyframes draw-line { to { stroke-dashoffset: 0; } }
+        @keyframes pop-in    { to { transform: scale(1); } }
+        @keyframes pulse {
+          0%,100% { opacity: 0.7; transform: scale(1); }
+          50%      { opacity: 0;   transform: scale(2.8); }
+        }
+      </style>
+    </defs>
+
+    <!-- Ocean background -->
+    <rect [attr.width]="mapW" [attr.height]="mapH" fill="url(#ocean-grad)"/>
+
+    <!-- Graticule grid -->
+    @if (graticulePath()) {
+      <path [attr.d]="graticulePath()" class="graticule"/>
+    }
+
+    <!-- Natural Earth land fill -->
+    @if (landPath()) {
+      <path [attr.d]="landPath()" class="land"/>
+    }
+
+    <!-- Country borders -->
+    @if (bordersPath()) {
+      <path [attr.d]="bordersPath()" class="borders"/>
+    }
+
+    @if (player()) {
+      <!-- Great-circle journey lines — drawn one by one in chronological order.
+           stroke-dasharray/offset equal the actual path length so the dash
+           animation precisely covers the line regardless of its distance. -->
+      @for (line of journeyLines(); track line.key) {
+        <path
+          [attr.d]="line.d"
+          class="journey-line"
+          filter="url(#glow)"
+          [style.stroke-dasharray]="line.length"
+          [style.stroke-dashoffset]="line.length"
+          [style.animation-duration]="line.duration + 's'"
+          [style.animation-delay]="line.delay + 's'"
+        />
+      }
+
+      <!-- Club dots -->
+      @for (pt of mapPoints(); track pt.club.clubName; let i = $index) {
+        <g [attr.transform]="'translate(' + pt.x + ',' + pt.y + ')'">
+          @if (isAustin(pt.club)) {
+            <circle class="austin-pulse" r="0"
+              fill="none" stroke="#00B140" stroke-width="3" opacity="0.7"
+              [style.animation-delay]="pt.animDelay + 's'"/>
+          }
+          <circle
+            [attr.r]="pt.radius"
+            [class]="isAustin(pt.club) ? 'club-dot austin-dot' : 'club-dot regular-dot'"
+            [attr.filter]="isAustin(pt.club) ? 'url(#glow)' : 'url(#dot-glow)'"
+            [style.animation-delay]="pt.animDelay + 's'"
+          />
+
+          @if (pt.radius >= 9) {
+            <text class="dot-year"
+              text-anchor="middle" dominant-baseline="middle"
+              [attr.font-size]="pt.radius * 0.65">
+              {{ pt.club.fromYear }}
+            </text>
+          }
+
+          @if (showTeamNames() || showPlayerName()) {
+            <text class="club-label" text-anchor="middle" [attr.dy]="pt.labelDy">
+              {{ pt.club.clubName }}
+            </text>
+            <text class="club-city"  text-anchor="middle" [attr.dy]="pt.labelDy - 10">
+              {{ pt.club.city }}, {{ pt.club.country }}
+            </text>
+          }
+        </g>
+      }
+
+      <!-- Player name reveal banner -->
+      @if (showPlayerName() && player()) {
+        <g>
+          <rect
+            x="180"
+            [attr.y]="mapH - 42"
+            width="600"
+            height="28"
+            rx="5"
+            [attr.fill]="lastGuessResult() === 'correct' ? '#00B140' : '#dc2626'"
+            opacity="0.93"
+          />
+          <text x="480" [attr.y]="mapH - 24" text-anchor="middle" class="player-reveal-name">
+            {{ player()!.name }}
+          </text>
+        </g>
+      }
+    }
+
+    @if (!player()) {
+      <text [attr.x]="mapW / 2" [attr.y]="mapH / 2"
+        text-anchor="middle" class="map-placeholder">
+        Loading player…
+      </text>
+    }
+  </svg>
+</div>

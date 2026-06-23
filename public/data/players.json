@@ -1,0 +1,2819 @@
+[
+  {
+    "id": "brad-stuver",
+    "name": "Brad Stuver",
+    "gamesPlayed": 199,
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "American",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Columbus Crew",
+        "city": "Columbus",
+        "country": "USA",
+        "lat": 39.9609,
+        "lng": -82.9985,
+        "fromYear": 2014,
+        "toYear": 2018
+      },
+      {
+        "clubName": "NYCFC",
+        "city": "New York",
+        "country": "USA",
+        "lat": 40.8296,
+        "lng": -73.9262,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "jon-gallagher",
+    "name": "Jon Gallagher",
+    "gamesPlayed": 194,
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Irish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Dundalk FC",
+        "city": "Dundalk",
+        "country": "Ireland",
+        "lat": 54.0018,
+        "lng": -6.4133,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Atlanta United",
+        "city": "Atlanta",
+        "country": "USA",
+        "lat": 33.7573,
+        "lng": -84.4008,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "daniel-pereira",
+    "name": "Daniel Pereira",
+    "gamesPlayed": 165,
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Venezuelan",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Indiana University",
+        "city": "Bloomington",
+        "country": "USA",
+        "lat": 39.1653,
+        "lng": -86.5264,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "julio-cascante",
+    "name": "Julio Cascante",
+    "gamesPlayed": 141,
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Costa Rican",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "LD Alajuelense",
+        "city": "Alajuela",
+        "country": "Costa Rica",
+        "lat": 9.9281,
+        "lng": -84.0907,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Portland Timbers",
+        "city": "Portland",
+        "country": "USA",
+        "lat": 45.5231,
+        "lng": -122.6914,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "owen-wolff",
+    "name": "Owen Wolff",
+    "gamesPlayed": 141,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Georgetown University",
+        "city": "Washington DC",
+        "country": "USA",
+        "lat": 38.9076,
+        "lng": -77.0723,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "alexander-ring",
+    "name": "Alexander Ring",
+    "gamesPlayed": 137,
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Finnish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Haka",
+        "city": "Valkeakoski",
+        "country": "Finland",
+        "lat": 61.2669,
+        "lng": 23.7719,
+        "fromYear": 2011,
+        "toYear": 2013
+      },
+      {
+        "clubName": "VfL Bochum",
+        "city": "Bochum",
+        "country": "Germany",
+        "lat": 51.4894,
+        "lng": 7.2183,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "1. FC Nürnberg",
+        "city": "Nuremberg",
+        "country": "Germany",
+        "lat": 49.4222,
+        "lng": 11.0786,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "NYCFC",
+        "city": "New York",
+        "country": "USA",
+        "lat": 40.8296,
+        "lng": -73.9262,
+        "fromYear": 2016,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2024
+      }
+    ]
+  },
+  {
+    "id": "sebastian-driussi",
+    "name": "Sebastián Driussi",
+    "gamesPlayed": 115,
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Argentine",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "River Plate",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.5461,
+        "lng": -58.4498,
+        "fromYear": 2013,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Zenit St. Petersburg",
+        "city": "Saint Petersburg",
+        "country": "Russia",
+        "lat": 59.9726,
+        "lng": 30.2197,
+        "fromYear": 2017,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2022,
+        "toYear": 2024
+      }
+    ]
+  },
+  {
+    "id": "zan-kolmanic",
+    "name": "Žan Kolmanič",
+    "gamesPlayed": 114,
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Slovenian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "NK Celje",
+        "city": "Celje",
+        "country": "Slovenia",
+        "lat": 46.2326,
+        "lng": 15.2769,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "TSG Hoffenheim",
+        "city": "Sinsheim",
+        "country": "Germany",
+        "lat": 49.2386,
+        "lng": 8.8881,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2022,
+        "toYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "nick-lima",
+    "name": "Nick Lima",
+    "gamesPlayed": 104,
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "American",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "San Jose Earthquakes",
+        "city": "San Jose",
+        "country": "USA",
+        "lat": 37.4188,
+        "lng": -121.9178,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2023
+      }
+    ]
+  },
+  {
+    "id": "ethan-finlay",
+    "name": "Ethan Finlay",
+    "gamesPlayed": 100,
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "American",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Columbus Crew",
+        "city": "Columbus",
+        "country": "USA",
+        "lat": 39.9609,
+        "lng": -82.9985,
+        "fromYear": 2013,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Minnesota United",
+        "city": "Minneapolis",
+        "country": "USA",
+        "lat": 44.9517,
+        "lng": -93.1661,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2022,
+        "toYear": 2024
+      }
+    ]
+  },
+  {
+    "id": "diego-fagundez",
+    "name": "Diego Fagúndez",
+    "gamesPlayed": 95,
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Uruguayan",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "New England Revolution",
+        "city": "Foxborough",
+        "country": "USA",
+        "lat": 42.0919,
+        "lng": -71.2641,
+        "fromYear": 2012,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2023
+      }
+    ]
+  },
+  {
+    "id": "guilherme-biro",
+    "name": "Guilherme Biro",
+    "gamesPlayed": 85,
+    "jerseyNumbers": [],
+    "nationality": "Brazilian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Flamengo",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9116,
+        "lng": -43.23,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2024,
+        "toYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "brendan-hines-ike",
+    "name": "Brendan Hines-Ike",
+    "gamesPlayed": 80,
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "American",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "En Avant Guingamp",
+        "city": "Guingamp",
+        "country": "France",
+        "lat": 48.5619,
+        "lng": -3.15,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "KV Kortrijk",
+        "city": "Kortrijk",
+        "country": "Belgium",
+        "lat": 50.8298,
+        "lng": 3.2679,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2022,
+        "toYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "jhojan-valencia",
+    "name": "Jhojan Valencia",
+    "gamesPlayed": 76,
+    "jerseyNumbers": [],
+    "nationality": "Colombian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Deportivo Cali",
+        "city": "Cali",
+        "country": "Colombia",
+        "lat": 3.4516,
+        "lng": -76.532,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2022,
+        "toYear": 2024
+      }
+    ]
+  },
+  {
+    "id": "jader-obrian",
+    "name": "Jáder Obrian",
+    "gamesPlayed": 71,
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Colombian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "FC Dallas",
+        "city": "Frisco",
+        "country": "USA",
+        "lat": 32.9957,
+        "lng": -96.895,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2023,
+        "toYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "gyasi-zardes",
+    "name": "Gyasi Zardes",
+    "gamesPlayed": 67,
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "American",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "LA Galaxy",
+        "city": "Los Angeles",
+        "country": "USA",
+        "lat": 33.8643,
+        "lng": -118.2611,
+        "fromYear": 2013,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Columbus Crew",
+        "city": "Columbus",
+        "country": "USA",
+        "lat": 39.9609,
+        "lng": -82.9985,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Colorado Rapids",
+        "city": "Commerce City",
+        "country": "USA",
+        "lat": 39.8057,
+        "lng": -104.8916,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2023,
+        "toYear": 2024
+      }
+    ]
+  },
+  {
+    "id": "diego-rubio",
+    "name": "Diego Rubio",
+    "gamesPlayed": 66,
+    "jerseyNumbers": [],
+    "nationality": "Chilean",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Universidad de Chile",
+        "city": "Santiago",
+        "country": "Chile",
+        "lat": -33.4568,
+        "lng": -70.6483,
+        "fromYear": 2012,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Real Betis",
+        "city": "Seville",
+        "country": "Spain",
+        "lat": 37.3561,
+        "lng": -5.982,
+        "fromYear": 2015,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Sporting KC",
+        "city": "Kansas City",
+        "country": "USA",
+        "lat": 39.1214,
+        "lng": -94.8267,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Colorado Rapids",
+        "city": "Commerce City",
+        "country": "USA",
+        "lat": 39.8057,
+        "lng": -104.8916,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2024,
+        "toYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "maxi-urruti",
+    "name": "Maximiliano Urruti",
+    "gamesPlayed": 64,
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Argentine",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Estudiantes LP",
+        "city": "La Plata",
+        "country": "Argentina",
+        "lat": -34.9058,
+        "lng": -57.9386,
+        "fromYear": 2010,
+        "toYear": 2013
+      },
+      {
+        "clubName": "FC Dallas",
+        "city": "Frisco",
+        "country": "USA",
+        "lat": 32.9957,
+        "lng": -96.895,
+        "fromYear": 2013,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Portland Timbers",
+        "city": "Portland",
+        "country": "USA",
+        "lat": 45.5231,
+        "lng": -122.6914,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Houston Dynamo",
+        "city": "Houston",
+        "country": "USA",
+        "lat": 29.7519,
+        "lng": -95.3561,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "CF Montréal",
+        "city": "Montreal",
+        "country": "Canada",
+        "lat": 45.4628,
+        "lng": -73.7489,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2022,
+        "toYear": 2023
+      }
+    ]
+  },
+  {
+    "id": "hector-jimenez",
+    "name": "Hector Jiménez",
+    "gamesPlayed": 60,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Colorado Springs Switchbacks",
+        "city": "Colorado Springs",
+        "country": "USA",
+        "lat": 38.8339,
+        "lng": -104.8214,
+        "fromYear": 2016,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2024
+      }
+    ]
+  },
+  {
+    "id": "emiliano-rigoni",
+    "name": "Emiliano Rigoni",
+    "gamesPlayed": 58,
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Argentine",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Independiente",
+        "city": "Avellaneda",
+        "country": "Argentina",
+        "lat": -34.6603,
+        "lng": -58.3686,
+        "fromYear": 2015,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Zenit St. Petersburg",
+        "city": "Saint Petersburg",
+        "country": "Russia",
+        "lat": 59.9726,
+        "lng": 30.2197,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2022,
+        "toYear": 2024
+      }
+    ]
+  },
+  {
+    "id": "cj-fodrey",
+    "name": "CJ Fodrey",
+    "gamesPlayed": 57,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Penn State University",
+        "city": "State College",
+        "country": "USA",
+        "lat": 40.7982,
+        "lng": -77.8599,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2023,
+        "toYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "rodney-redes",
+    "name": "Rodney Redes",
+    "gamesPlayed": 54,
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Paraguayan",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Club Olimpia",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2868,
+        "lng": -57.647,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2022
+      }
+    ]
+  },
+  {
+    "id": "oleksandr-svatok",
+    "name": "Oleksandr Svatok",
+    "gamesPlayed": 54,
+    "jerseyNumbers": [],
+    "nationality": "Ukrainian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Shakhtar Donetsk",
+        "city": "Donetsk",
+        "country": "Ukraine",
+        "lat": 48.0159,
+        "lng": 37.8012,
+        "fromYear": 2018,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2024,
+        "toYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "osman-bukari",
+    "name": "Osman Bukari",
+    "gamesPlayed": 49,
+    "jerseyNumbers": [],
+    "nationality": "Ghanaian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Rakow Czestochowa",
+        "city": "Częstochowa",
+        "country": "Poland",
+        "lat": 50.7714,
+        "lng": 19.1211,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2024,
+        "toYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "besard-sabovic",
+    "name": "Besard Šabović",
+    "gamesPlayed": 49,
+    "jerseyNumbers": [],
+    "nationality": "Swedish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "IFK Norrköping",
+        "city": "Norrköping",
+        "country": "Sweden",
+        "lat": 58.5877,
+        "lng": 16.1895,
+        "fromYear": 2017,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2023,
+        "toYear": 2024
+      }
+    ]
+  },
+  {
+    "id": "myrto-uzuni",
+    "name": "Myrto Uzuni",
+    "gamesPlayed": 48,
+    "jerseyNumbers": [],
+    "nationality": "Albanian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Ferencváros TC",
+        "city": "Budapest",
+        "country": "Hungary",
+        "lat": 47.4822,
+        "lng": 19.0586,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Granada CF",
+        "city": "Granada",
+        "country": "Spain",
+        "lat": 37.183,
+        "lng": -3.5994,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2023,
+        "toYear": 2024
+      }
+    ]
+  },
+  {
+    "id": "mikkel-desler",
+    "name": "Mikkel Desler",
+    "gamesPlayed": 45,
+    "jerseyNumbers": [],
+    "nationality": "Danish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Randers FC",
+        "city": "Randers",
+        "country": "Denmark",
+        "lat": 56.4627,
+        "lng": 10.0365,
+        "fromYear": 2013,
+        "toYear": 2018
+      },
+      {
+        "clubName": "FC Midtjylland",
+        "city": "Ikast",
+        "country": "Denmark",
+        "lat": 56.1072,
+        "lng": 9.0565,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2023,
+        "toYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "ilie-sanchez",
+    "name": "Ilie Sánchez",
+    "gamesPlayed": 44,
+    "jerseyNumbers": [],
+    "nationality": "Spanish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Girona FC",
+        "city": "Girona",
+        "country": "Spain",
+        "lat": 41.9908,
+        "lng": 2.82,
+        "fromYear": 2017,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2022,
+        "toYear": 2023
+      }
+    ]
+  },
+  {
+    "id": "cecilio-dominguez",
+    "name": "Cecilio Domínguez",
+    "gamesPlayed": 38,
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Paraguayan",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Club Olimpia",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2868,
+        "lng": -57.647,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Vélez Sársfield",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6272,
+        "lng": -58.5086,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Chicago Fire",
+        "city": "Chicago",
+        "country": "USA",
+        "lat": 41.8623,
+        "lng": -87.6159,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2022
+      }
+    ]
+  },
+  {
+    "id": "leo-vaisanen",
+    "name": "Leo Väisänen",
+    "gamesPlayed": 38,
+    "jerseyNumbers": [],
+    "nationality": "Finnish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "HJK Helsinki",
+        "city": "Helsinki",
+        "country": "Finland",
+        "lat": 60.1866,
+        "lng": 25.0021,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2022
+      }
+    ]
+  },
+  {
+    "id": "nicolas-dubersarsky",
+    "name": "Nicolás Dubersarsky",
+    "gamesPlayed": 37,
+    "jerseyNumbers": [],
+    "nationality": "Argentine",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Racing Club",
+        "city": "Avellaneda",
+        "country": "Argentina",
+        "lat": -34.6557,
+        "lng": -58.4624,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2024,
+        "toYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "ruben-gabrielsen",
+    "name": "Ruben Gabrielsen",
+    "gamesPlayed": 37,
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Norwegian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Tromsø IL",
+        "city": "Tromsø",
+        "country": "Norway",
+        "lat": 69.6469,
+        "lng": 18.9411,
+        "fromYear": 2013,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Toulouse FC",
+        "city": "Toulouse",
+        "country": "France",
+        "lat": 43.5833,
+        "lng": 1.4354,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2022
+      }
+    ]
+  },
+  {
+    "id": "jhohan-romana",
+    "name": "Jhohan Romaña",
+    "gamesPlayed": 35,
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Colombian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Deportivo Cali",
+        "city": "Cali",
+        "country": "Colombia",
+        "lat": 3.4516,
+        "lng": -76.532,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2024
+      }
+    ]
+  },
+  {
+    "id": "moussa-djitte",
+    "name": "Moussa Djitté",
+    "gamesPlayed": 33,
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Senegalese",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Diambars FC",
+        "city": "Saly",
+        "country": "Senegal",
+        "lat": 14.4617,
+        "lng": -16.9959,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Valenciennes FC",
+        "city": "Valenciennes",
+        "country": "France",
+        "lat": 50.3592,
+        "lng": 3.5244,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2022
+      }
+    ]
+  },
+  {
+    "id": "felipe-martins",
+    "name": "Felipe Martins",
+    "gamesPlayed": 32,
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Brazilian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Flamengo",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9116,
+        "lng": -43.23,
+        "fromYear": 2008,
+        "toYear": 2011
+      },
+      {
+        "clubName": "AS Monaco",
+        "city": "Monaco",
+        "country": "Monaco",
+        "lat": 43.7273,
+        "lng": 7.415,
+        "fromYear": 2011,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Houston Dynamo",
+        "city": "Houston",
+        "country": "USA",
+        "lat": 29.7519,
+        "lng": -95.3561,
+        "fromYear": 2014,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2022
+      }
+    ]
+  },
+  {
+    "id": "tomas-pochettino",
+    "name": "Tomás Pochettino",
+    "gamesPlayed": 31,
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Argentine",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Vélez Sársfield",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6272,
+        "lng": -58.5086,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2022
+      }
+    ]
+  },
+  {
+    "id": "adam-lundqvist",
+    "name": "Adam Lundqvist",
+    "gamesPlayed": 28,
+    "jerseyNumbers": [],
+    "nationality": "Swedish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "IFK Göteborg",
+        "city": "Gothenburg",
+        "country": "Sweden",
+        "lat": 57.6988,
+        "lng": 11.98,
+        "fromYear": 2014,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Houston Dynamo",
+        "city": "Houston",
+        "country": "USA",
+        "lat": 29.7519,
+        "lng": -95.3561,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2022,
+        "toYear": 2023
+      }
+    ]
+  },
+  {
+    "id": "jared-stroud",
+    "name": "Jared Stroud",
+    "gamesPlayed": 27,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Virginia Tech",
+        "city": "Blacksburg",
+        "country": "USA",
+        "lat": 37.2284,
+        "lng": -80.4234,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "NY Red Bulls",
+        "city": "Harrison",
+        "country": "USA",
+        "lat": 40.7369,
+        "lng": -74.1498,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2023,
+        "toYear": 2024
+      }
+    ]
+  },
+  {
+    "id": "brandon-vazquez",
+    "name": "Brandon Vázquez",
+    "gamesPlayed": 26,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "CF Montréal",
+        "city": "Montreal",
+        "country": "Canada",
+        "lat": 45.4628,
+        "lng": -73.7489,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2024,
+        "toYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "matt-hedges",
+    "name": "Matt Hedges",
+    "gamesPlayed": 25,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Dallas",
+        "city": "Frisco",
+        "country": "USA",
+        "lat": 32.9957,
+        "lng": -96.895,
+        "fromYear": 2012,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2023,
+        "toYear": 2023
+      }
+    ]
+  },
+  {
+    "id": "will-bruin",
+    "name": "Will Bruin",
+    "gamesPlayed": 23,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Houston Dynamo",
+        "city": "Houston",
+        "country": "USA",
+        "lat": 29.7519,
+        "lng": -95.3561,
+        "fromYear": 2011,
+        "toYear": 2015
+      },
+      {
+        "clubName": "NY Red Bulls",
+        "city": "Harrison",
+        "country": "USA",
+        "lat": 40.7369,
+        "lng": -74.1498,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Seattle Sounders",
+        "city": "Seattle",
+        "country": "USA",
+        "lat": 47.5951,
+        "lng": -122.3316,
+        "fromYear": 2017,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2023,
+        "toYear": 2023
+      }
+    ]
+  },
+  {
+    "id": "robert-taylor",
+    "name": "Robert Taylor",
+    "gamesPlayed": 23,
+    "jerseyNumbers": [],
+    "nationality": "Finnish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "IFK Norrköping",
+        "city": "Norrköping",
+        "country": "Sweden",
+        "lat": 58.5877,
+        "lng": 16.1895,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Hammarby IF",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "lat": 59.2954,
+        "lng": 18.0829,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2023,
+        "toYear": 2023
+      }
+    ]
+  },
+  {
+    "id": "danny-hoesen",
+    "name": "Danny Hoesen",
+    "gamesPlayed": 21,
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Dutch",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "AFC Ajax",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "lat": 52.3142,
+        "lng": 4.9411,
+        "fromYear": 2010,
+        "toYear": 2015
+      },
+      {
+        "clubName": "San Jose Earthquakes",
+        "city": "San Jose",
+        "country": "USA",
+        "lat": 37.4188,
+        "lng": -121.9178,
+        "fromYear": 2016,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2022
+      }
+    ]
+  },
+  {
+    "id": "matt-besler",
+    "name": "Matt Besler",
+    "gamesPlayed": 20,
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "American",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Sporting KC",
+        "city": "Kansas City",
+        "country": "USA",
+        "lat": 39.1214,
+        "lng": -94.8267,
+        "fromYear": 2010,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2021
+      }
+    ]
+  },
+  {
+    "id": "sebastian-berhalter",
+    "name": "Sebastian Berhalter",
+    "gamesPlayed": 18,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "UNC Chapel Hill",
+        "city": "Chapel Hill",
+        "country": "USA",
+        "lat": 35.9047,
+        "lng": -79.0469,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Chicago Fire",
+        "city": "Chicago",
+        "country": "USA",
+        "lat": 41.8623,
+        "lng": -87.6159,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2021
+      }
+    ]
+  },
+  {
+    "id": "kipp-keller",
+    "name": "Kipp Keller",
+    "gamesPlayed": 17,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Hannover 96",
+        "city": "Hannover",
+        "country": "Germany",
+        "lat": 52.3598,
+        "lng": 9.7344,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2021
+      }
+    ]
+  },
+  {
+    "id": "kekuta-manneh",
+    "name": "Kekuta Manneh",
+    "gamesPlayed": 16,
+    "jerseyNumbers": [],
+    "nationality": "Gambian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Vancouver Whitecaps",
+        "city": "Vancouver",
+        "country": "Canada",
+        "lat": 49.2768,
+        "lng": -123.1115,
+        "fromYear": 2013,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Columbus Crew",
+        "city": "Columbus",
+        "country": "USA",
+        "lat": 39.9609,
+        "lng": -82.9985,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Houston Dynamo",
+        "city": "Houston",
+        "country": "USA",
+        "lat": 29.7519,
+        "lng": -95.3561,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2022,
+        "toYear": 2022
+      }
+    ]
+  },
+  {
+    "id": "joseph-rosales",
+    "name": "Joseph Rosales",
+    "gamesPlayed": 16,
+    "jerseyNumbers": [],
+    "nationality": "Honduran",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Columbus Crew",
+        "city": "Columbus",
+        "country": "USA",
+        "lat": 39.9609,
+        "lng": -82.9985,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2022,
+        "toYear": 2022
+      }
+    ]
+  },
+  {
+    "id": "facundo-torres",
+    "name": "Facundo Torres",
+    "gamesPlayed": 16,
+    "jerseyNumbers": [],
+    "nationality": "Uruguayan",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Club Nacional",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.8941,
+        "lng": -56.1282,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Orlando City",
+        "city": "Orlando",
+        "country": "USA",
+        "lat": 28.5411,
+        "lng": -81.3886,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2023,
+        "toYear": 2023
+      }
+    ]
+  },
+  {
+    "id": "jon-bell",
+    "name": "Jon Bell",
+    "gamesPlayed": 15,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "University of Virginia",
+        "city": "Charlottesville",
+        "country": "USA",
+        "lat": 38.0336,
+        "lng": -78.508,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ]
+  },
+  {
+    "id": "christian-ramirez",
+    "name": "Christian Ramirez",
+    "gamesPlayed": 14,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Houston Dynamo",
+        "city": "Houston",
+        "country": "USA",
+        "lat": 29.7519,
+        "lng": -95.3561,
+        "fromYear": 2011,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Minnesota United",
+        "city": "Minneapolis",
+        "country": "USA",
+        "lat": 44.9517,
+        "lng": -93.1661,
+        "fromYear": 2016,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Columbus Crew",
+        "city": "Columbus",
+        "country": "USA",
+        "lat": 39.9609,
+        "lng": -82.9985,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2023,
+        "toYear": 2023
+      }
+    ]
+  },
+  {
+    "id": "jayden-nelson",
+    "name": "Jayden Nelson",
+    "gamesPlayed": 11,
+    "jerseyNumbers": [],
+    "nationality": "Canadian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Toronto FC",
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6334,
+        "lng": -79.4189,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2023,
+        "toYear": 2023
+      }
+    ]
+  },
+  {
+    "id": "sofiane-djeffal",
+    "name": "Sofiane Djeffal",
+    "gamesPlayed": 10,
+    "jerseyNumbers": [],
+    "nationality": "French",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "GFC Ajaccio",
+        "city": "Ajaccio",
+        "country": "France",
+        "lat": 41.9273,
+        "lng": 8.7349,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2022,
+        "toYear": 2024
+      }
+    ]
+  },
+  {
+    "id": "emmanual-perez",
+    "name": "Emmanual Perez",
+    "gamesPlayed": 10,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "SMU",
+        "city": "Dallas",
+        "country": "USA",
+        "lat": 32.8487,
+        "lng": -96.7831,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2023,
+        "toYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "mckinze-gaines",
+    "name": "McKinze Gaines",
+    "gamesPlayed": 9,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "St. Edward's University",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.2292,
+        "lng": -97.7552,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2022,
+        "toYear": 2023
+      }
+    ]
+  },
+  {
+    "id": "aleksandar-radovanovic",
+    "name": "Aleksandar Radovanović",
+    "gamesPlayed": 9,
+    "jerseyNumbers": [],
+    "nationality": "Serbian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FK Partizan",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "lat": 44.8006,
+        "lng": 20.4522,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2022,
+        "toYear": 2022
+      }
+    ]
+  },
+  {
+    "id": "memo-rodriguez",
+    "name": "Memo Rodríguez",
+    "gamesPlayed": 9,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Houston Dynamo",
+        "city": "Houston",
+        "country": "USA",
+        "lat": 29.7519,
+        "lng": -95.3561,
+        "fromYear": 2017,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2022,
+        "toYear": 2022
+      }
+    ]
+  },
+  {
+    "id": "aedan-stanley",
+    "name": "Aedan Stanley",
+    "gamesPlayed": 9,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Stanford University",
+        "city": "Stanford",
+        "country": "USA",
+        "lat": 37.4346,
+        "lng": -122.1609,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2023,
+        "toYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "mateja-djordjevic",
+    "name": "Mateja Đorđević",
+    "gamesPlayed": 8,
+    "jerseyNumbers": [],
+    "nationality": "Serbian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FK Vojvodina",
+        "city": "Novi Sad",
+        "country": "Serbia",
+        "lat": 45.2396,
+        "lng": 19.8227,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2022,
+        "toYear": 2022
+      }
+    ]
+  },
+  {
+    "id": "andrew-tarbell",
+    "name": "Andrew Tarbell",
+    "gamesPlayed": 6,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "New England Revolution",
+        "city": "Foxborough",
+        "country": "USA",
+        "lat": 42.0919,
+        "lng": -71.2641,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2022
+      }
+    ]
+  },
+  {
+    "id": "ervin-torres",
+    "name": "Ervin Torres",
+    "gamesPlayed": 4,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Dallas",
+        "city": "Frisco",
+        "country": "USA",
+        "lat": 32.9957,
+        "lng": -96.895,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2022,
+        "toYear": 2023
+      }
+    ]
+  },
+  {
+    "id": "washington-corozo",
+    "name": "Washington Corozo",
+    "gamesPlayed": 3,
+    "jerseyNumbers": [],
+    "nationality": "Ecuadorian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Barcelona SC",
+        "city": "Guayaquil",
+        "country": "Ecuador",
+        "lat": -2.1893,
+        "lng": -79.8877,
+        "fromYear": 2013,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Portland Timbers",
+        "city": "Portland",
+        "country": "USA",
+        "lat": 45.5231,
+        "lng": -122.6914,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2022,
+        "toYear": 2022
+      }
+    ]
+  },
+  {
+    "id": "freddy-kleemann",
+    "name": "Freddy Kleemann",
+    "gamesPlayed": 3,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "University of Washington",
+        "city": "Seattle",
+        "country": "USA",
+        "lat": 47.6553,
+        "lng": -122.3035,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2023,
+        "toYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "jorge-alastuey",
+    "name": "Jorge Alastuey",
+    "gamesPlayed": 2,
+    "jerseyNumbers": [],
+    "nationality": "Spanish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Villarreal CF B",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.944,
+        "lng": -0.1025,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ]
+  },
+  {
+    "id": "micah-burton",
+    "name": "Micah Burton",
+    "gamesPlayed": 2,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Indiana University",
+        "city": "Bloomington",
+        "country": "USA",
+        "lat": 39.1653,
+        "lng": -86.5264,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2024,
+        "toYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "alonso-ramirez",
+    "name": "Alonso Ramirez",
+    "gamesPlayed": 2,
+    "jerseyNumbers": [],
+    "nationality": "Mexican",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Club América",
+        "city": "Mexico City",
+        "country": "Mexico",
+        "lat": 19.3014,
+        "lng": -99.1503,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2023,
+        "toYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "ben-sweat",
+    "name": "Ben Sweat",
+    "gamesPlayed": 2,
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "American",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "NYCFC",
+        "city": "New York",
+        "country": "USA",
+        "lat": 40.8296,
+        "lng": -73.9262,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "CF Montréal",
+        "city": "Montreal",
+        "country": "Canada",
+        "lat": 45.4628,
+        "lng": -73.7489,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2022
+      }
+    ]
+  },
+  {
+    "id": "stefan-cleveland",
+    "name": "Stefan Cleveland",
+    "gamesPlayed": 2,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Columbus Crew",
+        "city": "Columbus",
+        "country": "USA",
+        "lat": 39.9609,
+        "lng": -82.9985,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2024,
+        "toYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "jimmy-farkarlun",
+    "name": "Jimmy Farkarlun",
+    "gamesPlayed": 1,
+    "jerseyNumbers": [],
+    "nationality": "Liberian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Hammarby IF",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "lat": 59.2954,
+        "lng": 18.0829,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2023,
+        "toYear": 2023
+      }
+    ]
+  },
+  {
+    "id": "valentin-noel",
+    "name": "Valentin Noël",
+    "gamesPlayed": 1,
+    "jerseyNumbers": [],
+    "nationality": "French",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Stade Rennais",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1055,
+        "lng": -1.7091,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Portland Timbers",
+        "city": "Portland",
+        "country": "USA",
+        "lat": 45.5231,
+        "lng": -122.6914,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2022,
+        "toYear": 2022
+      }
+    ]
+  },
+  {
+    "id": "amro-tarek",
+    "name": "Amro Tarek",
+    "gamesPlayed": 1,
+    "jerseyNumbers": [],
+    "nationality": "Egyptian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Zamalek SC",
+        "city": "Cairo",
+        "country": "Egypt",
+        "lat": 30.0626,
+        "lng": 31.2222,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2024,
+        "toYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "damian-las",
+    "name": "Damian Las",
+    "gamesPlayed": 1,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "University of Portland",
+        "city": "Portland",
+        "country": "USA",
+        "lat": 45.5478,
+        "lng": -122.7272,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2022,
+        "toYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "charlie-asensio",
+    "name": "Charlie Asensio",
+    "gamesPlayed": 0,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "UCLA",
+        "city": "Los Angeles",
+        "country": "USA",
+        "lat": 34.0718,
+        "lng": -118.439,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2022,
+        "toYear": 2023
+      }
+    ]
+  },
+  {
+    "id": "brandan-craig",
+    "name": "Brandan Craig",
+    "gamesPlayed": 0,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Georgetown University",
+        "city": "Washington DC",
+        "country": "USA",
+        "lat": 38.9076,
+        "lng": -77.0723,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2023,
+        "toYear": 2023
+      }
+    ]
+  },
+  {
+    "id": "antonio-gomez",
+    "name": "Antonio Gomez",
+    "gamesPlayed": 0,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "NC State University",
+        "city": "Raleigh",
+        "country": "USA",
+        "lat": 35.7872,
+        "lng": -78.6877,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2022,
+        "toYear": 2023
+      }
+    ]
+  },
+  {
+    "id": "adrian-gonzalez",
+    "name": "Adrián González",
+    "gamesPlayed": 0,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "University of Texas",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.2849,
+        "lng": -97.7341,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2022,
+        "toYear": 2023
+      }
+    ]
+  },
+  {
+    "id": "joe-hafferty",
+    "name": "Joe Hafferty",
+    "gamesPlayed": 0,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Syracuse University",
+        "city": "Syracuse",
+        "country": "USA",
+        "lat": 43.0378,
+        "lng": -76.1324,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2021
+      }
+    ]
+  },
+  {
+    "id": "david-rodriguez",
+    "name": "David Rodríguez",
+    "gamesPlayed": 0,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "University of Wisconsin",
+        "city": "Madison",
+        "country": "USA",
+        "lat": 43.0766,
+        "lng": -89.4125,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2022,
+        "toYear": 2022
+      }
+    ]
+  },
+  {
+    "id": "aaron-schoenfeld",
+    "name": "Aaron Schoenfeld",
+    "gamesPlayed": 0,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Miami University",
+        "city": "Oxford",
+        "country": "USA",
+        "lat": 39.5067,
+        "lng": -84.7311,
+        "fromYear": 2015,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2021
+      }
+    ]
+  },
+  {
+    "id": "ulises-segura",
+    "name": "Ulises Segura",
+    "gamesPlayed": 0,
+    "jerseyNumbers": [],
+    "nationality": "Costa Rican",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "LD Alajuelense",
+        "city": "Alajuela",
+        "country": "Costa Rica",
+        "lat": 9.9281,
+        "lng": -84.0907,
+        "fromYear": 2006,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2021
+      }
+    ]
+  },
+  {
+    "id": "riley-thomas",
+    "name": "Riley Thomas",
+    "gamesPlayed": 0,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "University of Tennessee",
+        "city": "Knoxville",
+        "country": "USA",
+        "lat": 35.9544,
+        "lng": -83.9285,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2022,
+        "toYear": 2023
+      }
+    ]
+  },
+  {
+    "id": "nico-van-rijn",
+    "name": "Nico Van Rijn",
+    "gamesPlayed": 0,
+    "jerseyNumbers": [],
+    "nationality": "Dutch",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "AFC Ajax",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "lat": 52.3142,
+        "lng": 4.9411,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2022
+      }
+    ]
+  },
+  {
+    "id": "matt-bersano",
+    "name": "Matt Bersano",
+    "gamesPlayed": 0,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "NC State University",
+        "city": "Raleigh",
+        "country": "USA",
+        "lat": 35.7872,
+        "lng": -78.6877,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2023,
+        "toYear": 2024
+      }
+    ]
+  },
+  {
+    "id": "brady-scott",
+    "name": "Brady Scott",
+    "gamesPlayed": 0,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "University of Tennessee",
+        "city": "Knoxville",
+        "country": "USA",
+        "lat": 35.9544,
+        "lng": -83.9285,
+        "fromYear": 2015,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2021
+      }
+    ]
+  },
+  {
+    "id": "will-pulisic",
+    "name": "Will Pulisic",
+    "gamesPlayed": 0,
+    "jerseyNumbers": [],
+    "nationality": "American",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Indiana University",
+        "city": "Bloomington",
+        "country": "USA",
+        "lat": 39.1653,
+        "lng": -86.5264,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2021
+      }
+    ]
+  }
+]

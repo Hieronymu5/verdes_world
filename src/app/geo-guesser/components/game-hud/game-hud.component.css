@@ -1,0 +1,135 @@
+:host {
+  display: block;
+  flex-shrink: 0;
+}
+
+.hud {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 8px 20px;
+  background: rgba(6, 21, 37, 0.95);
+  border-bottom: 2px solid #00b140;
+  flex-shrink: 0;
+  flex-wrap: wrap;
+  backdrop-filter: blur(4px);
+}
+
+.hud-section {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* ── Lives ────────────────────────────────────────────────────────── */
+.lives-section {
+  gap: 4px;
+}
+
+.life {
+  font-size: 20px;
+  line-height: 1;
+  transition: transform 0.2s;
+}
+
+.life-lost {
+  opacity: 0.4;
+  filter: grayscale(1);
+}
+
+/* ── Score ────────────────────────────────────────────────────────── */
+.score-section {
+  margin-left: auto;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+  background: rgba(0, 177, 64, 0.1);
+  border: 1px solid rgba(0, 177, 64, 0.4);
+  border-radius: 8px;
+  padding: 4px 14px;
+  min-width: 72px;
+  text-align: center;
+}
+
+.score-label {
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  color: #00b140;
+  text-transform: uppercase;
+}
+
+.score-value {
+  font-size: 26px;
+  font-weight: 700;
+  color: #ffffff;
+  line-height: 1;
+}
+
+/* ── Timers ───────────────────────────────────────────────────────── */
+.timer-section {
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 2px;
+}
+
+.game-timer {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 22px;
+  font-weight: 700;
+  color: #ffffff;
+  font-variant-numeric: tabular-nums;
+  transition: color 0.3s;
+}
+
+.game-timer.urgent {
+  color: #f87171;
+  animation: blink 1s step-start infinite;
+}
+
+@keyframes blink {
+  50% { opacity: 0.6; }
+}
+
+.timer-icon {
+  font-size: 16px;
+}
+
+.timer-value {
+  min-width: 46px;
+  text-align: right;
+}
+
+.hint-countdown {
+  font-size: 11px;
+  color: #fbbf24;
+}
+
+.hint-countdown strong {
+  color: #fde68a;
+}
+
+/* ── Difficulty badge ─────────────────────────────────────────────── */
+.difficulty-badge {
+  font-size: 11px;
+  color: #7ab398;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  margin-left: auto;
+  white-space: nowrap;
+}
+
+/* Screen-reader only */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
