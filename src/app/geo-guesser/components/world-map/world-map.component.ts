@@ -6,13 +6,21 @@ import type { GeometryCollection, Topology } from 'topojson-specification';
 import { ClubStop, Player } from '../../geo-guesser.models';
 
 export interface MapPoint {
+  key: string;
   x: number;
   y: number;
   club: ClubStop;
   radius: number;
-  labelDy: number;
   /** Seconds to wait before the dot appears (matches when its incoming line finishes). */
   animDelay: number;
+}
+
+export interface TeamListItem {
+  key: string;
+  index: number;
+  clubName: string;
+  yearRange: string;
+  y: number;
 }
 
 export interface JourneyLine {
@@ -28,6 +36,10 @@ export interface JourneyLine {
 
 const MAP_W = 960;
 const MAP_H = 500;
+const TEAM_LIST_W = 276;
+const TEAM_LIST_ROW_H = 18;
+const TEAM_LIST_START_Y = 40;
+const TEAM_LIST_MAX_H = MAP_H - 90;
 
 /** Pixels per second for the line-drawing animation. */
 const LINE_SPEED = 200;
@@ -50,6 +62,8 @@ export class WorldMapComponent implements OnInit {
 
   readonly mapW = MAP_W;
   readonly mapH = MAP_H;
+  readonly teamListW = TEAM_LIST_W;
+  readonly teamListX = MAP_W - TEAM_LIST_W - 14;
 
   readonly landPath      = signal('');
   readonly bordersPath   = signal('');
@@ -132,22 +146,49 @@ export class WorldMapComponent implements OnInit {
       dotDelays.push(nextDelay); // next dot appears when this line finishes
     }
 
-    const points: MapPoint[] = positions.map((pos, i) => {
-      const radius = this.dotRadius(pos.club);
-      return {
-        x: pos.x, y: pos.y,
-        club: pos.club,
-        radius,
-        labelDy: -(radius + 6),
-        animDelay: dotDelays[i],
-      };
-    });
+    const points: MapPoint[] = positions.map((pos, i) => ({
+      key: `${pos.club.clubName}-${pos.club.fromYear}-${pos.club.toYear}-${i}`,
+      x: pos.x,
+      y: pos.y,
+      club: pos.club,
+      radius: this.dotRadius(pos.club),
+      animDelay: dotDelays[i],
+    }));
 
     return { points, lines };
   });
 
   readonly mapPoints    = computed((): MapPoint[]    => this._schedule()?.points ?? []);
   readonly journeyLines = computed((): JourneyLine[] => this._schedule()?.lines  ?? []);
+
+  private readonly _teamListItems = computed((): TeamListItem[] => {
+    const p = this.player();
+    if (!p) return [];
+
+    return p.clubs.map((club, i) => ({
+      key: `${club.clubName}-${club.fromYear}-${club.toYear}-${i}`,
+      index: i + 1,
+      clubName: this.truncate(club.clubName, 23),
+      yearRange: `${club.fromYear}–${club.toYear}`,
+      y: TEAM_LIST_START_Y + i * TEAM_LIST_ROW_H,
+    }));
+  });
+
+  readonly teamListItems = computed((): TeamListItem[] => {
+    const maxRows = Math.max(1, Math.floor((TEAM_LIST_MAX_H - TEAM_LIST_START_Y) / TEAM_LIST_ROW_H));
+    return this._teamListItems().slice(0, maxRows);
+  });
+
+  readonly hiddenTeamCount = computed(() => this._teamListItems().length - this.teamListItems().length);
+
+  readonly teamListPanelHeight = computed(() => {
+    const itemCount = this.teamListItems().length;
+    const footerH = this.hiddenTeamCount() > 0 ? 18 : 0;
+    return Math.min(
+      TEAM_LIST_MAX_H,
+      TEAM_LIST_START_Y + itemCount * TEAM_LIST_ROW_H + footerH + 10,
+    );
+  });
 
   // ─── Helpers ─────────────────────────────────────────────────────────────
 
@@ -158,5 +199,9 @@ export class WorldMapComponent implements OnInit {
   private dotRadius(club: ClubStop): number {
     const years = Math.max(1, club.toYear - club.fromYear);
     return Math.min(5 + years * 2.5, 20);
+  }
+
+  private truncate(value: string, max: number): string {
+    return value.length <= max ? value : `${value.slice(0, Math.max(1, max - 1))}…`;
   }
 }

@@ -96,25 +96,51 @@
   pointer-events: none;
 }
 
-.club-label {
-  fill: #ffffff;
-  font-size: 9px;
-  font-weight: 700;
-  font-family: system-ui, sans-serif;
-  pointer-events: none;
-  paint-order: stroke fill;
-  stroke: #061525;
-  stroke-width: 3px;
+.team-list-bg {
+  fill: rgba(6, 21, 37, 0.86);
+  stroke: rgba(0, 177, 64, 0.65);
+  stroke-width: 1;
 }
 
-.club-city {
-  fill: #aed4bb;
-  font-size: 7px;
+.team-list-title {
+  fill: #00b140;
+  font-size: 11px;
+  font-weight: 800;
   font-family: system-ui, sans-serif;
-  pointer-events: none;
-  paint-order: stroke fill;
-  stroke: #061525;
-  stroke-width: 2px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.team-list-index,
+.team-list-club,
+.team-list-years,
+.team-list-more {
+  font-family: system-ui, sans-serif;
+  dominant-baseline: middle;
+}
+
+.team-list-index {
+  fill: #7ab398;
+  font-size: 9px;
+  font-weight: 700;
+}
+
+.team-list-club {
+  fill: #ffffff;
+  font-size: 10.5px;
+  font-weight: 650;
+}
+
+.team-list-years {
+  fill: #aed4bb;
+  font-size: 9.5px;
+  font-weight: 600;
+}
+
+.team-list-more {
+  fill: #7ab398;
+  font-size: 9px;
+  font-weight: 600;
 }
 
 .player-reveal-name {

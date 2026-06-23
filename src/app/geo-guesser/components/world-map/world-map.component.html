@@ -77,7 +77,7 @@
       }
 
       <!-- Club dots -->
-      @for (pt of mapPoints(); track pt.club.clubName; let i = $index) {
+      @for (pt of mapPoints(); track pt.key) {
         <g [attr.transform]="'translate(' + pt.x + ',' + pt.y + ')'">
           @if (isAustin(pt.club)) {
             <circle class="austin-pulse" r="0"
@@ -99,12 +99,30 @@
             </text>
           }
 
-          @if (showTeamNames() || showPlayerName()) {
-            <text class="club-label" text-anchor="middle" [attr.dy]="pt.labelDy">
-              {{ pt.club.clubName }}
-            </text>
-            <text class="club-city"  text-anchor="middle" [attr.dy]="pt.labelDy - 10">
-              {{ pt.club.city }}, {{ pt.club.country }}
+          
+        </g>
+      }
+
+      @if (showTeamNames() || showPlayerName()) {
+        <g class="team-list-panel" [attr.transform]="'translate(' + teamListX + ',10)'">
+          <rect
+            class="team-list-bg"
+            [attr.width]="teamListW"
+            [attr.height]="teamListPanelHeight()"
+            rx="8"
+          />
+
+          <text x="12" y="22" class="team-list-title">Career path</text>
+
+          @for (item of teamListItems(); track item.key) {
+            <text x="12" [attr.y]="item.y" class="team-list-index">{{ item.index }}.</text>
+            <text x="30" [attr.y]="item.y" class="team-list-club">{{ item.clubName }}</text>
+            <text x="262" [attr.y]="item.y" text-anchor="end" class="team-list-years">{{ item.yearRange }}</text>
+          }
+
+          @if (hiddenTeamCount() > 0) {
+            <text x="12" [attr.y]="teamListPanelHeight() - 8" class="team-list-more">
+              +{{ hiddenTeamCount() }} more club{{ hiddenTeamCount() === 1 ? '' : 's' }}
             </text>
           }
         </g>
