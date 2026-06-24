@@ -22,15 +22,6 @@
     }
   </div>
 
-  @if (state().lastGuessResult === 'wrong') {
-    <div class="feedback-slot">
-      <div class="feedback wrong" role="alert" aria-live="assertive">
-        <span class="feedback-icon" aria-hidden="true">✗</span>
-        <span>Wrong guess <strong>–1 life</strong></span>
-      </div>
-    </div>
-  }
-
   <div class="guess-content-container">
     @if (state().showPlayerName) {
       <div class="hint-slot">
@@ -40,11 +31,11 @@
           </p>
         } @else if (state().lastGuessResult === 'wrong') {
           <p class="hint-strip reveal" role="alert">
-            ✗ The answer was <strong>{{ state().currentPlayer?.name }}</strong> — moving on…
+            ✗ <strong>{{ state().currentPlayer?.name }}</strong>
           </p>
         } @else {
           <p class="hint-strip reveal" role="alert">
-            ⏱ Time's up — the answer was <strong>{{ state().currentPlayer?.name }}</strong>
+            ⏱ <strong>{{ state().currentPlayer?.name }}</strong>
           </p>
         }
       </div>
