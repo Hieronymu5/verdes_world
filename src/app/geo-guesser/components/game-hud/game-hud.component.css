@@ -102,15 +102,6 @@
   text-align: right;
 }
 
-.hint-countdown {
-  font-size: 11px;
-  color: #fbbf24;
-}
-
-.hint-countdown strong {
-  color: #fde68a;
-}
-
 /* ── Difficulty badge ─────────────────────────────────────────────── */
 .difficulty-badge {
   font-size: 11px;

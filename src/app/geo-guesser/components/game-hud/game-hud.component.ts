@@ -28,19 +28,4 @@ export class GameHudComponent {
   });
 
   readonly isUrgent = computed(() => this.state().gameTimeRemaining <= 30);
-
-  readonly playerTimerDisplay = computed(() => {
-    const s = this.state();
-    const limit = s.selectedDifficulty?.revealPlayerAfterSeconds ?? 30;
-    const remaining = Math.max(0, limit - s.playerTimeElapsed);
-    return remaining;
-  });
-
-  readonly hintCountdown = computed(() => {
-    const s = this.state();
-    const hint = s.selectedDifficulty?.showTeamNamesAfterSeconds ?? 5;
-    if (s.showTeamNames) return null;
-    const remaining = Math.max(0, hint - s.playerTimeElapsed);
-    return remaining > 0 ? remaining : null;
-  });
 }

@@ -52,7 +52,7 @@
         "lat": 39.9609,
         "lng": -82.9985,
         "fromYear": 2013,
-        "toYear": 2017
+        "toYear": 2013
       },
       {
         "clubName": "Real Salt Lake",
@@ -62,6 +62,15 @@
         "lng": -111.8931,
         "fromYear": 2013,
         "toYear": 2013
+      },
+      {
+        "clubName": "Columbus Crew",
+        "city": "Columbus",
+        "country": "USA",
+        "lat": 39.9609,
+        "lng": -82.9985,
+        "fromYear": 2014,
+        "toYear": 2014
       },
       {
         "clubName": "Dayton Dutch Lions",
@@ -80,6 +89,15 @@
         "lng": -77.9447,
         "fromYear": 2014,
         "toYear": 2014
+      },
+      {
+        "clubName": "Columbus Crew",
+        "city": "Columbus",
+        "country": "USA",
+        "lat": 39.9609,
+        "lng": -82.9985,
+        "fromYear": 2015,
+        "toYear": 2017
       },
       {
         "clubName": "NYCFC",
@@ -652,7 +670,7 @@
         "lat": 3.4516,
         "lng": -76.532,
         "fromYear": 2015,
-        "toYear": 2021
+        "toYear": 2016
       },
       {
         "clubName": "Cúcuta Deportivo",
@@ -671,6 +689,15 @@
         "lng": -74.199,
         "fromYear": 2018,
         "toYear": 2019
+      },
+      {
+        "clubName": "Deportivo Cali",
+        "city": "Cali",
+        "country": "Colombia",
+        "lat": 3.4516,
+        "lng": -76.532,
+        "fromYear": 2020,
+        "toYear": 2021
       },
       {
         "clubName": "Austin FC",
@@ -1035,7 +1062,7 @@
         "lat": 59.9726,
         "lng": 30.2197,
         "fromYear": 2017,
-        "toYear": 2021
+        "toYear": 2017
       },
       {
         "clubName": "Atalanta",
@@ -1047,6 +1074,15 @@
         "toYear": 2018
       },
       {
+        "clubName": "Zenit St. Petersburg",
+        "city": "Saint Petersburg",
+        "country": "Russia",
+        "lat": 59.9726,
+        "lng": 30.2197,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
         "clubName": "Sampdoria",
         "city": "Genoa",
         "country": "Italy",
@@ -1054,6 +1090,15 @@
         "lng": 8.9463,
         "fromYear": 2019,
         "toYear": 2020
+      },
+      {
+        "clubName": "Zenit St. Petersburg",
+        "city": "Saint Petersburg",
+        "country": "Russia",
+        "lat": 59.9726,
+        "lng": 30.2197,
+        "fromYear": 2021,
+        "toYear": 2021
       },
       {
         "clubName": "Elche",
@@ -1164,7 +1209,7 @@
         "country": "USA",
         "lat": 30.3848,
         "lng": -97.7183,
-        "fromYear": 2020,
+        "fromYear": 2021,
         "toYear": 2023
       },
       {
@@ -1211,7 +1256,7 @@
         "lat": 48.4647,
         "lng": 35.0462,
         "fromYear": 2011,
-        "toYear": 2017
+        "toYear": 2013
       },
       {
         "clubName": "Volyn Lutsk",
@@ -1221,6 +1266,15 @@
         "lng": 25.3254,
         "fromYear": 2014,
         "toYear": 2014
+      },
+      {
+        "clubName": "Dnipro Dnipropetrovsk",
+        "city": "Dnipro",
+        "country": "Ukraine",
+        "lat": 48.4647,
+        "lng": 35.0462,
+        "fromYear": 2015,
+        "toYear": 2017
       },
       {
         "clubName": "Zorya Luhansk",
@@ -1339,7 +1393,7 @@
         "lat": 59.3346,
         "lng": 18.0632,
         "fromYear": 2016,
-        "toYear": 2019
+        "toYear": 2016
       },
       {
         "clubName": "Brommapojkarna",
@@ -1349,6 +1403,15 @@
         "lng": 17.9,
         "fromYear": 2017,
         "toYear": 2017
+      },
+      {
+        "clubName": "Djurgårdens IF",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "lat": 59.3346,
+        "lng": 18.0632,
+        "fromYear": 2018,
+        "toYear": 2019
       },
       {
         "clubName": "Dalkurd",
@@ -1651,7 +1714,7 @@
         "lat": 30.3848,
         "lng": -97.7183,
         "fromYear": 2020,
-        "toYear": 2022
+        "toYear": 2020
       },
       {
         "clubName": "Guaraní",
@@ -1661,6 +1724,15 @@
         "lng": -57.6116,
         "fromYear": 2020,
         "toYear": 2020
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2021,
+        "toYear": 2022
       },
       {
         "clubName": "Santos Laguna",
@@ -1959,7 +2031,7 @@
         "lat": 30.3848,
         "lng": -97.7183,
         "fromYear": 2021,
-        "toYear": 2024
+        "toYear": 2022
       },
       {
         "clubName": "Ajaccio",
@@ -1969,6 +2041,15 @@
         "lng": 8.7386,
         "fromYear": 2023,
         "toYear": 2023
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2024,
+        "toYear": 2024
       },
       {
         "clubName": "Bandırmaspor",
@@ -2019,31 +2100,76 @@
     "position": "MF",
     "clubs": [
       {
-        "clubName": "Flamengo",
-        "city": "Rio de Janeiro",
-        "country": "Brazil",
-        "lat": -22.9116,
-        "lng": -43.23,
+        "clubName": "Padova",
+        "city": "Padua",
+        "country": "Italy",
+        "lat": 45.4064,
+        "lng": 11.8768,
         "fromYear": 2008,
+        "toYear": 2008
+      },
+      {
+        "clubName": "Winterthur",
+        "city": "Winterthur",
+        "country": "Switzerland",
+        "lat": 47.4988,
+        "lng": 8.7237,
+        "fromYear": 2009,
+        "toYear": 2009
+      },
+      {
+        "clubName": "Lugano",
+        "city": "Lugano",
+        "country": "Switzerland",
+        "lat": 46.0037,
+        "lng": 8.9511,
+        "fromYear": 2009,
         "toYear": 2011
       },
       {
-        "clubName": "AS Monaco",
-        "city": "Monaco",
-        "country": "Monaco",
-        "lat": 43.7273,
-        "lng": 7.415,
+        "clubName": "Wohlen",
+        "city": "Wohlen",
+        "country": "Switzerland",
+        "lat": 47.3492,
+        "lng": 8.2746,
         "fromYear": 2011,
+        "toYear": 2011
+      },
+      {
+        "clubName": "CF Montréal",
+        "city": "Montreal",
+        "country": "Canada",
+        "lat": 45.4628,
+        "lng": -73.7489,
+        "fromYear": 2012,
         "toYear": 2014
       },
       {
-        "clubName": "Houston Dynamo",
-        "city": "Houston",
+        "clubName": "NY Red Bulls",
+        "city": "Harrison",
         "country": "USA",
-        "lat": 29.7519,
-        "lng": -95.3561,
-        "fromYear": 2014,
-        "toYear": 2017
+        "lat": 40.7369,
+        "lng": -74.1498,
+        "fromYear": 2015,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Vancouver Whitecaps",
+        "city": "Vancouver",
+        "country": "Canada",
+        "lat": 49.2768,
+        "lng": -123.1115,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "D.C. United",
+        "city": "Washington, DC",
+        "country": "USA",
+        "lat": 38.8682,
+        "lng": -77.0129,
+        "fromYear": 2019,
+        "toYear": 2021
       },
       {
         "clubName": "Austin FC",
@@ -2051,8 +2177,44 @@
         "country": "USA",
         "lat": 30.3848,
         "lng": -97.7183,
-        "fromYear": 2021,
+        "fromYear": 2022,
         "toYear": 2022
+      },
+      {
+        "clubName": "Orlando City",
+        "city": "Orlando",
+        "country": "USA",
+        "lat": 28.5411,
+        "lng": -81.3886,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Orlando City B",
+        "city": "Orlando",
+        "country": "USA",
+        "lat": 28.5411,
+        "lng": -81.3886,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Orlando City",
+        "city": "Orlando",
+        "country": "USA",
+        "lat": 28.5411,
+        "lng": -81.3886,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Cascavel",
+        "city": "Cascavel",
+        "country": "Brazil",
+        "lat": -24.9578,
+        "lng": -53.459,
+        "fromYear": 2025,
+        "toYear": 2025
       }
     ]
   },
@@ -2073,7 +2235,7 @@
         "lat": -34.6356,
         "lng": -58.3647,
         "fromYear": 2015,
-        "toYear": 2019
+        "toYear": 2015
       },
       {
         "clubName": "Defensa y Justicia",
@@ -2083,6 +2245,15 @@
         "lng": -58.2762,
         "fromYear": 2016,
         "toYear": 2018
+      },
+      {
+        "clubName": "Boca Juniors",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6356,
+        "lng": -58.3647,
+        "fromYear": 2019,
+        "toYear": 2019
       },
       {
         "clubName": "Talleres",
@@ -2164,7 +2335,7 @@
         "lat": 29.7519,
         "lng": -95.3561,
         "fromYear": 2018,
-        "toYear": 2022
+        "toYear": 2018
       },
       {
         "clubName": "Rio Grande Valley FC",
@@ -2174,6 +2345,15 @@
         "lng": -98.1633,
         "fromYear": 2018,
         "toYear": 2018
+      },
+      {
+        "clubName": "Houston Dynamo",
+        "city": "Houston",
+        "country": "USA",
+        "lat": 29.7519,
+        "lng": -95.3561,
+        "fromYear": 2019,
+        "toYear": 2022
       },
       {
         "clubName": "Austin FC",
@@ -2393,7 +2573,7 @@
         "lat": 47.5951,
         "lng": -122.3316,
         "fromYear": 2017,
-        "toYear": 2022
+        "toYear": 2018
       },
       {
         "clubName": "Tacoma Defiance",
@@ -2403,6 +2583,15 @@
         "lng": -122.4443,
         "fromYear": 2019,
         "toYear": 2019
+      },
+      {
+        "clubName": "Seattle Sounders",
+        "city": "Seattle",
+        "country": "USA",
+        "lat": 47.5951,
+        "lng": -122.3316,
+        "fromYear": 2020,
+        "toYear": 2022
       },
       {
         "clubName": "Austin FC",
@@ -2424,22 +2613,103 @@
     "position": "MF",
     "clubs": [
       {
-        "clubName": "IFK Norrköping",
-        "city": "Norrköping",
-        "country": "Sweden",
-        "lat": 58.5877,
-        "lng": 16.1895,
-        "fromYear": 2017,
-        "toYear": 2020
+        "clubName": "JJK Jyväskylä",
+        "city": "Jyväskylä",
+        "country": "Finland",
+        "lat": 62.2426,
+        "lng": 25.7473,
+        "fromYear": 2011,
+        "toYear": 2011
       },
       {
-        "clubName": "Hammarby IF",
-        "city": "Stockholm",
+        "clubName": "Äänekosken Huima",
+        "city": "Äänekoski",
+        "country": "Finland",
+        "lat": 62.6008,
+        "lng": 25.7263,
+        "fromYear": 2011,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Lincoln City",
+        "city": "Lincoln",
+        "country": "England",
+        "lat": 53.2307,
+        "lng": -0.5406,
+        "fromYear": 2011,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Boston Town",
+        "city": "Boston",
+        "country": "England",
+        "lat": 52.9789,
+        "lng": -0.0266,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Barnet",
+        "city": "Barnet",
+        "country": "England",
+        "lat": 51.6556,
+        "lng": -0.2006,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "JJK Jyväskylä",
+        "city": "Jyväskylä",
+        "country": "Finland",
+        "lat": 62.2426,
+        "lng": 25.7473,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "RoPS",
+        "city": "Rovaniemi",
+        "country": "Finland",
+        "lat": 66.5039,
+        "lng": 25.7294,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "AIK",
+        "city": "Solna",
         "country": "Sweden",
-        "lat": 59.2954,
-        "lng": 18.0829,
+        "lat": 59.3726,
+        "lng": 18.0007,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Tromsø",
+        "city": "Tromsø",
+        "country": "Norway",
+        "lat": 69.6492,
+        "lng": 18.9553,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Brann",
+        "city": "Bergen",
+        "country": "Norway",
+        "lat": 60.3913,
+        "lng": 5.3221,
         "fromYear": 2020,
-        "toYear": 2022
+        "toYear": 2021
+      },
+      {
+        "clubName": "Inter Miami",
+        "city": "Fort Lauderdale",
+        "country": "USA",
+        "lat": 26.1224,
+        "lng": -80.1373,
+        "fromYear": 2022,
+        "toYear": 2025
       },
       {
         "clubName": "Austin FC",
@@ -2447,8 +2717,8 @@
         "country": "USA",
         "lat": 30.3848,
         "lng": -97.7183,
-        "fromYear": 2023,
-        "toYear": 2023
+        "fromYear": 2025,
+        "toYear": 2026
       }
     ]
   },
@@ -2478,7 +2748,7 @@
         "lat": 51.4749,
         "lng": -0.2216,
         "fromYear": 2009,
-        "toYear": 2012
+        "toYear": 2009
       },
       {
         "clubName": "HJK Helsinki",
@@ -2488,6 +2758,15 @@
         "lng": 25.0021,
         "fromYear": 2010,
         "toYear": 2010
+      },
+      {
+        "clubName": "Fulham",
+        "city": "London",
+        "country": "England",
+        "lat": 51.4749,
+        "lng": -0.2216,
+        "fromYear": 2011,
+        "toYear": 2012
       },
       {
         "clubName": "Fortuna Sittard",
@@ -3303,7 +3582,7 @@
         "lat": 50.8298,
         "lng": 3.2679,
         "fromYear": 2021,
-        "toYear": 2024
+        "toYear": 2022
       },
       {
         "clubName": "Austin FC",
@@ -3313,6 +3592,15 @@
         "lng": -97.7183,
         "fromYear": 2023,
         "toYear": 2023
+      },
+      {
+        "clubName": "KV Kortrijk",
+        "city": "Kortrijk",
+        "country": "Belgium",
+        "lat": 50.8298,
+        "lng": 3.2679,
+        "fromYear": 2024,
+        "toYear": 2024
       },
       {
         "clubName": "Almería",
@@ -3376,7 +3664,7 @@
         "lat": 29.7519,
         "lng": -95.3561,
         "fromYear": 2017,
-        "toYear": 2022
+        "toYear": 2017
       },
       {
         "clubName": "Rio Grande Valley FC",
@@ -3386,6 +3674,15 @@
         "lng": -98.1633,
         "fromYear": 2017,
         "toYear": 2019
+      },
+      {
+        "clubName": "Houston Dynamo",
+        "city": "Houston",
+        "country": "USA",
+        "lat": 29.7519,
+        "lng": -95.3561,
+        "fromYear": 2020,
+        "toYear": 2022
       },
       {
         "clubName": "LA Galaxy",
@@ -3550,7 +3847,7 @@
         "lat": 37.4188,
         "lng": -121.9178,
         "fromYear": 2016,
-        "toYear": 2020
+        "toYear": 2016
       },
       {
         "clubName": "Reno 1868",
@@ -3560,6 +3857,15 @@
         "lng": -119.8138,
         "fromYear": 2017,
         "toYear": 2017
+      },
+      {
+        "clubName": "San Jose Earthquakes",
+        "city": "San Jose",
+        "country": "USA",
+        "lat": 37.4188,
+        "lng": -121.9178,
+        "fromYear": 2018,
+        "toYear": 2020
       },
       {
         "clubName": "Columbus Crew",
@@ -3642,7 +3948,7 @@
         "lat": -12.0464,
         "lng": -77.0428,
         "fromYear": 2020,
-        "toYear": 2023
+        "toYear": 2020
       },
       {
         "clubName": "UNAM",
@@ -3652,6 +3958,15 @@
         "lng": -99.1332,
         "fromYear": 2021,
         "toYear": 2022
+      },
+      {
+        "clubName": "Sporting Cristal",
+        "city": "Lima",
+        "country": "Peru",
+        "lat": -12.0464,
+        "lng": -77.0428,
+        "fromYear": 2023,
+        "toYear": 2023
       },
       {
         "clubName": "Austin FC",
@@ -3938,7 +4253,7 @@
         "lat": 41.8623,
         "lng": -87.6159,
         "fromYear": 2017,
-        "toYear": 2019
+        "toYear": 2017
       },
       {
         "clubName": "Tulsa Roughnecks",
@@ -3948,6 +4263,15 @@
         "lng": -95.9928,
         "fromYear": 2017,
         "toYear": 2018
+      },
+      {
+        "clubName": "Chicago Fire",
+        "city": "Chicago",
+        "country": "USA",
+        "lat": 41.8623,
+        "lng": -87.6159,
+        "fromYear": 2019,
+        "toYear": 2019
       },
       {
         "clubName": "Lansing Ignite",
@@ -4203,7 +4527,7 @@
         "lat": 51.4749,
         "lng": -0.2216,
         "fromYear": 2021,
-        "toYear": 2022
+        "toYear": 2021
       },
       {
         "clubName": "North Carolina FC",
@@ -4224,13 +4548,22 @@
         "toYear": 2021
       },
       {
+        "clubName": "Fulham",
+        "city": "London",
+        "country": "England",
+        "lat": 51.4749,
+        "lng": -0.2216,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
         "clubName": "Austin FC",
         "city": "Austin",
         "country": "USA",
         "lat": 30.3848,
         "lng": -97.7183,
         "fromYear": 2022,
-        "toYear": 2026
+        "toYear": 2023
       },
       {
         "clubName": "Louisville City",
@@ -4240,6 +4573,15 @@
         "lng": -85.7585,
         "fromYear": 2024,
         "toYear": 2025
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2026,
+        "toYear": 2026
       }
     ]
   },
@@ -4258,7 +4600,7 @@
         "lat": 30.3848,
         "lng": -97.7183,
         "fromYear": 2022,
-        "toYear": 2023
+        "toYear": 2022
       },
       {
         "clubName": "Charleston Battery",
@@ -4268,6 +4610,15 @@
         "lng": -79.9311,
         "fromYear": 2022,
         "toYear": 2022
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2023,
+        "toYear": 2023
       },
       {
         "clubName": "Orange County SC",
@@ -4295,7 +4646,7 @@
         "lat": 39.8324,
         "lng": -75.378,
         "fromYear": 2021,
-        "toYear": 2024
+        "toYear": 2022
       },
       {
         "clubName": "Austin FC",
@@ -4305,6 +4656,15 @@
         "lng": -97.7183,
         "fromYear": 2023,
         "toYear": 2023
+      },
+      {
+        "clubName": "Philadelphia Union",
+        "city": "Chester",
+        "country": "USA",
+        "lat": 39.8324,
+        "lng": -75.378,
+        "fromYear": 2024,
+        "toYear": 2024
       },
       {
         "clubName": "El Paso Locomotive",
@@ -4480,7 +4840,7 @@
         "lat": 39.9609,
         "lng": -82.9985,
         "fromYear": 2012,
-        "toYear": 2015
+        "toYear": 2013
       },
       {
         "clubName": "Dayton Dutch Lions",
@@ -4490,6 +4850,15 @@
         "lng": -84.1916,
         "fromYear": 2014,
         "toYear": 2014
+      },
+      {
+        "clubName": "Columbus Crew",
+        "city": "Columbus",
+        "country": "USA",
+        "lat": 39.9609,
+        "lng": -82.9985,
+        "fromYear": 2015,
+        "toYear": 2015
       },
       {
         "clubName": "Maccabi Netanya",
@@ -4553,7 +4922,7 @@
         "lat": 9.9347,
         "lng": -84.0778,
         "fromYear": 2014,
-        "toYear": 2017
+        "toYear": 2014
       },
       {
         "clubName": "Uruguay de Coronado",
@@ -4563,6 +4932,15 @@
         "lng": -84.0089,
         "fromYear": 2014,
         "toYear": 2015
+      },
+      {
+        "clubName": "Saprissa",
+        "city": "San José",
+        "country": "Costa Rica",
+        "lat": 9.9347,
+        "lng": -84.0778,
+        "fromYear": 2016,
+        "toYear": 2017
       },
       {
         "clubName": "D.C. United",
@@ -4718,7 +5096,7 @@
         "lat": 37.4188,
         "lng": -121.9178,
         "fromYear": 2017,
-        "toYear": 2022
+        "toYear": 2017
       },
       {
         "clubName": "Reno 1868",
@@ -4728,6 +5106,15 @@
         "lng": -119.8138,
         "fromYear": 2017,
         "toYear": 2019
+      },
+      {
+        "clubName": "San Jose Earthquakes",
+        "city": "San Jose",
+        "country": "USA",
+        "lat": 37.4188,
+        "lng": -121.9178,
+        "fromYear": 2020,
+        "toYear": 2022
       },
       {
         "clubName": "Austin FC",

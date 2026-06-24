@@ -111,6 +111,14 @@
   text-transform: uppercase;
 }
 
+.team-list-row {
+  opacity: 0;
+  animation-name: reveal-team-row;
+  animation-duration: 0.22s;
+  animation-timing-function: ease-out;
+  animation-fill-mode: forwards;
+}
+
 .team-list-index,
 .team-list-club,
 .team-list-years,

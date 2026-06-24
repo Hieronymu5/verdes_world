@@ -21,6 +21,7 @@ export interface TeamListItem {
   clubName: string;
   yearRange: string;
   y: number;
+  revealDelay: number;
 }
 
 export interface JourneyLine {
@@ -56,7 +57,6 @@ const INITIAL_PAUSE = 0.1;
 })
 export class WorldMapComponent implements OnInit {
   readonly player = input<Player | null>(null);
-  readonly showTeamNames = input(false);
   readonly showPlayerName = input(false);
   readonly lastGuessResult = input<'correct' | 'wrong' | null>(null);
 
@@ -163,7 +163,8 @@ export class WorldMapComponent implements OnInit {
 
   private readonly _teamListItems = computed((): TeamListItem[] => {
     const p = this.player();
-    if (!p) return [];
+    const points = this.mapPoints();
+    if (!p || points.length === 0) return [];
 
     return p.clubs.map((club, i) => ({
       key: `${club.clubName}-${club.fromYear}-${club.toYear}-${i}`,
@@ -171,9 +172,9 @@ export class WorldMapComponent implements OnInit {
       clubName: this.truncate(club.clubName, 23),
       yearRange: `${club.fromYear}–${club.toYear}`,
       y: TEAM_LIST_START_Y + i * TEAM_LIST_ROW_H,
+      revealDelay: points[i]?.animDelay ?? 0,
     }));
   });
-
   readonly teamListItems = computed((): TeamListItem[] => {
     const maxRows = Math.max(1, Math.floor((TEAM_LIST_MAX_H - TEAM_LIST_START_Y) / TEAM_LIST_ROW_H));
     return this._teamListItems().slice(0, maxRows);

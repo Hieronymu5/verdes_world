@@ -155,8 +155,6 @@ export class GeoGuesserStateService {
           return { ...state, status: 'game-over', gameTimeRemaining: 0 };
         }
 
-        const showTeamNames = newPlayerTime >= diff.showTeamNamesAfterSeconds || state.showTeamNames;
-
         // Time expired for this player — reveal name and deduct a life
         if (!state.showPlayerName && newPlayerTime >= diff.revealPlayerAfterSeconds) {
           const newLives = state.lives - 1;
@@ -193,7 +191,6 @@ export class GeoGuesserStateService {
           ...state,
           gameTimeRemaining: newGameTime,
           playerTimeElapsed: newPlayerTime,
-          showTeamNames,
         };
       });
     }, 1000);

@@ -39,6 +39,10 @@
           0%,100% { opacity: 0.7; transform: scale(1); }
           50%      { opacity: 0;   transform: scale(2.8); }
         }
+        @keyframes reveal-team-row {
+          from { opacity: 0; }
+          to   { opacity: 1; }
+        }
       </style>
     </defs>
 
@@ -103,7 +107,7 @@
         </g>
       }
 
-      @if (showTeamNames() || showPlayerName()) {
+      @if (teamListItems().length > 0) {
         <g class="team-list-panel" [attr.transform]="'translate(' + teamListX + ',10)'">
           <rect
             class="team-list-bg"
@@ -115,9 +119,11 @@
           <text x="12" y="22" class="team-list-title">Career path</text>
 
           @for (item of teamListItems(); track item.key) {
-            <text x="12" [attr.y]="item.y" class="team-list-index">{{ item.index }}.</text>
-            <text x="30" [attr.y]="item.y" class="team-list-club">{{ item.clubName }}</text>
-            <text x="262" [attr.y]="item.y" text-anchor="end" class="team-list-years">{{ item.yearRange }}</text>
+            <g class="team-list-row" [style.animation-delay]="item.revealDelay + 's'">
+              <text x="12" [attr.y]="item.y" class="team-list-index">{{ item.index }}.</text>
+              <text x="30" [attr.y]="item.y" class="team-list-club">{{ item.clubName }}</text>
+              <text x="262" [attr.y]="item.y" text-anchor="end" class="team-list-years">{{ item.yearRange }}</text>
+            </g>
           }
 
           @if (hiddenTeamCount() > 0) {

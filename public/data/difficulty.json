@@ -2,7 +2,7 @@
   {
     "id": "easy",
     "name": "Verde! Listos! (Easy)",
-    "description": "5 minutes · 5 lives · Top 50% of players · Team hints after 5 s",
+    "description": "5 minutes · 5 lives · Top 50% of players",
     "gameDurationSeconds": 300,
     "lives": 5,
     "showTeamNamesAfterSeconds": 5,
@@ -12,8 +12,8 @@
   {
     "id": "medium",
     "name": "Dale ATX (Medium)",
-    "description": "2 minutes · 3 lives · Top 60% of players · Team hints after 10 s",
-    "gameDurationSeconds": 120,
+    "description": "5 minutes · 3 lives · Top 60% of players",
+    "gameDurationSeconds": 300,
     "lives": 3,
     "showTeamNamesAfterSeconds": 10,
     "revealPlayerAfterSeconds": 30,
@@ -22,8 +22,8 @@
   {
     "id": "hard",
     "name": "Carnaval (Hard)",
-    "description": "90 seconds · 2 lives · Top 80% of players · Team hints after 10 s",
-    "gameDurationSeconds": 90,
+    "description": "5 minutes · 2 lives · Top 80% of players",
+    "gameDurationSeconds": 300,
     "lives": 2,
     "showTeamNamesAfterSeconds": 10,
     "revealPlayerAfterSeconds": 25,
@@ -32,8 +32,8 @@
   {
     "id": "expert",
     "name": "True Love Will Find You in the End (Expert)",
-    "description": "60 seconds · 1 life · All players · Team hints after 15 s",
-    "gameDurationSeconds": 60,
+    "description": "5 minutes · 1 life · All players",
+    "gameDurationSeconds": 300,
     "lives": 1,
     "showTeamNamesAfterSeconds": 15,
     "revealPlayerAfterSeconds": 20,
