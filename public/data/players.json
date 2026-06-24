@@ -169,15 +169,6 @@
     "position": "MF",
     "clubs": [
       {
-        "clubName": "Indiana University",
-        "city": "Bloomington",
-        "country": "USA",
-        "lat": 39.1653,
-        "lng": -86.5264,
-        "fromYear": 2017,
-        "toYear": 2021
-      },
-      {
         "clubName": "Austin FC",
         "city": "Austin",
         "country": "USA",
