@@ -694,7 +694,9 @@
     "id": "jhojan-valencia",
     "name": "Jhojan Valencia",
     "gamesPlayed": 76,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      5
+    ],
     "nationality": "Colombian",
     "position": "MF",
     "clubs": [
@@ -893,7 +895,10 @@
     "id": "diego-rubio",
     "name": "Diego Rubio",
     "gamesPlayed": 66,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      14,
+      21
+    ],
     "nationality": "Chilean",
     "position": "FW",
     "clubs": [
@@ -1043,7 +1048,9 @@
     "id": "hector-jimenez",
     "name": "Hector Jiménez",
     "gamesPlayed": 60,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      16
+    ],
     "nationality": "American",
     "position": "DF",
     "clubs": [
@@ -1202,7 +1209,9 @@
     "id": "cj-fodrey",
     "name": "CJ Fodrey",
     "gamesPlayed": 57,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      19
+    ],
     "nationality": "American",
     "position": "MF",
     "clubs": [
@@ -1289,7 +1298,10 @@
     "id": "oleksandr-svatok",
     "name": "Oleksandr Svatok",
     "gamesPlayed": 54,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      21,
+      5
+    ],
     "nationality": "Ukrainian",
     "position": "DF",
     "clubs": [
@@ -1363,7 +1375,10 @@
     "id": "osman-bukari",
     "name": "Osman Bukari",
     "gamesPlayed": 49,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      7,
+      11
+    ],
     "nationality": "Ghanaian",
     "position": "MF",
     "clubs": [
@@ -1428,7 +1443,9 @@
     "id": "besard-sabovic",
     "name": "Besard Šabović",
     "gamesPlayed": 49,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      14
+    ],
     "nationality": "Swedish",
     "position": "MF",
     "clubs": [
@@ -1520,7 +1537,9 @@
     "id": "myrto-uzuni",
     "name": "Myrto Uzuni",
     "gamesPlayed": 48,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      10
+    ],
     "nationality": "Albanian",
     "position": "MF",
     "clubs": [
@@ -1594,7 +1613,9 @@
     "id": "mikkel-desler",
     "name": "Mikkel Desler",
     "gamesPlayed": 45,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      3
+    ],
     "nationality": "Danish",
     "position": "DF",
     "clubs": [
@@ -1641,7 +1662,9 @@
     "id": "ilie-sanchez",
     "name": "Ilie Sánchez",
     "gamesPlayed": 44,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      6
+    ],
     "nationality": "Spanish",
     "position": "MF",
     "clubs": [
@@ -1809,7 +1832,9 @@
     "id": "leo-vaisanen",
     "name": "Leo Väisänen",
     "gamesPlayed": 38,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      15
+    ],
     "nationality": "Finnish",
     "position": "DF",
     "clubs": [
@@ -1892,7 +1917,9 @@
     "id": "nicolas-dubersarsky",
     "name": "Nicolás Dubersarsky",
     "gamesPlayed": 37,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      20
+    ],
     "nationality": "Argentine",
     "position": "MF",
     "clubs": [
@@ -2364,7 +2391,9 @@
     "id": "adam-lundqvist",
     "name": "Adam Lundqvist",
     "gamesPlayed": 28,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      21
+    ],
     "nationality": "Swedish",
     "position": "DF",
     "clubs": [
@@ -2438,7 +2467,9 @@
     "id": "jared-stroud",
     "name": "Jared Stroud",
     "gamesPlayed": 27,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      20
+    ],
     "nationality": "American",
     "position": "MF",
     "clubs": [
@@ -2485,7 +2516,9 @@
     "id": "brandon-vazquez",
     "name": "Brandon Vázquez",
     "gamesPlayed": 26,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      9
+    ],
     "nationality": "American",
     "position": "FW",
     "clubs": [
@@ -2541,7 +2574,9 @@
     "id": "matt-hedges",
     "name": "Matt Hedges",
     "gamesPlayed": 25,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      2
+    ],
     "nationality": "American",
     "position": "DF",
     "clubs": [
@@ -2615,7 +2650,9 @@
     "id": "will-bruin",
     "name": "Will Bruin",
     "gamesPlayed": 23,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      29
+    ],
     "nationality": "American",
     "position": "FW",
     "clubs": [
@@ -2671,7 +2708,9 @@
     "id": "robert-taylor",
     "name": "Robert Taylor",
     "gamesPlayed": 23,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      16
+    ],
     "nationality": "Finnish",
     "position": "MF",
     "clubs": [
@@ -2933,7 +2972,9 @@
     "id": "sebastian-berhalter",
     "name": "Sebastian Berhalter",
     "gamesPlayed": 18,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      6
+    ],
     "nationality": "American",
     "position": "MF",
     "clubs": [
@@ -2971,7 +3012,10 @@
     "id": "kipp-keller",
     "name": "Kipp Keller",
     "gamesPlayed": 17,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      15,
+      4
+    ],
     "nationality": "American",
     "position": "DF",
     "clubs": [
@@ -3036,7 +3080,9 @@
     "id": "kekuta-manneh",
     "name": "Kekuta Manneh",
     "gamesPlayed": 16,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      23
+    ],
     "nationality": "Gambian",
     "position": "FW",
     "clubs": [
@@ -3146,7 +3192,9 @@
     "id": "joseph-rosales",
     "name": "Joseph Rosales",
     "gamesPlayed": 16,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      30
+    ],
     "nationality": "Honduran",
     "position": "DF",
     "clubs": [
@@ -3202,7 +3250,9 @@
     "id": "facundo-torres",
     "name": "Facundo Torres",
     "gamesPlayed": 16,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      11
+    ],
     "nationality": "Uruguayan",
     "position": "MF",
     "clubs": [
@@ -3249,7 +3299,9 @@
     "id": "jon-bell",
     "name": "Jon Bell",
     "gamesPlayed": 15,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      15
+    ],
     "nationality": "American",
     "position": "DF",
     "clubs": [
@@ -3314,7 +3366,9 @@
     "id": "christian-ramirez",
     "name": "Christian Ramirez",
     "gamesPlayed": 14,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      21
+    ],
     "nationality": "American",
     "position": "FW",
     "clubs": [
@@ -3361,7 +3415,9 @@
     "id": "jayden-nelson",
     "name": "Jayden Nelson",
     "gamesPlayed": 11,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      7
+    ],
     "nationality": "Canadian",
     "position": "FW",
     "clubs": [
@@ -3417,7 +3473,9 @@
     "id": "sofiane-djeffal",
     "name": "Sofiane Djeffal",
     "gamesPlayed": 10,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      22
+    ],
     "nationality": "French",
     "position": "MF",
     "clubs": [
@@ -3482,7 +3540,9 @@
     "id": "emmanual-perez",
     "name": "Emmanual Perez",
     "gamesPlayed": 10,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      2
+    ],
     "nationality": "American",
     "position": "MF",
     "clubs": [
@@ -3511,7 +3571,9 @@
     "id": "mckinze-gaines",
     "name": "McKinze Gaines",
     "gamesPlayed": 9,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      27
+    ],
     "nationality": "American",
     "position": "FW",
     "clubs": [
@@ -3612,7 +3674,9 @@
     "id": "aleksandar-radovanovic",
     "name": "Aleksandar Radovanović",
     "gamesPlayed": 9,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      66
+    ],
     "nationality": "Serbian",
     "position": "DF",
     "clubs": [
@@ -3713,7 +3777,9 @@
     "id": "memo-rodriguez",
     "name": "Memo Rodríguez",
     "gamesPlayed": 9,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      30
+    ],
     "nationality": "American",
     "position": "MF",
     "clubs": [
@@ -3814,7 +3880,9 @@
     "id": "aedan-stanley",
     "name": "Aedan Stanley",
     "gamesPlayed": 9,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      4
+    ],
     "nationality": "American",
     "position": "DF",
     "clubs": [
@@ -3870,7 +3938,9 @@
     "id": "mateja-djordjevic",
     "name": "Mateja Đorđević",
     "gamesPlayed": 8,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      35
+    ],
     "nationality": "Serbian",
     "position": "DF",
     "clubs": [
@@ -3917,7 +3987,9 @@
     "id": "andrew-tarbell",
     "name": "Andrew Tarbell",
     "gamesPlayed": 6,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      31
+    ],
     "nationality": "American",
     "position": "GK",
     "clubs": [
@@ -3991,7 +4063,9 @@
     "id": "ervin-torres",
     "name": "Ervin Torres",
     "gamesPlayed": 4,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      38
+    ],
     "nationality": "American",
     "position": "MF",
     "clubs": [
@@ -4019,7 +4093,9 @@
     "id": "washington-corozo",
     "name": "Washington Corozo",
     "gamesPlayed": 3,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      32
+    ],
     "nationality": "Ecuadorian",
     "position": "FW",
     "clubs": [
@@ -4084,7 +4160,9 @@
     "id": "freddy-kleemann",
     "name": "Freddy Kleemann",
     "gamesPlayed": 3,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      19
+    ],
     "nationality": "American",
     "position": "DF",
     "clubs": [
@@ -4178,7 +4256,9 @@
     "id": "micah-burton",
     "name": "Micah Burton",
     "gamesPlayed": 2,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      32
+    ],
     "nationality": "American",
     "position": "MF",
     "clubs": [
@@ -4207,7 +4287,9 @@
     "id": "alonso-ramirez",
     "name": "Alonso Ramirez",
     "gamesPlayed": 2,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      37
+    ],
     "nationality": "Mexican",
     "position": "MF",
     "clubs": [
@@ -4339,7 +4421,9 @@
     "id": "stefan-cleveland",
     "name": "Stefan Cleveland",
     "gamesPlayed": 2,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      30
+    ],
     "nationality": "American",
     "position": "GK",
     "clubs": [
@@ -4431,7 +4515,9 @@
     "id": "jimmy-farkarlun",
     "name": "Jimmy Farkarlun",
     "gamesPlayed": 1,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      26
+    ],
     "nationality": "Liberian",
     "position": "FW",
     "clubs": [
@@ -4469,7 +4555,9 @@
     "id": "valentin-noel",
     "name": "Valentin Noël",
     "gamesPlayed": 1,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      31
+    ],
     "nationality": "French",
     "position": "MF",
     "clubs": [
@@ -4516,7 +4604,9 @@
     "id": "amro-tarek",
     "name": "Amro Tarek",
     "gamesPlayed": 1,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      3
+    ],
     "nationality": "Egyptian",
     "position": "DF",
     "clubs": [
@@ -4626,7 +4716,9 @@
     "id": "damian-las",
     "name": "Damian Las",
     "gamesPlayed": 1,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      12
+    ],
     "nationality": "American",
     "position": "GK",
     "clubs": [
@@ -4700,7 +4792,9 @@
     "id": "charlie-asensio",
     "name": "Charlie Asensio",
     "gamesPlayed": 0,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      26
+    ],
     "nationality": "American",
     "position": "DF",
     "clubs": [
@@ -4747,7 +4841,9 @@
     "id": "brandan-craig",
     "name": "Brandan Craig",
     "gamesPlayed": 0,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      27
+    ],
     "nationality": "American",
     "position": "DF",
     "clubs": [
@@ -4803,7 +4899,10 @@
     "id": "antonio-gomez",
     "name": "Antonio Gomez",
     "gamesPlayed": 0,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      39,
+      34
+    ],
     "nationality": "American",
     "position": "DF",
     "clubs": [
@@ -4832,7 +4931,9 @@
     "id": "adrian-gonzalez",
     "name": "Adrián González",
     "gamesPlayed": 0,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      37
+    ],
     "nationality": "American",
     "position": "MF",
     "clubs": [
@@ -4908,7 +5009,9 @@
     "id": "david-rodriguez",
     "name": "David Rodríguez",
     "gamesPlayed": 0,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      32
+    ],
     "nationality": "American",
     "position": "MF",
     "clubs": [
@@ -4937,7 +5040,9 @@
     "id": "aaron-schoenfeld",
     "name": "Aaron Schoenfeld",
     "gamesPlayed": 0,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      13
+    ],
     "nationality": "American",
     "position": "FW",
     "clubs": [
@@ -5029,7 +5134,9 @@
     "id": "ulises-segura",
     "name": "Ulises Segura",
     "gamesPlayed": 0,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      12
+    ],
     "nationality": "Costa Rican",
     "position": "MF",
     "clubs": [
@@ -5103,7 +5210,9 @@
     "id": "riley-thomas",
     "name": "Riley Thomas",
     "gamesPlayed": 0,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      2
+    ],
     "nationality": "American",
     "position": "DF",
     "clubs": [
@@ -5131,7 +5240,9 @@
     "id": "nico-van-rijn",
     "name": "Nico Van Rijn",
     "gamesPlayed": 0,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      40
+    ],
     "nationality": "Dutch",
     "position": "DF",
     "clubs": [
@@ -5187,7 +5298,9 @@
     "id": "matt-bersano",
     "name": "Matt Bersano",
     "gamesPlayed": 0,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      20
+    ],
     "nationality": "American",
     "position": "GK",
     "clubs": [
@@ -5252,7 +5365,9 @@
     "id": "brady-scott",
     "name": "Brady Scott",
     "gamesPlayed": 0,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      28
+    ],
     "nationality": "American",
     "position": "GK",
     "clubs": [
@@ -5317,7 +5432,9 @@
     "id": "will-pulisic",
     "name": "Will Pulisic",
     "gamesPlayed": 0,
-    "jerseyNumbers": [],
+    "jerseyNumbers": [
+      34
+    ],
     "nationality": "American",
     "position": "GK",
     "clubs": [
