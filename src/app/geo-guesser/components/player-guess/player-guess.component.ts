@@ -115,7 +115,7 @@ export class PlayerGuessComponent {
     const rawVal = this.inputValue().trim();
 
     // Bypass auto-pick for Brad Stuver Easter egg
-    if (this._currentPlayerId() === 'brad-stuver' && /^stuu*$/i.test(rawVal)) {
+    if (this._currentPlayerId() === 'brad-stuver' && /^stuu+$/i.test(rawVal)) {
       this.submit(rawVal);
       return;
     }

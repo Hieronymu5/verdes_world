@@ -84,7 +84,7 @@ export class GeoGuesserStateService {
       (guess.length > 3 && fullName.includes(guess));
 
     let isStuverEasterEgg = false;
-    if (state.currentPlayer.id === 'brad-stuver' && /^stuu*$/.test(guess)) {
+    if (state.currentPlayer.id === 'brad-stuver' && /^stuu+$/.test(guess)) {
       isCorrect = true;
       isStuverEasterEgg = true;
     }
