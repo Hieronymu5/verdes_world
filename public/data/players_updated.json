@@ -171,15 +171,6 @@
     "position": "MF",
     "clubs": [
       {
-        "clubName": "Virginia Tech Hokies",
-        "city": "Blacksburg",
-        "country": "USA",
-        "lat": 37.2296,
-        "lng": -80.4139,
-        "fromYear": 2019,
-        "toYear": 2020
-      },
-      {
         "clubName": "Austin FC",
         "city": "Austin",
         "country": "USA",
@@ -4013,7 +4004,8 @@
         "fromYear": 2022,
         "toYear": 2023
       }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ervin_Torres"
   },
   {
     "id": "washington-corozo",
@@ -4182,15 +4174,6 @@
     "nationality": "American",
     "position": "MF",
     "clubs": [
-      {
-        "clubName": "Austin FC II",
-        "city": "Austin",
-        "country": "USA",
-        "lat": 30.3848,
-        "lng": -97.7183,
-        "fromYear": 2023,
-        "toYear": 2023
-      },
       {
         "clubName": "Austin FC",
         "city": "Austin",
@@ -5125,7 +5108,8 @@
         "fromYear": 2022,
         "toYear": 2023
       }
-    ]
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Riley_Thomas"
   },
   {
     "id": "nico-van-rijn",

@@ -14,7 +14,14 @@
     <section class="players-list" aria-label="All players and their clubs">
       @for (player of players(); track player.id) {
         <article class="player-card" aria-label="{{ player.name }}">
-          <h2 class="player-name">{{ player.name }}</h2>
+          <h2 class="player-name">
+            {{ player.name }}
+            @if (player.wikipediaUrl) {
+              <a [href]="player.wikipediaUrl" target="_blank" rel="noopener noreferrer" class="wiki-link" aria-label="Wikipedia page for {{ player.name }}">
+                (Wikipedia)
+              </a>
+            }
+          </h2>
           <p class="player-meta">
             {{ player.position }} · {{ player.nationality }} · {{ player.gamesPlayed }} matches
           </p>

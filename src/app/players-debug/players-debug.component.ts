@@ -14,7 +14,7 @@ export class PlayersDebugComponent implements OnInit {
   readonly error = this.dataService.error;
 
   readonly players = computed(() =>
-    [...this.dataService.players()].sort((a, b) => a.name.localeCompare(b.name)),
+    [...this.dataService.players()].sort((a, b) => b.gamesPlayed - a.gamesPlayed),
   );
 
   async ngOnInit(): Promise<void> {

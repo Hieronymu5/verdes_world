@@ -57,3 +57,8 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+## Data Criteria
+
+For player data in `players.json`, the following criteria applies based on Wikipedia data:
+The teams/clubs listed should only be pro/senior clubs unless Austin FC is the only club, in which case we want to add the last club before Austin FC.

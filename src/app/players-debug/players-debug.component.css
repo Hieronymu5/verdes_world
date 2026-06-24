@@ -57,6 +57,19 @@
 .player-name {
   margin: 0;
   font-size: 18px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.wiki-link {
+  font-size: 13px;
+  color: #00b140;
+  text-decoration: none;
+}
+
+.wiki-link:hover {
+  text-decoration: underline;
 }
 
 .player-meta {

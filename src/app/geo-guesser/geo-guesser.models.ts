@@ -16,6 +16,7 @@ export interface Player {
   nationality: string;
   position: string;
   clubs: ClubStop[];
+  wikipediaUrl?: string;
 }
 
 export interface DifficultyLevel {
