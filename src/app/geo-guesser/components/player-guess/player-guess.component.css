@@ -51,7 +51,7 @@
 }
 
 .jersey-label {
-  font-size: 9px;
+  font-size: 10px;
   font-weight: 600;
   color: #00b140;
   letter-spacing: 0.06em;
@@ -59,7 +59,7 @@
 }
 
 .jersey-number {
-  font-size: 14px;
+  font-size: 10px;
   font-weight: 800;
   color: #ffffff;
   line-height: 1;
