@@ -5,7 +5,6 @@
     "description": "5 minutes · 5 lives · Top 50% of players",
     "gameDurationSeconds": 300,
     "lives": 5,
-    "showTeamNamesAfterSeconds": 5,
     "revealPlayerAfterSeconds": 45,
     "playerPercentile": 50
   },
@@ -15,7 +14,6 @@
     "description": "5 minutes · 3 lives · Top 60% of players",
     "gameDurationSeconds": 300,
     "lives": 3,
-    "showTeamNamesAfterSeconds": 10,
     "revealPlayerAfterSeconds": 30,
     "playerPercentile": 60
   },
@@ -25,7 +23,6 @@
     "description": "5 minutes · 2 lives · Top 80% of players",
     "gameDurationSeconds": 300,
     "lives": 2,
-    "showTeamNamesAfterSeconds": 10,
     "revealPlayerAfterSeconds": 25,
     "playerPercentile": 80
   },
@@ -35,7 +32,6 @@
     "description": "5 minutes · 1 life · All players",
     "gameDurationSeconds": 300,
     "lives": 1,
-    "showTeamNamesAfterSeconds": 15,
     "revealPlayerAfterSeconds": 20,
     "playerPercentile": 100
   }

@@ -14,7 +14,7 @@
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
   padding: 32px 20px;
-  background: radial-gradient(ellipse at 50% 30%, #0d2e18 0%, #061525 65%);
+  background: #061525;
   gap: 40px;
 }
 
@@ -29,7 +29,6 @@
 
 .crest {
   font-size: 52px;
-  filter: drop-shadow(0 0 20px rgba(0, 177, 64, 0.6));
 }
 
 .title {

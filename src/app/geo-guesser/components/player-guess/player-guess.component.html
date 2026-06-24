@@ -9,7 +9,7 @@
       <span class="question-icon" aria-hidden="true">🌍</span>
       <span class="question-text">Who played for these clubs?</span>
     </div>
-    @if (state().currentPlayer?.jerseyNumbers?.length) {
+    @if (state().playerTimeElapsed >= 5 && state().currentPlayer?.jerseyNumbers?.length) {
       <div
         class="jersey-badge"
         [attr.aria-label]="
@@ -31,31 +31,32 @@
     </div>
   }
 
-  @if (state().showPlayerName) {
-    <div class="hint-slot">
-      @if (state().lastGuessResult === 'correct') {
-        <p class="hint-strip correct-reveal" role="alert" aria-live="assertive">
-          ✓ Correct! <strong>{{ state().currentPlayer?.name }}</strong>
-        </p>
-      } @else if (state().lastGuessResult === 'wrong') {
-        <p class="hint-strip reveal" role="alert">
-          ✗ The answer was <strong>{{ state().currentPlayer?.name }}</strong> — moving on…
-        </p>
-      } @else {
-        <p class="hint-strip reveal" role="alert">
-          ⏱ Time's up — the answer was <strong>{{ state().currentPlayer?.name }}</strong>
-        </p>
-      }
-    </div>
-  }
+  <div class="guess-content-container">
+    @if (state().showPlayerName) {
+      <div class="hint-slot">
+        @if (state().lastGuessResult === 'correct') {
+          <p class="hint-strip correct-reveal" role="alert" aria-live="assertive">
+            ✓ Correct! <strong>{{ state().currentPlayer?.name }}</strong>
+          </p>
+        } @else if (state().lastGuessResult === 'wrong') {
+          <p class="hint-strip reveal" role="alert">
+            ✗ The answer was <strong>{{ state().currentPlayer?.name }}</strong> — moving on…
+          </p>
+        } @else {
+          <p class="hint-strip reveal" role="alert">
+            ⏱ Time's up — the answer was <strong>{{ state().currentPlayer?.name }}</strong>
+          </p>
+        }
+      </div>
+    }
 
-  <!-- ── Input area (kept in layout so map doesn't jump on reveal) ── -->
-  <div
-    class="input-area"
-    [class.input-area-hidden]="state().showPlayerName"
-    [attr.aria-hidden]="state().showPlayerName ? 'true' : null"
-  >
-    <!-- Combobox wrapper -->
+    <!-- ── Input area (kept in layout so map doesn't jump on reveal) ── -->
+    <div
+      class="input-area"
+      [class.input-area-hidden]="state().showPlayerName"
+      [attr.aria-hidden]="state().showPlayerName ? 'true' : null"
+    >
+      <!-- Combobox wrapper -->
     <div
       class="input-wrapper"
       role="combobox"
@@ -108,12 +109,6 @@
           >" — check the spelling
         </p>
       }
-      @case ('results') {
-        <p class="input-hint results">
-          {{ suggestions().length }} match{{ suggestions().length === 1 ? '' : 'es' }} — first
-          selected, <kbd>↑</kbd><kbd>↓</kbd> to change, <kbd>Enter</kbd> to confirm
-        </p>
-      }
     }
 
     <!-- Autocomplete dropdown ────────────────────────────────── -->
@@ -136,5 +131,6 @@
         }
       </ul>
     }
+    </div>
   </div>
 </section>

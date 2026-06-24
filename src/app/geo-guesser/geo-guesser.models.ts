@@ -25,7 +25,6 @@ export interface DifficultyLevel {
   description: string;
   gameDurationSeconds: number;
   lives: number;
-  showTeamNamesAfterSeconds: number;
   revealPlayerAfterSeconds: number;
   /** Top N% of players by games played included in the pool (50 | 60 | 80 | 100) */
   playerPercentile: number;

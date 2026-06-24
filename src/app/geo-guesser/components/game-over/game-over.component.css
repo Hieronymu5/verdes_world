@@ -3,7 +3,7 @@
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: radial-gradient(ellipse at 50% 40%, #0d2e18 0%, #061525 70%);
+  background: #061525;
   padding: 24px;
 }
 
@@ -51,7 +51,6 @@
   font-weight: 800;
   color: #ffffff;
   line-height: 1;
-  text-shadow: 0 0 40px rgba(0, 177, 64, 0.4);
 }
 
 /* ── Rating ───────────────────────────────────────────────────────── */
