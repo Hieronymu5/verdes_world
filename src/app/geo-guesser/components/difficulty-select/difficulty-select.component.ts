@@ -18,6 +18,7 @@ export class DifficultySelectComponent {
 
   readonly difficulties = this.dataService.difficulties;
   readonly allPlayers = this.dataService.players;
+  readonly versionInfo = this.dataService.versionInfo;
 
   readonly selectedIndex = signal(-1);
   private readonly difficultyButtons = viewChildren<ElementRef<HTMLButtonElement>>('difficultyBtn');

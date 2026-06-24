@@ -1,3 +1,8 @@
+export interface VersionInfo {
+  version: string;
+  lastUpdate: string;
+}
+
 export interface ClubStop {
   clubName: string;
   city: string;

@@ -1,14 +1,14 @@
 <div class="select-screen" role="main">
   <div class="branding">
-    <span class="crest" aria-hidden="true">⚽</span>
+    <span class="crest" aria-hidden="true">
+      <span class="globe globe-1">🌍</span>
+      <span class="globe globe-2">🌎</span>
+      <span class="globe globe-3">🌏</span>
+    </span>
     <h1 class="title">
       <span class="title-top">Los Verdes</span>
       <span class="title-bottom">GeoGuesser</span>
     </h1>
-    <p class="subtitle">
-      Track the global journey of Austin FC legends.<br />
-      How many can you identify from their career map?
-    </p>
   </div>
 
   <nav aria-label="Difficulty selection">
@@ -17,7 +17,9 @@
         <li>
           <button
             #difficultyBtn
-            [class]="'difficulty-card difficulty-' + level.id + (i === selectedIndex() ? ' selected' : '')"
+            [class]="
+              'difficulty-card difficulty-' + level.id + (i === selectedIndex() ? ' selected' : '')
+            "
             [attr.tabindex]="i === selectedIndex() ? 0 : -1"
             [attr.aria-pressed]="i === selectedIndex()"
             [attr.aria-label]="'Start game on ' + level.name + ' difficulty. ' + level.description"
@@ -40,7 +42,6 @@
                 {{ poolSize(level.playerPercentile) }} players
               </span>
             </div>
-
           </button>
         </li>
       }
@@ -49,6 +50,8 @@
 
   <footer class="select-footer">
     <p>{{ allPlayers().length }} Austin FC players in the database</p>
-    <p class="footer-note">Verde y Negro — Los Verdes Supporters</p>
+    @if (versionInfo(); as vi) {
+      <p class="footer-note">{{ vi.version }} &mdash; Last updated: {{ vi.lastUpdate }}</p>
+    }
   </footer>
 </div>
