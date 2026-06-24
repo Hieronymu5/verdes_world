@@ -10,7 +10,7 @@
 .stuver-easter-egg {
   position: absolute;
   top: 40%;
-  left: -100%;
+  left: 100%;
   transform: translateY(-50%);
   font-size: 15vw;
   font-weight: 900;
@@ -18,12 +18,12 @@
   white-space: nowrap;
   pointer-events: none;
   z-index: 9999;
-  animation: scroll-left-right 1.5s linear forwards;
+  animation: scroll-right-left 2s linear forwards;
 }
 
-@keyframes scroll-left-right {
-  0% { left: -100%; }
-  100% { left: 100%; }
+@keyframes scroll-right-left {
+  0% { left: 100%; }
+  100% { left: -300%; }
 }
 
 .geo-guesser-shell > app-difficulty-select {
