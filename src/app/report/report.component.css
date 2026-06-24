@@ -1,0 +1,195 @@
+:host {
+  display: block;
+  height: 100vh;
+  overflow-y: auto;
+  overflow-x: hidden;
+  background: #061525;
+}
+
+.report-page {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 20px;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.page-header h1 {
+  margin: 0;
+  font-size: 30px;
+}
+
+.page-header p {
+  margin-top: 8px;
+  color: #9ec5ac;
+  line-height: 1.45;
+}
+
+.controls {
+  border: 1px solid rgba(0, 177, 64, 0.4);
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 12px;
+  padding: 16px;
+  display: grid;
+  gap: 14px;
+}
+
+.control-block h2 {
+  margin: 0 0 8px;
+  font-size: 16px;
+  color: #dff4e7;
+}
+
+.percentile-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.percentile-btn,
+.action-btn {
+  border: 1px solid rgba(122, 179, 152, 0.65);
+  border-radius: 8px;
+  background: #0a1f38;
+  color: #d8efe1;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 6px 10px;
+  cursor: pointer;
+}
+
+.percentile-btn-selected {
+  background: #00b140;
+  border-color: #00b140;
+  color: #061525;
+}
+
+.year-actions {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.year-fieldset {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.year-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(92px, 1fr));
+  gap: 8px;
+}
+
+.year-option {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  border: 1px solid rgba(122, 179, 152, 0.35);
+  border-radius: 8px;
+  padding: 5px 8px;
+  background: rgba(6, 21, 37, 0.7);
+}
+
+.year-option span {
+  font-size: 13px;
+}
+
+.summary {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  color: #cbe7d6;
+  font-size: 14px;
+}
+
+.status {
+  margin: 0;
+  padding: 12px;
+  border-radius: 10px;
+}
+
+.status.loading,
+.status.empty {
+  color: #9ec5ac;
+  background: rgba(16, 54, 88, 0.45);
+}
+
+.status.error {
+  color: #fecaca;
+  background: rgba(127, 29, 29, 0.45);
+}
+
+.empty-years {
+  color: #9ec5ac;
+  margin: 0;
+}
+
+.map-card {
+  border: 1px solid rgba(0, 177, 64, 0.35);
+  border-radius: 12px;
+  overflow: hidden;
+  background: #061525;
+}
+
+.world-map {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 72vh;
+}
+
+.land {
+  fill: #1e3d28;
+}
+
+.borders {
+  fill: none;
+  stroke: #2d5e3a;
+  stroke-width: 0.4;
+  stroke-linejoin: round;
+}
+
+.graticule {
+  fill: none;
+  stroke: #0e3356;
+  stroke-width: 0.3;
+  opacity: 0.6;
+}
+
+.report-line {
+  fill: none;
+  stroke: rgba(232, 244, 240, 0.16);
+  stroke-width: 1.1;
+  stroke-linecap: round;
+}
+
+.report-line-austin {
+  stroke: rgba(0, 177, 64, 0.6);
+  stroke-width: 1.5;
+}
+
+.report-dot {
+  fill: rgba(229, 247, 237, 0.6);
+}
+
+.report-dot-austin {
+  fill: #00b140;
+  stroke: #e8f4f0;
+  stroke-width: 0.8;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}

@@ -1,0 +1,119 @@
+<main class="report-page" role="main" aria-label="Austin FC career report">
+  <header class="page-header">
+    <h1>Career Map Report</h1>
+    <p>
+      Filter players by Austin FC year and top percentile (by games played), then view every
+      matching player's career dots and journey lines.
+    </p>
+  </header>
+
+  @if (error()) {
+    <p class="status error" role="alert">Failed to load report data: {{ error() }}</p>
+  } @else if (!loaded()) {
+    <p class="status loading" aria-live="polite">Loading report data…</p>
+  } @else {
+    <section class="controls" aria-label="Report filters">
+      <div class="control-block">
+        <h2>Top players by games played</h2>
+        <div class="percentile-buttons" role="group" aria-label="Top player percentile filter">
+          @for (option of percentileOptions; track option) {
+            <button
+              type="button"
+              [class]="
+                selectedPercentile() === option ? 'percentile-btn percentile-btn-selected' : 'percentile-btn'
+              "
+              [attr.aria-pressed]="selectedPercentile() === option"
+              (click)="selectPercentile(option)"
+            >
+              Top {{ option }}%
+            </button>
+          }
+        </div>
+      </div>
+
+      <div class="control-block">
+        <h2>Austin FC years</h2>
+        @if (availableAustinYears().length === 0) {
+          <p class="empty-years">No Austin FC year data found.</p>
+        } @else {
+          <div class="year-actions">
+            <button type="button" class="action-btn" (click)="selectAllYears()">Select all</button>
+            <button type="button" class="action-btn" (click)="clearYears()">Clear all</button>
+          </div>
+
+          <fieldset class="year-fieldset">
+            <legend class="sr-only">Select Austin FC years</legend>
+            <div class="year-grid">
+              @for (year of availableAustinYears(); track year) {
+                <label class="year-option">
+                  <input
+                    type="checkbox"
+                    [checked]="selectedYears().has(year)"
+                    (change)="onYearToggle(year, $event)"
+                  />
+                  <span>{{ year }}</span>
+                </label>
+              }
+            </div>
+          </fieldset>
+        }
+      </div>
+
+      <div class="summary" aria-live="polite">
+        <p><strong>{{ topPercentilePlayers().length }}</strong> players in percentile pool</p>
+        <p><strong>{{ filteredPlayers().length }}</strong> players match selected years</p>
+        <p><strong>{{ reportLines().length }}</strong> lines · <strong>{{ reportDots().length }}</strong> dots</p>
+      </div>
+    </section>
+
+    @if (filteredPlayers().length === 0) {
+      <p class="status empty" role="status">No players match the selected criteria.</p>
+    } @else {
+      <section class="map-card" aria-label="Report map visualisation">
+        <svg
+          [attr.viewBox]="'0 0 ' + mapW + ' ' + mapH"
+          class="world-map"
+          role="img"
+          [attr.aria-label]="
+            'World map with ' + filteredPlayers().length + ' players, ' + reportLines().length + ' lines and ' + reportDots().length + ' dots'
+          "
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <defs>
+            <radialGradient id="report-ocean" cx="50%" cy="40%" r="70%">
+              <stop offset="0%" stop-color="#0d2a4a" />
+              <stop offset="100%" stop-color="#061525" />
+            </radialGradient>
+          </defs>
+
+          <rect [attr.width]="mapW" [attr.height]="mapH" fill="url(#report-ocean)" />
+
+          @if (graticulePath()) {
+            <path [attr.d]="graticulePath()" class="graticule" />
+          }
+
+          @if (landPath()) {
+            <path [attr.d]="landPath()" class="land" />
+          }
+
+          @if (bordersPath()) {
+            <path [attr.d]="bordersPath()" class="borders" />
+          }
+
+          @for (line of reportLines(); track line.key) {
+            <path [attr.d]="line.d" [class]="line.highlight ? 'report-line report-line-austin' : 'report-line'" />
+          }
+
+          @for (dot of reportDots(); track dot.key) {
+            <circle
+              [attr.cx]="dot.x"
+              [attr.cy]="dot.y"
+              [attr.r]="dot.highlight ? 2.8 : 1.8"
+              [class]="dot.highlight ? 'report-dot report-dot-austin' : 'report-dot'"
+            />
+          }
+        </svg>
+      </section>
+    }
+  }
+</main>

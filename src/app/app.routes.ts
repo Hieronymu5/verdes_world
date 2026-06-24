@@ -19,6 +19,10 @@ export const routes: Routes = [
       import('./geo-guesser/geo-guesser.component').then((m) => m.GeoGuesserComponent),
   },
   {
+    path: 'report',
+    loadComponent: () => import('./report/report.component').then((m) => m.ReportComponent),
+  },
+  {
     path: '',
     redirectTo: 'geo-guesser',
     pathMatch: 'full',

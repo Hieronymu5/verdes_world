@@ -9,59 +9,78 @@
     <defs>
       <!-- Green glow for journey lines and Austin FC dot -->
       <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
-        <feGaussianBlur stdDeviation="3" result="blur"/>
+        <feGaussianBlur stdDeviation="3" result="blur" />
         <feMerge>
-          <feMergeNode in="blur"/>
-          <feMergeNode in="SourceGraphic"/>
+          <feMergeNode in="blur" />
+          <feMergeNode in="SourceGraphic" />
         </feMerge>
       </filter>
 
       <!-- Softer glow for regular club dots -->
       <filter id="dot-glow" x="-80%" y="-80%" width="260%" height="260%">
-        <feGaussianBlur stdDeviation="2" result="blur"/>
+        <feGaussianBlur stdDeviation="2" result="blur" />
         <feMerge>
-          <feMergeNode in="blur"/>
-          <feMergeNode in="SourceGraphic"/>
+          <feMergeNode in="blur" />
+          <feMergeNode in="SourceGraphic" />
         </feMerge>
       </filter>
 
       <radialGradient id="ocean-grad" cx="50%" cy="40%" r="70%">
-        <stop offset="0%" stop-color="#0d2a4a"/>
-        <stop offset="100%" stop-color="#061525"/>
+        <stop offset="0%" stop-color="#0d2a4a" />
+        <stop offset="100%" stop-color="#061525" />
       </radialGradient>
 
       <style>
         /* Keyframes live here so they are always in SVG scope regardless of
            Angular's view-encapsulation attribute scoping. */
-        @keyframes draw-line { to { stroke-dashoffset: 0; } }
-        @keyframes pop-in    { to { transform: scale(1); } }
+        @keyframes draw-line {
+          to {
+            stroke-dashoffset: 0;
+          }
+        }
+        @keyframes pop-in {
+          to {
+            transform: scale(1);
+          }
+        }
         @keyframes pulse {
-          0%,100% { opacity: 0.7; transform: scale(1); }
-          50%      { opacity: 0;   transform: scale(2.8); }
+          0%,
+          100% {
+            opacity: 0.7;
+            transform: scale(1);
+          }
+          50% {
+            opacity: 0;
+            transform: scale(2.8);
+          }
         }
         @keyframes reveal-team-row {
-          from { opacity: 0; }
-          to   { opacity: 1; }
+          from {
+            opacity: 0;
+          }
+          to {
+            opacity: 1;
+          }
         }
       </style>
     </defs>
 
     <!-- Ocean background -->
-    <rect [attr.width]="mapW" [attr.height]="mapH" fill="url(#ocean-grad)"/>
+    <rect [attr.width]="mapW" [attr.height]="mapH" fill="url(#ocean-grad)" />
 
     <!-- Graticule grid -->
     @if (graticulePath()) {
-      <path [attr.d]="graticulePath()" class="graticule"/>
+      <path [attr.d]="graticulePath()" class="graticule" />
     }
 
     <!-- Natural Earth land fill -->
     @if (landPath()) {
-      <path [attr.d]="landPath()" class="land"/>
+      <path [attr.d]="landPath()" class="land" />
     }
 
     <!-- Country borders -->
     @if (bordersPath()) {
-      <path [attr.d]="bordersPath()" class="borders"/>
+      <path [attr.d]="bordersPath()" class="borders" />
     }
 
     @if (player()) {
@@ -84,9 +103,15 @@
       @for (pt of mapPoints(); track pt.key) {
         <g [attr.transform]="'translate(' + pt.x + ',' + pt.y + ')'">
           @if (isAustin(pt.club)) {
-            <circle class="austin-pulse" r="0"
-              fill="none" stroke="#00B140" stroke-width="3" opacity="0.7"
-              [style.animation-delay]="pt.animDelay + 's'"/>
+            <circle
+              class="austin-pulse"
+              r="0"
+              fill="none"
+              stroke="#00B140"
+              stroke-width="3"
+              opacity="0.7"
+              [style.animation-delay]="pt.animDelay + 's'"
+            />
           }
           <circle
             [attr.r]="pt.radius"
@@ -96,14 +121,15 @@
           />
 
           @if (pt.radius >= 9) {
-            <text class="dot-year"
-              text-anchor="middle" dominant-baseline="middle"
-              [attr.font-size]="pt.radius * 0.65">
+            <text
+              class="dot-year"
+              text-anchor="middle"
+              dominant-baseline="middle"
+              [attr.font-size]="pt.radius * 0.65"
+            >
               {{ pt.club.fromYear }}
             </text>
           }
-
-          
         </g>
       }
 
@@ -122,7 +148,9 @@
             <g class="team-list-row" [style.animation-delay]="item.revealDelay + 's'">
               <text x="12" [attr.y]="item.y" class="team-list-index">{{ item.index }}.</text>
               <text x="30" [attr.y]="item.y" class="team-list-club">{{ item.clubName }}</text>
-              <text x="262" [attr.y]="item.y" text-anchor="end" class="team-list-years">{{ item.yearRange }}</text>
+              <text x="262" [attr.y]="item.y" text-anchor="end" class="team-list-years">
+                {{ item.yearRange }}
+              </text>
             </g>
           }
 
@@ -146,7 +174,7 @@
             [attr.fill]="lastGuessResult() === 'correct' ? '#00B140' : '#dc2626'"
             opacity="0.93"
           />
-          <text x="480" [attr.y]="mapH - 24" text-anchor="middle" class="player-reveal-name">
+          <text x="480" [attr.y]="mapH - 27" text-anchor="middle" class="player-reveal-name">
             {{ player()!.name }}
           </text>
         </g>
@@ -154,8 +182,7 @@
     }
 
     @if (!player()) {
-      <text [attr.x]="mapW / 2" [attr.y]="mapH / 2"
-        text-anchor="middle" class="map-placeholder">
+      <text [attr.x]="mapW / 2" [attr.y]="mapH / 2" text-anchor="middle" class="map-placeholder">
         Loading player…
       </text>
     }
