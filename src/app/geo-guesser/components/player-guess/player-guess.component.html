@@ -22,19 +22,17 @@
     }
   </div>
 
-  <!-- ── Feedback slot (reserved height to prevent layout shift) ── -->
-  <div class="feedback-slot">
-    @if (state().lastGuessResult === 'wrong') {
+  @if (state().lastGuessResult === 'wrong') {
+    <div class="feedback-slot">
       <div class="feedback wrong" role="alert" aria-live="assertive">
         <span class="feedback-icon" aria-hidden="true">✗</span>
         <span>Wrong guess <strong>–1 life</strong></span>
       </div>
-    }
-  </div>
+    </div>
+  }
 
-  <!-- ── Hint / reveal strips (reserved height to prevent shift) ── -->
-  <div class="hint-slot">
-    @if (state().showPlayerName) {
+  @if (state().showPlayerName) {
+    <div class="hint-slot">
       @if (state().lastGuessResult === 'correct') {
         <p class="hint-strip correct-reveal" role="alert" aria-live="assertive">
           ✓ Correct! <strong>{{ state().currentPlayer?.name }}</strong>
@@ -48,8 +46,8 @@
           ⏱ Time's up — the answer was <strong>{{ state().currentPlayer?.name }}</strong>
         </p>
       }
-    }
-  </div>
+    </div>
+  }
 
   <!-- ── Input area (kept in layout so map doesn't jump on reveal) ── -->
   <div
@@ -104,12 +102,6 @@
 
     <!-- Inline hint below input ──────────────────────────────── -->
     @switch (inputHint()) {
-      @case ('idle') {
-        <p class="input-hint idle">
-          Start typing — matches from all {{ state().currentPlayer ? '' : '' }}70 Austin FC players
-          will appear
-        </p>
-      }
       @case ('too-short') {
         <p class="input-hint too-short">Keep typing… (at least 2 characters to search)</p>
       }

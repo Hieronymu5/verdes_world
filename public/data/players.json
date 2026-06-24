@@ -239,11 +239,22 @@
   {
     "id": "owen-wolff",
     "name": "Owen Wolff",
-    "gamesPlayed": 141,
-    "jerseyNumbers": [],
+    "gamesPlayed": 142,
+    "jerseyNumbers": [
+      33
+    ],
     "nationality": "American",
     "position": "MF",
     "clubs": [
+      {
+        "clubName": "Atlanta United 2",
+        "city": "Atlanta",
+        "country": "USA",
+        "lat": 33.749,
+        "lng": -84.388,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
       {
         "clubName": "Austin FC",
         "city": "Austin",
@@ -3074,28 +3085,37 @@
     "clubs": [
       {
         "clubName": "Independiente",
-        "city": "Avellaneda",
-        "country": "Argentina",
-        "lat": -34.6603,
-        "lng": -58.3686,
+        "city": "La Chorrera",
+        "country": "Panama",
+        "lat": 8.8803,
+        "lng": -79.7834,
         "fromYear": 2018,
         "toYear": 2022
       },
       {
-        "clubName": "Minnesota United",
-        "city": "Minneapolis",
+        "clubName": "Minnesota United (loan)",
+        "city": "Saint Paul",
         "country": "USA",
-        "lat": 44.9517,
-        "lng": -93.1661,
+        "lat": 44.9537,
+        "lng": -93.1644,
         "fromYear": 2021,
         "toYear": 2022
       },
       {
-        "clubName": "Minnesota United",
-        "city": "Minneapolis",
+        "clubName": "Minnesota United 2",
+        "city": "Blaine",
         "country": "USA",
-        "lat": 44.9517,
-        "lng": -93.1661,
+        "lat": 45.1614,
+        "lng": -93.2358,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Minnesota United",
+        "city": "Saint Paul",
+        "country": "USA",
+        "lat": 44.9537,
+        "lng": -93.1644,
         "fromYear": 2023,
         "toYear": 2025
       },

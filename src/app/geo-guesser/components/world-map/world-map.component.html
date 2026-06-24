@@ -187,4 +187,19 @@
       </text>
     }
   </svg>
+
+  @if (mobileTeamListItems().length > 0) {
+    <aside class="team-list-mobile" aria-label="Career path">
+      <p class="team-list-mobile-title">Career path</p>
+      <ol class="team-list-mobile-items">
+        @for (item of mobileTeamListItems(); track item.key) {
+          <li class="team-list-mobile-row">
+            <span class="team-list-mobile-index">{{ item.index }}.</span>
+            <span class="team-list-mobile-club">{{ item.clubName }}</span>
+            <span class="team-list-mobile-years">{{ item.yearRange }}</span>
+          </li>
+        }
+      </ol>
+    </aside>
+  }
 </div>

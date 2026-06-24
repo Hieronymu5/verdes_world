@@ -24,6 +24,13 @@ export interface TeamListItem {
   revealDelay: number;
 }
 
+export interface MobileTeamListItem {
+  key: string;
+  index: number;
+  clubName: string;
+  yearRange: string;
+}
+
 export interface JourneyLine {
   d: string;
   key: string;
@@ -178,6 +185,18 @@ export class WorldMapComponent implements OnInit {
   readonly teamListItems = computed((): TeamListItem[] => {
     const maxRows = Math.max(1, Math.floor((TEAM_LIST_MAX_H - TEAM_LIST_START_Y) / TEAM_LIST_ROW_H));
     return this._teamListItems().slice(0, maxRows);
+  });
+
+  readonly mobileTeamListItems = computed((): MobileTeamListItem[] => {
+    const p = this.player();
+    if (!p) return [];
+
+    return p.clubs.map((club, i) => ({
+      key: `${club.clubName}-${club.fromYear}-${club.toYear}-${i}`,
+      index: i + 1,
+      clubName: club.clubName,
+      yearRange: `${club.fromYear}–${club.toYear}`,
+    }));
   });
 
   readonly hiddenTeamCount = computed(() => this._teamListItems().length - this.teamListItems().length);

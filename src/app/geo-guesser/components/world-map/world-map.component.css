@@ -13,6 +13,7 @@
   justify-content: center;
   overflow: hidden;
   background: #061525;
+  position: relative;
 }
 
 .world-map {
@@ -149,6 +150,106 @@
   fill: #7ab398;
   font-size: 9px;
   font-weight: 600;
+}
+
+@media (max-width: 768px) {
+  .team-list-title {
+    font-size: 13px;
+  }
+
+  .team-list-index {
+    font-size: 10.5px;
+  }
+
+  .team-list-club {
+    font-size: 12.5px;
+  }
+
+  .team-list-years {
+    font-size: 11px;
+  }
+
+  .team-list-more {
+    font-size: 10px;
+  }
+}
+
+.team-list-mobile {
+  display: none;
+}
+
+@media (max-width: 481px) {
+  .map-wrapper {
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+  }
+
+  .world-map {
+    flex: 1;
+    min-height: 0;
+  }
+
+  .team-list-panel {
+    display: none;
+  }
+
+  .team-list-mobile {
+    display: block;
+    margin: 6px 8px 8px;
+    max-height: 36%;
+    overflow-y: auto;
+    background: rgba(6, 21, 37, 0.92);
+    border: 1px solid rgba(0, 177, 64, 0.72);
+    border-radius: 10px;
+    padding: 8px 10px;
+    backdrop-filter: blur(4px);
+  }
+
+  .team-list-mobile-title {
+    margin: 0 0 4px;
+    color: #00b140;
+    font-size: 13px;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .team-list-mobile-items {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .team-list-mobile-row {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: baseline;
+    column-gap: 8px;
+  }
+
+  .team-list-mobile-index {
+    color: #7ab398;
+    font-size: 12px;
+    font-weight: 700;
+  }
+
+  .team-list-mobile-club {
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 650;
+    line-height: 1.2;
+  }
+
+  .team-list-mobile-years {
+    color: #aed4bb;
+    font-size: 12px;
+    font-weight: 600;
+    white-space: nowrap;
+  }
 }
 
 .player-reveal-name {

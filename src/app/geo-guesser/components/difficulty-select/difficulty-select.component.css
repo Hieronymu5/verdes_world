@@ -71,6 +71,13 @@
   display: flex;
 }
 
+@media (max-width: 640px) {
+  .difficulty-list {
+    grid-template-columns: 1fr;
+    max-width: 420px;
+  }
+}
+
 .difficulty-card {
   position: relative;
   display: flex;
