@@ -42,10 +42,9 @@ export class PlayerGuessComponent {
   readonly highlightedIndex = signal(-1);
 
   /** Drives the dropdown hint label shown below the input */
-  readonly inputHint = computed((): 'idle' | 'too-short' | 'no-results' | 'results' => {
+  readonly inputHint = computed((): 'idle' | 'no-results' | 'results' => {
     const val = this.inputValue().trim();
-    if (!val) return 'idle';
-    if (val.length < 2) return 'too-short';
+    if (!val || val.length < 2) return 'idle';
     return this.suggestions().length > 0 ? 'results' : 'no-results';
   });
 

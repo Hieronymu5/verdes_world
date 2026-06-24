@@ -198,9 +198,8 @@ kbd {
   transition: color 0.2s;
 }
 
-.input-hint.too-short  { color: #7ab398; }
 .input-hint.no-results { color: #f87171; }
-.input-hint.results    { color: #00b140; }
+.input-hint.results { color: #00b140; }
 
 .suggestions {
   position: absolute;
@@ -269,7 +268,8 @@ kbd {
   }
 
   .input-instructions {
-    font-size: 11px;
+    position: absolute;
+    left: -10000px;
   }
 
   .guess-input {
@@ -302,15 +302,15 @@ kbd {
 
 @keyframes shake {
   0%, 100% { transform: translateX(0); }
-  20%       { transform: translateX(-7px); }
-  40%       { transform: translateX(7px); }
-  60%       { transform: translateX(-4px); }
-  80%       { transform: translateX(4px); }
+  20% { transform: translateX(-7px); }
+  40% { transform: translateX(7px); }
+  60% { transform: translateX(-4px); }
+  80% { transform: translateX(4px); }
 }
 
 .shake { animation: shake 0.4s ease; }
 
 @keyframes fade-in {
   from { opacity: 0; transform: translateY(3px); }
-  to   { opacity: 1; transform: translateY(0); }
+  to { opacity: 1; transform: translateY(0); }
 }

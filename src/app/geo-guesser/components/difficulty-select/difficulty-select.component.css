@@ -1,9 +1,18 @@
+:host {
+  display: block;
+  height: 100%;
+  min-height: 0;
+}
+
 .select-screen {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  min-height: 100vh;
+  height: 100%;
+  min-height: 100%;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
   padding: 32px 20px;
   background: radial-gradient(ellipse at 50% 30%, #0d2e18 0%, #061525 65%);
   gap: 40px;
@@ -69,6 +78,14 @@
 
 .difficulty-list > li {
   display: flex;
+}
+
+@media (max-width: 768px) {
+  .select-screen {
+    justify-content: flex-start;
+    gap: 24px;
+    padding: 20px 14px 24px;
+  }
 }
 
 @media (max-width: 640px) {

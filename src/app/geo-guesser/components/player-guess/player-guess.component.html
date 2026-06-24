@@ -55,12 +55,6 @@
     [class.input-area-hidden]="state().showPlayerName"
     [attr.aria-hidden]="state().showPlayerName ? 'true' : null"
   >
-    <!-- Instruction line -->
-    <p class="input-instructions" id="guess-instructions">
-      Type a player's name below, pick from the list, then press
-      <kbd>Enter</kbd> or click <kbd>↵</kbd> to guess
-    </p>
-
     <!-- Combobox wrapper -->
     <div
       class="input-wrapper"
@@ -100,11 +94,14 @@
       </button>
     </div>
 
+    <!-- Instruction line -->
+    <p class="input-instructions" id="guess-instructions">
+      Type a player's name below, pick from the list, then press
+      <kbd>Enter</kbd> or click <kbd>↵</kbd> to guess
+    </p>
+
     <!-- Inline hint below input ──────────────────────────────── -->
     @switch (inputHint()) {
-      @case ('too-short') {
-        <p class="input-hint too-short">Keep typing… (at least 2 characters to search)</p>
-      }
       @case ('no-results') {
         <p class="input-hint no-results">
           No players match "<em>{{ inputValue() }}</em

@@ -6,6 +6,11 @@
   background: #061525;
 }
 
+.geo-guesser-shell > app-difficulty-select {
+  flex: 1;
+  min-height: 0;
+}
+
 .game-area {
   flex: 1;
   display: flex;

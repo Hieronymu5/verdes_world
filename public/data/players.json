@@ -584,19 +584,30 @@
   {
     "id": "guilherme-biro",
     "name": "Guilherme Biro",
-    "gamesPlayed": 85,
-    "jerseyNumbers": [],
+    "gamesPlayed": 75,
+    "jerseyNumbers": [
+      29
+    ],
     "nationality": "Brazilian",
     "position": "DF",
     "clubs": [
       {
-        "clubName": "Flamengo",
-        "city": "Rio de Janeiro",
+        "clubName": "Coritiba",
+        "city": "Curitiba",
         "country": "Brazil",
-        "lat": -22.9116,
-        "lng": -43.23,
+        "lat": -25.4284,
+        "lng": -49.2733,
         "fromYear": 2020,
         "toYear": 2022
+      },
+      {
+        "clubName": "Mirassol",
+        "city": "Mirassol",
+        "country": "Brazil",
+        "lat": -20.8197,
+        "lng": -49.5214,
+        "fromYear": 2023,
+        "toYear": 2023
       },
       {
         "clubName": "Austin FC",
@@ -605,7 +616,7 @@
         "lat": 30.3848,
         "lng": -97.7183,
         "fromYear": 2024,
-        "toYear": 2025
+        "toYear": 2026
       }
     ]
   },
