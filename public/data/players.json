@@ -946,6 +946,15 @@
         "lng": -97.7183,
         "fromYear": 2024,
         "toYear": 2025
+      },
+      {
+        "clubName": "Deportes La Serena",
+        "city": "La Serena",
+        "country": "Chile",
+        "lat": -29.9,
+        "lng": -71.25,
+        "fromYear": 2026,
+        "toYear": 2026
       }
     ],
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Diego_Rubio_(footballer)"
