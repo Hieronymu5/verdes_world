@@ -4,6 +4,26 @@
   height: 100vh;
   overflow: hidden;
   background: #061525;
+  position: relative;
+}
+
+.stuver-easter-egg {
+  position: absolute;
+  top: 40%;
+  left: -100%;
+  transform: translateY(-50%);
+  font-size: 15vw;
+  font-weight: 900;
+  color: #00b140;
+  white-space: nowrap;
+  pointer-events: none;
+  z-index: 9999;
+  animation: scroll-left-right 1.5s linear forwards;
+}
+
+@keyframes scroll-left-right {
+  0% { left: -100%; }
+  100% { left: 100%; }
 }
 
 .geo-guesser-shell > app-difficulty-select {

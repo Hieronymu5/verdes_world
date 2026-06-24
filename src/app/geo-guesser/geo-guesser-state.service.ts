@@ -14,6 +14,7 @@ const INITIAL_STATE: GameState = {
   showTeamNames: false,
   showPlayerName: false,
   lastGuessResult: null,
+  easterEgg: null,
 };
 
 @Injectable({ providedIn: 'root' })
@@ -56,6 +57,7 @@ export class GeoGuesserStateService {
       showTeamNames: false,
       showPlayerName: false,
       lastGuessResult: null,
+      easterEgg: null,
     });
 
     this.startTimer();
@@ -76,10 +78,16 @@ export class GeoGuesserStateService {
     const fullName = normalize(state.currentPlayer.name);
     const lastName = fullName.split(' ').at(-1) ?? fullName;
 
-    const isCorrect =
+    let isCorrect =
       guess === fullName ||
       guess === lastName ||
       (guess.length > 3 && fullName.includes(guess));
+
+    let isStuverEasterEgg = false;
+    if (state.currentPlayer.id === 'brad-stuver' && /^stuu*$/.test(guess)) {
+      isCorrect = true;
+      isStuverEasterEgg = true;
+    }
 
     if (isCorrect) {
       // Reveal the correct name briefly, then advance after 1.5 s
@@ -89,13 +97,14 @@ export class GeoGuesserStateService {
         showPlayerName: true,
         showTeamNames: true,
         lastGuessResult: 'correct',
+        easterEgg: isStuverEasterEgg ? 'stuver' : null,
       }));
 
       if (this.feedbackTimeoutId) clearTimeout(this.feedbackTimeoutId);
       this.feedbackTimeoutId = setTimeout(() => {
         this._state.update((s) => {
           if (s.status !== 'playing' || !s.showPlayerName) return s;
-          return this.buildNextPlayerState({ ...s, lastGuessResult: null });
+          return this.buildNextPlayerState({ ...s, lastGuessResult: null, easterEgg: null });
         });
       }, 1500);
     } else {
@@ -127,7 +136,7 @@ export class GeoGuesserStateService {
       this.feedbackTimeoutId = setTimeout(() => {
         this._state.update((s) => {
           if (s.status !== 'playing' || !s.showPlayerName) return s;
-          return this.buildNextPlayerState({ ...s, lastGuessResult: null });
+          return this.buildNextPlayerState({ ...s, lastGuessResult: null, easterEgg: null });
         });
       }, 2000);
     }
@@ -213,6 +222,7 @@ export class GeoGuesserStateService {
       showTeamNames: false,
       showPlayerName: false,
       lastGuessResult: null,
+      easterEgg: null,
     };
   }
 

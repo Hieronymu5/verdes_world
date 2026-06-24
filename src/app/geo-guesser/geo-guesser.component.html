@@ -1,4 +1,10 @@
 <div class="geo-guesser-shell">
+  @if (state().easterEgg === 'stuver') {
+    <div class="stuver-easter-egg" aria-hidden="true">
+      STUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+    </div>
+  }
+
   @switch (state().status) {
     @case ('difficulty') {
       <app-difficulty-select />

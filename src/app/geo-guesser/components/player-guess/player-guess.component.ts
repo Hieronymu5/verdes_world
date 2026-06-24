@@ -112,6 +112,13 @@ export class PlayerGuessComponent {
   submitFromInput(): void {
     const idx = this.highlightedIndex();
     const sug = this.suggestions();
+    const rawVal = this.inputValue().trim();
+
+    // Bypass auto-pick for Brad Stuver Easter egg
+    if (this._currentPlayerId() === 'brad-stuver' && /^stuu*$/i.test(rawVal)) {
+      this.submit(rawVal);
+      return;
+    }
 
     if (idx >= 0 && idx < sug.length) {
       // User explicitly navigated to a suggestion with arrow keys
@@ -119,9 +126,9 @@ export class PlayerGuessComponent {
     } else if (sug.length > 0) {
       // No explicit selection — auto-pick the top match
       this.submit(sug[0].name);
-    } else if (this.inputValue().trim()) {
+    } else if (rawVal) {
       // No matches at all — submit raw input (will register as a wrong guess)
-      this.submit(this.inputValue());
+      this.submit(rawVal);
     }
   }
 

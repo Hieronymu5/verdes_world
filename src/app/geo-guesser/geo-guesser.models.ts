@@ -45,4 +45,5 @@ export interface GameState {
   showTeamNames: boolean;
   showPlayerName: boolean;
   lastGuessResult: 'correct' | 'wrong' | null;
+  easterEgg: 'stuver' | null;
 }
