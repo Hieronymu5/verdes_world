@@ -11,27 +11,27 @@
   {
     "id": "medium",
     "name": "Dale ATX (Medium)",
-    "description": "5 minutes · 3 lives · Top 60% of players",
+    "description": "5 minutes · 5 lives · Top 60% of players",
     "gameDurationSeconds": 300,
-    "lives": 3,
+    "lives": 5,
     "revealPlayerAfterSeconds": 30,
     "playerPercentile": 60
   },
   {
     "id": "hard",
     "name": "Carnaval (Hard)",
-    "description": "5 minutes · 2 lives · Top 80% of players",
+    "description": "5 minutes · 3 lives · Top 80% of players",
     "gameDurationSeconds": 300,
-    "lives": 2,
+    "lives": 3,
     "revealPlayerAfterSeconds": 25,
     "playerPercentile": 80
   },
   {
     "id": "expert",
     "name": "True Love Will Find You in the End (Expert)",
-    "description": "5 minutes · 1 life · All players",
+    "description": "5 minutes · 3 lives · All players",
     "gameDurationSeconds": 300,
-    "lives": 1,
+    "lives": 3,
     "revealPlayerAfterSeconds": 20,
     "playerPercentile": 100
   }
