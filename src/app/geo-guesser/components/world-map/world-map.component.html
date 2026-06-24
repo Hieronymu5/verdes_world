@@ -25,11 +25,6 @@
         </feMerge>
       </filter>
 
-      <radialGradient id="ocean-grad" cx="50%" cy="40%" r="70%">
-        <stop offset="0%" stop-color="#0d2a4a" />
-        <stop offset="100%" stop-color="#061525" />
-      </radialGradient>
-
       <style>
         /* Keyframes live here so they are always in SVG scope regardless of
            Angular's view-encapsulation attribute scoping. */
@@ -64,9 +59,6 @@
         }
       </style>
     </defs>
-
-    <!-- Ocean background -->
-    <rect [attr.width]="mapW" [attr.height]="mapH" fill="url(#ocean-grad)" />
 
     <!-- Graticule grid -->
     @if (graticulePath()) {

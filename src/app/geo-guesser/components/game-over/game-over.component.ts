@@ -1,4 +1,12 @@
-import { AfterViewInit, ChangeDetectionStrategy, Component, computed, ElementRef, inject, viewChild } from '@angular/core';
+import {
+  AfterViewInit,
+  ChangeDetectionStrategy,
+  Component,
+  computed,
+  ElementRef,
+  inject,
+  viewChild,
+} from '@angular/core';
 import { GeoGuesserStateService } from '../../geo-guesser-state.service';
 
 @Component({
@@ -28,11 +36,11 @@ export class GameOverComponent implements AfterViewInit {
 
   readonly rating = computed(() => {
     const score = this.state().score;
-    if (score >= 20) return { label: 'Legendary 🏆', color: '#fbbf24' };
-    if (score >= 12) return { label: 'Los Verdes Elite ⚽', color: '#00b140' };
-    if (score >= 6)  return { label: 'Verde Supporter 🌿', color: '#4ade80' };
-    if (score >= 2)  return { label: 'Apprentice Verdes 🌱', color: '#7ab398' };
-    return { label: 'Keep Practicing 💪', color: '#94a3b8' };
+    if (score >= 20) return { label: 'Legendary 🌳', color: '#fbbf24' };
+    if (score >= 12) return { label: 'Elite 🌴', color: '#00b140' };
+    if (score >= 6) return { label: 'Supporter 🌿', color: '#4ade80' };
+    if (score >= 2) return { label: 'Apprentice 🌱', color: '#7ab398' };
+    return { label: 'Keep Practicing 🍃', color: '#94a3b8' };
   });
 
   ngAfterViewInit(): void {

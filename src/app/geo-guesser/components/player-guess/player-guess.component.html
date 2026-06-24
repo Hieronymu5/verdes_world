@@ -6,7 +6,6 @@
   <!-- ── Prompt header ──────────────────────────────────────────── -->
   <div class="guess-header">
     <div class="guess-question">
-      <span class="question-icon" aria-hidden="true">🌍</span>
       <span class="question-text">Who played for these clubs?</span>
     </div>
     @if (state().playerTimeElapsed >= 10 && state().currentPlayer?.jerseyNumbers?.length) {
@@ -48,79 +47,81 @@
       [attr.aria-hidden]="state().showPlayerName ? 'true' : null"
     >
       <!-- Combobox wrapper -->
-    <div
-      class="input-wrapper"
-      role="combobox"
-      aria-haspopup="listbox"
-      aria-owns="suggestion-list"
-      [attr.aria-expanded]="showDropdown() && suggestions().length > 0"
-    >
-      <input
-        #inputRef
-        type="text"
-        class="guess-input"
-        name="player-guess-input"
-        autocomplete="new-password"
-        autocapitalize="none"
-        autocorrect="off"
-        spellcheck="false"
-        aria-label="Type a player name to guess"
-        aria-describedby="guess-instructions"
-        aria-autocomplete="list"
-        aria-controls="suggestion-list"
-        [value]="inputValue()"
-        [disabled]="state().showPlayerName"
-        (input)="onInput($any($event.target).value)"
-        (keydown)="onKeydown($event)"
-        (blur)="onBlur()"
-      />
-      <button
-        class="submit-btn"
-        aria-label="Submit guess (Enter)"
-        title="Submit guess (Enter)"
-        (click)="submitFromInput()"
-        [disabled]="state().showPlayerName || !inputValue().trim()"
+      <div
+        class="input-wrapper"
+        role="combobox"
+        aria-haspopup="listbox"
+        aria-owns="suggestion-list"
+        [attr.aria-expanded]="showDropdown() && suggestions().length > 0"
       >
-        ↵
-      </button>
-    </div>
+        <input
+          #inputRef
+          type="text"
+          class="guess-input"
+          name="player-guess-input"
+          autocomplete="new-password"
+          autocapitalize="none"
+          autocorrect="off"
+          spellcheck="false"
+          aria-label="Type a player name to guess"
+          aria-describedby="guess-instructions"
+          aria-autocomplete="list"
+          aria-controls="suggestion-list"
+          [value]="inputValue()"
+          [disabled]="state().showPlayerName"
+          (input)="onInput($any($event.target).value)"
+          (keydown)="onKeydown($event)"
+          (blur)="onBlur()"
+        />
+        <button
+          class="submit-btn"
+          aria-label="Submit guess (Enter)"
+          title="Submit guess (Enter)"
+          (click)="submitFromInput()"
+          [disabled]="state().showPlayerName || !inputValue().trim()"
+        >
+          ↵
+        </button>
+      </div>
 
-    <!-- Instruction line -->
-    <p class="input-instructions" id="guess-instructions">
-      Type a player's name below, pick from the list, then press
-      <kbd>Enter</kbd> or click <kbd>↵</kbd> to guess
-    </p>
+      <!-- Instruction line -->
+      <p class="input-instructions" id="guess-instructions">
+        Type a player's name below, pick from the list, then press
+        <kbd>Enter</kbd> or click <kbd>↵</kbd> to guess
+      </p>
 
-    <!-- Inline hint below input ──────────────────────────────── -->
-    @switch (inputHint()) {
-      @case ('no-results') {
-        <p class="input-hint no-results">
-          No players match "<em>{{ inputValue() }}</em
-          >" — check the spelling
-        </p>
-      }
-    }
-
-    <!-- Autocomplete dropdown ────────────────────────────────── -->
-    @if (!state().showPlayerName && showDropdown() && suggestions().length > 0) {
-      <ul id="suggestion-list" class="suggestions" role="listbox" aria-label="Matching players">
-        @for (player of suggestions(); track player.id; let i = $index) {
-          <li
-            role="option"
-            [id]="'suggestion-' + i"
-            [attr.aria-selected]="i === highlightedIndex()"
-            [class.highlighted]="i === highlightedIndex()"
-            (mousedown)="selectSuggestion(player)"
-          >
-            <div class="suggestion-left">
-              <span class="suggestion-name">{{ player.name }}</span>
-              <span class="suggestion-meta">{{ player.nationality }} · {{ player.position }}</span>
-            </div>
-            <span class="suggestion-clubs"> {{ player.clubs.length }} clubs </span>
-          </li>
+      <!-- Inline hint below input ──────────────────────────────── -->
+      @switch (inputHint()) {
+        @case ('no-results') {
+          <p class="input-hint no-results">
+            No players match "<em>{{ inputValue() }}</em
+            >" — check the spelling
+          </p>
         }
-      </ul>
-    }
+      }
+
+      <!-- Autocomplete dropdown ────────────────────────────────── -->
+      @if (!state().showPlayerName && showDropdown() && suggestions().length > 0) {
+        <ul id="suggestion-list" class="suggestions" role="listbox" aria-label="Matching players">
+          @for (player of suggestions(); track player.id; let i = $index) {
+            <li
+              role="option"
+              [id]="'suggestion-' + i"
+              [attr.aria-selected]="i === highlightedIndex()"
+              [class.highlighted]="i === highlightedIndex()"
+              (mousedown)="selectSuggestion(player)"
+            >
+              <div class="suggestion-left">
+                <span class="suggestion-name">{{ player.name }}</span>
+                <span class="suggestion-meta"
+                  >{{ player.nationality }} · {{ player.position }}</span
+                >
+              </div>
+              <span class="suggestion-clubs"> {{ player.clubs.length }} clubs </span>
+            </li>
+          }
+        </ul>
+      }
     </div>
   </div>
 </section>
