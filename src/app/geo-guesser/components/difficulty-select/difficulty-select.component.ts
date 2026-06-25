@@ -53,7 +53,7 @@ export class DifficultySelectComponent {
 
   poolStats(minGamesPlayed: number): number {
     const players = this.allPlayers();
-    return players.filter((p) => p.gamesPlayed > minGamesPlayed).length;
+    return players.filter((p) => p.gamesPlayed >= minGamesPlayed).length;
   }
 
   onCardClick(level: DifficultyLevel, index: number): void {

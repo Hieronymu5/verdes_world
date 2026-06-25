@@ -74,7 +74,7 @@ export class ReportComponent implements OnInit {
   readonly filteredByGamesPlayers = computed(() => {
     const players = this.dataService.players();
     const minGames = this.selectedMinGames();
-    return players.filter((p) => p.gamesPlayed > minGames);
+    return players.filter((p) => p.gamesPlayed >= minGames);
   });
 
   readonly filteredPlayers = computed(() => {

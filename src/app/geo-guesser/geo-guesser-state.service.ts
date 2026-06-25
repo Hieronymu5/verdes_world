@@ -37,7 +37,7 @@ export class GeoGuesserStateService {
     this._lastSelectedDifficultyId.set(difficulty.id);
 
     // Filter by minGamesPlayed
-    const pool = players.filter((p) => p.gamesPlayed > difficulty.minGamesPlayed);
+    const pool = players.filter((p) => p.gamesPlayed >= difficulty.minGamesPlayed);
 
     const shuffled = [...pool].sort(() => Math.random() - 0.5);
     const [first, ...rest] = shuffled;
