@@ -2,7 +2,7 @@
   {
     "id": "easy",
     "name": "Verde! Listos! (Easy)",
-    "description": "5 minutes · 5 lives · Players with > 20 matches",
+    "description": "5 minutes · 5 lives · Players with at least 20 matches",
     "gameDurationSeconds": 300,
     "lives": 5,
     "revealPlayerAfterSeconds": 45,
@@ -11,7 +11,7 @@
   {
     "id": "medium",
     "name": "Dale ATX (Medium)",
-    "description": "5 minutes · 5 lives · Players with > 10 matches",
+    "description": "5 minutes · 5 lives · Players with at least 10 matches",
     "gameDurationSeconds": 300,
     "lives": 5,
     "revealPlayerAfterSeconds": 30,
@@ -20,7 +20,7 @@
   {
     "id": "hard",
     "name": "Carnaval (Hard)",
-    "description": "5 minutes · 3 lives · Players with > 5 matches",
+    "description": "5 minutes · 3 lives · Players with at least 5 matches",
     "gameDurationSeconds": 300,
     "lives": 3,
     "revealPlayerAfterSeconds": 25,

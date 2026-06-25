@@ -25,7 +25,7 @@
               [attr.aria-pressed]="selectedMinGames() === option"
               (click)="selectMinGames(option)"
             >
-              {{ option === -1 ? 'All players' : '> ' + option + ' matches' }}
+              {{ option === -1 ? 'All players' : 'At least ' + option + ' matches' }}
             </button>
           }
         </div>
