@@ -36,10 +36,8 @@ export class GeoGuesserStateService {
   startGame(difficulty: DifficultyLevel, players: Player[]): void {
     this._lastSelectedDifficultyId.set(difficulty.id);
 
-    // Sort by games played descending and take the top percentile
-    const sorted = [...players].sort((a, b) => b.gamesPlayed - a.gamesPlayed);
-    const poolSize = Math.ceil((sorted.length * difficulty.playerPercentile) / 100);
-    const pool = sorted.slice(0, poolSize);
+    // Filter by minGamesPlayed
+    const pool = players.filter((p) => p.gamesPlayed > difficulty.minGamesPlayed);
 
     const shuffled = [...pool].sort(() => Math.random() - 0.5);
     const [first, ...rest] = shuffled;

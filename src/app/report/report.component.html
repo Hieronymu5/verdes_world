@@ -2,7 +2,7 @@
   <header class="page-header">
     <h1>Career Map Report</h1>
     <p>
-      Filter players by Austin FC year and top percentile (by games played), then view every
+      Filter players by Austin FC year and games played, then view every
       matching player's career dots and journey lines.
     </p>
   </header>
@@ -14,18 +14,18 @@
   } @else {
     <section class="controls" aria-label="Report filters">
       <div class="control-block">
-        <h2>Top players by games played</h2>
-        <div class="percentile-buttons" role="group" aria-label="Top player percentile filter">
-          @for (option of percentileOptions; track option) {
+        <h2>Players by games played</h2>
+        <div class="percentile-buttons" role="group" aria-label="Games played filter">
+          @for (option of minGamesOptions; track option) {
             <button
               type="button"
               [class]="
-                selectedPercentile() === option ? 'percentile-btn percentile-btn-selected' : 'percentile-btn'
+                selectedMinGames() === option ? 'percentile-btn percentile-btn-selected' : 'percentile-btn'
               "
-              [attr.aria-pressed]="selectedPercentile() === option"
-              (click)="selectPercentile(option)"
+              [attr.aria-pressed]="selectedMinGames() === option"
+              (click)="selectMinGames(option)"
             >
-              Top {{ option }}%
+              {{ option === -1 ? 'All players' : '> ' + option + ' matches' }}
             </button>
           }
         </div>
@@ -60,7 +60,7 @@
       </div>
 
       <div class="summary" aria-live="polite">
-        <p><strong>{{ topPercentilePlayers().length }}</strong> players in percentile pool</p>
+        <p><strong>{{ filteredByGamesPlayers().length }}</strong> players in matches pool</p>
         <p><strong>{{ filteredPlayers().length }}</strong> players match selected years</p>
         <p><strong>{{ reportLines().length }}</strong> lines · <strong>{{ reportDots().length }}</strong> dots</p>
       </div>

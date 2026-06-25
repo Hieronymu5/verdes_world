@@ -31,8 +31,8 @@ export interface DifficultyLevel {
   gameDurationSeconds: number;
   lives: number;
   revealPlayerAfterSeconds: number;
-  /** Top N% of players by games played included in the pool (50 | 60 | 80 | 100) */
-  playerPercentile: number;
+  /** Minimum number of games played required to be in the pool */
+  minGamesPlayed: number;
 }
 
 export type GameStatus = 'difficulty' | 'playing' | 'game-over';

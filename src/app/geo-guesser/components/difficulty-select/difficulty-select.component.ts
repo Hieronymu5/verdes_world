@@ -51,8 +51,14 @@ export class DifficultySelectComponent {
     });
   }
 
-  poolSize(percentile: number): number {
-    return Math.ceil((this.allPlayers().length * percentile) / 100);
+  poolStats(minGamesPlayed: number): { size: number; label: string } {
+    const players = this.allPlayers();
+    const count = players.filter((p) => p.gamesPlayed > minGamesPlayed).length;
+    
+    if (minGamesPlayed === -1) {
+      return { size: count, label: 'All players' };
+    }
+    return { size: count, label: `> ${minGamesPlayed} apps` };
   }
 
   onCardClick(level: DifficultyLevel, index: number): void {

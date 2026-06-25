@@ -21,7 +21,7 @@ interface ReportDot {
 
 const MAP_W = 960;
 const MAP_H = 500;
-const PERCENTILE_OPTIONS = [20, 40, 60, 80, 100] as const;
+const MIN_GAMES_OPTIONS = [20, 10, 5, -1] as const;
 
 @Component({
   selector: 'app-report',
@@ -37,9 +37,9 @@ export class ReportComponent implements OnInit {
 
   readonly mapW = MAP_W;
   readonly mapH = MAP_H;
-  readonly percentileOptions = PERCENTILE_OPTIONS;
+  readonly minGamesOptions = MIN_GAMES_OPTIONS;
 
-  readonly selectedPercentile = signal<number>(100);
+  readonly selectedMinGames = signal<number>(-1);
   readonly selectedYears = signal<Set<number>>(new Set<number>());
 
   readonly landPath = signal('');
@@ -71,15 +71,10 @@ export class ReportComponent implements OnInit {
     return [...years].sort((a, b) => a - b);
   });
 
-  readonly topPercentilePlayers = computed(() => {
-    const sortedPlayers = this.playersSortedByGamesPlayed();
-    if (sortedPlayers.length === 0) return [];
-
-    const poolSize = Math.max(
-      1,
-      Math.ceil((sortedPlayers.length * this.selectedPercentile()) / 100),
-    );
-    return sortedPlayers.slice(0, poolSize);
+  readonly filteredByGamesPlayers = computed(() => {
+    const players = this.dataService.players();
+    const minGames = this.selectedMinGames();
+    return players.filter((p) => p.gamesPlayed > minGames);
   });
 
   readonly filteredPlayers = computed(() => {
@@ -87,7 +82,7 @@ export class ReportComponent implements OnInit {
     if (selectedYears.size === 0) return [];
 
     const austinYearsByPlayer = this.playerAustinYears();
-    return this.topPercentilePlayers().filter((player) => {
+    return this.filteredByGamesPlayers().filter((player) => {
       const years = austinYearsByPlayer.get(player.id) ?? [];
       return years.some((year) => selectedYears.has(year));
     });
@@ -151,8 +146,8 @@ export class ReportComponent implements OnInit {
     this.selectAllYears();
   }
 
-  selectPercentile(percentile: number): void {
-    this.selectedPercentile.set(percentile);
+  selectMinGames(minGames: number): void {
+    this.selectedMinGames.set(minGames);
   }
 
   onYearToggle(year: number, event: Event): void {

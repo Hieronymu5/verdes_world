@@ -2,29 +2,29 @@
   {
     "id": "easy",
     "name": "Verde! Listos! (Easy)",
-    "description": "5 minutes · 5 lives · Top 50% of players",
+    "description": "5 minutes · 5 lives · Players with > 20 matches",
     "gameDurationSeconds": 300,
     "lives": 5,
     "revealPlayerAfterSeconds": 45,
-    "playerPercentile": 50
+    "minGamesPlayed": 20
   },
   {
     "id": "medium",
     "name": "Dale ATX (Medium)",
-    "description": "5 minutes · 5 lives · Top 60% of players",
+    "description": "5 minutes · 5 lives · Players with > 10 matches",
     "gameDurationSeconds": 300,
     "lives": 5,
     "revealPlayerAfterSeconds": 30,
-    "playerPercentile": 60
+    "minGamesPlayed": 10
   },
   {
     "id": "hard",
     "name": "Carnaval (Hard)",
-    "description": "5 minutes · 3 lives · Top 80% of players",
+    "description": "5 minutes · 3 lives · Players with > 5 matches",
     "gameDurationSeconds": 300,
     "lives": 3,
     "revealPlayerAfterSeconds": 25,
-    "playerPercentile": 80
+    "minGamesPlayed": 5
   },
   {
     "id": "expert",
@@ -33,6 +33,6 @@
     "gameDurationSeconds": 300,
     "lives": 3,
     "revealPlayerAfterSeconds": 20,
-    "playerPercentile": 100
+    "minGamesPlayed": -1
   }
 ]
