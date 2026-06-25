@@ -22,29 +22,9 @@
   </div>
 
   <div class="guess-content-container">
-    @if (state().showPlayerName) {
-      <div class="hint-slot">
-        @if (state().lastGuessResult === 'correct') {
-          <p class="hint-strip correct-reveal" role="alert" aria-live="assertive">
-            ✓ Correct! <strong>{{ state().currentPlayer?.name }}</strong>
-          </p>
-        } @else if (state().lastGuessResult === 'wrong') {
-          <p class="hint-strip reveal" role="alert">
-            ✗ <strong>{{ state().currentPlayer?.name }}</strong>
-          </p>
-        } @else {
-          <p class="hint-strip reveal" role="alert">
-            ⏱ <strong>{{ state().currentPlayer?.name }}</strong>
-          </p>
-        }
-      </div>
-    }
-
     <!-- ── Input area (kept in layout so map doesn't jump on reveal) ── -->
     <div
       class="input-area"
-      [class.input-area-hidden]="state().showPlayerName"
-      [attr.aria-hidden]="state().showPlayerName ? 'true' : null"
     >
       <!-- Combobox wrapper -->
       <div
@@ -91,14 +71,6 @@
       </p>
 
       <!-- Inline hint below input ──────────────────────────────── -->
-      @switch (inputHint()) {
-        @case ('no-results') {
-          <p class="input-hint no-results">
-            No players match "<em>{{ inputValue() }}</em
-            >" — check the spelling
-          </p>
-        }
-      }
 
       <!-- Autocomplete dropdown ────────────────────────────────── -->
       @if (!state().showPlayerName && showDropdown() && suggestions().length > 0) {

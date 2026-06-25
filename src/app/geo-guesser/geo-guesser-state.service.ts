@@ -113,11 +113,18 @@ export class GeoGuesserStateService {
         this._state.update((s) => ({
           ...s,
           lives: 0,
-          status: 'game-over',
           showPlayerName: true,
           showTeamNames: true,
           lastGuessResult: 'wrong',
         }));
+
+        if (this.feedbackTimeoutId) clearTimeout(this.feedbackTimeoutId);
+        this.feedbackTimeoutId = setTimeout(() => {
+          this._state.update((s) => {
+            if (s.status !== 'playing' || !s.showPlayerName) return s;
+            return { ...s, status: 'game-over' };
+          });
+        }, 2000);
         return;
       }
 
@@ -159,7 +166,19 @@ export class GeoGuesserStateService {
 
         if (newGameTime <= 0) {
           this.stopTimer();
-          return { ...state, status: 'game-over', gameTimeRemaining: 0 };
+          if (this.feedbackTimeoutId) clearTimeout(this.feedbackTimeoutId);
+          this.feedbackTimeoutId = setTimeout(() => {
+            this._state.update((s) => {
+              if (s.status !== 'playing' || !s.showPlayerName) return s;
+              return { ...s, status: 'game-over' };
+            });
+          }, 2000);
+          return {
+            ...state,
+            showPlayerName: true,
+            showTeamNames: true,
+            gameTimeRemaining: 0,
+          };
         }
 
         // Time expired for this player — reveal name and deduct a life
@@ -167,10 +186,16 @@ export class GeoGuesserStateService {
           const newLives = state.lives - 1;
           if (newLives <= 0) {
             this.stopTimer();
+            if (this.feedbackTimeoutId) clearTimeout(this.feedbackTimeoutId);
+            this.feedbackTimeoutId = setTimeout(() => {
+              this._state.update((s) => {
+                if (s.status !== 'playing' || !s.showPlayerName) return s;
+                return { ...s, status: 'game-over' };
+              });
+            }, 2000);
             return {
               ...state,
               lives: 0,
-              status: 'game-over',
               showPlayerName: true,
               showTeamNames: true,
               gameTimeRemaining: newGameTime,

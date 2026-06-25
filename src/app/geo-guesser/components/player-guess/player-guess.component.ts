@@ -41,12 +41,7 @@ export class PlayerGuessComponent {
   readonly showDropdown = signal(false);
   readonly highlightedIndex = signal(-1);
 
-  /** Drives the dropdown hint label shown below the input */
-  readonly inputHint = computed((): 'idle' | 'no-results' | 'results' => {
-    const val = this.inputValue().trim();
-    if (!val || val.length < 2) return 'idle';
-    return this.suggestions().length > 0 ? 'results' : 'no-results';
-  });
+
 
   readonly suggestions = computed((): Player[] => {
     const val = this.inputValue().trim();

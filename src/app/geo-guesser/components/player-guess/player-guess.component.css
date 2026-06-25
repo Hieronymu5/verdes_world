@@ -73,43 +73,12 @@
   min-height: 48px; /* Approx height of input-area */
 }
 
-.hint-slot {
-  grid-area: content;
-  display: flex;
-  align-items: center;
-}
-
-.hint-strip {
-  font-size: 12px;
-  color: #fbbf24;
-  margin: 0;
-}
-
-.hint-strip.reveal {
-  color: #f87171;
-  font-size: 13px;
-}
-
-.hint-strip.correct-reveal {
-  color: #5ddb8a;
-  font-size: 13px;
-}
-
-.hint-strip strong {
-  color: #ffffff;
-}
-
 .input-area {
   grid-area: content;
   display: flex;
   flex-direction: column;
   gap: 4px;
   position: relative;
-}
-
-.input-area-hidden {
-  visibility: hidden;
-  pointer-events: none;
 }
 
 .input-instructions {
@@ -185,17 +154,7 @@ kbd {
   cursor: not-allowed;
 }
 
-.input-hint {
-  font-size: 11.5px;
-  margin: 0;
-  transition: color 0.2s;
-  position: absolute;
-  top: 100%;
-  left: 0;
-  margin-top: 4px;
-}
 
-.input-hint.no-results { color: #f87171; }
 
 .suggestions {
   position: absolute;
