@@ -45,3 +45,28 @@ body {
   background: #00b140;
   border-radius: 3px;
 }
+
+/* ── Buttons ──────────────────────────────────────────────────────── */
+.btn-return {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #00b140;
+  text-decoration: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  background: rgba(0, 177, 64, 0.1);
+  transition: background-color 0.2s, color 0.2s;
+  display: inline-block;
+}
+
+.btn-return:hover,
+.btn-return:focus-visible {
+  background: rgba(0, 177, 64, 0.2);
+  color: #4ade80;
+  outline: none;
+}
+
+.btn-return:focus-visible {
+  outline: 2px solid #00b140;
+  outline-offset: 2px;
+}

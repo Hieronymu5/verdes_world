@@ -54,10 +54,19 @@ export class PlayerGuessComponent {
         .replace(/[\u0300-\u036f]/g, '');
 
     const q = normalize(val);
-    return this.dataService
+    const matches = this.dataService
       .players()
-      .filter((p) => normalize(p.name).includes(q))
-      .slice(0, 8);
+      .filter((p) => normalize(p.name).includes(q));
+
+    matches.sort((a, b) => {
+      const aName = normalize(a.name);
+      const bName = normalize(b.name);
+      const aStarts = aName.startsWith(q) || aName.includes(' ' + q) ? 1 : 0;
+      const bStarts = bName.startsWith(q) || bName.includes(' ' + q) ? 1 : 0;
+      return bStarts - aStarts;
+    });
+
+    return matches.slice(0, 8);
   });
 
   onInput(value: string): void {
@@ -109,7 +118,7 @@ export class PlayerGuessComponent {
     const sug = this.suggestions();
     const rawVal = this.inputValue().trim();
 
-    // Bypass auto-pick for Brad Stuver Easter egg
+    // Bypass auto-pick for Brad Stuver cGFhcw ZWk
     if (this._currentPlayerId() === 'brad-stuver' && /^stuu+$/i.test(rawVal)) {
       this.submit(rawVal);
       return;

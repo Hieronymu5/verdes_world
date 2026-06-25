@@ -1,0 +1,45 @@
+<div class="about-container">
+  <header class="about-header">
+    <div class="header-top">
+      <h1>About Los Verdes GeoGuesser</h1>
+      <a routerLink="/" class="btn-return">Back to Game</a>
+    </div>
+    <p class="subtitle">
+      Welcome to Los Verdes GeoGuesser! This game tests your knowledge of Austin FC players and their past clubs across the world.
+    </p>
+
+    <p class="subtitle stats-info">
+      We currently have {{ allPlayers().length }} <a routerLink="/players" class="players-link">players</a> in the <a routerLink="/report" class="database-link">database</a>.
+    </p>
+
+    @if (versionInfo(); as vi) {
+      <p class="subtitle version-info">
+        Version: {{ vi.version }} &mdash; Last updated: {{ vi.lastUpdate }}
+      </p>
+    }
+  </header>
+
+  <main class="about-content">
+    <section class="resources-section">
+      <h2 class="resources-title">Community Resources</h2>
+      <p class="subtitle">Check out these amazing local Austin FC community resources, podcasts and charities:</p>
+
+      <div class="resource-categories">
+        @for (category of resources(); track category.category) {
+          <div class="resource-category">
+            <h3>{{ category.category }}</h3>
+            <ul>
+              @for (link of category.links; track link.url) {
+                <li>
+                  <a [href]="link.url" target="_blank" rel="noopener noreferrer">
+                    {{ link.name }}
+                  </a>
+                </li>
+              }
+            </ul>
+          </div>
+        }
+      </div>
+    </section>
+  </main>
+</div>

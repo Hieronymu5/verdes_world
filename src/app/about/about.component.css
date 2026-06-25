@@ -1,0 +1,104 @@
+:host {
+  display: block;
+  height: 100vh;
+  overflow-y: auto;
+  overflow-x: hidden;
+  background: #061525;
+}
+
+.about-container {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 24px;
+  color: #ffffff;
+}
+
+.about-header {
+  margin-bottom: 1rem;
+}
+
+.header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.about-header h1 {
+  font-size: 28px;
+  color: #ffffff;
+  margin: 0;
+}
+
+.subtitle {
+  margin: 8px 0 0;
+  color: #7ab398;
+}
+
+.players-link,
+.database-link {
+  color: #00b140;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.players-link:hover,
+.database-link:hover {
+  text-decoration: underline;
+}
+
+.version-info {
+  /* Inherits from .subtitle now, can override if needed */
+}
+
+.resources-section {
+  margin-top: 3rem;
+}
+
+.resources-title {
+  font-size: 1.5rem;
+  color: #ffffff;
+  margin: 0;
+}
+
+.resource-categories {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 1.5rem;
+}
+
+.resource-category {
+  border: 1px solid rgba(0, 177, 64, 0.35);
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.03);
+  padding: 12px 14px;
+}
+
+.resource-category h3 {
+  font-size: 18px;
+  color: #ffffff;
+  margin: 0 0 10px 0;
+}
+
+.resource-category ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.resource-category li {
+  margin: 0;
+}
+
+.resource-category a {
+  color: #00b140;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.resource-category a:hover {
+  text-decoration: underline;
+}

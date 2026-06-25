@@ -1,13 +1,15 @@
 import { ChangeDetectionStrategy, Component, computed, inject, OnInit } from '@angular/core';
+import { RouterLink } from '@angular/router';
 import { GeoGuesserDataService } from '../geo-guesser/geo-guesser-data.service';
 
 @Component({
-  selector: 'app-players-debug',
+  selector: 'app-players',
   changeDetection: ChangeDetectionStrategy.OnPush,
-  templateUrl: './players-debug.component.html',
-  styleUrl: './players-debug.component.css',
+  imports: [RouterLink],
+  templateUrl: './players.component.html',
+  styleUrl: './players.component.css',
 })
-export class PlayersDebugComponent implements OnInit {
+export class PlayersComponent implements OnInit {
   private readonly dataService = inject(GeoGuesserDataService);
 
   readonly loaded = this.dataService.loaded;

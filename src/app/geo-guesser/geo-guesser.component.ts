@@ -19,13 +19,23 @@ import { GeoGuesserStateService } from './geo-guesser-state.service';
   ],
   templateUrl: './geo-guesser.component.html',
   styleUrl: './geo-guesser.component.css',
+  host: {
+    '(document:keydown.escape)': 'onEscapeKey()',
+  },
 })
 export class GeoGuesserComponent implements OnInit {
   private readonly dataService = inject(GeoGuesserDataService);
   readonly stateService = inject(GeoGuesserStateService);
   readonly state = this.stateService.state;
+  readonly stuverText = atob('U1RVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV');
 
   async ngOnInit(): Promise<void> {
     await this.dataService.load();
+  }
+
+  onEscapeKey(): void {
+    if (this.state().status === 'playing') {
+      this.stateService.reset();
+    }
   }
 }

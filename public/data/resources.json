@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Supporters Groups",
+    "links": [
+      { "name": "La Murga", "url": "https://lamurgadeaustin.org/" },
+      { "name": "Los Verdes ATX", "url": "https://www.losverdesatx.org/" }
+    ]
+  },
+  {
+    "category": "Charities",
+    "links": [
+      { "name": "A 2 Toques Foundation", "url": "https://a2toquesfoundation.org/" },
+      { "name": "Brad and Ashley Stuver Foundation", "url": "https://www.bastuverfoundation.org/" }
+    ]
+  },
+  {
+    "category": "Podcasts",
+    "links": [
+      { "name": "Moontower Soccer", "url": "https://www.moontowersoccer.com/" },
+      { "name": "North End", "url": "https://www.thenorthendpodcast.com/" },
+      { "name": "Suffering From Joy", "url": "https://sufferingfromjoy.podbean.com/" },
+      { "name": "Verde All Day", "url": "https://verdeallday.com/" },
+      { "name": "We Are Austin TV", "url": "https://www.weareaustintv.com/" }
+    ]
+  }
+]

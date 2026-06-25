@@ -1,4 +1,5 @@
 import { ChangeDetectionStrategy, Component, computed, inject, OnInit, signal } from '@angular/core';
+import { RouterLink } from '@angular/router';
 import { geoGraticule, geoNaturalEarth1, geoPath, GeoPath, GeoProjection } from 'd3-geo';
 import type { Feature, FeatureCollection, Geometry, LineString } from 'geojson';
 import { feature, mesh } from 'topojson-client';
@@ -26,6 +27,7 @@ const MIN_GAMES_OPTIONS = [20, 10, 5, -1] as const;
 @Component({
   selector: 'app-report',
   changeDetection: ChangeDetectionStrategy.OnPush,
+  imports: [RouterLink],
   templateUrl: './report.component.html',
   styleUrl: './report.component.css',
 })

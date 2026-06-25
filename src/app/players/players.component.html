@@ -1,7 +1,10 @@
-<main class="players-debug" role="main" aria-label="Players debug page">
+<main class="players-page" role="main" aria-label="Players page">
   <header class="page-header">
-    <h1>Players Debug</h1>
-    <p class="subtitle">Development-only view of all players and clubs.</p>
+    <div class="header-top">
+      <h1>Players</h1>
+      <a routerLink="/about" class="btn-return">Back</a>
+    </div>
+    <p class="subtitle">Directory of all players and clubs in the database.</p>
   </header>
 
   @if (error()) {

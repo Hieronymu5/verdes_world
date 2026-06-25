@@ -14,7 +14,7 @@ const INITIAL_STATE: GameState = {
   showTeamNames: false,
   showPlayerName: false,
   lastGuessResult: null,
-  easterEgg: null,
+  cGFhcwZWk: null,
 };
 
 @Injectable({ providedIn: 'root' })
@@ -55,7 +55,7 @@ export class GeoGuesserStateService {
       showTeamNames: false,
       showPlayerName: false,
       lastGuessResult: null,
-      easterEgg: null,
+      cGFhcwZWk: null,
     });
 
     this.startTimer();
@@ -81,10 +81,10 @@ export class GeoGuesserStateService {
       guess === lastName ||
       (guess.length > 3 && fullName.includes(guess));
 
-    let isStuverEasterEgg = false;
+    let isStuvercGFhcwZWk = false;
     if (state.currentPlayer.id === 'brad-stuver' && /^stuu+$/.test(guess)) {
       isCorrect = true;
-      isStuverEasterEgg = true;
+      isStuvercGFhcwZWk = true;
     }
 
     if (isCorrect) {
@@ -95,14 +95,14 @@ export class GeoGuesserStateService {
         showPlayerName: true,
         showTeamNames: true,
         lastGuessResult: 'correct',
-        easterEgg: isStuverEasterEgg ? 'stuver' : null,
+        cGFhcwZWk: isStuvercGFhcwZWk ? 'stuver' : null,
       }));
 
       if (this.feedbackTimeoutId) clearTimeout(this.feedbackTimeoutId);
       this.feedbackTimeoutId = setTimeout(() => {
         this._state.update((s) => {
           if (s.status !== 'playing' || !s.showPlayerName) return s;
-          return this.buildNextPlayerState({ ...s, lastGuessResult: null, easterEgg: null });
+          return this.buildNextPlayerState({ ...s, lastGuessResult: null, cGFhcwZWk: null });
         });
       }, 1500);
     } else {
@@ -141,7 +141,7 @@ export class GeoGuesserStateService {
       this.feedbackTimeoutId = setTimeout(() => {
         this._state.update((s) => {
           if (s.status !== 'playing' || !s.showPlayerName) return s;
-          return this.buildNextPlayerState({ ...s, lastGuessResult: null, easterEgg: null });
+          return this.buildNextPlayerState({ ...s, lastGuessResult: null, cGFhcwZWk: null });
         });
       }, 2000);
     }
@@ -245,7 +245,7 @@ export class GeoGuesserStateService {
       showTeamNames: false,
       showPlayerName: false,
       lastGuessResult: null,
-      easterEgg: null,
+      cGFhcwZWk: null,
     };
   }
 

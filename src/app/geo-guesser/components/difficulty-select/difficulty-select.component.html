@@ -50,9 +50,6 @@
   </nav>
 
   <footer class="select-footer">
-    <p>{{ allPlayers().length }} Austin FC players in the database</p>
-    @if (versionInfo(); as vi) {
-      <p class="footer-note">{{ vi.version }} &mdash; Last updated: {{ vi.lastUpdate }}</p>
-    }
+    <a routerLink="/about" class="about-link">About & Resources</a>
   </footer>
 </div>

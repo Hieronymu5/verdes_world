@@ -1,18 +1,16 @@
 import { isDevMode } from '@angular/core';
 import { Routes } from '@angular/router';
 
-const developmentOnlyRoutes: Routes = isDevMode()
-  ? [
-      {
-        path: 'players',
-        loadComponent: () =>
-          import('./players-debug/players-debug.component').then((m) => m.PlayersDebugComponent),
-      },
-    ]
-  : [];
-
 export const routes: Routes = [
-  ...developmentOnlyRoutes,
+  {
+    path: 'players',
+    loadComponent: () =>
+      import('./players/players.component').then((m) => m.PlayersComponent),
+  },
+  {
+    path: 'about',
+    loadComponent: () => import('./about/about.component').then((m) => m.AboutComponent),
+  },
   {
     path: 'geo-guesser',
     loadComponent: () =>

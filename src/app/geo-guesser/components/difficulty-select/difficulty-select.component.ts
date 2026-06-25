@@ -1,4 +1,5 @@
 import { ChangeDetectionStrategy, Component, computed, effect, ElementRef, inject, signal, viewChildren } from '@angular/core';
+import { RouterLink } from '@angular/router';
 import { GeoGuesserDataService } from '../../geo-guesser-data.service';
 import { GeoGuesserStateService } from '../../geo-guesser-state.service';
 import { DifficultyLevel } from '../../geo-guesser.models';
@@ -6,6 +7,7 @@ import { DifficultyLevel } from '../../geo-guesser.models';
 @Component({
   selector: 'app-difficulty-select',
   changeDetection: ChangeDetectionStrategy.OnPush,
+  imports: [RouterLink],
   host: {
     '(document:keydown)': 'onDocumentKeydown($event)',
   },
@@ -18,7 +20,6 @@ export class DifficultySelectComponent {
 
   readonly difficulties = this.dataService.difficulties;
   readonly allPlayers = this.dataService.players;
-  readonly versionInfo = this.dataService.versionInfo;
 
   readonly selectedIndex = signal(-1);
   private readonly difficultyButtons = viewChildren<ElementRef<HTMLButtonElement>>('difficultyBtn');

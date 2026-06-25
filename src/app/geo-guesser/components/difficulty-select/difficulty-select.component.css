@@ -240,11 +240,28 @@
   color: #4a7a5c;
   font-size: 12px;
   line-height: 1.8;
+  margin-top: 1rem;
 }
 
-.footer-note {
+.about-link {
+  font-size: 1.25rem;
+  font-weight: 700;
   color: #00b140;
-  font-weight: 600;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
+  text-decoration: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  background: rgba(0, 177, 64, 0.1);
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.about-link:hover,
+.about-link:focus-visible {
+  background: rgba(0, 177, 64, 0.2);
+  color: #4ade80;
+  outline: none;
+}
+
+.about-link:focus-visible {
+  outline: 2px solid #00b140;
+  outline-offset: 2px;
 }

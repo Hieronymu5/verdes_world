@@ -21,6 +21,12 @@
   font-size: 30px;
 }
 
+.header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .page-header p {
   margin-top: 8px;
   color: #9ec5ac;
