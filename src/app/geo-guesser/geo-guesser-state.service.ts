@@ -160,7 +160,7 @@ export class GeoGuesserStateService {
       this._state.update((state) => {
         if (state.status !== 'playing') return state;
 
-        const newGameTime = state.gameTimeRemaining - 1;
+        const newGameTime = state.showPlayerName ? state.gameTimeRemaining : state.gameTimeRemaining - 1;
         const newPlayerTime = state.playerTimeElapsed + 1;
         const diff = state.selectedDifficulty!;
 
