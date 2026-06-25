@@ -69,17 +69,6 @@
   line-height: 1;
   gap: 2px;
   margin: 0;
-}
-
-.title-top {
-  font-size: 20px;
-  font-weight: 700;
-  letter-spacing: 0.35em;
-  text-transform: uppercase;
-  color: #00b140;
-}
-
-.title-bottom {
   font-size: 32px;
   font-weight: 800;
   color: #ffffff;
