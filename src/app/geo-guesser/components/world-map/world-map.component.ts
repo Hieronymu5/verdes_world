@@ -72,22 +72,22 @@ export class WorldMapComponent implements OnInit {
   readonly teamListW = TEAM_LIST_W;
   readonly teamListX = MAP_W - TEAM_LIST_W - 14;
 
-  readonly landPath      = signal('');
-  readonly bordersPath   = signal('');
+  readonly landPath = signal('');
+  readonly bordersPath = signal('');
   readonly graticulePath = signal('');
 
   private readonly _projection = signal<GeoProjection | null>(null);
-  private readonly _pathGen    = signal<GeoPath | null>(null);
+  private readonly _pathGen = signal<GeoPath | null>(null);
 
   async ngOnInit(): Promise<void> {
     const topo = await fetch('/data/world-110m.json').then(
-      (r) => r.json() as Promise<Topology<{ countries: GeometryCollection; land: GeometryCollection }>>,
+      (r) =>
+        r.json() as Promise<Topology<{ countries: GeometryCollection; land: GeometryCollection }>>,
     );
 
-    const projection = geoNaturalEarth1().fitSize(
-      [MAP_W, MAP_H],
-      { type: 'Sphere' } as unknown as Feature<Geometry>,
-    );
+    const projection = geoNaturalEarth1().fitSize([MAP_W, MAP_H], {
+      type: 'Sphere',
+    } as unknown as Feature<Geometry>);
     const path = geoPath(projection);
 
     this._projection.set(projection);
@@ -110,9 +110,9 @@ export class WorldMapComponent implements OnInit {
   // and each dot appears exactly when its incoming line finishes drawing.
 
   private readonly _schedule = computed(() => {
-    const proj    = this._projection();
+    const proj = this._projection();
     const pathGen = this._pathGen();
-    const p       = this.player();
+    const p = this.player();
     if (!proj || !pathGen || !p) return null;
 
     // Project every club to SVG space
@@ -126,20 +126,23 @@ export class WorldMapComponent implements OnInit {
     const dotDelays: number[] = [0]; // first dot is visible immediately
 
     for (let i = 0; i < positions.length - 1; i++) {
-      const cur  = positions[i];
+      const cur = positions[i];
       const next = positions[i + 1];
 
       const geo: LineString = {
         type: 'LineString',
         coordinates: [
-          [cur.club.lng,  cur.club.lat],
+          [cur.club.lng, cur.club.lat],
           [next.club.lng, next.club.lat],
         ],
       };
 
-      const d      = pathGen(geo as unknown as Feature<Geometry>) ?? '';
+      const d = pathGen(geo as unknown as Feature<Geometry>) ?? '';
       const length = Math.max(10, pathGen.measure(geo as unknown as Feature<Geometry>));
-      const duration = Math.min(LINE_MAX_DURATION, Math.max(LINE_MIN_DURATION, length / LINE_SPEED));
+      const duration = Math.min(
+        LINE_MAX_DURATION,
+        Math.max(LINE_MIN_DURATION, length / LINE_SPEED),
+      );
 
       lines.push({
         d,
@@ -165,8 +168,8 @@ export class WorldMapComponent implements OnInit {
     return { points, lines };
   });
 
-  readonly mapPoints    = computed((): MapPoint[]    => this._schedule()?.points ?? []);
-  readonly journeyLines = computed((): JourneyLine[] => this._schedule()?.lines  ?? []);
+  readonly mapPoints = computed((): MapPoint[] => this._schedule()?.points ?? []);
+  readonly journeyLines = computed((): JourneyLine[] => this._schedule()?.lines ?? []);
 
   private readonly _teamListItems = computed((): TeamListItem[] => {
     const p = this.player();
@@ -182,8 +185,12 @@ export class WorldMapComponent implements OnInit {
       revealDelay: points[i]?.animDelay ?? 0,
     }));
   });
+
   readonly teamListItems = computed((): TeamListItem[] => {
-    const maxRows = Math.max(1, Math.floor((TEAM_LIST_MAX_H - TEAM_LIST_START_Y) / TEAM_LIST_ROW_H));
+    const maxRows = Math.max(
+      1,
+      Math.floor((TEAM_LIST_MAX_H - TEAM_LIST_START_Y) / TEAM_LIST_ROW_H),
+    );
     return this._teamListItems().slice(0, maxRows);
   });
 
@@ -199,7 +206,9 @@ export class WorldMapComponent implements OnInit {
     }));
   });
 
-  readonly hiddenTeamCount = computed(() => this._teamListItems().length - this.teamListItems().length);
+  readonly hiddenTeamCount = computed(
+    () => this._teamListItems().length - this.teamListItems().length,
+  );
 
   readonly teamListPanelHeight = computed(() => {
     const itemCount = this.teamListItems().length;

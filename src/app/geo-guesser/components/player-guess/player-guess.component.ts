@@ -1,4 +1,14 @@
-import { ChangeDetectionStrategy, Component, computed, effect, ElementRef, inject, signal, untracked, viewChild } from '@angular/core';
+import {
+  ChangeDetectionStrategy,
+  Component,
+  computed,
+  effect,
+  ElementRef,
+  inject,
+  signal,
+  untracked,
+  viewChild,
+} from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { GeoGuesserDataService } from '../../geo-guesser-data.service';
 import { GeoGuesserStateService } from '../../geo-guesser-state.service';
@@ -41,8 +51,6 @@ export class PlayerGuessComponent {
   readonly showDropdown = signal(false);
   readonly highlightedIndex = signal(-1);
 
-
-
   readonly suggestions = computed((): Player[] => {
     const val = this.inputValue().trim();
     if (val.length < 2) return [];
@@ -54,9 +62,7 @@ export class PlayerGuessComponent {
         .replace(/[\u0300-\u036f]/g, '');
 
     const q = normalize(val);
-    const matches = this.dataService
-      .players()
-      .filter((p) => normalize(p.name).includes(q));
+    const matches = this.dataService.players().filter((p) => normalize(p.name).includes(q));
 
     matches.sort((a, b) => {
       const aName = normalize(a.name);
