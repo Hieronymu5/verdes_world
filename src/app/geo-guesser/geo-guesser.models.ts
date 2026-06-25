@@ -35,6 +35,16 @@ export interface DifficultyLevel {
   minGamesPlayed: number;
 }
 
+export interface ResourceLink {
+  name: string;
+  url: string;
+}
+
+export interface ResourceCategory {
+  category: string;
+  links: ResourceLink[];
+}
+
 export type GameStatus = 'difficulty' | 'playing' | 'game-over';
 
 export interface GameState {
