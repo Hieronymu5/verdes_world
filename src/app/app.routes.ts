@@ -12,7 +12,7 @@ export const routes: Routes = [
     loadComponent: () => import('./about/about.component').then((m) => m.AboutComponent),
   },
   {
-    path: 'geo-guesser',
+    path: 'game',
     loadComponent: () =>
       import('./geo-guesser/geo-guesser.component').then((m) => m.GeoGuesserComponent),
   },
@@ -22,7 +22,7 @@ export const routes: Routes = [
   },
   {
     path: '',
-    redirectTo: 'geo-guesser',
+    redirectTo: 'game',
     pathMatch: 'full',
   },
 ];
