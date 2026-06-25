@@ -102,3 +102,7 @@
 .resource-category a:hover {
   text-decoration: underline;
 }
+
+.resource-category p {
+  margin: 0;
+}
