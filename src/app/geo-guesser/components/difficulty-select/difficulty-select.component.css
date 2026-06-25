@@ -133,7 +133,7 @@
   gap: 6px;
   padding: 20px 20px 16px;
   border-radius: 14px;
-  border: 2px solid transparent;
+  border: 2px solid rgba(0, 177, 64, 0.4);
   background: rgba(255, 255, 255, 0.04);
   color: #ffffff;
   cursor: pointer;
@@ -158,23 +158,31 @@
   outline-offset: 2px;
 }
 
-.difficulty-easy {
-  border-color: rgba(74, 222, 128, 0.4);
+.card-id {
+  font-size: 20px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 2px;
 }
-.difficulty-medium {
-  border-color: rgba(0, 177, 64, 0.6);
+
+.difficulty-easy .card-id {
+  color: #4ade80;
 }
-.difficulty-hard {
-  border-color: rgba(251, 191, 36, 0.5);
+.difficulty-medium .card-id {
+  color: #00b140;
 }
-.difficulty-expert {
-  border-color: rgba(248, 113, 113, 0.5);
+.difficulty-hard .card-id {
+  color: #fbbf24;
+}
+.difficulty-expert .card-id {
+  color: #f87171;
 }
 
 .difficulty-easy:hover,
 .difficulty-easy.selected {
   background: rgba(74, 222, 128, 0.08);
-  border-color: #4ade80;
+  border-color: #00b140;
 }
 
 .difficulty-medium:hover,
@@ -186,13 +194,13 @@
 .difficulty-hard:hover,
 .difficulty-hard.selected {
   background: rgba(251, 191, 36, 0.08);
-  border-color: #fbbf24;
+  border-color: #00b140;
 }
 
 .difficulty-expert:hover,
 .difficulty-expert.selected {
   background: rgba(248, 113, 113, 0.08);
-  border-color: #f87171;
+  border-color: #00b140;
 }
 
 .difficulty-card.selected {

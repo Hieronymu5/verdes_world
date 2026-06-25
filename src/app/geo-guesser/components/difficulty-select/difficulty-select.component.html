@@ -26,6 +26,7 @@
             (focus)="onCardFocus(i)"
             (click)="onCardClick(level, i)"
           >
+            <div class="card-id">{{ level.id }}</div>
             <div class="card-name">{{ level.name }}</div>
             <div class="card-description">{{ level.description }}</div>
             <div class="card-stats">

@@ -1,7 +1,7 @@
 [
   {
     "id": "easy",
-    "name": "Verde! Listos! (Easy)",
+    "name": "Verde! Listos!",
     "description": "5 minutes · 5 lives · Players with at least 20 matches",
     "gameDurationSeconds": 300,
     "lives": 5,
@@ -10,7 +10,7 @@
   },
   {
     "id": "medium",
-    "name": "Dale ATX (Medium)",
+    "name": "Dale ATX",
     "description": "5 minutes · 5 lives · Players with at least 10 matches",
     "gameDurationSeconds": 300,
     "lives": 5,
@@ -19,7 +19,7 @@
   },
   {
     "id": "hard",
-    "name": "Carnaval (Hard)",
+    "name": "La Vida Verde es un Carnaval",
     "description": "5 minutes · 3 lives · Players with at least 5 matches",
     "gameDurationSeconds": 300,
     "lives": 3,
@@ -28,7 +28,7 @@
   },
   {
     "id": "expert",
-    "name": "True Love Will Find You in the End (Expert)",
+    "name": "True Love Will Find You in the End",
     "description": "5 minutes · 3 lives · All players",
     "gameDurationSeconds": 300,
     "lives": 3,
