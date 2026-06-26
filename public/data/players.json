@@ -3382,13 +3382,22 @@
     "position": "FW",
     "clubs": [
       {
-        "clubName": "Houston Dynamo",
-        "city": "Houston",
+        "clubName": "Orange County Blue Star",
+        "city": "Irvine",
         "country": "USA",
-        "lat": 29.7519,
-        "lng": -95.3561,
-        "fromYear": 2011,
-        "toYear": 2015
+        "lat": 33.6846,
+        "lng": -117.8265,
+        "fromYear": 2010,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Charlotte Eagles",
+        "city": "Charlotte",
+        "country": "USA",
+        "lat": 35.2271,
+        "lng": -80.8431,
+        "fromYear": 2013,
+        "toYear": 2013
       },
       {
         "clubName": "Minnesota United",
@@ -3396,8 +3405,35 @@
         "country": "USA",
         "lat": 44.9517,
         "lng": -93.1661,
-        "fromYear": 2016,
-        "toYear": 2020
+        "fromYear": 2014,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Los Angeles FC",
+        "city": "Los Angeles",
+        "country": "USA",
+        "lat": 34.0522,
+        "lng": -118.2437,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Houston Dynamo",
+        "city": "Houston",
+        "country": "USA",
+        "lat": 29.7519,
+        "lng": -95.3561,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Aberdeen",
+        "city": "Aberdeen",
+        "country": "Scotland",
+        "lat": 57.1598,
+        "lng": -2.0887,
+        "fromYear": 2021,
+        "toYear": 2023
       },
       {
         "clubName": "Columbus Crew",
@@ -3405,8 +3441,17 @@
         "country": "USA",
         "lat": 39.9609,
         "lng": -82.9985,
-        "fromYear": 2021,
-        "toYear": 2022
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "LA Galaxy",
+        "city": "Los Angeles",
+        "country": "USA",
+        "lat": 33.8643,
+        "lng": -118.2611,
+        "fromYear": 2025,
+        "toYear": 2026
       },
       {
         "clubName": "Austin FC",
@@ -3414,8 +3459,8 @@
         "country": "USA",
         "lat": 30.3848,
         "lng": -97.7183,
-        "fromYear": 2023,
-        "toYear": 2023
+        "fromYear": 2026,
+        "toYear": 2026
       }
     ],
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_Ramirez_(soccer,_born_1991)"
