@@ -3,14 +3,14 @@
   height: 100vh;
   overflow-y: auto;
   overflow-x: hidden;
-  background: #061525;
+  background: var(--vw-color-bg);
 }
 
 .about-container {
   max-width: 980px;
   margin: 0 auto;
-  padding: 24px;
-  color: #ffffff;
+  padding: var(--vw-space-xl);
+  color: var(--vw-color-text-primary);
 }
 
 .about-header {
@@ -24,21 +24,21 @@
 }
 
 .about-header h1 {
-  font-size: 28px;
-  color: #ffffff;
+  font-size: var(--vw-font-size-2xl);
+  color: var(--vw-color-text-primary);
   margin: 0;
 }
 
 .subtitle {
-  margin: 8px 0 0;
-  color: #7ab398;
+  margin: var(--vw-space-sm) 0 0;
+  color: var(--vw-color-text-secondary);
 }
 
 .players-link,
 .database-link {
-  color: #00b140;
+  color: var(--vw-color-brand);
   text-decoration: none;
-  font-weight: 700;
+  font-weight: var(--vw-font-weight-bold);
 }
 
 .players-link:hover,
@@ -46,38 +46,34 @@
   text-decoration: underline;
 }
 
-.version-info {
-  /* Inherits from .subtitle now, can override if needed */
-}
-
 .resources-section {
   margin-top: 3rem;
 }
 
 .resources-title {
-  font-size: 1.5rem;
-  color: #ffffff;
+  font-size: var(--vw-font-size-xl);
+  color: var(--vw-color-text-primary);
   margin: 0;
 }
 
 .resource-categories {
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  gap: var(--vw-space-md);
   margin-top: 1.5rem;
 }
 
 .resource-category {
-  border: 1px solid rgba(0, 177, 64, 0.35);
-  border-radius: 10px;
-  background: rgba(255, 255, 255, 0.03);
-  padding: 12px 14px;
+  border: 1px solid var(--vw-color-border);
+  border-radius: var(--vw-radius-lg);
+  background: var(--vw-color-card-bg);
+  padding: var(--vw-space-md) var(--vw-space-lg);
 }
 
 .resource-category h3 {
-  font-size: 18px;
-  color: #ffffff;
-  margin: 0 0 10px 0;
+  font-size: var(--vw-font-size-lg);
+  color: var(--vw-color-text-primary);
+  margin: 0 0 var(--vw-space-sm) 0;
 }
 
 .resource-category ul {
@@ -86,7 +82,7 @@
   margin: 0;
   display: flex;
   flex-direction: column;
-  gap: 5px;
+  gap: var(--vw-space-xs);
 }
 
 .resource-category li {
@@ -94,9 +90,9 @@
 }
 
 .resource-category a {
-  color: #00b140;
+  color: var(--vw-color-brand);
   text-decoration: none;
-  font-weight: 700;
+  font-weight: var(--vw-font-weight-bold);
 }
 
 .resource-category a:hover {

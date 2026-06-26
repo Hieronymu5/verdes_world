@@ -3,22 +3,22 @@
   height: 100vh;
   overflow-y: auto;
   overflow-x: hidden;
-  background: #061525;
+  background: var(--vw-color-bg);
 }
 
 .report-page {
   max-width: 1240px;
   margin: 0 auto;
-  padding: 20px;
-  color: #ffffff;
+  padding: var(--vw-space-lg);
+  color: var(--vw-color-text-primary);
   display: flex;
   flex-direction: column;
-  gap: 16px;
+  gap: var(--vw-space-lg);
 }
 
 .page-header h1 {
   margin: 0;
-  font-size: 30px;
+  font-size: var(--vw-font-size-2xl);
 }
 
 .header-top {
@@ -28,54 +28,54 @@
 }
 
 .page-header p {
-  margin-top: 8px;
-  color: #9ec5ac;
-  line-height: 1.45;
+  margin-top: var(--vw-space-sm);
+  color: var(--vw-color-text-tertiary);
+  line-height: var(--vw-line-height-relaxed);
 }
 
 .controls {
-  border: 1px solid rgba(0, 177, 64, 0.4);
-  background: rgba(255, 255, 255, 0.03);
-  border-radius: 12px;
-  padding: 16px;
+  border: 1px solid var(--vw-color-border-medium);
+  background: var(--vw-color-card-bg);
+  border-radius: var(--vw-radius-xl);
+  padding: var(--vw-space-lg);
   display: grid;
-  gap: 14px;
+  gap: var(--vw-space-lg);
 }
 
 .control-block h2 {
-  margin: 0 0 8px;
-  font-size: 16px;
-  color: #dff4e7;
+  margin: 0 0 var(--vw-space-sm);
+  font-size: var(--vw-font-size-md);
+  color: var(--vw-color-text-accent-light);
 }
 
 .percentile-buttons {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
+  gap: var(--vw-space-sm);
 }
 
 .percentile-btn,
 .action-btn {
-  border: 1px solid rgba(122, 179, 152, 0.65);
-  border-radius: 8px;
-  background: #0a1f38;
-  color: #d8efe1;
-  font-size: 13px;
-  font-weight: 600;
-  padding: 6px 10px;
+  border: 1px solid var(--vw-color-secondary-65);
+  border-radius: var(--vw-radius-md);
+  background: var(--vw-color-bg-surface);
+  color: var(--vw-color-text-accent-light);
+  font-size: var(--vw-font-size-sm);
+  font-weight: var(--vw-font-weight-semibold);
+  padding: var(--vw-space-sm) var(--vw-space-md);
   cursor: pointer;
 }
 
 .percentile-btn-selected {
-  background: #00b140;
-  border-color: #00b140;
-  color: #061525;
+  background: var(--vw-color-brand);
+  border-color: var(--vw-color-brand);
+  color: var(--vw-color-bg);
 }
 
 .year-actions {
   display: flex;
-  gap: 8px;
-  margin-bottom: 8px;
+  gap: var(--vw-space-sm);
+  margin-bottom: var(--vw-space-sm);
 }
 
 .year-fieldset {
@@ -87,58 +87,58 @@
 .year-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(92px, 1fr));
-  gap: 8px;
+  gap: var(--vw-space-sm);
 }
 
 .year-option {
   display: inline-flex;
   align-items: center;
-  gap: 8px;
-  border: 1px solid rgba(122, 179, 152, 0.35);
-  border-radius: 8px;
-  padding: 5px 8px;
-  background: rgba(6, 21, 37, 0.7);
+  gap: var(--vw-space-sm);
+  border: 1px solid var(--vw-color-secondary-35);
+  border-radius: var(--vw-radius-md);
+  padding: var(--vw-space-xs) var(--vw-space-sm);
+  background: var(--vw-color-bg-70);
 }
 
 .year-option span {
-  font-size: 13px;
+  font-size: var(--vw-font-size-sm);
 }
 
 .summary {
   display: flex;
   flex-wrap: wrap;
-  gap: 14px;
-  color: #cbe7d6;
-  font-size: 14px;
+  gap: var(--vw-space-lg);
+  color: var(--vw-color-text-accent);
+  font-size: var(--vw-font-size-md);
 }
 
 .status {
   margin: 0;
-  padding: 12px;
-  border-radius: 10px;
+  padding: var(--vw-space-lg);
+  border-radius: var(--vw-radius-xl);
 }
 
 .status.loading,
 .status.empty {
-  color: #9ec5ac;
-  background: rgba(16, 54, 88, 0.45);
+  color: var(--vw-color-text-tertiary);
+  background: var(--vw-color-bg-status);
 }
 
 .status.error {
-  color: #fecaca;
-  background: rgba(127, 29, 29, 0.45);
+  color: var(--vw-color-error-light);
+  background: var(--vw-color-error-bg);
 }
 
 .empty-years {
-  color: #9ec5ac;
+  color: var(--vw-color-text-tertiary);
   margin: 0;
 }
 
 .map-card {
-  border: 1px solid rgba(0, 177, 64, 0.35);
-  border-radius: 12px;
+  border: 1px solid var(--vw-color-border);
+  border-radius: var(--vw-radius-xl);
   overflow: hidden;
-  background: #061525;
+  background: var(--vw-color-bg);
 }
 
 .world-map {
@@ -149,42 +149,42 @@
 }
 
 .land {
-  fill: #1e3d28;
+  fill: var(--vw-color-land);
 }
 
 .borders {
   fill: none;
-  stroke: #2d5e3a;
+  stroke: var(--vw-color-border-stroke);
   stroke-width: 0.4;
   stroke-linejoin: round;
 }
 
 .graticule {
   fill: none;
-  stroke: #0e3356;
+  stroke: var(--vw-color-graticule);
   stroke-width: 0.3;
   opacity: 0.6;
 }
 
 .report-line {
   fill: none;
-  stroke: rgba(232, 244, 240, 0.16);
+  stroke: var(--vw-color-text-light-16);
   stroke-width: 1.1;
   stroke-linecap: round;
 }
 
 .report-line-austin {
-  stroke: rgba(0, 177, 64, 0.6);
+  stroke: var(--vw-color-brand-60);
   stroke-width: 1.5;
 }
 
 .report-dot {
-  fill: rgba(229, 247, 237, 0.6);
+  fill: var(--vw-color-text-light-60);
 }
 
 .report-dot-austin {
-  fill: #00b140;
-  stroke: #e8f4f0;
+  fill: var(--vw-color-brand);
+  stroke: var(--vw-color-text-light);
   stroke-width: 0.8;
 }
 

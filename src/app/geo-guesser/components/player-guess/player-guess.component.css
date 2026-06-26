@@ -4,12 +4,12 @@
 }
 
 .guess-panel {
-  background: rgba(6, 21, 37, 0.96);
-  border-top: 2px solid #00b140;
-  padding: 8px 16px 10px;
+  background: var(--vw-color-bg-96);
+  border-top: 2px solid var(--vw-color-brand);
+  padding: var(--vw-space-sm) var(--vw-space-lg) var(--vw-space-md);
   display: flex;
   flex-direction: column;
-  gap: 6px;
+  gap: var(--vw-space-xs);
   position: relative;
   backdrop-filter: blur(6px);
   flex-shrink: 0;
@@ -19,122 +19,120 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 12px;
+  gap: var(--vw-space-md);
 }
 
 .guess-question {
   display: flex;
   align-items: center;
-  gap: 7px;
+  gap: var(--vw-space-xs);
 }
 
 .question-icon {
-  font-size: 18px;
+  font-size: var(--vw-font-size-lg);
   flex-shrink: 0;
 }
 
 .question-text {
-  font-size: 15px;
-  font-weight: 700;
-  color: #ffffff;
+  font-size: var(--vw-font-size-base);
+  font-weight: var(--vw-font-weight-bold);
+  color: var(--vw-color-text-primary);
 }
 
 .jersey-badge {
   display: flex;
   align-items: baseline;
-  gap: 3px;
-  background: rgba(0, 177, 64, 0.12);
-  border: 1px solid rgba(0, 177, 64, 0.5);
-  border-radius: 6px;
-  padding: 2px 6px;
+  gap: var(--vw-space-xs);
+  background: var(--vw-color-brand-12);
+  border: 1px solid var(--vw-color-border-strong);
+  border-radius: var(--vw-radius-sm);
+  padding: var(--vw-space-xs) var(--vw-space-sm);
   flex-shrink: 0;
 }
 
 .jersey-label {
-  font-size: 10px;
-  font-weight: 600;
-  color: #00b140;
+  font-size: var(--vw-font-size-xs);
+  font-weight: var(--vw-font-weight-semibold);
+  color: var(--vw-color-brand);
   letter-spacing: 0.06em;
   text-transform: uppercase;
 }
 
 .jersey-number {
-  font-size: 10px;
-  font-weight: 800;
-  color: #ffffff;
-  line-height: 1;
+  font-size: var(--vw-font-size-xs);
+  font-weight: var(--vw-font-weight-extrabold);
+  color: var(--vw-color-text-primary);
+  line-height: var(--vw-line-height-tight);
 }
-
-
 
 .guess-content-container {
   display: grid;
   grid-template-areas: "content";
-  min-height: 48px; /* Approx height of input-area */
+  min-height: 48px;
 }
 
 .input-area {
   grid-area: content;
   display: flex;
   flex-direction: column;
-  gap: 4px;
+  gap: var(--vw-space-xs);
   position: relative;
 }
 
 .input-instructions {
   font-size: 11.5px;
-  color: #7ab398;
+  color: var(--vw-color-text-secondary);
   margin: 0;
-  line-height: 1.35;
+  line-height: var(--vw-line-height-normal);
 }
 
 kbd {
   display: inline-block;
-  background: rgba(255, 255, 255, 0.1);
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  border-radius: 4px;
-  padding: 1px 5px;
-  font-size: 11px;
+  background: var(--vw-color-white-10);
+  border: 1px solid var(--vw-color-white-20);
+  border-radius: var(--vw-radius-sm);
+  padding: 1px var(--vw-space-xs);
+  font-size: var(--vw-font-size-xs);
   font-family: inherit;
-  color: #c8e6d0;
-  line-height: 1.4;
+  color: var(--vw-color-text-accent);
+  line-height: var(--vw-line-height-normal);
 }
 
 .input-wrapper {
   display: flex;
-  gap: 8px;
+  gap: var(--vw-space-sm);
 }
 
 .guess-input {
   flex: 1;
-  background: rgba(255, 255, 255, 0.06);
-  border: 2px solid rgba(0, 177, 64, 0.45);
-  border-radius: 10px;
-  color: #ffffff;
-  font-size: 16px;
-  padding: 11px 16px;
+  background: var(--vw-color-input-bg);
+  border: 2px solid var(--vw-color-border-input);
+  border-radius: var(--vw-radius-lg);
+  color: var(--vw-color-text-primary);
+  font-size: var(--vw-font-size-base);
+  padding: 11px var(--vw-space-lg);
   outline: none;
   transition: border-color 0.2s, background 0.2s;
   font-family: inherit;
 }
 
 .guess-input::placeholder {
-  color: rgba(255, 255, 255, 0.3);
+  color: var(--vw-color-white-30);
   font-style: italic;
 }
 
 .guess-input:focus {
-  border-color: #00b140;
-  background: rgba(0, 177, 64, 0.08);
+  border-color: var(--vw-color-brand);
+  background: var(--vw-color-brand-10);
 }
 
 .submit-btn {
-  background: #00b140;
+  background: var(--vw-color-brand);
   border: none;
-  border-radius: 10px;
-  color: #ffffff;
-  font-size: 20px;
-  font-weight: 700;
+  border-radius: var(--vw-radius-lg);
+  color: var(--vw-color-text-primary);
+  font-size: var(--vw-font-size-xl);
+  font-weight: var(--vw-font-weight-bold);
   width: 50px;
   flex-shrink: 0;
   cursor: pointer;
@@ -142,7 +140,7 @@ kbd {
 }
 
 .submit-btn:hover:not(:disabled) {
-  background: #00d44d;
+  background: var(--vw-color-brand-hover);
 }
 
 .submit-btn:active:not(:disabled) {
@@ -154,21 +152,19 @@ kbd {
   cursor: not-allowed;
 }
 
-
-
 .suggestions {
   position: absolute;
-  bottom: calc(100% + 6px);
+  bottom: calc(100% + var(--vw-space-sm));
   left: 0;
   right: 0;
-  background: #0c1e33;
-  border: 1.5px solid rgba(0, 177, 64, 0.65);
-  border-radius: 12px;
+  background: var(--vw-color-bg-elevated);
+  border: 1.5px solid var(--vw-color-border-heavy);
+  border-radius: var(--vw-radius-xl);
   list-style: none;
   margin: 0;
-  padding: 4px 0;
+  padding: var(--vw-space-xs) 0;
   z-index: 100;
-  box-shadow: 0 -12px 40px rgba(0, 0, 0, 0.65);
+  box-shadow: var(--vw-shadow-dropdown);
   max-height: 280px;
   overflow-y: auto;
 }
@@ -177,49 +173,49 @@ kbd {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 9px 14px;
+  padding: var(--vw-space-sm) var(--vw-space-lg);
   cursor: pointer;
   transition: background 0.12s;
-  gap: 10px;
+  gap: var(--vw-space-md);
 }
 
 .suggestions li:hover,
 .suggestions li.highlighted {
-  background: rgba(0, 177, 64, 0.16);
+  background: var(--vw-color-brand-16);
 }
 
 .suggestion-left {
   display: flex;
   flex-direction: column;
-  gap: 2px;
+  gap: var(--vw-space-xs);
   min-width: 0;
 }
 
 .suggestion-name {
-  font-size: 14px;
-  font-weight: 600;
-  color: #ffffff;
+  font-size: var(--vw-font-size-md);
+  font-weight: var(--vw-font-weight-semibold);
+  color: var(--vw-color-text-primary);
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
 }
 
 .suggestion-meta {
-  font-size: 11px;
-  color: #7ab398;
+  font-size: var(--vw-font-size-xs);
+  color: var(--vw-color-text-secondary);
 }
 
 .suggestion-clubs {
-  font-size: 11px;
-  color: #4a7a5c;
+  font-size: var(--vw-font-size-xs);
+  color: var(--vw-color-text-muted);
   white-space: nowrap;
   flex-shrink: 0;
 }
 
 @media (max-width: 768px) {
   .guess-panel {
-    padding: 7px 12px 8px;
-    gap: 5px;
+    padding: var(--vw-space-xs) var(--vw-space-md) var(--vw-space-sm);
+    gap: var(--vw-space-xs);
   }
 
   .input-instructions {
@@ -228,30 +224,30 @@ kbd {
   }
 
   .guess-input {
-    font-size: 15px;
-    padding: 10px 12px;
+    font-size: var(--vw-font-size-base);
+    padding: var(--vw-space-sm) var(--vw-space-md);
   }
 
   .submit-btn {
     width: 44px;
-    font-size: 18px;
+    font-size: var(--vw-font-size-lg);
   }
 }
 
 @media (max-width: 390px) {
   .guess-panel {
-    padding: 6px 10px 7px;
-    gap: 4px;
+    padding: var(--vw-space-xs) var(--vw-space-sm) var(--vw-space-xs);
+    gap: var(--vw-space-xs);
   }
 
   .guess-input {
-    font-size: 14px;
-    padding: 9px 10px;
+    font-size: var(--vw-font-size-md);
+    padding: var(--vw-space-xs) var(--vw-space-sm);
   }
 
   .submit-btn {
     width: 40px;
-    font-size: 16px;
+    font-size: var(--vw-font-size-base);
   }
 }
 

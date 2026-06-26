@@ -3,15 +3,15 @@
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #061525;
-  padding: 24px;
+  background: var(--vw-color-bg);
+  padding: var(--vw-space-xl);
 }
 
 .overlay-content {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 16px;
+  gap: var(--vw-space-lg);
   max-width: 420px;
   width: 100%;
   animation: slide-up 0.4s ease-out;
@@ -24,39 +24,39 @@
 
 /* ── End reason ───────────────────────────────────────────────────── */
 .end-reason {
-  font-size: 14px;
-  color: #7ab398;
+  font-size: var(--vw-font-size-md);
+  color: var(--vw-color-text-secondary);
   display: flex;
   align-items: center;
-  gap: 6px;
+  gap: var(--vw-space-xs);
   margin: 0;
 }
 
 .end-icon {
-  font-size: 18px;
+  font-size: var(--vw-font-size-lg);
 }
 
 /* ── Score ────────────────────────────────────────────────────────── */
 .final-score-label {
-  font-size: 13px;
-  font-weight: 700;
+  font-size: var(--vw-font-size-sm);
+  font-weight: var(--vw-font-weight-bold);
   letter-spacing: 0.2em;
   text-transform: uppercase;
-  color: #00b140;
+  color: var(--vw-color-brand);
   margin: 0;
 }
 
 .final-score {
-  font-size: 96px;
-  font-weight: 800;
-  color: #ffffff;
-  line-height: 1;
+  font-size: var(--vw-font-size-6xl);
+  font-weight: var(--vw-font-weight-extrabold);
+  color: var(--vw-color-text-primary);
+  line-height: var(--vw-line-height-tight);
 }
 
 /* ── Rating ───────────────────────────────────────────────────────── */
 .rating {
-  font-size: 20px;
-  font-weight: 700;
+  font-size: var(--vw-font-size-xl);
+  font-weight: var(--vw-font-weight-bold);
   text-align: center;
 }
 
@@ -66,16 +66,16 @@
   margin: 0;
   padding: 0;
   width: 100%;
-  border-top: 1px solid rgba(0, 177, 64, 0.2);
-  border-bottom: 1px solid rgba(0, 177, 64, 0.2);
+  border-top: 1px solid var(--vw-color-brand-20);
+  border-bottom: 1px solid var(--vw-color-brand-20);
 }
 
 .stat-row {
   display: flex;
   justify-content: space-between;
-  padding: 10px 0;
-  font-size: 14px;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  padding: var(--vw-space-md) 0;
+  font-size: var(--vw-font-size-md);
+  border-bottom: 1px solid var(--vw-color-divider);
 }
 
 .stat-row:last-child {
@@ -83,32 +83,32 @@
 }
 
 .stat-name {
-  color: #7ab398;
+  color: var(--vw-color-text-secondary);
 }
 
 .stat-val {
-  font-weight: 600;
-  color: #ffffff;
+  font-weight: var(--vw-font-weight-semibold);
+  color: var(--vw-color-text-primary);
 }
 
 /* ── Play again ───────────────────────────────────────────────────── */
 .play-again-btn {
-  background: #00b140;
+  background: var(--vw-color-brand);
   border: none;
-  border-radius: 12px;
-  color: #ffffff;
-  font-size: 16px;
-  font-weight: 700;
-  padding: 14px 48px;
+  border-radius: var(--vw-radius-xl);
+  color: var(--vw-color-text-primary);
+  font-size: var(--vw-font-size-base);
+  font-weight: var(--vw-font-weight-bold);
+  padding: var(--vw-space-md) var(--vw-space-2xl);
   cursor: pointer;
   font-family: inherit;
   letter-spacing: 0.04em;
   transition: background 0.2s, transform 0.1s;
-  margin-top: 8px;
+  margin-top: var(--vw-space-sm);
 }
 
 .play-again-btn:hover {
-  background: #00d44d;
+  background: var(--vw-color-brand-hover);
 }
 
 .play-again-btn:active {
@@ -116,6 +116,6 @@
 }
 
 .play-again-btn:focus-visible {
-  outline: 3px solid #00b140;
+  outline: var(--vw-focus-ring);
   outline-offset: 3px;
 }

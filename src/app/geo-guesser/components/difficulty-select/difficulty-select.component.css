@@ -13,9 +13,9 @@
   min-height: 100%;
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
-  padding: 32px 20px;
-  background: #061525;
-  gap: 40px;
+  padding: var(--vw-space-2xl) var(--vw-space-xl);
+  background: var(--vw-color-bg);
+  gap: var(--vw-space-xl);
 }
 
 /* ── Branding ─────────────────────────────────────────────────────── */
@@ -23,13 +23,13 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 10px;
+  gap: var(--vw-space-sm);
   text-align: center;
 }
 
 .crest {
   display: grid;
-  font-size: 52px;
+  font-size: var(--vw-font-size-3xl);
 }
 
 .globe {
@@ -66,20 +66,20 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  line-height: 1;
-  gap: 2px;
+  line-height: var(--vw-line-height-tight);
+  gap: var(--vw-space-xs);
   margin: 0;
-  font-size: 32px;
-  font-weight: 800;
-  color: #ffffff;
+  font-size: var(--vw-font-size-3xl);
+  font-weight: var(--vw-font-weight-extrabold);
+  color: var(--vw-color-text-primary);
   letter-spacing: -0.01em;
 }
 
 .subtitle {
-  font-size: 14px;
-  color: #7ab398;
+  font-size: var(--vw-font-size-md);
+  color: var(--vw-color-text-secondary);
   margin: 0;
-  line-height: 1.6;
+  line-height: var(--vw-line-height-loose);
 }
 
 /* ── Difficulty cards ─────────────────────────────────────────────── */
@@ -90,7 +90,7 @@
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   grid-auto-rows: 1fr;
-  gap: 14px;
+  gap: var(--vw-space-md);
   width: 100%;
   max-width: 720px;
 }
@@ -102,8 +102,8 @@
 @media (max-width: 768px) {
   .select-screen {
     justify-content: flex-start;
-    gap: 24px;
-    padding: 20px 14px 24px;
+    gap: var(--vw-space-xl);
+    padding: var(--vw-space-xl) var(--vw-space-md) var(--vw-space-xl);
   }
 }
 
@@ -119,12 +119,12 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  gap: 6px;
-  padding: 20px 20px 16px;
-  border-radius: 14px;
-  border: 2px solid rgba(0, 177, 64, 0.4);
-  background: rgba(255, 255, 255, 0.04);
-  color: #ffffff;
+  gap: var(--vw-space-xs);
+  padding: var(--vw-space-xl) var(--vw-space-xl) var(--vw-space-lg);
+  border-radius: var(--vw-radius-2xl);
+  border: 2px solid var(--vw-color-border-medium);
+  background: var(--vw-color-card-bg);
+  color: var(--vw-color-text-primary);
   cursor: pointer;
   text-align: left;
   font-family: inherit;
@@ -143,53 +143,53 @@
 }
 
 .difficulty-card:focus-visible {
-  outline: 3px solid #00b140;
+  outline: var(--vw-focus-ring);
   outline-offset: 2px;
 }
 
 .card-id {
-  font-size: 20px;
-  font-weight: 800;
+  font-size: var(--vw-font-size-xl);
+  font-weight: var(--vw-font-weight-extrabold);
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  margin-bottom: 2px;
+  margin-bottom: var(--vw-space-xs);
 }
 
 .difficulty-easy .card-id {
-  color: #4ade80;
+  color: var(--vw-color-brand-light);
 }
 .difficulty-medium .card-id {
-  color: #00b140;
+  color: var(--vw-color-brand);
 }
 .difficulty-hard .card-id {
-  color: #fbbf24;
+  color: var(--vw-color-warning);
 }
 .difficulty-expert .card-id {
-  color: #f87171;
+  color: var(--vw-color-error);
 }
 
 .difficulty-easy:hover,
 .difficulty-easy.selected {
-  background: rgba(74, 222, 128, 0.08);
-  border-color: #00b140;
+  background: var(--vw-color-brand-light-08);
+  border-color: var(--vw-color-brand);
 }
 
 .difficulty-medium:hover,
 .difficulty-medium.selected {
-  background: rgba(0, 177, 64, 0.1);
-  border-color: #00b140;
+  background: var(--vw-color-brand-10);
+  border-color: var(--vw-color-brand);
 }
 
 .difficulty-hard:hover,
 .difficulty-hard.selected {
-  background: rgba(251, 191, 36, 0.08);
-  border-color: #00b140;
+  background: var(--vw-color-warning-08);
+  border-color: var(--vw-color-brand);
 }
 
 .difficulty-expert:hover,
 .difficulty-expert.selected {
-  background: rgba(248, 113, 113, 0.08);
-  border-color: #00b140;
+  background: var(--vw-color-error-08);
+  border-color: var(--vw-color-brand);
 }
 
 .difficulty-card.selected {
@@ -197,60 +197,60 @@
 }
 
 .card-name {
-  font-size: 17px;
-  font-weight: 700;
+  font-size: var(--vw-font-size-lg);
+  font-weight: var(--vw-font-weight-bold);
   letter-spacing: 0.01em;
 }
 
 .card-description {
-  font-size: 12px;
-  color: #7ab398;
-  line-height: 1.4;
+  font-size: var(--vw-font-size-sm);
+  color: var(--vw-color-text-secondary);
+  line-height: var(--vw-line-height-normal);
 }
 
 .card-stats {
   display: flex;
-  gap: 14px;
-  margin-top: 4px;
+  gap: var(--vw-space-lg);
+  margin-top: var(--vw-space-xs);
 }
 
 .stat {
   display: flex;
   align-items: center;
-  gap: 4px;
-  font-size: 13px;
-  font-weight: 600;
-  color: #c8e6d0;
+  gap: var(--vw-space-xs);
+  font-size: var(--vw-font-size-sm);
+  font-weight: var(--vw-font-weight-semibold);
+  color: var(--vw-color-text-accent);
 }
 
 /* ── Footer ───────────────────────────────────────────────────────── */
 .select-footer {
   text-align: center;
-  color: #4a7a5c;
-  font-size: 12px;
-  line-height: 1.8;
+  color: var(--vw-color-text-muted);
+  font-size: var(--vw-font-size-sm);
+  line-height: var(--vw-line-height-loose);
   margin-top: 1rem;
 }
 
 .about-link {
-  font-size: 1.25rem;
-  font-weight: 700;
-  color: #00b140;
+  font-size: var(--vw-font-size-lg);
+  font-weight: var(--vw-font-weight-bold);
+  color: var(--vw-color-brand);
   text-decoration: none;
-  padding: 0.75rem 1.5rem;
-  border-radius: 8px;
-  background: rgba(0, 177, 64, 0.1);
+  padding: var(--vw-space-sm) var(--vw-space-xl);
+  border-radius: var(--vw-radius-md);
+  background: var(--vw-color-brand-10);
   transition: background-color 0.2s, color 0.2s;
 }
 
 .about-link:hover,
 .about-link:focus-visible {
-  background: rgba(0, 177, 64, 0.2);
-  color: #4ade80;
+  background: var(--vw-color-brand-20);
+  color: var(--vw-color-brand-light);
   outline: none;
 }
 
 .about-link:focus-visible {
-  outline: 2px solid #00b140;
+  outline: 2px solid var(--vw-color-brand);
   outline-offset: 2px;
 }

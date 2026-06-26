@@ -12,7 +12,7 @@
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  background: #061525;
+  background: var(--vw-color-bg);
   position: relative;
 }
 
@@ -25,19 +25,19 @@
 
 /* ── Natural Earth land & borders ────────────────────────────────── */
 .land {
-  fill: #1e3d28;
+  fill: var(--vw-color-land);
 }
 
 .borders {
   fill: none;
-  stroke: #2d5e3a;
+  stroke: var(--vw-color-border-stroke);
   stroke-width: 0.4;
   stroke-linejoin: round;
 }
 
 .graticule {
   fill: none;
-  stroke: #0e3356;
+  stroke: var(--vw-color-graticule);
   stroke-width: 0.3;
   opacity: 0.6;
 }
@@ -46,7 +46,7 @@
 /* stroke-dasharray / stroke-dashoffset / animation-duration / animation-delay
    are all set per-element via [style] bindings in the template. */
 .journey-line {
-  stroke: #00b140;
+  stroke: var(--vw-color-brand);
   stroke-width: 2;
   stroke-linecap: round;
   fill: none;
@@ -78,22 +78,22 @@
 }
 
 .regular-dot {
-  fill: #e8f4f0;
-  stroke: #00b140;
+  fill: var(--vw-color-text-light);
+  stroke: var(--vw-color-brand);
   stroke-width: 1.5;
 }
 
 .austin-dot {
-  fill: #00b140;
-  stroke: #ffffff;
+  fill: var(--vw-color-brand);
+  stroke: var(--vw-color-text-primary);
   stroke-width: 2.5;
 }
 
 /* ── Labels ───────────────────────────────────────────────────────── */
 .dot-year {
-  fill: #061525;
-  font-weight: 700;
-  font-family: system-ui, sans-serif;
+  fill: var(--vw-color-bg);
+  font-weight: var(--vw-font-weight-bold);
+  font-family: var(--vw-font-sans);
   pointer-events: none;
   animation-name: pop-in;
   animation-duration: 0.35s;
@@ -103,16 +103,16 @@
 }
 
 .team-list-bg {
-  fill: rgba(6, 21, 37, 0.86);
-  stroke: rgba(0, 177, 64, 0.65);
+  fill: var(--vw-color-bg-86);
+  stroke: var(--vw-color-border-heavy);
   stroke-width: 1;
 }
 
 .team-list-title {
-  fill: #00b140;
-  font-size: 11px;
-  font-weight: 800;
-  font-family: system-ui, sans-serif;
+  fill: var(--vw-color-brand);
+  font-size: var(--vw-font-size-xs);
+  font-weight: var(--vw-font-weight-extrabold);
+  font-family: var(--vw-font-sans);
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
@@ -129,37 +129,37 @@
 .team-list-club,
 .team-list-years,
 .team-list-more {
-  font-family: system-ui, sans-serif;
+  font-family: var(--vw-font-sans);
   dominant-baseline: middle;
 }
 
 .team-list-index {
-  fill: #7ab398;
-  font-size: 9px;
-  font-weight: 700;
+  fill: var(--vw-color-text-secondary);
+  font-size: var(--vw-font-size-xs);
+  font-weight: var(--vw-font-weight-bold);
 }
 
 .team-list-club {
-  fill: #ffffff;
+  fill: var(--vw-color-text-primary);
   font-size: 10.5px;
   font-weight: 650;
 }
 
 .team-list-years {
-  fill: #aed4bb;
+  fill: var(--vw-color-text-accent-muted);
   font-size: 9.5px;
-  font-weight: 600;
+  font-weight: var(--vw-font-weight-semibold);
 }
 
 .team-list-more {
-  fill: #7ab398;
-  font-size: 9px;
-  font-weight: 600;
+  fill: var(--vw-color-text-secondary);
+  font-size: var(--vw-font-size-xs);
+  font-weight: var(--vw-font-weight-semibold);
 }
 
 @media (max-width: 768px) {
   .team-list-title {
-    font-size: 13px;
+    font-size: var(--vw-font-size-sm);
   }
 
   .team-list-index {
@@ -167,15 +167,15 @@
   }
 
   .team-list-club {
-    font-size: 12.5px;
+    font-size: var(--vw-font-size-sm);
   }
 
   .team-list-years {
-    font-size: 11px;
+    font-size: var(--vw-font-size-xs);
   }
 
   .team-list-more {
-    font-size: 10px;
+    font-size: var(--vw-font-size-xs);
   }
 }
 
@@ -201,21 +201,21 @@
 
   .team-list-mobile {
     display: block;
-    margin: 6px 8px 8px;
+    margin: var(--vw-space-xs) var(--vw-space-sm) var(--vw-space-sm);
     max-height: 48%;
     overflow-y: auto;
-    background: rgba(6, 21, 37, 0.92);
-    border: 1px solid rgba(0, 177, 64, 0.72);
-    border-radius: 10px;
-    padding: 10px 12px;
+    background: var(--vw-color-bg-92);
+    border: 1px solid var(--vw-color-border-xheavy);
+    border-radius: var(--vw-radius-lg);
+    padding: var(--vw-space-md);
     backdrop-filter: blur(4px);
   }
 
   .team-list-mobile-title {
-    margin: 0 0 4px;
-    color: #00b140;
-    font-size: 13px;
-    font-weight: 800;
+    margin: 0 0 var(--vw-space-xs);
+    color: var(--vw-color-brand);
+    font-size: var(--vw-font-size-sm);
+    font-weight: var(--vw-font-weight-extrabold);
     letter-spacing: 0.08em;
     text-transform: uppercase;
   }
@@ -226,48 +226,48 @@
     padding: 0;
     display: flex;
     flex-direction: column;
-    gap: 4px;
+    gap: var(--vw-space-xs);
   }
 
   .team-list-mobile-row {
     display: grid;
     grid-template-columns: auto 1fr auto;
     align-items: baseline;
-    column-gap: 8px;
+    column-gap: var(--vw-space-sm);
   }
 
   .team-list-mobile-index {
-    color: #7ab398;
-    font-size: 12px;
-    font-weight: 700;
+    color: var(--vw-color-text-secondary);
+    font-size: var(--vw-font-size-xs);
+    font-weight: var(--vw-font-weight-bold);
   }
 
   .team-list-mobile-club {
-    color: #ffffff;
-    font-size: 14px;
+    color: var(--vw-color-text-primary);
+    font-size: var(--vw-font-size-md);
     font-weight: 650;
-    line-height: 1.2;
+    line-height: var(--vw-line-height-normal);
   }
 
   .team-list-mobile-years {
-    color: #aed4bb;
-    font-size: 12px;
-    font-weight: 600;
+    color: var(--vw-color-text-accent-muted);
+    font-size: var(--vw-font-size-xs);
+    font-weight: var(--vw-font-weight-semibold);
     white-space: nowrap;
   }
 }
 
 .player-reveal-name {
-  fill: #ffffff;
-  font-size: 18px;
-  font-weight: 700;
-  font-family: system-ui, sans-serif;
+  fill: var(--vw-color-text-primary);
+  font-size: var(--vw-font-size-lg);
+  font-weight: var(--vw-font-weight-bold);
+  font-family: var(--vw-font-sans);
   dominant-baseline: middle;
   letter-spacing: 0.04em;
 }
 
 .map-placeholder {
-  fill: #4a7a5c;
-  font-size: 14px;
-  font-family: system-ui, sans-serif;
+  fill: var(--vw-color-text-muted);
+  font-size: var(--vw-font-size-md);
+  font-family: var(--vw-font-sans);
 }

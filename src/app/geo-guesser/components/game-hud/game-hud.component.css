@@ -6,10 +6,10 @@
 .hud {
   display: flex;
   align-items: center;
-  gap: 12px;
-  padding: 8px 20px;
-  background: rgba(6, 21, 37, 0.95);
-  border-bottom: 2px solid #00b140;
+  gap: var(--vw-space-md);
+  padding: var(--vw-space-sm) var(--vw-space-xl);
+  background: var(--vw-color-bg-96);
+  border-bottom: 2px solid var(--vw-color-brand);
   flex-shrink: 0;
   flex-wrap: wrap;
   backdrop-filter: blur(4px);
@@ -18,17 +18,17 @@
 .hud-section {
   display: flex;
   align-items: center;
-  gap: 6px;
+  gap: var(--vw-space-xs);
 }
 
 /* ── Lives ────────────────────────────────────────────────────────── */
 .lives-section {
-  gap: 4px;
+  gap: var(--vw-space-xs);
 }
 
 .life {
-  font-size: 20px;
-  line-height: 1;
+  font-size: var(--vw-font-size-xl);
+  line-height: var(--vw-line-height-tight);
   transition: transform 0.2s;
 }
 
@@ -43,49 +43,49 @@
   flex-direction: column;
   align-items: center;
   gap: 0;
-  background: rgba(0, 177, 64, 0.1);
-  border: 1px solid rgba(0, 177, 64, 0.4);
-  border-radius: 8px;
-  padding: 4px 14px;
+  background: var(--vw-color-brand-10);
+  border: 1px solid var(--vw-color-border-medium);
+  border-radius: var(--vw-radius-md);
+  padding: var(--vw-space-xs) var(--vw-space-lg);
   min-width: 72px;
   text-align: center;
 }
 
 .score-label {
-  font-size: 9px;
-  font-weight: 700;
+  font-size: var(--vw-font-size-xs);
+  font-weight: var(--vw-font-weight-bold);
   letter-spacing: 0.12em;
-  color: #00b140;
+  color: var(--vw-color-brand);
   text-transform: uppercase;
 }
 
 .score-value {
-  font-size: 26px;
-  font-weight: 700;
-  color: #ffffff;
-  line-height: 1;
+  font-size: var(--vw-font-size-3xl);
+  font-weight: var(--vw-font-weight-bold);
+  color: var(--vw-color-text-primary);
+  line-height: var(--vw-line-height-tight);
 }
 
 /* ── Timers ───────────────────────────────────────────────────────── */
 .timer-section {
   flex-direction: column;
   align-items: flex-end;
-  gap: 2px;
+  gap: var(--vw-space-xs);
 }
 
 .game-timer {
   display: flex;
   align-items: center;
-  gap: 5px;
-  font-size: 22px;
-  font-weight: 700;
-  color: #ffffff;
+  gap: var(--vw-space-xs);
+  font-size: var(--vw-font-size-xl);
+  font-weight: var(--vw-font-weight-bold);
+  color: var(--vw-color-text-primary);
   font-variant-numeric: tabular-nums;
   transition: color 0.3s;
 }
 
 .game-timer.urgent {
-  color: #f87171;
+  color: var(--vw-color-error);
   animation: blink 1s step-start infinite;
 }
 
@@ -94,7 +94,7 @@
 }
 
 .timer-icon {
-  font-size: 16px;
+  font-size: var(--vw-font-size-md);
 }
 
 .timer-value {
@@ -104,9 +104,9 @@
 
 /* ── Difficulty badge ─────────────────────────────────────────────── */
 .difficulty-badge {
-  font-size: 11px;
-  color: #7ab398;
-  font-weight: 500;
+  font-size: var(--vw-font-size-xs);
+  color: var(--vw-color-text-secondary);
+  font-weight: var(--vw-font-weight-normal);
   letter-spacing: 0.04em;
   margin-left: auto;
   white-space: nowrap;

@@ -3,7 +3,7 @@
   flex-direction: column;
   height: 100vh;
   overflow: hidden;
-  background: #061525;
+  background: var(--vw-color-bg);
   position: relative;
 }
 
@@ -14,7 +14,7 @@
   transform: translateY(-50%);
   font-size: 15vw;
   font-weight: 900;
-  color: #00b140;
+  color: var(--vw-color-brand);
   white-space: nowrap;
   pointer-events: none;
   z-index: 9999;

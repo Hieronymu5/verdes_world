@@ -1,4 +1,4 @@
-/* ── Reset & base ─────────────────────────────────────────────────── */
+/* ── Reset & base ───────────────────────────────────────────────── */
 *,
 *::before,
 *::after {
@@ -14,59 +14,28 @@ body {
 }
 
 body {
-  background: #061525;
-  color: #ffffff;
-  font-family:
-    'Inter',
-    system-ui,
-    -apple-system,
-    BlinkMacSystemFont,
-    'Segoe UI',
-    sans-serif;
+  background: var(--vw-color-bg, #061525);
+  color: var(--vw-color-text-primary, #ffffff);
+  font-family: var(--vw-font-body);
   -webkit-font-smoothing: antialiased;
 }
 
-/* ── Focus ring ───────────────────────────────────────────────────── */
+/* ── Focus ring ─────────────────────────────────────────────────── */
 :focus-visible {
-  outline: 3px solid #00b140;
+  outline: var(--vw-focus-ring);
   outline-offset: 2px;
 }
 
-/* ── Scrollbar ────────────────────────────────────────────────────── */
+/* ── Scrollbar ──────────────────────────────────────────────────── */
 ::-webkit-scrollbar {
   width: 6px;
 }
 
 ::-webkit-scrollbar-track {
-  background: #0d2340;
+  background: var(--vw-color-bg-track, #0d2340);
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #00b140;
+  background: var(--vw-color-brand, #00b140);
   border-radius: 3px;
-}
-
-/* ── Buttons ──────────────────────────────────────────────────────── */
-.btn-return {
-  font-size: 1.25rem;
-  font-weight: 700;
-  color: #00b140;
-  text-decoration: none;
-  padding: 0.75rem 1.5rem;
-  border-radius: 8px;
-  background: rgba(0, 177, 64, 0.1);
-  transition: background-color 0.2s, color 0.2s;
-  display: inline-block;
-}
-
-.btn-return:hover,
-.btn-return:focus-visible {
-  background: rgba(0, 177, 64, 0.2);
-  color: #4ade80;
-  outline: none;
-}
-
-.btn-return:focus-visible {
-  outline: 2px solid #00b140;
-  outline-offset: 2px;
 }

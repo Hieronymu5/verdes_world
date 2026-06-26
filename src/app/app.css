@@ -1,0 +1,249 @@
+/* ═══════════════════════════════════════════════════════════════════
+   Verdes World — Global Design System
+   ═══════════════════════════════════════════════════════════════════ */
+
+:root {
+  /* ── Brand ────────────────────────────────────────────────────── */
+  --vw-color-brand: #00b140;
+  --vw-color-brand-light: #4ade80;
+  --vw-color-brand-hover: #00d44d;
+
+  --vw-color-brand-10: rgba(0, 177, 64, 0.1);
+  --vw-color-brand-12: rgba(0, 177, 64, 0.12);
+  --vw-color-brand-16: rgba(0, 177, 64, 0.16);
+  --vw-color-brand-20: rgba(0, 177, 64, 0.2);
+
+  /* ── Backgrounds ──────────────────────────────────────────────── */
+  --vw-color-bg: #061525;
+  --vw-color-bg-surface: #0a1f38;
+  --vw-color-bg-elevated: #0c1e33;
+  --vw-color-bg-ocean: #0d2a4a;
+  --vw-color-bg-track: #0d2340;
+  --vw-color-bg-status: rgba(16, 54, 88, 0.45);
+
+  --vw-color-bg-70: rgba(6, 21, 37, 0.7);
+  --vw-color-bg-86: rgba(6, 21, 37, 0.86);
+  --vw-color-bg-92: rgba(6, 21, 37, 0.92);
+  --vw-color-bg-96: rgba(6, 21, 37, 0.96);
+
+  /* ── Text ─────────────────────────────────────────────────────── */
+  --vw-color-text-primary: #ffffff;
+  --vw-color-text-secondary: #7ab398;
+  --vw-color-text-tertiary: #9ec5ac;
+  --vw-color-text-muted: #4a7a5c;
+  --vw-color-text-light: #e8f4f0;
+  --vw-color-text-accent: #c8e6d0;
+  --vw-color-text-accent-light: #d8efe1;
+  --vw-color-text-accent-muted: #aed4bb;
+
+  /* ── Semantic ───────────────────────────────────────────────── */
+  --vw-color-error: #f87171;
+  --vw-color-error-light: #fecaca;
+  --vw-color-error-dark: #dc2626;
+  --vw-color-error-bg: rgba(127, 29, 29, 0.45);
+  --vw-color-warning: #fbbf24;
+
+  /* ── Map / SVG ──────────────────────────────────────────────── */
+  --vw-color-land: #1e3d28;
+  --vw-color-border-stroke: #2d5e3a;
+  --vw-color-graticule: #0e3356;
+
+  /* ── Borders ──────────────────────────────────────────────────── */
+  --vw-color-border: rgba(0, 177, 64, 0.35);
+  --vw-color-border-medium: rgba(0, 177, 64, 0.4);
+  --vw-color-border-input: rgba(0, 177, 64, 0.45);
+  --vw-color-border-strong: rgba(0, 177, 64, 0.5);
+  --vw-color-border-heavy: rgba(0, 177, 64, 0.65);
+  --vw-color-border-xheavy: rgba(0, 177, 64, 0.72);
+
+  --vw-color-secondary-35: rgba(122, 179, 152, 0.35);
+  --vw-color-secondary-65: rgba(122, 179, 152, 0.65);
+
+  --vw-color-text-light-16: rgba(232, 244, 240, 0.16);
+  --vw-color-text-light-60: rgba(229, 247, 237, 0.6);
+  --vw-color-brand-60: rgba(0, 177, 64, 0.6);
+
+  --vw-color-brand-light-08: rgba(74, 222, 128, 0.08);
+  --vw-color-warning-08: rgba(251, 191, 36, 0.08);
+  --vw-color-error-08: rgba(248, 113, 113, 0.08);
+
+  --vw-shadow-dropdown: 0 -12px 40px rgba(0, 0, 0, 0.65);
+
+  /* ── Overlays ─────────────────────────────────────────────────── */
+  --vw-color-card-bg: rgba(255, 255, 255, 0.03);
+  --vw-color-card-bg-hover: rgba(255, 255, 255, 0.04);
+  --vw-color-input-bg: rgba(255, 255, 255, 0.06);
+  --vw-color-divider: rgba(255, 255, 255, 0.05);
+  --vw-color-white-10: rgba(255, 255, 255, 0.1);
+  --vw-color-white-20: rgba(255, 255, 255, 0.2);
+  --vw-color-white-30: rgba(255, 255, 255, 0.3);
+
+  /* ── Typography ─────────────────────────────────────────────── */
+  --vw-font-body: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --vw-font-sans: system-ui, sans-serif;
+
+  --vw-font-size-xs: 10px;
+  --vw-font-size-sm: 12px;
+  --vw-font-size-md: 14px;
+  --vw-font-size-base: 16px;
+  --vw-font-size-lg: 18px;
+  --vw-font-size-xl: 20px;
+  --vw-font-size-2xl: 28px;
+  --vw-font-size-3xl: 32px;
+
+  --vw-font-weight-normal: 500;
+  --vw-font-weight-semibold: 600;
+  --vw-font-weight-bold: 700;
+  --vw-font-weight-extrabold: 800;
+
+  --vw-line-height-tight: 1;
+  --vw-line-height-normal: 1.35;
+  --vw-line-height-relaxed: 1.45;
+  --vw-line-height-loose: 1.6;
+
+  /* ── Spacing ──────────────────────────────────────────────────── */
+  --vw-space-xs: 4px;
+  --vw-space-sm: 8px;
+  --vw-space-md: 12px;
+  --vw-space-lg: 16px;
+  --vw-space-xl: 24px;
+  --vw-space-2xl: 32px;
+
+  /* ── Radius ───────────────────────────────────────────────────── */
+  --vw-radius-sm: 6px;
+  --vw-radius-md: 8px;
+  --vw-radius-lg: 10px;
+  --vw-radius-xl: 12px;
+  --vw-radius-2xl: 14px;
+
+  /* ── Focus ────────────────────────────────────────────────────── */
+  --vw-focus-ring: 3px solid var(--vw-color-brand);
+}
+
+/* ── Page shells ─────────────────────────────────────────────────── */
+.page-shell {
+  display: block;
+  height: 100vh;
+  overflow-y: auto;
+  overflow-x: hidden;
+  background: var(--vw-color-bg);
+}
+
+/* ── Containers ──────────────────────────────────────────────────── */
+.page-container {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: var(--vw-space-xl);
+  color: var(--vw-color-text-primary);
+}
+
+.page-container-wide {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: var(--vw-space-lg);
+  color: var(--vw-color-text-primary);
+  display: flex;
+  flex-direction: column;
+  gap: var(--vw-space-lg);
+}
+
+/* ── Page header ───────────────────────────────────────────────── */
+.page-header {
+  margin-bottom: var(--vw-space-lg);
+}
+
+.header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.page-title {
+  margin: 0;
+  font-size: var(--vw-font-size-2xl);
+  color: var(--vw-color-text-primary);
+}
+
+/* ── Subtitles & secondary text ────────────────────────────────── */
+.subtitle {
+  margin: var(--vw-space-sm) 0 0;
+  color: var(--vw-color-text-secondary);
+}
+
+/* ── Links ─────────────────────────────────────────────────────── */
+.app-link {
+  color: var(--vw-color-brand);
+  text-decoration: none;
+  font-weight: var(--vw-font-weight-bold);
+}
+
+.app-link:hover {
+  text-decoration: underline;
+}
+
+/* ── Buttons ───────────────────────────────────────────────────── */
+.btn-return {
+  font-size: var(--vw-font-size-lg);
+  font-weight: var(--vw-font-weight-bold);
+  color: var(--vw-color-brand);
+  text-decoration: none;
+  padding: var(--vw-space-sm) var(--vw-space-xl);
+  border-radius: var(--vw-radius-md);
+  background: var(--vw-color-brand-10);
+  transition: background-color 0.2s, color 0.2s;
+  display: inline-block;
+}
+
+.btn-return:hover,
+.btn-return:focus-visible {
+  background: var(--vw-color-brand-20);
+  color: var(--vw-color-brand-light);
+  outline: none;
+}
+
+.btn-return:focus-visible {
+  outline: 2px solid var(--vw-color-brand);
+  outline-offset: 2px;
+}
+
+/* ── Cards ─────────────────────────────────────────────────────── */
+.card {
+  border: 1px solid var(--vw-color-border);
+  border-radius: var(--vw-radius-lg);
+  background: var(--vw-color-card-bg);
+}
+
+.card-hover:hover {
+  background: var(--vw-color-card-bg-hover);
+}
+
+/* ── Status messages ─────────────────────────────────────────── */
+.status {
+  margin: 0;
+  padding: var(--vw-space-lg);
+  border-radius: var(--vw-radius-xl);
+}
+
+.status.loading,
+.status.empty {
+  color: var(--vw-color-text-tertiary);
+  background: var(--vw-color-bg-status);
+}
+
+.status.error {
+  color: var(--vw-color-error-light);
+  background: var(--vw-color-error-bg);
+}
+
+/* ── Screen-reader only ──────────────────────────────────────── */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
