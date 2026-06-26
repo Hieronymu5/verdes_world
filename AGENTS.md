@@ -54,3 +54,7 @@ You are an expert in TypeScript, Angular, and scalable web application developme
 - Design services around a single responsibility
 - Use the `providedIn: 'root'` option for singleton services
 - Use the `inject()` function instead of constructor injection
+
+## Data Management
+
+- Whenever `players.json` is updated, you MUST also update the date and increment the version number in `version.json`.
