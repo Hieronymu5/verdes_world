@@ -1,104 +1,92 @@
-.player-detail-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 2rem 1rem;
-  min-height: 100vh;
-  background-color: var(--bg-primary);
-  color: var(--text-primary);
+:host {
+  display: block;
+  height: 100vh;
+  overflow-y: auto;
+  overflow-x: hidden;
+  background: var(--vw-color-bg);
 }
 
-.player-header {
-  width: 100%;
-  max-width: 960px;
-  text-align: left;
-  margin-bottom: 2rem;
+.player-detail-page {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: var(--vw-space-xl);
+  color: var(--vw-color-text-primary);
+}
+
+.page-header {
+  margin-bottom: var(--vw-space-xl);
+}
+
+.page-header h1 {
+  margin: 0;
+  font-size: var(--vw-font-size-2xl);
 }
 
 .header-top {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 1rem;
-}
-
-h1 {
-  margin: 0;
-  font-size: 2.5rem;
-  color: var(--austin-green);
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-}
-
-.btn-return {
-  background-color: var(--bg-secondary);
-  color: var(--text-primary);
-  border: 1px solid var(--austin-green);
-  padding: 0.5rem 1rem;
-  border-radius: 4px;
-  text-decoration: none;
-  font-weight: 500;
-  transition: all 0.2s ease;
-}
-
-.btn-return:hover {
-  background-color: var(--austin-green);
-  color: var(--bg-primary);
-}
-
-.player-info {
-  background-color: var(--bg-secondary);
-  border: 1px solid var(--border-color);
-  border-radius: 8px;
-  padding: 1.5rem;
-  margin-bottom: 2rem;
 }
 
 .subtitle {
-  font-size: 1.1rem;
-  color: var(--text-secondary);
-  margin-bottom: 0.5rem;
-  margin-top: 0;
+  margin: var(--vw-space-sm) 0 var(--vw-space-md);
+  color: var(--vw-color-text-secondary);
+  font-size: var(--vw-font-size-lg);
 }
 
-.wikipedia-link a {
-  color: var(--austin-green);
+.wiki-link {
+  font-size: var(--vw-font-size-sm);
+  color: var(--vw-color-brand);
   text-decoration: none;
+  margin-left: var(--vw-space-sm);
 }
 
-.wikipedia-link a:hover {
+.wiki-link:hover {
   text-decoration: underline;
+}
+
+.jersey-numbers {
+  display: flex;
+  gap: var(--vw-space-xs);
+  margin-top: var(--vw-space-sm);
+}
+
+.jersey-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.5em;
+  padding: 0 var(--vw-space-xs);
+  font-size: var(--vw-font-size-sm);
+  font-weight: var(--vw-font-weight-bold);
+  line-height: 1.6;
+  color: var(--vw-color-brand);
+  border: 1px solid var(--vw-color-brand);
+  border-radius: var(--vw-radius-sm);
+}
+
+.status {
+  margin-top: var(--vw-space-lg);
+}
+
+.status.loading {
+  color: var(--vw-color-text-secondary);
+}
+
+.status.error {
+  color: var(--vw-color-error);
+}
+
+.map-section {
+  display: flex;
+  justify-content: center;
+  margin-top: var(--vw-space-lg);
 }
 
 .map-container {
   width: 100%;
-  max-width: 960px;
-  border: 2px solid var(--border-color);
-  border-radius: 8px;
+  border: 1px solid var(--vw-color-border);
+  border-radius: var(--vw-radius-lg);
   overflow: hidden;
-  background-color: #0b1a2a;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
-}
-
-.loading,
-.error-message {
-  padding: 2rem;
-  text-align: center;
-  background: var(--bg-secondary);
-  border-radius: 8px;
-  max-width: 600px;
-  width: 100%;
-  border: 1px solid var(--border-color);
-}
-
-.error-message {
-  color: #ff6b6b;
-  border-color: #ff6b6b;
-}
-
-@media (max-width: 768px) {
-  .header-top {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 1rem;
-  }
+  background-color: var(--vw-color-card-bg);
 }

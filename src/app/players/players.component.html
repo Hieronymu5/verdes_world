@@ -40,6 +40,9 @@
                 (Wikipedia)
               </a>
             }
+            <a [routerLink]="['/players', player.id]" class="wiki-link map-link" aria-label="Map for {{ player.name }}">
+              (Map)
+            </a>
           </h2>
           <p class="player-meta">
             {{ player.position }} · {{ player.nationality }} · {{ player.gamesPlayed }} matches

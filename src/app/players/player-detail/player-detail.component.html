@@ -1,45 +1,42 @@
-<div class="player-detail-container">
-  <header class="player-header">
+<main class="player-detail-page" role="main" aria-label="Player detail page">
+  <header class="page-header">
     <div class="header-top">
       @if (player(); as p) {
         <h1>{{ p.name }}</h1>
       } @else {
         <h1>Player Not Found</h1>
       }
-      <a routerLink="/players" class="btn-return">Back to Players</a>
+      <a routerLink="/players" class="btn-return">Back</a>
     </div>
 
     @if (player(); as p) {
-      <div class="player-info">
-        <p class="subtitle">
-          Position: {{ p.position }} &mdash; Nationality: {{ p.nationality }}
-        </p>
-        <p class="subtitle">
-          Jersey Numbers: {{ p.jerseyNumbers.join(', ') }}
-        </p>
-        <p class="subtitle">
-          Austin FC Matches: {{ p.gamesPlayed }}
-        </p>
-        <p class="subtitle wikipedia-link">
-          <a [href]="p.wikipediaUrl" target="_blank" rel="noopener noreferrer">Wikipedia Profile</a>
-        </p>
+      <p class="subtitle player-meta">
+        {{ p.position }} · {{ p.nationality }} · {{ p.gamesPlayed }} matches
+        @if (p.wikipediaUrl) {
+          <a [href]="p.wikipediaUrl" target="_blank" rel="noopener noreferrer" class="wiki-link">
+            (Wikipedia)
+          </a>
+        }
+      </p>
+      <div class="jersey-numbers">
+        @for (num of p.jerseyNumbers; track num) {
+          <span class="jersey-badge">#{{ num }}</span>
+        }
       </div>
     }
   </header>
 
   @if (loaded() && player()) {
-    <main class="map-container">
-      <app-world-map [player]="player()" [showPlayerName]="false" [lastGuessResult]="'correct'"></app-world-map>
-    </main>
+    <section class="map-section">
+      <div class="map-container">
+        <app-world-map [player]="player()" [showPlayerName]="false" [lastGuessResult]="'correct'"></app-world-map>
+      </div>
+    </section>
   } @else if (loaded() && !player()) {
-    <div class="error-message">
-      <p>Sorry, we couldn't find a player with this ID.</p>
-    </div>
+    <p class="status error" role="alert">Sorry, we couldn't find a player with this ID.</p>
   } @else if (error()) {
-    <div class="error-message">
-      <p>Error loading player data: {{ error() }}</p>
-    </div>
+    <p class="status error" role="alert">Error loading player data: {{ error() }}</p>
   } @else {
-    <div class="loading">Loading...</div>
+    <p class="status loading" aria-live="polite">Loading player…</p>
   }
-</div>
+</main>
