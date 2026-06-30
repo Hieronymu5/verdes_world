@@ -29,12 +29,12 @@
       @for (player of filteredPlayers(); track player.id) {
         <article class="player-card" aria-label="{{ player.name }}">
           <h2 class="player-name">
+            {{ player.name }}
             <span class="jersey-numbers">
               @for (num of player.jerseyNumbers; track num; let last = $last) {
                 <span class="jersey-badge">{{ num }}</span>
               }
             </span>
-            {{ player.name }}
             @if (player.wikipediaUrl) {
               <a [href]="player.wikipediaUrl" target="_blank" rel="noopener noreferrer" class="wiki-link" aria-label="Wikipedia page for {{ player.name }}">
                 (Wikipedia)

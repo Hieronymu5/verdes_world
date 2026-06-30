@@ -2,7 +2,13 @@
   <header class="page-header">
     <div class="header-top">
       @if (player(); as p) {
-        <h1>{{ p.name }}</h1>
+        <h1>{{ p.name }}
+          <span class="jersey-numbers">
+            @for (num of p.jerseyNumbers; track num) {
+              <span class="jersey-badge">{{ num }}</span>
+            }
+          </span>
+        </h1>
       } @else {
         <h1>Player Not Found</h1>
       }
@@ -18,11 +24,6 @@
           </a>
         }
       </p>
-      <div class="jersey-numbers">
-        @for (num of p.jerseyNumbers; track num) {
-          <span class="jersey-badge">{{ num }}</span>
-        }
-      </div>
     }
   </header>
 

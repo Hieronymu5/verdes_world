@@ -76,7 +76,6 @@
 .jersey-numbers {
   display: inline-flex;
   gap: var(--vw-space-xs);
-  margin-right: var(--vw-space-sm);
 }
 
 .jersey-badge {

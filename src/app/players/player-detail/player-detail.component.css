@@ -46,9 +46,11 @@
 }
 
 .jersey-numbers {
-  display: flex;
+  display: inline-flex;
   gap: var(--vw-space-xs);
-  margin-top: var(--vw-space-sm);
+  margin-left: var(--vw-space-sm);
+  vertical-align: middle;
+  margin-bottom: 5px;
 }
 
 .jersey-badge {
