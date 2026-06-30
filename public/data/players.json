@@ -5448,5 +5448,97 @@
       }
     ],
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Will_Pulisic"
+  },
+  {
+    "id": "przemyslaw-placheta",
+    "name": "Przemysław Płacheta",
+    "gamesPlayed": 0,
+    "jerseyNumbers": [7],
+    "nationality": "Polish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Sonnenhof Großaspach",
+        "city": "Aspach",
+        "country": "Germany",
+        "lat": 48.9641,
+        "lng": 9.4005,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Pogoń Siedlce",
+        "city": "Siedlce",
+        "country": "Poland",
+        "lat": 52.1678,
+        "lng": 22.2905,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Podbeskidzie Bielsko-Biała",
+        "city": "Bielsko-Biała",
+        "country": "Poland",
+        "lat": 49.8225,
+        "lng": 19.0444,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Śląsk Wrocław",
+        "city": "Wrocław",
+        "country": "Poland",
+        "lat": 51.1079,
+        "lng": 17.0385,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Norwich City",
+        "city": "Norwich",
+        "country": "England",
+        "lat": 52.6221,
+        "lng": 1.297,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Birmingham City",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4862,
+        "lng": -1.8904,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Swansea City",
+        "city": "Swansea",
+        "country": "Wales",
+        "lat": 51.6214,
+        "lng": -3.9436,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Oxford United",
+        "city": "Oxford",
+        "country": "England",
+        "lat": 51.752,
+        "lng": -1.2577,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "USA",
+        "lat": 30.3848,
+        "lng": -97.7183,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Przemys%C5%82aw_P%C5%82acheta"
   }
 ]

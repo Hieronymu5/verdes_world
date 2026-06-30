@@ -1,0 +1,45 @@
+<div class="player-detail-container">
+  <header class="player-header">
+    <div class="header-top">
+      @if (player(); as p) {
+        <h1>{{ p.name }}</h1>
+      } @else {
+        <h1>Player Not Found</h1>
+      }
+      <a routerLink="/players" class="btn-return">Back to Players</a>
+    </div>
+
+    @if (player(); as p) {
+      <div class="player-info">
+        <p class="subtitle">
+          Position: {{ p.position }} &mdash; Nationality: {{ p.nationality }}
+        </p>
+        <p class="subtitle">
+          Jersey Numbers: {{ p.jerseyNumbers.join(', ') }}
+        </p>
+        <p class="subtitle">
+          Austin FC Matches: {{ p.gamesPlayed }}
+        </p>
+        <p class="subtitle wikipedia-link">
+          <a [href]="p.wikipediaUrl" target="_blank" rel="noopener noreferrer">Wikipedia Profile</a>
+        </p>
+      </div>
+    }
+  </header>
+
+  @if (loaded() && player()) {
+    <main class="map-container">
+      <app-world-map [player]="player()" [showPlayerName]="false" [lastGuessResult]="'correct'"></app-world-map>
+    </main>
+  } @else if (loaded() && !player()) {
+    <div class="error-message">
+      <p>Sorry, we couldn't find a player with this ID.</p>
+    </div>
+  } @else if (error()) {
+    <div class="error-message">
+      <p>Error loading player data: {{ error() }}</p>
+    </div>
+  } @else {
+    <div class="loading">Loading...</div>
+  }
+</div>

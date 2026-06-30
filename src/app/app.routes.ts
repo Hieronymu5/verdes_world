@@ -8,6 +8,11 @@ export const routes: Routes = [
       import('./players/players.component').then((m) => m.PlayersComponent),
   },
   {
+    path: 'players/:player-id',
+    loadComponent: () =>
+      import('./players/player-detail/player-detail.component').then((m) => m.PlayerDetailComponent),
+  },
+  {
     path: 'about',
     loadComponent: () => import('./about/about.component').then((m) => m.AboutComponent),
   },
