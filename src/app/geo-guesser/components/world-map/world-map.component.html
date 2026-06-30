@@ -141,7 +141,7 @@
             <foreignObject [attr.x]="teamListW - 130" y="8" width="118" height="24">
               <div xmlns="http://www.w3.org/1999/xhtml" class="team-list-jersey-container">
                 @for (num of sortedJerseyNumbers(); track num) {
-                  <span class="jersey-badge">#{{ num }}</span>
+                  <span class="jersey-badge">{{ num }}</span>
                 }
               </div>
             </foreignObject>
@@ -198,7 +198,7 @@
         @if (playerTimeElapsed() >= 10 && sortedJerseyNumbers().length) {
           <div class="team-list-jersey-container">
             @for (num of sortedJerseyNumbers(); track num) {
-              <span class="jersey-badge">#{{ num }}</span>
+              <span class="jersey-badge">{{ num }}</span>
             }
           </div>
         }

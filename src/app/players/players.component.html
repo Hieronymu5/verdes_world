@@ -31,7 +31,7 @@
           <h2 class="player-name">
             <span class="jersey-numbers">
               @for (num of player.jerseyNumbers; track num; let last = $last) {
-                <span class="jersey-badge">#{{ num }}</span>
+                <span class="jersey-badge">{{ num }}</span>
               }
             </span>
             {{ player.name }}
