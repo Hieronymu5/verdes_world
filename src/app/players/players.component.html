@@ -12,12 +12,28 @@
   } @else if (!loaded()) {
     <p class="status loading" aria-live="polite">Loading players…</p>
   } @else {
-    <p class="count">{{ players().length }} players</p>
+    <label class="search-label">
+      Search:
+      <input
+        type="search"
+        class="search-input"
+        placeholder="Player name or jersey number…"
+        [value]="query()"
+        (input)="onSearchInput($any($event.target).value)"
+      />
+    </label>
+
+    <p class="count">{{ filteredPlayers().length }} player{{ filteredPlayers().length === 1 ? '' : 's' }}</p>
 
     <section class="players-list" aria-label="All players and their clubs">
-      @for (player of players(); track player.id) {
+      @for (player of filteredPlayers(); track player.id) {
         <article class="player-card" aria-label="{{ player.name }}">
           <h2 class="player-name">
+            <span class="jersey-numbers">
+              @for (num of player.jerseyNumbers; track num; let last = $last) {
+                <span class="jersey-badge">#{{ num }}</span>
+              }
+            </span>
             {{ player.name }}
             @if (player.wikipediaUrl) {
               <a [href]="player.wikipediaUrl" target="_blank" rel="noopener noreferrer" class="wiki-link" aria-label="Wikipedia page for {{ player.name }}">

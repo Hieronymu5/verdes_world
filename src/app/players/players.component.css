@@ -41,10 +41,56 @@
   color: var(--vw-color-error);
 }
 
+.search-label {
+  display: block;
+  margin: var(--vw-space-lg) 0 var(--vw-space-md);
+  font-size: var(--vw-font-size-sm);
+  color: var(--vw-color-text-secondary);
+}
+
+.search-input {
+  display: block;
+  width: 100%;
+  margin-top: var(--vw-space-xs);
+  padding: var(--vw-space-sm) var(--vw-space-md);
+  font-size: var(--vw-font-size-md);
+  border: 1px solid var(--vw-color-border);
+  border-radius: var(--vw-radius-md);
+  background: var(--vw-color-card-bg);
+  color: var(--vw-color-text-primary);
+  box-sizing: border-box;
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: var(--vw-color-brand);
+  box-shadow: 0 0 0 2px color-mix(in srgb, var(--vw-color-brand) 25%, transparent);
+}
+
 .count {
-  margin: var(--vw-space-xl) 0 var(--vw-space-md);
+  margin: var(--vw-space-lg) 0 var(--vw-space-md);
   color: var(--vw-color-text-accent);
   font-weight: var(--vw-font-weight-semibold);
+}
+
+.jersey-numbers {
+  display: inline-flex;
+  gap: var(--vw-space-xs);
+  margin-right: var(--vw-space-sm);
+}
+
+.jersey-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.5em;
+  padding: 0 var(--vw-space-xs);
+  font-size: var(--vw-font-size-xs);
+  font-weight: var(--vw-font-weight-bold);
+  line-height: 1.6;
+  color: var(--vw-color-brand);
+  border: 1px solid var(--vw-color-brand);
+  border-radius: var(--vw-radius-sm);
 }
 
 .players-list {

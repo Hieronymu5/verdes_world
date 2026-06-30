@@ -1,0 +1,100 @@
+1	Brad Stuver	since 21/22
+2	Riley Thomas	since 24/25
+2	Matt Hedges	(22/23 - 23/24)
+2	Moussa Djitté	(21/22)
+2	Manny Perez	(20/21)
+3	Mikkel Desler	since 23/24
+3	Amro Tarek	(22/23)
+3	Jhohan Romaña	(20/21 - 21/22)
+4	Brendan Hines-Ike	since 23/24
+4	Kipp Keller	(22/23)
+4	Ruben Gabrielsen	(21/22)
+4	Aedan Stanley	(20/21)
+5	Oleksandr Svatok	since 24/25
+5	Jhojan Valencia	(21/22 - 23/24)
+5	Matt Besler	(20/21)
+6	Ilie Sánchez	since 24/25
+6	Daniel Pereira	(21/22 - 23/24)
+6	Sebastian Berhalter	(20/21)
+7	Jayden Nelson	since 25/26
+7	Jáder Obrian	(24/25)
+7	Osman Bukari	(23/24)
+7	Emiliano Rigoni	(22/23 - 23/24)
+7	Sebastián Driussi	(21/22)
+7	Tomás Pochettino	(20/21)
+8	Daniel Pereira	since 24/25
+8	Alexander Ring	(20/21 - 23/24)
+9	Brandon Vazquez	since 24/25
+9	Gyasi Zardes	(22/23 - 23/24)
+9	Danny Hoesen	(20/21 - 21/22)
+10	Myrto Uzuni	since 24/25
+10	Sebastián Driussi	(22/23 - 23/24)
+10	Cecilio Domínguez	(20/21 - 21/22)
+11	Facundo Torres	since 25/26
+11	Osman Bukari	(24/25)
+11	Jáder Obrian	(23/24)
+11	Rodney Redes	(20/21 - 22/23)
+12	Damian Las	since 25/26
+12	Damian Las	(21/22 - 22/23)
+13	Ethan Finlay	(21/22 - 23/24)
+14	Besard Šabović	since 24/25
+14	Diego Rubio	(23/24)
+14	Diego Fagúndez	(20/21 - 22/23)
+15	Jon Bell	since 24/25
+15	Leo Väisänen	(22/23 - 24/25)
+15	Kipp Keller	(21/22)
+15	Daniel Pereira	(20/21)
+16	Robert Taylor	24/25
+16	Héctor Jiménez	(20/21 - 23/24)
+17	Jon Gallagher	20/21
+18	Julio Cascante	(20/21 - 24/25)
+19	CJ Fodrey	since 22/23
+19	Freddy Kleemann	(20/21)
+20	Nicolás Dubersarsky	since 24/25
+20	Matt Bersano Goalkeepers	(22/23 - 23/24)
+20	Jared Stroud	(20/21 - 21/22)
+21	Christian Ramirez	since 25/26
+21	Diego Rubio	(24/25)
+21	Oleksandr Svatok	(23/24)
+21	Valentin Noël	(23/24)
+21	Adam Lundkvist	(22/23)
+21	Žan Kolmanič (20/21)
+22	Sofiane Djeffal	(22/23)
+22	Felipe Martins	(21/22)
+22	Ben Sweat	(20/21)
+23	Žan Kolmanič	since 21/22
+23	Kekuta Manneh	(20/21)
+24	Jorge Alastuey	(25/26)
+24	Nick Lima	(20/21 - 22/23)
+25	Sebastián Driussi	(20/21)
+26	Jimmy Farkarlun	(23/24 - 24/25)
+26	Charlie Asensio	(22/23)
+27	Brandan Craig	(22/23)
+27	McKinze Gaines	(20/21)
+29	Guilherme Biro	since 23/24
+29	Will Bruin	(22/23)
+30	Joseph Rosales	since 25/26
+30	Stefan Cleveland Goalkeepers	(23/24 - 24/25)
+30	Memo Rodríguez	(22/23)
+31	Valentin Noël	(22/23)
+31	Amro Tarek	(22/23)
+31	Andrew Tarbell Goalkeepers	(20/21 - 21/22)
+32	Micah Burton	since 23/24
+32	David Rodríguez	(22/23)
+32	Washington Corozo	(21/22)
+33	Owen Wolff	since 20/21
+34	Antonio Gomez	(24/25)
+34	Will Pulisic	(20/21)
+35	Mateja Djordjević	since 24/25
+36	Joe Hafferty	(22/23)
+37	Adrián González	(24/25)
+37	Alonso Ramírez	(23/24)
+37	Maximiliano Urruti	(21/22 - 22/23)
+38	Ervin Torres	since 23/24
+39	Riley Thomas	(24/25)
+39	Antonio Gomez	(23/24)
+40	Nico Van Rijn	(24/25)
+41	Brad Stuver Goalkeepers	(20/21)
+66	Aleksandar Radovanovic	(22/23)
+77	Emiliano Rigoni	(21/22 - 22/23)
+99	Moussa Djitté	(20/21)
