@@ -137,6 +137,12 @@
 
           <text x="12" y="22" class="team-list-title">Career path</text>
 
+          @if (playerTimeElapsed() >= 10 && sortedJerseyNumbers().length) {
+            <text [attr.x]="teamListW - 12" y="22" text-anchor="end" class="team-list-jersey" font-size="14" font-weight="bold" fill="#00B140">
+              #{{ sortedJerseyNumbers().join(', #') }}
+            </text>
+          }
+
           @for (item of teamListItems(); track item.key) {
             <g class="team-list-row" [style.animation-delay]="item.revealDelay + 's'">
               <text x="12" [attr.y]="item.y" class="team-list-index">{{ item.index }}.</text>

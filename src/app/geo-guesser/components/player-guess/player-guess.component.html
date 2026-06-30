@@ -8,20 +8,6 @@
     <div class="guess-question">
       <span class="question-text">Who played for these clubs?</span>
     </div>
-    @if (state().playerTimeElapsed >= 10 && sortedJerseyNumbers().length) {
-      <div
-        class="jersey-badge"
-        [attr.aria-label]="
-          'Jersey number' + (sortedJerseyNumbers().length > 1 ? 's ' : ' ') +
-          sortedJerseyNumbers().join(', ') + ' at Austin FC'
-        "
-      >
-        <span class="jersey-label">Austin FC</span>
-        @for (num of sortedJerseyNumbers(); track num; let last = $last) {
-          <span class="jersey-number">#{{ num }}</span>
-        }
-      </div>
-    }
   </div>
 
   <div class="guess-content-container">

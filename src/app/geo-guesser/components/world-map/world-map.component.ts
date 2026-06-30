@@ -68,6 +68,7 @@ export class WorldMapComponent implements OnInit {
   readonly lastGuessResult = input<'correct' | 'wrong' | null>(null);
   readonly smallDots = input(false);
   readonly showYearsOnMap = input(true);
+  readonly playerTimeElapsed = input(0);
 
   readonly mapW = MAP_W;
   readonly mapH = MAP_H;
@@ -221,6 +222,12 @@ export class WorldMapComponent implements OnInit {
     );
   });
 
+  readonly sortedJerseyNumbers = computed(() => {
+    const nums = this.player()?.jerseyNumbers;
+    if (!nums || nums.length === 0) return [];
+    return [...nums].sort((a, b) => a - b);
+  });
+
   // ─── Helpers ─────────────────────────────────────────────────────────────
 
   isAustin(club: ClubStop): boolean {
@@ -229,7 +236,7 @@ export class WorldMapComponent implements OnInit {
 
   private dotRadius(club: ClubStop): number {
     if (this.smallDots()) {
-      return 4;
+      return 6;
     }
     const years = Math.max(1, club.toYear - club.fromYear);
     return Math.min(5 + years * 2.5, 20);

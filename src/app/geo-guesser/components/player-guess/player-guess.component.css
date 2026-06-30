@@ -39,32 +39,6 @@
   color: var(--vw-color-text-primary);
 }
 
-.jersey-badge {
-  display: flex;
-  align-items: baseline;
-  gap: var(--vw-space-xs);
-  background: var(--vw-color-brand-12);
-  border: 1px solid var(--vw-color-border-strong);
-  border-radius: var(--vw-radius-sm);
-  padding: var(--vw-space-xs) var(--vw-space-sm);
-  flex-shrink: 0;
-}
-
-.jersey-label {
-  font-size: var(--vw-font-size-xs);
-  font-weight: var(--vw-font-weight-semibold);
-  color: var(--vw-color-brand);
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-}
-
-.jersey-number {
-  font-size: var(--vw-font-size-xs);
-  font-weight: var(--vw-font-weight-extrabold);
-  color: var(--vw-color-text-primary);
-  line-height: var(--vw-line-height-tight);
-}
-
 .guess-content-container {
   display: grid;
   grid-template-areas: "content";

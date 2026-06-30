@@ -142,12 +142,6 @@ export class PlayerGuessComponent {
     }
   }
 
-  readonly sortedJerseyNumbers = computed(() => {
-    const nums = this.state().currentPlayer?.jerseyNumbers;
-    if (!nums || nums.length === 0) return [];
-    return [...nums].sort((a, b) => a - b);
-  });
-
   private submit(name: string): void {
     this.stateService.submitGuess(name);
     this.inputValue.set('');
