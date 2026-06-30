@@ -112,7 +112,7 @@
             [style.animation-delay]="pt.animDelay + 's'"
           />
 
-          @if (pt.radius >= 9) {
+          @if (showYearsOnMap() && pt.radius >= 9) {
             <text
               class="dot-year"
               text-anchor="middle"

@@ -66,6 +66,8 @@ export class WorldMapComponent implements OnInit {
   readonly player = input<Player | null>(null);
   readonly showPlayerName = input(false);
   readonly lastGuessResult = input<'correct' | 'wrong' | null>(null);
+  readonly smallDots = input(false);
+  readonly showYearsOnMap = input(true);
 
   readonly mapW = MAP_W;
   readonly mapH = MAP_H;
@@ -226,6 +228,9 @@ export class WorldMapComponent implements OnInit {
   }
 
   private dotRadius(club: ClubStop): number {
+    if (this.smallDots()) {
+      return 4;
+    }
     const years = Math.max(1, club.toYear - club.fromYear);
     return Math.min(5 + years * 2.5, 20);
   }

@@ -29,7 +29,7 @@
   @if (loaded() && player()) {
     <section class="map-section">
       <div class="map-container">
-        <app-world-map [player]="player()" [showPlayerName]="false" [lastGuessResult]="'correct'"></app-world-map>
+        <app-world-map [player]="player()" [showPlayerName]="false" [smallDots]="true" [showYearsOnMap]="false" [lastGuessResult]="'correct'"></app-world-map>
       </div>
     </section>
   } @else if (loaded() && !player()) {
