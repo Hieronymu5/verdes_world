@@ -138,9 +138,13 @@
           <text x="12" y="22" class="team-list-title">Career path</text>
 
           @if (playerTimeElapsed() >= 10 && sortedJerseyNumbers().length) {
-            <text [attr.x]="teamListW - 12" y="22" text-anchor="end" class="team-list-jersey" font-size="14" font-weight="bold" fill="#00B140">
-              #{{ sortedJerseyNumbers().join(', #') }}
-            </text>
+            <foreignObject [attr.x]="teamListW - 130" y="8" width="118" height="24">
+              <div xmlns="http://www.w3.org/1999/xhtml" class="team-list-jersey-container">
+                @for (num of sortedJerseyNumbers(); track num) {
+                  <span class="jersey-badge">#{{ num }}</span>
+                }
+              </div>
+            </foreignObject>
           }
 
           @for (item of teamListItems(); track item.key) {
@@ -189,7 +193,16 @@
 
   @if (mobileTeamListItems().length > 0) {
     <aside class="team-list-mobile" aria-label="Career path">
-      <p class="team-list-mobile-title">Career path</p>
+      <div class="team-list-mobile-header">
+        <p class="team-list-mobile-title">Career path</p>
+        @if (playerTimeElapsed() >= 10 && sortedJerseyNumbers().length) {
+          <div class="team-list-jersey-container">
+            @for (num of sortedJerseyNumbers(); track num) {
+              <span class="jersey-badge">#{{ num }}</span>
+            }
+          </div>
+        }
+      </div>
       <ol class="team-list-mobile-items">
         @for (item of mobileTeamListItems(); track item.key) {
           <li class="team-list-mobile-row">
