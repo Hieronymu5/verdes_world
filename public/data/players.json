@@ -180,7 +180,16 @@
         "lat": 30.3848,
         "lng": -97.7183,
         "fromYear": 2021,
-        "toYear": 2025
+        "toYear": 2026
+      },
+      {
+        "clubName": "CF Montréal",
+        "city": "Montreal",
+        "country": "Canada",
+        "lat": 45.4628,
+        "lng": -73.7489,
+        "fromYear": 2026,
+        "toYear": 2026
       }
     ],
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Pereira_(footballer,_born_2000)"
@@ -3529,7 +3538,7 @@
         "city": "Glasgow",
         "country": "Scotland",
         "lat": 55.8497,
-        "lng": -4.2060,
+        "lng": -4.206,
         "fromYear": 2019,
         "toYear": 2021
       },
@@ -3537,7 +3546,7 @@
         "clubName": "North Carolina FC",
         "city": "Cary",
         "country": "USA",
-        "lat": 35.7850,
+        "lat": 35.785,
         "lng": -78.7811,
         "fromYear": 2019,
         "toYear": 2020
