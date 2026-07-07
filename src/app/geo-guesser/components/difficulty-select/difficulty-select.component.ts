@@ -126,7 +126,15 @@ export class DifficultySelectComponent {
     this.selectDifficulty(selectedLevel);
   }
 
+  isWorldCup(level: DifficultyLevel): boolean {
+    return level.id === 'world-cup';
+  }
+
   private selectDifficulty(level: DifficultyLevel): void {
+    if (level.id === 'world-cup') {
+      this.stateService.chooseWorldCupTeam(level);
+      return;
+    }
     this.stateService.startGame(level, this.dataService.players());
   }
 }

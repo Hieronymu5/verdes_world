@@ -3,6 +3,7 @@ import { geoGraticule, geoNaturalEarth1, geoPath, GeoPath, GeoProjection } from 
 import type { Feature, FeatureCollection, Geometry, LineString } from 'geojson';
 import { feature, mesh } from 'topojson-client';
 import type { GeometryCollection, Topology } from 'topojson-specification';
+import { ensureVisibleAccent } from '../../color-utils';
 import { ClubStop, Player } from '../../geo-guesser.models';
 
 export interface MapPoint {
@@ -69,6 +70,15 @@ export class WorldMapComponent implements OnInit {
   readonly smallDots = input(false);
   readonly showYearsOnMap = input(true);
   readonly playerTimeElapsed = input(0);
+  /** Flag colors of the selected World Cup team — accents journey lines/dots when set. */
+  readonly countryColors = input<string[] | null>(null);
+
+  /** The map's land/borders/graticule always stay the default green theme. */
+  readonly accentColor = computed(() => {
+    const colors = this.countryColors();
+    if (!colors || colors.length === 0) return null;
+    return ensureVisibleAccent(colors[0]);
+  });
 
   readonly mapW = MAP_W;
   readonly mapH = MAP_H;

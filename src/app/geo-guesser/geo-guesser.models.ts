@@ -45,11 +45,27 @@ export interface ResourceCategory {
   links: ResourceLink[];
 }
 
-export type GameStatus = 'difficulty' | 'playing' | 'game-over';
+export interface WorldCupTeam {
+  id: string;
+  name: string;
+  /** Relative path (under /data/) to that team's player roster JSON. */
+  filename: string;
+  city: string;
+  country: string;
+  lat: number;
+  lng: number;
+  /** Flag colors, used to theme the game map when this team is selected. */
+  colors: string[];
+  clubId: string;
+  playerCount: number;
+}
+
+export type GameStatus = 'difficulty' | 'team-select' | 'playing' | 'game-over';
 
 export interface GameState {
   status: GameStatus;
   selectedDifficulty: DifficultyLevel | null;
+  selectedWorldCupTeam: WorldCupTeam | null;
   currentPlayer: Player | null;
   remainingPlayers: Player[];
   allPlayers: Player[];

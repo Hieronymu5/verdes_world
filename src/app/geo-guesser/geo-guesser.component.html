@@ -10,6 +10,10 @@
       <app-difficulty-select />
     }
 
+    @case ('team-select') {
+      <app-team-select />
+    }
+
     @case ('playing') {
       <app-game-hud />
       <main class="game-area" aria-label="Game area">
@@ -18,6 +22,7 @@
           [showPlayerName]="state().showPlayerName"
           [lastGuessResult]="state().lastGuessResult"
           [playerTimeElapsed]="state().playerTimeElapsed"
+          [countryColors]="state().selectedWorldCupTeam?.colors ?? null"
         />
         <app-player-guess />
       </main>

@@ -17,59 +17,99 @@
   } @else {
     <section class="controls" aria-label="Report filters">
       <div class="control-block">
-        <h2>Players by games played</h2>
-        <div class="percentile-buttons" role="group" aria-label="Games played filter">
-          @for (option of minGamesOptions; track option) {
+        <h2>Team</h2>
+        <div class="percentile-buttons" role="group" aria-label="Team filter">
+          <button
+            type="button"
+            [class]="selectedTeamId() === null ? 'percentile-btn percentile-btn-selected' : 'percentile-btn'"
+            [attr.aria-pressed]="selectedTeamId() === null"
+            (click)="selectTeam(null)"
+          >
+            Austin FC
+          </button>
+          @for (team of teams(); track team.id) {
             <button
               type="button"
               [class]="
-                selectedMinGames() === option ? 'percentile-btn percentile-btn-selected' : 'percentile-btn'
+                selectedTeamId() === team.id ? 'percentile-btn percentile-btn-selected' : 'percentile-btn'
               "
-              [attr.aria-pressed]="selectedMinGames() === option"
-              (click)="selectMinGames(option)"
+              [attr.aria-pressed]="selectedTeamId() === team.id"
+              (click)="selectTeam(team.id)"
             >
-              {{ option === -1 ? 'All players' : 'At least ' + option + ' matches' }}
+              <span class="team-swatch" [style.background]="team.colors[0]"></span>
+              {{ team.name }}
             </button>
           }
         </div>
-      </div>
-
-      <div class="control-block">
-        <h2>Austin FC years</h2>
-        @if (availableAustinYears().length === 0) {
-          <p class="empty-years">No Austin FC year data found.</p>
-        } @else {
-          <div class="year-actions">
-            <button type="button" class="action-btn" (click)="selectAllYears()">Select all</button>
-            <button type="button" class="action-btn" (click)="clearYears()">Clear all</button>
-          </div>
-
-          <fieldset class="year-fieldset">
-            <legend class="sr-only">Select Austin FC years</legend>
-            <div class="year-grid">
-              @for (year of availableAustinYears(); track year) {
-                <label class="year-option">
-                  <input
-                    type="checkbox"
-                    [checked]="selectedYears().has(year)"
-                    (change)="onYearToggle(year, $event)"
-                  />
-                  <span>{{ year }}</span>
-                </label>
-              }
-            </div>
-          </fieldset>
+        @if (teamPlayersLoading()) {
+          <p class="empty-years">Loading {{ selectedTeam()?.name }} roster…</p>
+        }
+        @if (teamError()) {
+          <p class="status error" role="alert">{{ teamError() }}</p>
         }
       </div>
 
+      @if (!selectedTeam()) {
+        <div class="control-block">
+          <h2>Players by games played</h2>
+          <div class="percentile-buttons" role="group" aria-label="Games played filter">
+            @for (option of minGamesOptions; track option) {
+              <button
+                type="button"
+                [class]="
+                  selectedMinGames() === option ? 'percentile-btn percentile-btn-selected' : 'percentile-btn'
+                "
+                [attr.aria-pressed]="selectedMinGames() === option"
+                (click)="selectMinGames(option)"
+              >
+                {{ option === -1 ? 'All players' : 'At least ' + option + ' matches' }}
+              </button>
+            }
+          </div>
+        </div>
+
+        <div class="control-block">
+          <h2>Austin FC years</h2>
+          @if (availableAustinYears().length === 0) {
+            <p class="empty-years">No Austin FC year data found.</p>
+          } @else {
+            <div class="year-actions">
+              <button type="button" class="action-btn" (click)="selectAllYears()">Select all</button>
+              <button type="button" class="action-btn" (click)="clearYears()">Clear all</button>
+            </div>
+
+            <fieldset class="year-fieldset">
+              <legend class="sr-only">Select Austin FC years</legend>
+              <div class="year-grid">
+                @for (year of availableAustinYears(); track year) {
+                  <label class="year-option">
+                    <input
+                      type="checkbox"
+                      [checked]="selectedYears().has(year)"
+                      (change)="onYearToggle(year, $event)"
+                    />
+                    <span>{{ year }}</span>
+                  </label>
+                }
+              </div>
+            </fieldset>
+          }
+        </div>
+      }
+
       <div class="summary" aria-live="polite">
-        <p><strong>{{ filteredByGamesPlayers().length }}</strong> players in matches pool</p>
-        <p><strong>{{ filteredPlayers().length }}</strong> players match selected years</p>
+        @if (selectedTeam(); as team) {
+          <p><strong>{{ team.name }}</strong> · {{ team.city }}, {{ team.country }}</p>
+          <p><strong>{{ activePlayers().length }}</strong> players</p>
+        } @else {
+          <p><strong>{{ filteredByGamesPlayers().length }}</strong> players in matches pool</p>
+          <p><strong>{{ filteredPlayers().length }}</strong> players match selected years</p>
+        }
         <p><strong>{{ reportLines().length }}</strong> lines · <strong>{{ reportDots().length }}</strong> dots</p>
       </div>
     </section>
 
-    @if (filteredPlayers().length === 0) {
+    @if (activePlayers().length === 0) {
       <p class="status empty" role="status">No players match the selected criteria.</p>
     } @else {
       <section class="map-card" aria-label="Report map visualisation">
@@ -77,8 +117,9 @@
           [attr.viewBox]="'0 0 ' + mapW + ' ' + mapH"
           class="world-map"
           role="img"
+          [style.--report-accent]="teamAccentColor()"
           [attr.aria-label]="
-            'World map with ' + filteredPlayers().length + ' players, ' + reportLines().length + ' lines and ' + reportDots().length + ' dots'
+            'World map with ' + activePlayers().length + ' players, ' + reportLines().length + ' lines and ' + reportDots().length + ' dots'
           "
           xmlns="http://www.w3.org/2000/svg"
         >

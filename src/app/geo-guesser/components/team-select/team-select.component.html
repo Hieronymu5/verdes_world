@@ -1,0 +1,47 @@
+<div class="select-screen" role="main">
+  <div class="branding">
+    <span class="crest" aria-hidden="true">🏆</span>
+    <h1 class="title">Choose your team</h1>
+    <p class="subtitle">The map will be drawn in your team's colors.</p>
+  </div>
+
+  @if (errorMessage()) {
+    <p class="error-banner" role="alert">{{ errorMessage() }}</p>
+  }
+
+  <nav aria-label="Team selection">
+    <ul class="team-list">
+      @for (team of teams(); track team.id) {
+        <li>
+          <button
+            type="button"
+            class="team-card"
+            [disabled]="!!loadingTeamId()"
+            [attr.aria-busy]="loadingTeamId() === team.id"
+            [attr.aria-label]="'Play with ' + team.name + '. ' + team.playerCount + ' players.'"
+            (click)="onSelectTeam(team)"
+          >
+            <span class="flag-swatch" aria-hidden="true">
+              @for (color of team.colors; track $index) {
+                <span class="flag-stripe" [style.background]="color"></span>
+              }
+            </span>
+            <span class="team-name">{{ team.name }}</span>
+            <span class="team-meta">
+              <span class="team-city">{{ team.city }}</span>
+              <span class="team-count">{{ team.playerCount }} players</span>
+            </span>
+
+            @if (loadingTeamId() === team.id) {
+              <span class="team-loading" aria-hidden="true">Loading…</span>
+            }
+          </button>
+        </li>
+      }
+    </ul>
+  </nav>
+
+  <footer class="select-footer">
+    <button type="button" class="back-link" (click)="onBack()">← Back to difficulty</button>
+  </footer>
+</div>

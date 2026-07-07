@@ -34,5 +34,14 @@
     "lives": 3,
     "revealPlayerAfterSeconds": 20,
     "minGamesPlayed": -1
+  },
+  {
+    "id": "world-cup",
+    "name": "Colors",
+    "description": "5 minutes · 5 lives · Pick a national team roster",
+    "gameDurationSeconds": 300,
+    "lives": 5,
+    "revealPlayerAfterSeconds": 30,
+    "minGamesPlayed": -1
   }
 ]

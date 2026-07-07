@@ -10,7 +10,6 @@ import {
   viewChild,
 } from '@angular/core';
 import { FormsModule } from '@angular/forms';
-import { GeoGuesserDataService } from '../../geo-guesser-data.service';
 import { GeoGuesserStateService } from '../../geo-guesser-state.service';
 import { Player } from '../../geo-guesser.models';
 
@@ -22,7 +21,6 @@ import { Player } from '../../geo-guesser.models';
   styleUrl: './player-guess.component.css',
 })
 export class PlayerGuessComponent {
-  private readonly dataService = inject(GeoGuesserDataService);
   private readonly stateService = inject(GeoGuesserStateService);
 
   readonly state = this.stateService.state;
@@ -62,7 +60,7 @@ export class PlayerGuessComponent {
         .replace(/[\u0300-\u036f]/g, '');
 
     const q = normalize(val);
-    const matches = this.dataService.players().filter((p) => normalize(p.name).includes(q));
+    const matches = this.state().allPlayers.filter((p) => normalize(p.name).includes(q));
 
     matches.sort((a, b) => {
       const aName = normalize(a.name);
