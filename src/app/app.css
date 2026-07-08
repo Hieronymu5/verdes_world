@@ -45,7 +45,7 @@
 
   /* ── Map / SVG ──────────────────────────────────────────────── */
   --vw-color-land: #1e3d28;
-  --vw-color-border-stroke: #2d5e3a;
+  --vw-color-border-stroke: #3d7a4d;
   --vw-color-graticule: #0e3356;
 
   /* ── Borders ──────────────────────────────────────────────────── */
@@ -190,7 +190,9 @@
   padding: var(--vw-space-sm) var(--vw-space-xl);
   border-radius: var(--vw-radius-md);
   background: var(--vw-color-brand-10);
-  transition: background-color 0.2s, color 0.2s;
+  transition:
+    background-color 0.2s,
+    color 0.2s;
   display: inline-block;
 }
 

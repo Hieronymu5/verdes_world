@@ -12,7 +12,7 @@
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  background: var(--vw-color-bg);
+  background: var(--vw-color-bg-ocean);
   position: relative;
 }
 

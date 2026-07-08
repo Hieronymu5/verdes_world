@@ -184,18 +184,40 @@ export class WorldMapComponent implements OnInit {
   readonly mapPoints = computed((): MapPoint[] => this._schedule()?.points ?? []);
   readonly journeyLines = computed((): JourneyLine[] => this._schedule()?.lines ?? []);
 
-  private readonly _teamListItems = computed((): TeamListItem[] => {
+  /**
+   * Merges consecutive stints at the same club whose year ranges overlap or
+   * touch (e.g. a loan-and-return recorded as separate entries) into a single
+   * entry spanning the combined years. `firstIndex` keeps the original
+   * `mapPoints()` index so the merged row still reveals at the right time.
+   */
+  private readonly _mergedClubs = computed((): { club: ClubStop; firstIndex: number }[] => {
     const p = this.player();
-    const points = this.mapPoints();
-    if (!p || points.length === 0) return [];
+    if (!p) return [];
 
-    return p.clubs.map((club, i) => ({
+    const merged: { club: ClubStop; firstIndex: number }[] = [];
+    p.clubs.forEach((club, i) => {
+      const prev = merged[merged.length - 1];
+      if (prev && prev.club.clubName === club.clubName && club.fromYear <= prev.club.toYear) {
+        prev.club = { ...prev.club, toYear: Math.max(prev.club.toYear, club.toYear) };
+      } else {
+        merged.push({ club, firstIndex: i });
+      }
+    });
+    return merged;
+  });
+
+  private readonly _teamListItems = computed((): TeamListItem[] => {
+    const points = this.mapPoints();
+    const merged = this._mergedClubs();
+    if (merged.length === 0 || points.length === 0) return [];
+
+    return merged.map(({ club, firstIndex }, i) => ({
       key: `${club.clubName}-${club.fromYear}-${club.toYear}-${i}`,
       index: i + 1,
       clubName: this.truncate(club.clubName, 23),
       yearRange: `${club.fromYear}–${club.toYear}`,
       y: TEAM_LIST_START_Y + i * TEAM_LIST_ROW_H,
-      revealDelay: points[i]?.animDelay ?? 0,
+      revealDelay: points[firstIndex]?.animDelay ?? 0,
     }));
   });
 
@@ -208,10 +230,7 @@ export class WorldMapComponent implements OnInit {
   });
 
   readonly mobileTeamListItems = computed((): MobileTeamListItem[] => {
-    const p = this.player();
-    if (!p) return [];
-
-    return p.clubs.map((club, i) => ({
+    return this._mergedClubs().map(({ club }, i) => ({
       key: `${club.clubName}-${club.fromYear}-${club.toYear}-${i}`,
       index: i + 1,
       clubName: club.clubName,
