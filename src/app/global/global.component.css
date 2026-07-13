@@ -1,0 +1,222 @@
+:host {
+  display: block;
+  height: 100vh;
+  overflow-y: auto;
+  overflow-x: hidden;
+  background: var(--vw-color-bg);
+}
+
+.global-page {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: var(--vw-space-lg);
+  color: var(--vw-color-text-primary);
+  display: flex;
+  flex-direction: column;
+  gap: var(--vw-space-lg);
+}
+
+.page-header h1 {
+  margin: 0;
+  font-size: var(--vw-font-size-2xl);
+}
+
+.header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.subtitle {
+  margin-top: var(--vw-space-sm);
+  color: var(--vw-color-text-tertiary);
+  line-height: var(--vw-line-height-relaxed);
+}
+
+.status {
+  margin: 0;
+  padding: var(--vw-space-lg);
+  border-radius: var(--vw-radius-xl);
+}
+
+.status.loading {
+  color: var(--vw-color-text-tertiary);
+  background: var(--vw-color-bg-status);
+}
+
+.status.error {
+  color: var(--vw-color-error-light);
+  background: var(--vw-color-error-bg);
+}
+
+.controls-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--vw-space-md);
+}
+
+.count {
+  margin: 0;
+  color: var(--vw-color-text-accent);
+  font-weight: var(--vw-font-weight-semibold);
+}
+
+.toggle-group {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--vw-space-lg);
+}
+
+.toggle-label {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--vw-space-xs);
+  font-size: var(--vw-font-size-sm);
+  color: var(--vw-color-text-secondary);
+  cursor: pointer;
+}
+
+.club-mode-fieldset {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--vw-space-lg);
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.year-label {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--vw-space-sm);
+  font-size: var(--vw-font-size-sm);
+  font-weight: var(--vw-font-weight-semibold);
+  color: var(--vw-color-text-accent);
+}
+
+.year-slider {
+  accent-color: var(--vw-color-brand);
+}
+
+.team-select-label {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--vw-space-sm);
+  font-size: var(--vw-font-size-sm);
+  font-weight: var(--vw-font-weight-semibold);
+  color: var(--vw-color-text-accent);
+}
+
+.team-select {
+  font-size: var(--vw-font-size-sm);
+  color: var(--vw-color-text-primary);
+  background: var(--vw-color-bg-surface);
+  border: 1px solid var(--vw-color-border-input);
+  border-radius: var(--vw-radius-md);
+  padding: var(--vw-space-xs) var(--vw-space-sm);
+}
+
+.team-select:focus-visible {
+  outline: 2px solid var(--vw-color-brand);
+  outline-offset: 2px;
+}
+
+.year-controls {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--vw-space-sm);
+}
+
+.btn-play {
+  font-size: var(--vw-font-size-sm);
+  font-weight: var(--vw-font-weight-semibold);
+  color: var(--vw-color-brand);
+  background: var(--vw-color-brand-10);
+  border: 1px solid var(--vw-color-border-input);
+  border-radius: var(--vw-radius-md);
+  padding: var(--vw-space-xs) var(--vw-space-lg);
+  cursor: pointer;
+  transition:
+    background-color 0.2s,
+    color 0.2s;
+}
+
+.btn-play:hover,
+.btn-play:focus-visible {
+  background: var(--vw-color-brand-20);
+  color: var(--vw-color-brand-light);
+  outline: none;
+}
+
+.btn-play:focus-visible {
+  outline: 2px solid var(--vw-color-brand);
+  outline-offset: 2px;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+.map-card {
+  border: 1px solid var(--vw-color-border);
+  border-radius: var(--vw-radius-xl);
+  overflow: hidden;
+  background: var(--vw-color-bg);
+}
+
+.world-map {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 80vh;
+}
+
+.land {
+  fill: var(--vw-color-land);
+}
+
+.borders {
+  fill: none;
+  stroke: var(--vw-color-border-stroke);
+  stroke-width: 0.4;
+  stroke-linejoin: round;
+}
+
+.graticule {
+  fill: none;
+  stroke: var(--vw-color-graticule);
+  stroke-width: 0.3;
+  opacity: 0.6;
+}
+
+.global-dot {
+  stroke: none;
+  opacity: 0.85;
+}
+
+.transfer-line {
+  fill: none;
+  stroke-width: 0.8;
+  opacity: 0.55;
+  stroke-linecap: round;
+}
+
+.year-display {
+  fill: #ffffff;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  font-size: 34px;
+  pointer-events: none;
+}

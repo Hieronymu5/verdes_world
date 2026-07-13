@@ -26,6 +26,10 @@ export const routes: Routes = [
     loadComponent: () => import('./report/report.component').then((m) => m.ReportComponent),
   },
   {
+    path: 'global',
+    loadComponent: () => import('./global/global.component').then((m) => m.GlobalComponent),
+  },
+  {
     path: '',
     redirectTo: 'game',
     pathMatch: 'full',
