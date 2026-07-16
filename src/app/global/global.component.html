@@ -1,7 +1,7 @@
 <main class="global-page" role="main" aria-label="Global player map">
   <header class="page-header">
     <div class="header-top">
-      <h1>Global</h1>
+      <h1>World Cup 2026</h1>
       <a routerLink="/about" class="btn-return">Back</a>
     </div>
     <p class="subtitle">
@@ -16,8 +16,6 @@
     <p class="status loading" aria-live="polite">Loading players…</p>
   } @else {
     <div class="controls-row">
-      <p class="count">{{ dots().length }} dot{{ dots().length === 1 ? '' : 's' }}</p>
-
       <label class="team-select-label">
         Country
         <select
@@ -51,33 +49,22 @@
             <input
               type="radio"
               name="club-mode"
+              value="career"
+              [checked]="clubMode() === 'career'"
+              (change)="onClubModeChange($event)"
+            />
+            Full career
+          </label>
+
+          <label class="toggle-label">
+            <input
+              type="radio"
+              name="club-mode"
               value="starting"
               [checked]="clubMode() === 'starting'"
               (change)="onClubModeChange($event)"
             />
             Starting club
-          </label>
-
-          <label class="toggle-label">
-            <input
-              type="radio"
-              name="club-mode"
-              value="previous"
-              [checked]="clubMode() === 'previous'"
-              (change)="onClubModeChange($event)"
-            />
-            Previous club
-          </label>
-
-          <label class="toggle-label">
-            <input
-              type="radio"
-              name="club-mode"
-              value="second"
-              [checked]="clubMode() === 'second'"
-              (change)="onClubModeChange($event)"
-            />
-            Second club
           </label>
 
           <label class="toggle-label">
@@ -90,17 +77,6 @@
             />
             By year
           </label>
-
-          <label class="toggle-label">
-            <input
-              type="radio"
-              name="club-mode"
-              value="career"
-              [checked]="clubMode() === 'career'"
-              (change)="onClubModeChange($event)"
-            />
-            Full career
-          </label>
         </fieldset>
 
         @if (clubMode() === 'year') {
@@ -110,7 +86,7 @@
               <input
                 type="range"
                 class="year-slider"
-                [min]="minYear"
+                [min]="earliestYear()"
                 [max]="maxYear"
                 [value]="selectedYear()"
                 (input)="onYearChange($event)"
@@ -122,59 +98,130 @@
               class="btn-play"
               (click)="toggleAnimation()"
               [attr.aria-pressed]="animating()"
+              [attr.aria-label]="animating() ? 'Pause animation' : 'Play animation'"
             >
-              {{ animating() ? 'Pause' : 'Play' }}
+              <svg class="control-icon" viewBox="0 0 24 24" aria-hidden="true">
+                @if (animating()) {
+                  <path d="M6 5h4v14H6zM14 5h4v14h-4z" />
+                } @else {
+                  <path d="m8 5 11 7-11 7z" />
+                }
+              </svg>
+            </button>
+            <button
+              type="button"
+              class="btn-play"
+              (click)="downloadGif()"
+              [disabled]="exportingGif()"
+              aria-label="Download GIF"
+            >
+              <svg class="control-icon" viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M12 3v11m0 0 4-4m-4 4-4-4M5 17v3h14v-3" />
+              </svg>
             </button>
           </div>
         }
       </div>
     </div>
 
-    <section class="map-card" aria-label="World map with one dot per player's current club">
-      <svg
-        [attr.viewBox]="'0 0 ' + mapW + ' ' + mapH"
-        class="world-map"
-        role="img"
-        [attr.aria-label]="dots().length + ' dots for player ' + clubMode() + ' clubs'"
-        xmlns="http://www.w3.org/2000/svg"
-      >
-        <defs>
-          <radialGradient id="global-ocean" cx="50%" cy="40%" r="70%">
-            <stop offset="0%" stop-color="#0d2a4a" />
-            <stop offset="100%" stop-color="#061525" />
-          </radialGradient>
-        </defs>
+    @if (gifExportError()) {
+      <p class="status error" role="alert">Couldn't generate GIF: {{ gifExportError() }}</p>
+    }
 
-        <rect [attr.width]="mapW" [attr.height]="mapH" fill="url(#global-ocean)" />
+    <div class="map-layout">
+      <aside class="player-list-panel" aria-label="Players displayed on the map">
+        <ol class="player-list">
+          @for (player of playerList(); track player.key) {
+            <li class="player-list-row">
+              <span class="player-list-index">{{ player.index }}.</span>
+              <span class="player-list-details">
+                <span class="player-list-name">{{ player.name }}</span>
+                @if (!selectedTeamId()) {
+                  <span class="player-list-team">{{ player.teamName }}</span>
+                }
+              </span>
+              @if (player.jerseyNumbers.length > 0) {
+                <span class="player-list-numbers" aria-label="Jersey number">
+                  @for (number of player.jerseyNumbers; track number) {
+                    <span class="jersey-badge">{{ number }}</span>
+                  }
+                </span>
+              }
+            </li>
+          }
+        </ol>
+      </aside>
 
-        @if (graticulePath()) {
-          <path [attr.d]="graticulePath()" class="graticule" />
+      <section class="map-card" aria-label="World map with one dot per player's current club">
+        <svg
+          [attr.viewBox]="mapViewBox()"
+          class="world-map"
+          role="img"
+          [attr.aria-label]="dots().length + ' dots for player ' + clubMode() + ' clubs'"
+          preserveAspectRatio="xMidYMin meet"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <defs>
+            <radialGradient id="global-ocean" cx="50%" cy="40%" r="70%">
+              <stop offset="0%" stop-color="#0d2a4a" />
+              <stop offset="100%" stop-color="#061525" />
+            </radialGradient>
+          </defs>
+
+          <rect [attr.width]="mapW" [attr.height]="mapH" fill="url(#global-ocean)" />
+
+          @if (graticulePath()) {
+            <path [attr.d]="graticulePath()" class="graticule" />
+          }
+
+          @if (landPath()) {
+            <path [attr.d]="landPath()" class="land" />
+          }
+
+          @if (bordersPath()) {
+            <path [attr.d]="bordersPath()" class="borders" />
+          }
+
+          @for (line of transferLines(); track line.key) {
+            <path
+              [attr.d]="line.d"
+              [style.stroke]="line.stroke"
+              [style.stroke-dasharray]="
+                erasingTransferLines()
+                  ? line.length * (1 - transferProgress()) + ' ' + line.length
+                  : line.length * transferProgress() + ' ' + line.length
+              "
+              [style.stroke-dashoffset]="
+                erasingTransferLines() ? -line.length * transferProgress() : 0
+              "
+              class="transfer-line"
+            />
+          }
+
+          @for (dot of displayedDots(); track dot.key) {
+            <circle
+              [attr.cx]="dot.x"
+              [attr.cy]="dot.y"
+              [attr.r]="dotRadius()"
+              [style.fill]="dot.fill"
+              class="global-dot"
+            >
+              <title>{{ dot.title }}</title>
+            </circle>
+          }
+        </svg>
+
+        @if (countryLabel() || clubMode() === 'year') {
+          <div class="live-map-labels" aria-label="Map labels">
+            @if (countryLabel(); as country) {
+              <span class="live-map-label-country">{{ country.text }}</span>
+            }
+            @if (clubMode() === 'year') {
+              <span class="live-map-label-year">{{ selectedYear() }}</span>
+            }
+          </div>
         }
-
-        @if (landPath()) {
-          <path [attr.d]="landPath()" class="land" />
-        }
-
-        @if (bordersPath()) {
-          <path [attr.d]="bordersPath()" class="borders" />
-        }
-
-        @for (line of transferLines(); track line.key) {
-          <path [attr.d]="line.d" [style.stroke]="line.stroke" class="transfer-line" />
-        }
-
-        @for (dot of dots(); track dot.key) {
-          <circle [attr.cx]="dot.x" [attr.cy]="dot.y" [attr.r]="dotRadius()" [style.fill]="dot.fill" class="global-dot">
-            <title>{{ dot.title }}</title>
-          </circle>
-        }
-
-        @if (clubMode() === 'year') {
-          <text [attr.x]="mapW - 46" [attr.y]="mapH - 76" text-anchor="end" class="year-display">
-            {{ selectedYear() }}
-          </text>
-        }
-      </svg>
-    </section>
+      </section>
+    </div>
   }
 </main>

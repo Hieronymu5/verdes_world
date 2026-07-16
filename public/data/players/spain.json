@@ -1,0 +1,1340 @@
+[
+  {
+    "id": "alejandro-grimaldo",
+    "name": "Alejandro Grimaldo",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Spanish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Barcelona Atlètic",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2012,
+        "toYear": 2016
+      },
+      {
+        "clubName": "SL Benfica",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2016,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Bayer 04 Leverkusen",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "lat": 51.0324743,
+        "lng": 6.9881194,
+        "fromYear": 2023,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Atlético de Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Alejandro_Grimaldo"
+  },
+  {
+    "id": "aymeric-laporte",
+    "name": "Aymeric Laporte",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Spanish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "CD Basconia",
+        "city": "Basauri",
+        "country": "Spain",
+        "lat": 43.235372,
+        "lng": -2.8920543,
+        "fromYear": 2011,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Bilbao Athletic",
+        "city": "Bilbao-Bilbo (Bizkaia)",
+        "country": "Spain",
+        "lat": 43.2684285,
+        "lng": -2.9340613,
+        "fromYear": 2012,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Athletic Bilbao",
+        "city": "Bilbao-Bilbo (Bizkaia)",
+        "country": "Spain",
+        "lat": 43.2684285,
+        "lng": -2.9340613,
+        "fromYear": 2012,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2018,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Nassr FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Athletic Bilbao",
+        "city": "Bilbao-Bilbo (Bizkaia)",
+        "country": "Spain",
+        "lat": 43.2684285,
+        "lng": -2.9340613,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Aymeric_Laporte"
+  },
+  {
+    "id": "borja-iglesias",
+    "name": "Borja Iglesias",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Spanish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "RC Celta Fortuna",
+        "city": "Vigo",
+        "country": "Spain",
+        "lat": 42.1986395,
+        "lng": -8.727956,
+        "fromYear": 2013,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Real Zaragoza",
+        "city": "Zaragoza",
+        "country": "Spain",
+        "lat": 41.6915847,
+        "lng": -0.9101268,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "RC Celta Fortuna",
+        "city": "Vigo",
+        "country": "Spain",
+        "lat": 42.1986395,
+        "lng": -8.727956,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Celta de Vigo",
+        "city": "Vigo",
+        "country": "Spain",
+        "lat": 42.1986395,
+        "lng": -8.727956,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "RCD Espanyol Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Real Betis Balompié",
+        "city": "Sevilla",
+        "country": "Spain",
+        "lat": 37.3886303,
+        "lng": -5.9953403,
+        "fromYear": 2019,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Bayer 04 Leverkusen",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "lat": 51.0324743,
+        "lng": 6.9881194,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Real Betis Balompié",
+        "city": "Sevilla",
+        "country": "Spain",
+        "lat": 37.3886303,
+        "lng": -5.9953403,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Celta de Vigo",
+        "city": "Vigo",
+        "country": "Spain",
+        "lat": 42.1986395,
+        "lng": -8.727956,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Real Betis Balompié",
+        "city": "Sevilla",
+        "country": "Spain",
+        "lat": 37.3886303,
+        "lng": -5.9953403,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Celta de Vigo",
+        "city": "Vigo",
+        "country": "Spain",
+        "lat": 42.1986395,
+        "lng": -8.727956,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Borja_Iglesias"
+  },
+  {
+    "id": "dani-olmo",
+    "name": "Dani Olmo",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Spanish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "GNK Dinamo Zagreb",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "lat": 45.8130967,
+        "lng": 15.9772795,
+        "fromYear": 2015,
+        "toYear": 2020
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Dani_Olmo"
+  },
+  {
+    "id": "david-raya",
+    "name": "David Raya",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Spanish",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Blackburn Rovers",
+        "city": "Blackburn, Lancashire",
+        "country": "England",
+        "lat": 53.749326,
+        "lng": -2.4840566,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Southport FC",
+        "city": "Southport",
+        "country": "England",
+        "lat": 53.6487421,
+        "lng": -3.0044972,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Blackburn Rovers",
+        "city": "Blackburn, Lancashire",
+        "country": "England",
+        "lat": 53.749326,
+        "lng": -2.4840566,
+        "fromYear": 2015,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Brentford FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Brentford FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Raya"
+  },
+  {
+    "id": "eric-garcia",
+    "name": "Eric García",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Spanish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Girona FC",
+        "city": "Girona",
+        "country": "Spain",
+        "lat": 41.9793006,
+        "lng": 2.8199439,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eric_Garc%C3%ADa"
+  },
+  {
+    "id": "fabian-ruiz",
+    "name": "Fabián Ruiz",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Spanish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Betis Deportivo Balompié",
+        "city": "Sevilla",
+        "country": "Spain",
+        "lat": 37.3886303,
+        "lng": -5.9953403,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Real Betis Balompié",
+        "city": "Sevilla",
+        "country": "Spain",
+        "lat": 37.3886303,
+        "lng": -5.9953403,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Elche CF",
+        "city": "Elche (Alicante)",
+        "country": "Spain",
+        "lat": 38.2653307,
+        "lng": -0.6988391,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Real Betis Balompié",
+        "city": "Sevilla",
+        "country": "Spain",
+        "lat": 37.3886303,
+        "lng": -5.9953403,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "SSC Napoli",
+        "city": "Napoli",
+        "country": "Italy",
+        "lat": 40.8358846,
+        "lng": 14.2487679,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Paris Saint-Germain",
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8534951,
+        "lng": 2.3483915,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Fabi%C3%A1n_Ruiz"
+  },
+  {
+    "id": "ferran-torres",
+    "name": "Ferran Torres",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Spanish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Valencia Mestalla",
+        "city": "Valencia",
+        "country": "Spain",
+        "lat": 39.4697065,
+        "lng": -0.3763353,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Valencia CF",
+        "city": "Valencia",
+        "country": "Spain",
+        "lat": 39.4697065,
+        "lng": -0.3763353,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferran_Torres"
+  },
+  {
+    "id": "gavi",
+    "name": "Gavi",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Spanish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Gavi"
+  },
+  {
+    "id": "joan-garcia",
+    "name": "Joan García",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Spanish",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "RCD Espanyol B",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "RCD Espanyol Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2021,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Joan_Garc%C3%ADa"
+  },
+  {
+    "id": "lamine-yamal",
+    "name": "Lamine Yamal",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Spanish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Lamine_Yamal"
+  },
+  {
+    "id": "marc-cucurella",
+    "name": "Marc Cucurella",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Spanish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Barcelona Atlètic",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "SD Eibar",
+        "city": "Eibar (Gipuzkoa)",
+        "country": "Spain",
+        "lat": 43.1842839,
+        "lng": -2.4732748,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Getafe CF",
+        "city": "Getafe (Madrid)",
+        "country": "Spain",
+        "lat": 40.3142702,
+        "lng": -3.6776595,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2022,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marc_Cucurella"
+  },
+  {
+    "id": "marc-pubill",
+    "name": "Marc Pubill",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Spanish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Atlético Levante UD",
+        "city": "Valencia",
+        "country": "Spain",
+        "lat": 39.4697065,
+        "lng": -0.3763353,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Levante UD",
+        "city": "Valencia",
+        "country": "Spain",
+        "lat": 39.4697065,
+        "lng": -0.3763353,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "UD Almería",
+        "city": "Almería",
+        "country": "Spain",
+        "lat": 36.8685739,
+        "lng": -2.3120282,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Atlético de Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marc_Pubill"
+  },
+  {
+    "id": "marcos-llorente",
+    "name": "Marcos Llorente",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Spanish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Real Madrid Castilla",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Deportivo Alavés",
+        "city": "Vitoria-Gasteiz",
+        "country": "Spain",
+        "lat": 42.8505845,
+        "lng": -2.66145,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Atlético de Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2019,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marcos_Llorente"
+  },
+  {
+    "id": "martin-zubimendi",
+    "name": "Martín Zubimendi",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Spanish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Real Sociedad B",
+        "city": "Donostia-San Sebastián (Gipuzkoa)",
+        "country": "Spain",
+        "lat": 43.3224219,
+        "lng": -1.9838889,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Real Sociedad",
+        "city": "Donostia-San Sebastián (Gipuzkoa)",
+        "country": "Spain",
+        "lat": 43.3224219,
+        "lng": -1.9838889,
+        "fromYear": 2020,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mart%C3%ADn_Zubimendi"
+  },
+  {
+    "id": "mikel-merino",
+    "name": "Mikel Merino",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Spanish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "CA Osasuna Promesas",
+        "city": "Pamplona",
+        "country": "Spain",
+        "lat": 42.815686,
+        "lng": -1.6522353,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "CA Osasuna",
+        "city": "Pamplona",
+        "country": "Spain",
+        "lat": 42.815686,
+        "lng": -1.6522353,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Newcastle United",
+        "city": "Newcastle upon Tyne",
+        "country": "England",
+        "lat": 54.9738474,
+        "lng": -1.6131572,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Real Sociedad",
+        "city": "Donostia-San Sebastián (Gipuzkoa)",
+        "country": "Spain",
+        "lat": 43.3224219,
+        "lng": -1.9838889,
+        "fromYear": 2018,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mikel_Merino"
+  },
+  {
+    "id": "mikel-oyarzabal",
+    "name": "Mikel Oyarzabal",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Spanish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Real Sociedad B",
+        "city": "Donostia-San Sebastián (Gipuzkoa)",
+        "country": "Spain",
+        "lat": 43.3224219,
+        "lng": -1.9838889,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Real Sociedad",
+        "city": "Donostia-San Sebastián (Gipuzkoa)",
+        "country": "Spain",
+        "lat": 43.3224219,
+        "lng": -1.9838889,
+        "fromYear": 2016,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mikel_Oyarzabal"
+  },
+  {
+    "id": "nico-williams",
+    "name": "Nico Williams",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Spanish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Bilbao Athletic",
+        "city": "Bilbao-Bilbo (Bizkaia)",
+        "country": "Spain",
+        "lat": 43.2684285,
+        "lng": -2.9340613,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Athletic Bilbao",
+        "city": "Bilbao-Bilbo (Bizkaia)",
+        "country": "Spain",
+        "lat": 43.2684285,
+        "lng": -2.9340613,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nico_Williams"
+  },
+  {
+    "id": "pau-cubarsi",
+    "name": "Pau Cubarsí",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Spanish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Barcelona Atlètic",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Pau_Cubars%C3%AD"
+  },
+  {
+    "id": "pedri",
+    "name": "Pedri",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Spanish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "UD Las Palmas",
+        "city": "Las Palmas de Gran Canaria",
+        "country": "Spain",
+        "lat": 28.1288694,
+        "lng": -15.4349015,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "UD Las Palmas",
+        "city": "Las Palmas de Gran Canaria",
+        "country": "Spain",
+        "lat": 28.1288694,
+        "lng": -15.4349015,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2020,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Pedri"
+  },
+  {
+    "id": "pedro-porro",
+    "name": "Pedro Porro",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Spanish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Girona FC",
+        "city": "Girona",
+        "country": "Spain",
+        "lat": 41.9793006,
+        "lng": 2.8199439,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Real Valladolid CF",
+        "city": "Valladolid",
+        "country": "Spain",
+        "lat": 41.6200024,
+        "lng": -4.7259906,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Sporting CP",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Tottenham Hotspur",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Sporting CP",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Pedro_Porro"
+  },
+  {
+    "id": "rodri",
+    "name": "Rodri",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Spanish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Villarreal CF B",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Villarreal CF",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Atlético de Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2019,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Rodri"
+  },
+  {
+    "id": "unai-simon",
+    "name": "Unai Simón",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Spanish",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "CD Basconia",
+        "city": "Basauri",
+        "country": "Spain",
+        "lat": 43.235372,
+        "lng": -2.8920543,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Bilbao Athletic",
+        "city": "Bilbao-Bilbo (Bizkaia)",
+        "country": "Spain",
+        "lat": 43.2684285,
+        "lng": -2.9340613,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Athletic Bilbao",
+        "city": "Bilbao-Bilbo (Bizkaia)",
+        "country": "Spain",
+        "lat": 43.2684285,
+        "lng": -2.9340613,
+        "fromYear": 2018,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Unai_Sim%C3%B3n"
+  },
+  {
+    "id": "victor-munoz",
+    "name": "Víctor Muñoz",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Spanish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Real Madrid C",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Real Madrid Castilla",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "CA Osasuna",
+        "city": "Pamplona",
+        "country": "Spain",
+        "lat": 42.815686,
+        "lng": -1.6522353,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Liverpool FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/V%C3%ADctor_Mu%C3%B1oz"
+  },
+  {
+    "id": "yeremy-pino",
+    "name": "Yéremy Pino",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Spanish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Villarreal CF",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2020,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Crystal Palace",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Y%C3%A9remy_Pino"
+  },
+  {
+    "id": "alex-baena",
+    "name": "Álex Baena",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Spanish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Villarreal CF B",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Villarreal CF",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Girona FC",
+        "city": "Girona",
+        "country": "Spain",
+        "lat": 41.9793006,
+        "lng": 2.8199439,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Villarreal CF",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Atlético de Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%81lex_Baena"
+  }
+]

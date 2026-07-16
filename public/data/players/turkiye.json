@@ -1,0 +1,1646 @@
+[
+  {
+    "id": "abdulkerim-bardakc",
+    "name": "Abdülkerim Bardakcı",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Turkish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Konyaspor",
+        "city": "Selçuklu, Konya",
+        "country": "Türkiye",
+        "lat": 37.8768663,
+        "lng": 32.4873945,
+        "fromYear": 2011,
+        "toYear": 2014
+      },
+      {
+        "clubName": "1922 Konyaspor",
+        "city": "Meram / Konya",
+        "country": "Türkiye",
+        "lat": 37.8447791,
+        "lng": 32.4564324,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Konyaspor",
+        "city": "Selçuklu, Konya",
+        "country": "Türkiye",
+        "lat": 37.8768663,
+        "lng": 32.4873945,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Adana Demirspor",
+        "city": "Adana",
+        "country": "Türkiye",
+        "lat": 36.9863599,
+        "lng": 35.3252861,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Konyaspor",
+        "city": "Selçuklu, Konya",
+        "country": "Türkiye",
+        "lat": 37.8768663,
+        "lng": 32.4873945,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Samsunspor",
+        "city": "SAMSUN",
+        "country": "Türkiye",
+        "lat": 41.2303557,
+        "lng": 35.9683338,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Konyaspor",
+        "city": "Selçuklu, Konya",
+        "country": "Türkiye",
+        "lat": 37.8768663,
+        "lng": 32.4873945,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Samsunspor",
+        "city": "SAMSUN",
+        "country": "Türkiye",
+        "lat": 41.2303557,
+        "lng": 35.9683338,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Giresunspor",
+        "city": "Giresun",
+        "country": "Türkiye",
+        "lat": 40.6531617,
+        "lng": 38.5172032,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Denizlispor",
+        "city": "DENİZLİ",
+        "country": "Türkiye",
+        "lat": 37.8275892,
+        "lng": 29.2389539,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Konyaspor",
+        "city": "Selçuklu, Konya",
+        "country": "Türkiye",
+        "lat": 37.8768663,
+        "lng": 32.4873945,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Altay SK",
+        "city": "Gaziemir/İZMİR",
+        "country": "Türkiye",
+        "lat": 38.3262756,
+        "lng": 27.1399665,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Konyaspor",
+        "city": "Selçuklu, Konya",
+        "country": "Türkiye",
+        "lat": 37.8768663,
+        "lng": 32.4873945,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Galatasaray",
+        "city": "Sarıyer / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.1054207,
+        "lng": 29.006187,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Abd%C3%BClkerim_Bardakc%C4%B1"
+  },
+  {
+    "id": "altay-bayndr",
+    "name": "Altay Bayındır",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Turkish",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "MKE Ankaragücü",
+        "city": "Yenimahalle/Ankara",
+        "country": "Türkiye",
+        "lat": 39.9689092,
+        "lng": 32.7174019,
+        "fromYear": 2015,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Fenerbahce",
+        "city": "Kadıköy / İstanbul",
+        "country": "Türkiye",
+        "lat": 40.9912028,
+        "lng": 29.0401521,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Altay_Bay%C4%B1nd%C4%B1r"
+  },
+  {
+    "id": "arda-guler",
+    "name": "Arda Güler",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Turkish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Fenerbahce",
+        "city": "Kadıköy / İstanbul",
+        "country": "Türkiye",
+        "lat": 40.9912028,
+        "lng": 29.0401521,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Arda_G%C3%BCler"
+  },
+  {
+    "id": "bars-alper-ylmaz",
+    "name": "Barış Alper Yılmaz",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Turkish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Ankara Demirspor",
+        "city": "Ankara",
+        "country": "Türkiye",
+        "lat": 39.9207759,
+        "lng": 32.8540497,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Ankara Keciörengücü",
+        "city": "Keçiören / Ankara",
+        "country": "Türkiye",
+        "lat": 39.9848087,
+        "lng": 32.8591448,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Galatasaray",
+        "city": "Sarıyer / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.1054207,
+        "lng": 29.006187,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Bar%C4%B1%C5%9F_Alper_Y%C4%B1lmaz"
+  },
+  {
+    "id": "can-uzun",
+    "name": "Can Uzun",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Turkish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "1.FC Nuremberg",
+        "city": "Nürnberg",
+        "country": "Germany",
+        "lat": 49.453872,
+        "lng": 11.077298,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Can_Uzun"
+  },
+  {
+    "id": "deniz-gul",
+    "name": "Deniz Gül",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Turkish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Hammarby TFF",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "lat": 59.3251172,
+        "lng": 18.0710935,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Hammarby IF",
+        "city": "Årsta",
+        "country": "Sweden",
+        "lat": 59.2964776,
+        "lng": 18.0528626,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Porto",
+        "city": "Porto",
+        "country": "Portugal",
+        "lat": 41.1502195,
+        "lng": -8.6103497,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Deniz_G%C3%BCl"
+  },
+  {
+    "id": "eren-elmal",
+    "name": "Eren Elmalı",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Turkish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Kasimpasa",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.006381,
+        "lng": 28.9758715,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Silivrispor",
+        "city": "Silivri/İSTANBUL",
+        "country": "Türkiye",
+        "lat": 41.0718014,
+        "lng": 28.2769366,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Kasimpasa",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.006381,
+        "lng": 28.9758715,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Trabzonspor",
+        "city": "Trabzon",
+        "country": "Türkiye",
+        "lat": 41.0054605,
+        "lng": 39.7301463,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Galatasaray",
+        "city": "Sarıyer / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.1054207,
+        "lng": 29.006187,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eren_Elmal%C4%B1"
+  },
+  {
+    "id": "ferdi-kadoglu",
+    "name": "Ferdi Kadıoğlu",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Turkish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "NEC Nijmegen",
+        "city": "Nijmegen",
+        "country": "Netherlands",
+        "lat": 51.8474946,
+        "lng": 5.8637771,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Fenerbahce",
+        "city": "Kadıköy / İstanbul",
+        "country": "Türkiye",
+        "lat": 40.9912028,
+        "lng": 29.0401521,
+        "fromYear": 2018,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferdi_Kad%C4%B1o%C4%9Flu"
+  },
+  {
+    "id": "hakan-calhanoglu",
+    "name": "Hakan Çalhanoğlu",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Turkish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Karlsruher SC",
+        "city": "Karlsruhe",
+        "country": "Germany",
+        "lat": 49.0068705,
+        "lng": 8.4034195,
+        "fromYear": 2012,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Hamburger SV",
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.5501721,
+        "lng": 10.0013165,
+        "fromYear": 2012,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Karlsruher SC",
+        "city": "Karlsruhe",
+        "country": "Germany",
+        "lat": 49.0068705,
+        "lng": 8.4034195,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Hamburger SV",
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.5501721,
+        "lng": 10.0013165,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Bayer 04 Leverkusen",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "lat": 51.0324743,
+        "lng": 6.9881194,
+        "fromYear": 2014,
+        "toYear": 2017
+      },
+      {
+        "clubName": "AC Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Inter Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Hakan_%C3%87alhano%C4%9Flu"
+  },
+  {
+    "id": "kaan-ayhan",
+    "name": "Kaan Ayhan",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Turkish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Schalke 04",
+        "city": "Gelsenkirchen",
+        "country": "Germany",
+        "lat": 51.5110321,
+        "lng": 7.0960124,
+        "fromYear": 2013,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "FC Schalke 04",
+        "city": "Gelsenkirchen",
+        "country": "Germany",
+        "lat": 51.5110321,
+        "lng": 7.0960124,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Fortuna Düsseldorf",
+        "city": "Düsseldorf",
+        "country": "Germany",
+        "lat": 51.2254018,
+        "lng": 6.7763137,
+        "fromYear": 2016,
+        "toYear": 2020
+      },
+      {
+        "clubName": "US Sassuolo",
+        "city": "Sassuolo",
+        "country": "Italy",
+        "lat": 44.5409769,
+        "lng": 10.7829023,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Galatasaray",
+        "city": "Sarıyer / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.1054207,
+        "lng": 29.006187,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "US Sassuolo",
+        "city": "Sassuolo",
+        "country": "Italy",
+        "lat": 44.5409769,
+        "lng": 10.7829023,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kaan_Ayhan"
+  },
+  {
+    "id": "kenan-yldz",
+    "name": "Kenan Yıldız",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Turkish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Juventus FC",
+        "city": "Torino",
+        "country": "Italy",
+        "lat": 45.0677551,
+        "lng": 7.6824892,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kenan_Y%C4%B1ld%C4%B1z"
+  },
+  {
+    "id": "kerem-akturkoglu",
+    "name": "Kerem Aktürkoğlu",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Turkish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Bodrum FK",
+        "city": "Bodrum / Muğla",
+        "country": "Türkiye",
+        "lat": 37.0081474,
+        "lng": 27.261364,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Karacabey Belediye Spor",
+        "city": "Karacabey / Bursa",
+        "country": "Türkiye",
+        "lat": 40.2158975,
+        "lng": 28.3597377,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "24 Erzincanspor",
+        "city": "Erzincan",
+        "country": "Türkiye",
+        "lat": 39.6073429,
+        "lng": 39.2013209,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Galatasaray",
+        "city": "Sarıyer / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.1054207,
+        "lng": 29.006187,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "SL Benfica",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Fenerbahce",
+        "city": "Kadıköy / İstanbul",
+        "country": "Türkiye",
+        "lat": 40.9912028,
+        "lng": 29.0401521,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kerem_Akt%C3%BCrko%C4%9Flu"
+  },
+  {
+    "id": "merih-demiral",
+    "name": "Merih Demiral",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Turkish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Sporting CP B",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Sporting CP",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Alanyaspor",
+        "city": "Alanya / Antalya",
+        "country": "Türkiye",
+        "lat": 36.8865728,
+        "lng": 30.7030242,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "US Sassuolo",
+        "city": "Sassuolo",
+        "country": "Italy",
+        "lat": 44.5409769,
+        "lng": 10.7829023,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Sporting CP",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Alanyaspor",
+        "city": "Alanya / Antalya",
+        "country": "Türkiye",
+        "lat": 36.8865728,
+        "lng": 30.7030242,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "US Sassuolo",
+        "city": "Sassuolo",
+        "country": "Italy",
+        "lat": 44.5409769,
+        "lng": 10.7829023,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Juventus FC",
+        "city": "Torino",
+        "country": "Italy",
+        "lat": 45.0677551,
+        "lng": 7.6824892,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Alanyaspor",
+        "city": "Alanya / Antalya",
+        "country": "Türkiye",
+        "lat": 36.8865728,
+        "lng": 30.7030242,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Atalanta BC",
+        "city": "Bergamo",
+        "country": "Italy",
+        "lat": 45.7566557,
+        "lng": 9.7542192,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Juventus FC",
+        "city": "Torino",
+        "country": "Italy",
+        "lat": 45.0677551,
+        "lng": 7.6824892,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Ahli SFC",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.5504432,
+        "lng": 39.1742363,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Merih_Demiral"
+  },
+  {
+    "id": "mert-gunok",
+    "name": "Mert Günok",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Turkish",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Fenerbahce",
+        "city": "Kadıköy / İstanbul",
+        "country": "Türkiye",
+        "lat": 40.9912028,
+        "lng": 29.0401521,
+        "fromYear": 2009,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Bursaspor",
+        "city": "Nilüfer / Bursa",
+        "country": "Türkiye",
+        "lat": 40.2274344,
+        "lng": 28.9315848,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Basaksehir FK",
+        "city": "Istanbul",
+        "country": "Türkiye",
+        "lat": 41.006381,
+        "lng": 28.9758715,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Besiktas JK",
+        "city": "Beşiktaş / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.0670098,
+        "lng": 29.0421066,
+        "fromYear": 2021,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Fenerbahce",
+        "city": "Kadıköy / İstanbul",
+        "country": "Türkiye",
+        "lat": 40.9912028,
+        "lng": 29.0401521,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mert_G%C3%BCnok"
+  },
+  {
+    "id": "mert-muldur",
+    "name": "Mert Müldür",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Turkish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "SK Rapid Wien II",
+        "city": "Wien",
+        "country": "Austria",
+        "lat": 48.2083537,
+        "lng": 16.3725042,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Rapid Vienna",
+        "city": "Wien",
+        "country": "Austria",
+        "lat": 48.2083537,
+        "lng": 16.3725042,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "US Sassuolo",
+        "city": "Sassuolo",
+        "country": "Italy",
+        "lat": 44.5409769,
+        "lng": 10.7829023,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Fenerbahce",
+        "city": "Kadıköy / İstanbul",
+        "country": "Türkiye",
+        "lat": 40.9912028,
+        "lng": 29.0401521,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mert_M%C3%BCld%C3%BCr"
+  },
+  {
+    "id": "orkun-kokcu",
+    "name": "Orkun Kökçü",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Turkish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Feyenoord Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2018,
+        "toYear": 2023
+      },
+      {
+        "clubName": "SL Benfica",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Besiktas JK",
+        "city": "Beşiktaş / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.0670098,
+        "lng": 29.0421066,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "SL Benfica",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Orkun_K%C3%B6k%C3%A7%C3%BC"
+  },
+  {
+    "id": "ozan-kabak",
+    "name": "Ozan Kabak",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Turkish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Galatasaray",
+        "city": "Sarıyer / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.1054207,
+        "lng": 29.006187,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Schalke 04",
+        "city": "Gelsenkirchen",
+        "country": "Germany",
+        "lat": 51.5110321,
+        "lng": 7.0960124,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "VfB Stuttgart",
+        "city": "Stuttgart",
+        "country": "Germany",
+        "lat": 48.7784485,
+        "lng": 9.1800132,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Liverpool FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Schalke 04",
+        "city": "Gelsenkirchen",
+        "country": "Germany",
+        "lat": 51.5110321,
+        "lng": 7.0960124,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Norwich City",
+        "city": "Norwich",
+        "country": "England",
+        "lat": 52.6285576,
+        "lng": 1.2923954,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Schalke 04",
+        "city": "Gelsenkirchen",
+        "country": "Germany",
+        "lat": 51.5110321,
+        "lng": 7.0960124,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ozan_Kabak"
+  },
+  {
+    "id": "oguz-aydn",
+    "name": "Oğuz Aydın",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Turkish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Buca Gelistirme Spor (1928-2020)",
+        "city": "Buca / İzmir",
+        "country": "Türkiye",
+        "lat": 38.3622097,
+        "lng": 27.1481274,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Bucaspor 1928",
+        "city": "Bornova / İzmir",
+        "country": "Türkiye",
+        "lat": 38.4496461,
+        "lng": 27.2089166,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Karacabey Belediye Spor",
+        "city": "Karacabey / Bursa",
+        "country": "Türkiye",
+        "lat": 40.2158975,
+        "lng": 28.3597377,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Bucaspor 1928",
+        "city": "Bornova / İzmir",
+        "country": "Türkiye",
+        "lat": 38.4496461,
+        "lng": 27.2089166,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Alanyaspor",
+        "city": "Alanya / Antalya",
+        "country": "Türkiye",
+        "lat": 36.8865728,
+        "lng": 30.7030242,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Fenerbahce",
+        "city": "Kadıköy / İstanbul",
+        "country": "Türkiye",
+        "lat": 40.9912028,
+        "lng": 29.0401521,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/O%C4%9Fuz_Ayd%C4%B1n"
+  },
+  {
+    "id": "salih-ozcan",
+    "name": "Salih Özcan",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Turkish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "1.FC Köln II",
+        "city": "Köln",
+        "country": "Germany",
+        "lat": 50.938361,
+        "lng": 6.959974,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "1.FC Köln",
+        "city": "Köln",
+        "country": "Germany",
+        "lat": 50.938361,
+        "lng": 6.959974,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Holstein Kiel",
+        "city": "Kiel",
+        "country": "Germany",
+        "lat": 54.3227085,
+        "lng": 10.135555,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "1.FC Köln",
+        "city": "Köln",
+        "country": "Germany",
+        "lat": 50.938361,
+        "lng": 6.959974,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "VfL Wolfsburg",
+        "city": "Wolfsburg",
+        "country": "Germany",
+        "lat": 52.4205588,
+        "lng": 10.7861682,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Salih_%C3%96zcan"
+  },
+  {
+    "id": "samet-akaydin",
+    "name": "Samet Akaydin",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Turkish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Arsinspor (1973-2020)",
+        "city": "Trabzon/Arsin",
+        "country": "Türkiye",
+        "lat": 40.9492505,
+        "lng": 39.9965783,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Sancaktepe FK",
+        "city": "Bahçelievler / İstanbul",
+        "country": "Türkiye",
+        "lat": 40.999364,
+        "lng": 28.8210165,
+        "fromYear": 2014,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Ankara Keciörengücü",
+        "city": "Keçiören / Ankara",
+        "country": "Türkiye",
+        "lat": 39.9848087,
+        "lng": 32.8591448,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Adana Demirspor",
+        "city": "Adana",
+        "country": "Türkiye",
+        "lat": 36.9863599,
+        "lng": 35.3252861,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Fenerbahce",
+        "city": "Kadıköy / İstanbul",
+        "country": "Türkiye",
+        "lat": 40.9912028,
+        "lng": 29.0401521,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Panathinaikos",
+        "city": "Athens",
+        "country": "Greece",
+        "lat": 37.9755648,
+        "lng": 23.7348324,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Fenerbahce",
+        "city": "Kadıköy / İstanbul",
+        "country": "Türkiye",
+        "lat": 40.9912028,
+        "lng": 29.0401521,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Caykur Rizespor",
+        "city": "Merkez/RİZE",
+        "country": "Türkiye",
+        "lat": 41.0348622,
+        "lng": 40.5088943,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Trabzonspor",
+        "city": "Trabzon",
+        "country": "Türkiye",
+        "lat": 41.0054605,
+        "lng": 39.7301463,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Samet_Akaydin"
+  },
+  {
+    "id": "ugurcan-cakr",
+    "name": "Uğurcan Çakır",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Turkish",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Trabzonspor",
+        "city": "Trabzon",
+        "country": "Türkiye",
+        "lat": 41.0054605,
+        "lng": 39.7301463,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "1461 Trabzon",
+        "city": "Trabzon",
+        "country": "Türkiye",
+        "lat": 41.0054605,
+        "lng": 39.7301463,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Trabzonspor",
+        "city": "Trabzon",
+        "country": "Türkiye",
+        "lat": 41.0054605,
+        "lng": 39.7301463,
+        "fromYear": 2016,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Galatasaray",
+        "city": "Sarıyer / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.1054207,
+        "lng": 29.006187,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/U%C4%9Furcan_%C3%87ak%C4%B1r"
+  },
+  {
+    "id": "yunus-akgun",
+    "name": "Yunus Akgün",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Turkish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Galatasaray",
+        "city": "Sarıyer / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.1054207,
+        "lng": 29.006187,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Adana Demirspor",
+        "city": "Adana",
+        "country": "Türkiye",
+        "lat": 36.9863599,
+        "lng": 35.3252861,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Galatasaray",
+        "city": "Sarıyer / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.1054207,
+        "lng": 29.006187,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Adana Demirspor",
+        "city": "Adana",
+        "country": "Türkiye",
+        "lat": 36.9863599,
+        "lng": 35.3252861,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Galatasaray",
+        "city": "Sarıyer / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.1054207,
+        "lng": 29.006187,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Leicester City",
+        "city": "Leicester",
+        "country": "England",
+        "lat": 52.6362,
+        "lng": -1.1331969,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Galatasaray",
+        "city": "Sarıyer / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.1054207,
+        "lng": 29.006187,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Yunus_Akg%C3%BCn"
+  },
+  {
+    "id": "zeki-celik",
+    "name": "Zeki Çelik",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Turkish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Bursaspor",
+        "city": "Nilüfer / Bursa",
+        "country": "Türkiye",
+        "lat": 40.2274344,
+        "lng": 28.9315848,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Karacabey Belediye Spor",
+        "city": "Karacabey / Bursa",
+        "country": "Türkiye",
+        "lat": 40.2158975,
+        "lng": 28.3597377,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Bursaspor",
+        "city": "Nilüfer / Bursa",
+        "country": "Türkiye",
+        "lat": 40.2274344,
+        "lng": 28.9315848,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Istanbulspor",
+        "city": "Büyükçekmece / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.0244943,
+        "lng": 28.623445,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "LOSC Lille",
+        "city": "Camphin-en-Pévèle",
+        "country": "France",
+        "lat": 50.5948763,
+        "lng": 3.2583523,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Zeki_%C3%87elik"
+  },
+  {
+    "id": "caglar-soyuncu",
+    "name": "Çağlar Söyüncü",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Turkish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Aliaga FK",
+        "city": "Aliağa / İzmir",
+        "country": "Türkiye",
+        "lat": 38.812726,
+        "lng": 27.0533215,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Altinordu FK",
+        "city": "Yeşilyurt/İZMİR",
+        "country": "Türkiye",
+        "lat": 38.4275279,
+        "lng": 27.6760379,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "SC Freiburg",
+        "city": "Freiburg im Breisgau",
+        "country": "Germany",
+        "lat": 47.9960901,
+        "lng": 7.8494005,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Leicester City",
+        "city": "Leicester",
+        "country": "England",
+        "lat": 52.6362,
+        "lng": -1.1331969,
+        "fromYear": 2018,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Atlético de Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Fenerbahce",
+        "city": "Kadıköy / İstanbul",
+        "country": "Türkiye",
+        "lat": 40.9912028,
+        "lng": 29.0401521,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Atlético de Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%87a%C4%9Flar_S%C3%B6y%C3%BCnc%C3%BC"
+  },
+  {
+    "id": "irfan-can-kahveci",
+    "name": "İrfan Can Kahveci",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Turkish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Genclerbirligi Ankara",
+        "city": "ANKARA",
+        "country": "Türkiye",
+        "lat": 39.9207759,
+        "lng": 32.8540497,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Hacettepe Spor",
+        "city": "Ankara",
+        "country": "Türkiye",
+        "lat": 39.9207759,
+        "lng": 32.8540497,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Genclerbirligi Ankara",
+        "city": "ANKARA",
+        "country": "Türkiye",
+        "lat": 39.9207759,
+        "lng": 32.8540497,
+        "fromYear": 2014,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Basaksehir FK",
+        "city": "Istanbul",
+        "country": "Türkiye",
+        "lat": 41.006381,
+        "lng": 28.9758715,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Fenerbahce",
+        "city": "Kadıköy / İstanbul",
+        "country": "Türkiye",
+        "lat": 40.9912028,
+        "lng": 29.0401521,
+        "fromYear": 2021,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Kasimpasa",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.006381,
+        "lng": 28.9758715,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/%C4%B0rfan_Can_Kahveci"
+  },
+  {
+    "id": "ismail-yuksek",
+    "name": "İsmail Yüksek",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Turkish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Gölcükspor",
+        "city": "Gölcük / Kocaeli",
+        "country": "Türkiye",
+        "lat": 40.7169247,
+        "lng": 29.819588,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Balikesirspor",
+        "city": "BALIKESİR",
+        "country": "Türkiye",
+        "lat": 39.5400798,
+        "lng": 28.0228793,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Fenerbahce",
+        "city": "Kadıköy / İstanbul",
+        "country": "Türkiye",
+        "lat": 40.9912028,
+        "lng": 29.0401521,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Adana Demirspor",
+        "city": "Adana",
+        "country": "Türkiye",
+        "lat": 36.9863599,
+        "lng": 35.3252861,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Fenerbahce",
+        "city": "Kadıköy / İstanbul",
+        "country": "Türkiye",
+        "lat": 40.9912028,
+        "lng": 29.0401521,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Bursaspor",
+        "city": "Nilüfer / Bursa",
+        "country": "Türkiye",
+        "lat": 40.2274344,
+        "lng": 28.9315848,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Fenerbahce",
+        "city": "Kadıköy / İstanbul",
+        "country": "Türkiye",
+        "lat": 40.9912028,
+        "lng": 29.0401521,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/%C4%B0smail_Y%C3%BCksek"
+  }
+]

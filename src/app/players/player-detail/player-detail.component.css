@@ -28,6 +28,37 @@
   align-items: center;
 }
 
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: var(--vw-space-sm);
+}
+
+.download-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.75rem;
+  height: 37px;
+  padding: var(--vw-space-sm);
+  border: 0;
+}
+
+.download-button:disabled {
+  cursor: wait;
+  opacity: 0.6;
+}
+
+.download-button svg {
+  width: 1.35rem;
+  height: 1.35rem;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 2;
+}
+
 .subtitle {
   margin: var(--vw-space-sm) 0 var(--vw-space-md);
   color: var(--vw-color-text-secondary);

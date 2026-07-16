@@ -1,0 +1,1169 @@
+[
+  {
+    "id": "abdulelah-al-amri",
+    "name": "Abdulelah Al-Amri",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Saudi Arabian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Al-Nassr FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Al-Wehda FC",
+        "city": "Mecca",
+        "country": "Saudi Arabia",
+        "lat": 21.420847,
+        "lng": 39.826869,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Al-Nassr FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2019,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Ittihad Club",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.5504432,
+        "lng": 39.1742363,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Nassr FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdulelah_Al-Amri"
+  },
+  {
+    "id": "abdullah-al-hamdan",
+    "name": "Abdullah Al-Hamdan",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Saudi Arabian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Al-Shabab FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Al-Hilal SFC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2021,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Al-Nassr FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdullah_Al-Hamdan"
+  },
+  {
+    "id": "abdullah-al-khaibari",
+    "name": "Abdullah Al-Khaibari",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Saudi Arabian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Al-Shabab FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Al-Nassr FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2019,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdullah_Al-Khaibari"
+  },
+  {
+    "id": "ahmed-al-kassar",
+    "name": "Ahmed Al-Kassar",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Saudi Arabian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Al-Taraji Club",
+        "city": "Qatif",
+        "country": "Saudi Arabia",
+        "lat": 26.5586004,
+        "lng": 50.0087399,
+        "fromYear": 2009,
+        "toYear": 2009
+      },
+      {
+        "clubName": "Al-Raed SFC",
+        "city": "Buraidah, Qassim",
+        "country": "Saudi Arabia",
+        "lat": 26.331667,
+        "lng": 43.971667,
+        "fromYear": 2011,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Al-Ettifaq FC",
+        "city": "Dammam",
+        "country": "Saudi Arabia",
+        "lat": 26.4367824,
+        "lng": 50.1039991,
+        "fromYear": 2015,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Al-Faisaly FC",
+        "city": "Harmah",
+        "country": "Saudi Arabia",
+        "lat": 25.9299255,
+        "lng": 45.3226506,
+        "fromYear": 2018,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Fayha FC",
+        "city": "Al-Majma'ah",
+        "country": "Saudi Arabia",
+        "lat": 25.903889,
+        "lng": 45.345556,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Qadsiah FC",
+        "city": "Madinat Al-Umal, Khobar",
+        "country": "Saudi Arabia",
+        "lat": 26.2172,
+        "lng": 50.1971,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_Al-Kassar"
+  },
+  {
+    "id": "alaa-hejji",
+    "name": "Alaa Hejji",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Saudi Arabian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Al-Khaleej FC",
+        "city": "Saihat",
+        "country": "Saudi Arabia",
+        "lat": 26.475,
+        "lng": 50.0416329,
+        "fromYear": 2015,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Al-Wehda FC",
+        "city": "Mecca",
+        "country": "Saudi Arabia",
+        "lat": 21.420847,
+        "lng": 39.826869,
+        "fromYear": 2020,
+        "toYear": 2025
+      },
+      {
+        "clubName": "NEOM SC",
+        "city": "Neom",
+        "country": "Saudi Arabia",
+        "lat": 28.0058861,
+        "lng": 35.2027014,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Alaa_Hejji"
+  },
+  {
+    "id": "ali-lajami",
+    "name": "Ali Lajami",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Saudi Arabian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Al-Khaleej FC",
+        "city": "Saihat",
+        "country": "Saudi Arabia",
+        "lat": 26.475,
+        "lng": 50.0416329,
+        "fromYear": 2015,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Al-Fateh SC",
+        "city": "Hasa",
+        "country": "Saudi Arabia",
+        "lat": 23.3036077,
+        "lng": 50.1258804,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Al-Nassr FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2020,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Hilal SFC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Lajami"
+  },
+  {
+    "id": "ali-majrashi",
+    "name": "Ali Majrashi",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Saudi Arabian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Al-Shabab FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Al-Faisaly FC",
+        "city": "Harmah",
+        "country": "Saudi Arabia",
+        "lat": 25.9299255,
+        "lng": 45.3226506,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Al-Shabab FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Al-Ahli SFC",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.5504432,
+        "lng": 39.1742363,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Majrashi"
+  },
+  {
+    "id": "ayman-yahya",
+    "name": "Ayman Yahya",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Saudi Arabian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Al-Nassr FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Al-Ahli SFC",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.5504432,
+        "lng": 39.1742363,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ayman_Yahya"
+  },
+  {
+    "id": "firas-al-buraikan",
+    "name": "Firas Al-Buraikan",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Saudi Arabian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Al-Nassr FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Al-Fateh SC",
+        "city": "Hasa",
+        "country": "Saudi Arabia",
+        "lat": 23.3036077,
+        "lng": 50.1258804,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Ahli SFC",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.5504432,
+        "lng": 39.1742363,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Firas_Al-Buraikan"
+  },
+  {
+    "id": "hassan-kadesh",
+    "name": "Hassan Kadesh",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Saudi Arabian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Al-Ettifaq FC",
+        "city": "Dammam",
+        "country": "Saudi Arabia",
+        "lat": 26.4367824,
+        "lng": 50.1039991,
+        "fromYear": 2012,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Al-Hilal SFC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Al-Taawoun FC",
+        "city": "Buraydah",
+        "country": "Saudi Arabia",
+        "lat": 26.331667,
+        "lng": 43.971667,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Ittihad Club",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.5504432,
+        "lng": 39.1742363,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Hassan_Kadesh"
+  },
+  {
+    "id": "hassan-tambakti",
+    "name": "Hassan Tambakti",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Saudi Arabian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Al-Shabab FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Al-Wehda FC",
+        "city": "Mecca",
+        "country": "Saudi Arabia",
+        "lat": 21.420847,
+        "lng": 39.826869,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Al-Shabab FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Hilal SFC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Hassan_Tambakti"
+  },
+  {
+    "id": "jehad-thakri",
+    "name": "Jehad Thakri",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Saudi Arabian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Al-Qadsiah FC",
+        "city": "Madinat Al-Umal, Khobar",
+        "country": "Saudi Arabia",
+        "lat": 26.2172,
+        "lng": 50.1971,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jehad_Thakri"
+  },
+  {
+    "id": "khalid-al-ghannam",
+    "name": "Khalid Al-Ghannam",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Saudi Arabian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Al-Qadsiah FC",
+        "city": "Madinat Al-Umal, Khobar",
+        "country": "Saudi Arabia",
+        "lat": 26.2172,
+        "lng": 50.1971,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Al-Nassr FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Fateh SC",
+        "city": "Hasa",
+        "country": "Saudi Arabia",
+        "lat": 23.3036077,
+        "lng": 50.1258804,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Nassr FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Ettifaq FC",
+        "city": "Dammam",
+        "country": "Saudi Arabia",
+        "lat": 26.4367824,
+        "lng": 50.1039991,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Hilal SFC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Ettifaq FC",
+        "city": "Dammam",
+        "country": "Saudi Arabia",
+        "lat": 26.4367824,
+        "lng": 50.1039991,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Khalid_Al-Ghannam"
+  },
+  {
+    "id": "mohamed-kanno",
+    "name": "Mohamed Kanno",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Saudi Arabian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Al-Ettifaq FC",
+        "city": "Dammam",
+        "country": "Saudi Arabia",
+        "lat": 26.4367824,
+        "lng": 50.1039991,
+        "fromYear": 2013,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Al-Hilal SFC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2017,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Kanno"
+  },
+  {
+    "id": "mohammed-abu-al-shamat",
+    "name": "Mohammed Abu Al-Shamat",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Saudi Arabian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Al-Qadsiah FC",
+        "city": "Madinat Al-Umal, Khobar",
+        "country": "Saudi Arabia",
+        "lat": 26.2172,
+        "lng": 50.1971,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohammed_Abu_Al-Shamat"
+  },
+  {
+    "id": "mohammed-al-owais",
+    "name": "Mohammed Al-Owais",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Saudi Arabian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Al-Shabab FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2014,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Al-Ahli SFC",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.5504432,
+        "lng": 39.1742363,
+        "fromYear": 2017,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Al-Hilal SFC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2022,
+        "toYear": 2025
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohammed_Al-Owais"
+  },
+  {
+    "id": "moteb-al-harbi",
+    "name": "Moteb Al-Harbi",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Saudi Arabian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Al-Shabab FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Hilal SFC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Moteb_Al-Harbi"
+  },
+  {
+    "id": "musab-al-juwayr",
+    "name": "Musab Al-Juwayr",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Saudi Arabian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Al-Hilal SFC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Shabab FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Hilal SFC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Shabab FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Qadsiah FC",
+        "city": "Madinat Al-Umal, Khobar",
+        "country": "Saudi Arabia",
+        "lat": 26.2172,
+        "lng": 50.1971,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Hilal SFC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Musab_Al-Juwayr"
+  },
+  {
+    "id": "nasser-al-dawsari",
+    "name": "Nasser Al-Dawsari",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Saudi Arabian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Al-Hilal SFC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2018,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nasser_Al-Dawsari"
+  },
+  {
+    "id": "nawaf-al-aqidi",
+    "name": "Nawaf Al-Aqidi",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Saudi Arabian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Al-Nassr FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Al-Tai FC",
+        "city": "Ḥaʼil",
+        "country": "Saudi Arabia",
+        "lat": 26.9920987,
+        "lng": 41.4892578,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Al-Nassr FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Fateh SC",
+        "city": "Hasa",
+        "country": "Saudi Arabia",
+        "lat": 23.3036077,
+        "lng": 50.1258804,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Nassr FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nawaf_Al-Aqidi"
+  },
+  {
+    "id": "nawaf-boushal",
+    "name": "Nawaf Boushal",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Saudi Arabian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Al-Fateh SC",
+        "city": "Hasa",
+        "country": "Saudi Arabia",
+        "lat": 23.3036077,
+        "lng": 50.1258804,
+        "fromYear": 2017,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Nassr FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nawaf_Boushal"
+  },
+  {
+    "id": "saleh-al-shehri",
+    "name": "Saleh Al-Shehri",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Saudi Arabian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "SC Beira-Mar",
+        "city": "Aveiro",
+        "country": "Portugal",
+        "lat": 40.640496,
+        "lng": -8.6537841,
+        "fromYear": 2012,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Al-Ahli SFC",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.5504432,
+        "lng": 39.1742363,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Al-Raed SFC",
+        "city": "Buraidah, Qassim",
+        "country": "Saudi Arabia",
+        "lat": 26.331667,
+        "lng": 43.971667,
+        "fromYear": 2015,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Al-Hilal SFC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Al-Raed SFC",
+        "city": "Buraidah, Qassim",
+        "country": "Saudi Arabia",
+        "lat": 26.331667,
+        "lng": 43.971667,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Al-Hilal SFC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Ittihad Club",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.5504432,
+        "lng": 39.1742363,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Saleh_Al-Shehri"
+  },
+  {
+    "id": "salem-al-dawsari",
+    "name": "Salem Al-Dawsari",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Saudi Arabian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Al-Hilal SFC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2011,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Villarreal CF",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Al-Hilal SFC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2018,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Salem_Al-Dawsari"
+  },
+  {
+    "id": "saud-abdulhamid",
+    "name": "Saud Abdulhamid",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Saudi Arabian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Al-Ittihad Club",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.5504432,
+        "lng": 39.1742363,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Al-Hilal SFC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "RC Lens",
+        "city": "Avion",
+        "country": "France",
+        "lat": 50.4126128,
+        "lng": 2.8343891,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Saud_Abdulhamid"
+  },
+  {
+    "id": "sultan-mandash",
+    "name": "Sultan Mandash",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Saudi Arabian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Al-Ittihad Club",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.5504432,
+        "lng": 39.1742363,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Najran SC",
+        "city": "Najran",
+        "country": "Saudi Arabia",
+        "lat": 18.0,
+        "lng": 45.666667,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Al-Ittihad Club",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.5504432,
+        "lng": 39.1742363,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Al-Faisaly FC",
+        "city": "Harmah",
+        "country": "Saudi Arabia",
+        "lat": 25.9299255,
+        "lng": 45.3226506,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Al-Ahli SFC",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.5504432,
+        "lng": 39.1742363,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Al-Taawoun FC",
+        "city": "Buraydah",
+        "country": "Saudi Arabia",
+        "lat": 26.331667,
+        "lng": 43.971667,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Al-Fayha FC",
+        "city": "Al-Majma'ah",
+        "country": "Saudi Arabia",
+        "lat": 25.903889,
+        "lng": 45.345556,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Taawoun FC",
+        "city": "Buraydah",
+        "country": "Saudi Arabia",
+        "lat": 26.331667,
+        "lng": 43.971667,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Al-Hilal SFC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Sultan_Mandash"
+  },
+  {
+    "id": "ziyad-al-johani",
+    "name": "Ziyad Al-Johani",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Saudi Arabian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Al-Ahli SFC",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.5504432,
+        "lng": 39.1742363,
+        "fromYear": 2020,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ziyad_Al-Johani"
+  }
+]

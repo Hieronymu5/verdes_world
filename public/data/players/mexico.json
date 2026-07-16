@@ -1,0 +1,1412 @@
+[
+  {
+    "id": "alexis-vega",
+    "name": "Alexis Vega",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Mexican",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Deportivo Toluca",
+        "city": "Toluca, Estado de México",
+        "country": "Mexico",
+        "lat": 19.292545,
+        "lng": -99.6569007,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Deportivo Guadalajara",
+        "city": "Zapopan, Jalisco",
+        "country": "Mexico",
+        "lat": 20.7211203,
+        "lng": -103.3913671,
+        "fromYear": 2019,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Deportivo Toluca",
+        "city": "Toluca, Estado de México",
+        "country": "Mexico",
+        "lat": 19.292545,
+        "lng": -99.6569007,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexis_Vega"
+  },
+  {
+    "id": "armando-gonzalez",
+    "name": "Armando González",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Mexican",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Deportivo Guadalajara",
+        "city": "Zapopan, Jalisco",
+        "country": "Mexico",
+        "lat": 20.7211203,
+        "lng": -103.3913671,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Armando_Gonz%C3%A1lez"
+  },
+  {
+    "id": "brian-gutierrez",
+    "name": "Brian Gutiérrez",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Mexican",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Chicago Fire FC",
+        "city": "Bridgeview",
+        "country": "United States",
+        "lat": 41.7500323,
+        "lng": -87.8042216,
+        "fromYear": 2020,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Deportivo Guadalajara",
+        "city": "Zapopan, Jalisco",
+        "country": "Mexico",
+        "lat": 20.7211203,
+        "lng": -103.3913671,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_Guti%C3%A9rrez"
+  },
+  {
+    "id": "carlos-acevedo",
+    "name": "Carlos Acevedo",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Mexican",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Santos Laguna",
+        "city": "Torreón, Coahuila",
+        "country": "Mexico",
+        "lat": 25.542698,
+        "lng": -103.410512,
+        "fromYear": 2017,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Acevedo"
+  },
+  {
+    "id": "cesar-huerta",
+    "name": "César Huerta",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Mexican",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Zacatepec FC",
+        "city": "Zacatepec, Morelos",
+        "country": "Mexico",
+        "lat": 18.6505958,
+        "lng": -99.2030775,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Deportivo Guadalajara",
+        "city": "Zapopan, Jalisco",
+        "country": "Mexico",
+        "lat": 20.7211203,
+        "lng": -103.3913671,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Club Atlético Morelia",
+        "city": "Morelia, Michoacán",
+        "country": "Mexico",
+        "lat": 19.6546004,
+        "lng": -101.2623797,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Deportivo Guadalajara",
+        "city": "Zapopan, Jalisco",
+        "country": "Mexico",
+        "lat": 20.7211203,
+        "lng": -103.3913671,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "UNAM Pumas",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "RSC Anderlecht",
+        "city": "Anderlecht (Brüssel)",
+        "country": "Belgium",
+        "lat": 50.841868,
+        "lng": 4.3375643,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/C%C3%A9sar_Huerta"
+  },
+  {
+    "id": "cesar-montes",
+    "name": "César Montes",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Mexican",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Poblado Miguel Alemán FC (- 2016)",
+        "city": "Miguel Alemán, Hermosillo",
+        "country": "Mexico",
+        "lat": 28.8442759,
+        "lng": -111.4938611,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "CF Monterrey",
+        "city": "Guadalupe, Nuevo León",
+        "country": "Mexico",
+        "lat": 25.6751114,
+        "lng": -100.2151753,
+        "fromYear": 2015,
+        "toYear": 2023
+      },
+      {
+        "clubName": "RCD Espanyol Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "UD Almería",
+        "city": "Almería",
+        "country": "Spain",
+        "lat": 36.8685739,
+        "lng": -2.3120282,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Lokomotiv Moscow",
+        "city": "Moskau",
+        "country": "Russia",
+        "lat": 55.625578,
+        "lng": 37.6063916,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/C%C3%A9sar_Montes"
+  },
+  {
+    "id": "edson-alvarez",
+    "name": "Edson Álvarez",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Mexican",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "CF América",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Ajax Amsterdam",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "lat": 52.3730796,
+        "lng": 4.8924534,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "West Ham United",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Fenerbahce",
+        "city": "Kadıköy / İstanbul",
+        "country": "Türkiye",
+        "lat": 40.9912028,
+        "lng": 29.0401521,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "West Ham United",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Edson_%C3%81lvarez"
+  },
+  {
+    "id": "gilberto-mora",
+    "name": "Gilberto Mora",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Mexican",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Club Tijuana",
+        "city": "Tijuana, Baja California",
+        "country": "Mexico",
+        "lat": 32.5317397,
+        "lng": -117.019529,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Gilberto_Mora"
+  },
+  {
+    "id": "guillermo-martinez",
+    "name": "Guillermo Martínez",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Mexican",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Lobos BUAP (- 2019)",
+        "city": "Puebla de Zaragoza",
+        "country": "Mexico",
+        "lat": 19.0437196,
+        "lng": -98.1981486,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Deportivo Guadalajara",
+        "city": "Zapopan, Jalisco",
+        "country": "Mexico",
+        "lat": 20.7211203,
+        "lng": -103.3913671,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Mineros de Zacatecas",
+        "city": "Zacatecas",
+        "country": "Mexico",
+        "lat": 23.0916177,
+        "lng": -102.9333954,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Celaya FC",
+        "city": "Celaya, Guanajuato",
+        "country": "Mexico",
+        "lat": 20.5222851,
+        "lng": -100.8307739,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Puebla FC",
+        "city": "Puebla, Puebla",
+        "country": "Mexico",
+        "lat": 19.0437196,
+        "lng": -98.1981486,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "UNAM Pumas",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Guillermo_Mart%C3%ADnez"
+  },
+  {
+    "id": "guillermo-ochoa",
+    "name": "Guillermo Ochoa",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Mexican",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "CF América",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2003,
+        "toYear": 2011
+      },
+      {
+        "clubName": "AC Ajaccio",
+        "city": "Ajaccio",
+        "country": "France",
+        "lat": 41.9263991,
+        "lng": 8.7376029,
+        "fromYear": 2011,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Málaga CF",
+        "city": "Málaga",
+        "country": "Spain",
+        "lat": 36.7647913,
+        "lng": -4.4422005,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Granada CF",
+        "city": "Granada",
+        "country": "Spain",
+        "lat": 37.1734995,
+        "lng": -3.5995337,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Málaga CF",
+        "city": "Málaga",
+        "country": "Spain",
+        "lat": 36.7647913,
+        "lng": -4.4422005,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Standard Liège",
+        "city": "Lüttich (Liège)",
+        "country": "Belgium",
+        "lat": 50.6419089,
+        "lng": 6.0178968,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "CF América",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "US Salernitana 1919",
+        "city": "Salerno",
+        "country": "Italy",
+        "lat": 40.4194416,
+        "lng": 15.3106085,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Avs Futebol",
+        "city": "Vila das Aves",
+        "country": "Portugal",
+        "lat": 41.3606851,
+        "lng": -8.407702,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "AEL Limassol",
+        "city": "Limassol",
+        "country": "Cyprus",
+        "lat": 34.6852901,
+        "lng": 33.0332657,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Guillermo_Ochoa"
+  },
+  {
+    "id": "israel-reyes",
+    "name": "Israel Reyes",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Mexican",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Puebla FC",
+        "city": "Puebla, Puebla",
+        "country": "Mexico",
+        "lat": 19.0437196,
+        "lng": -98.1981486,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "CF América",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Israel_Reyes"
+  },
+  {
+    "id": "jesus-gallardo",
+    "name": "Jesús Gallardo",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Mexican",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "UNAM Pumas II",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "UNAM Pumas",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "UNAM Pumas II",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "UNAM Pumas",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "CF Monterrey",
+        "city": "Guadalupe, Nuevo León",
+        "country": "Mexico",
+        "lat": 25.6751114,
+        "lng": -100.2151753,
+        "fromYear": 2018,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Deportivo Toluca",
+        "city": "Toluca, Estado de México",
+        "country": "Mexico",
+        "lat": 19.292545,
+        "lng": -99.6569007,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jes%C3%BAs_Gallardo"
+  },
+  {
+    "id": "johan-vasquez",
+    "name": "Johan Vásquez",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Mexican",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Poblado Miguel Alemán FC (- 2016)",
+        "city": "Miguel Alemán, Hermosillo",
+        "country": "Mexico",
+        "lat": 28.8442759,
+        "lng": -111.4938611,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Cimarrones de Sonora",
+        "city": "Hermosillo",
+        "country": "Mexico",
+        "lat": 29.0948207,
+        "lng": -110.9692202,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "CF Monterrey",
+        "city": "Guadalupe, Nuevo León",
+        "country": "Mexico",
+        "lat": 25.6751114,
+        "lng": -100.2151753,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Cimarrones de Sonora",
+        "city": "Hermosillo",
+        "country": "Mexico",
+        "lat": 29.0948207,
+        "lng": -110.9692202,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "CF Monterrey",
+        "city": "Guadalupe, Nuevo León",
+        "country": "Mexico",
+        "lat": 25.6751114,
+        "lng": -100.2151753,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "UNAM Pumas",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Genoa CFC",
+        "city": "Genova",
+        "country": "Italy",
+        "lat": 44.40726,
+        "lng": 8.9338624,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "US Cremonese",
+        "city": "Cremona",
+        "country": "Italy",
+        "lat": 45.2208641,
+        "lng": 10.037038,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "UNAM Pumas",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Genoa CFC",
+        "city": "Genova",
+        "country": "Italy",
+        "lat": 44.40726,
+        "lng": 8.9338624,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Johan_V%C3%A1squez"
+  },
+  {
+    "id": "jorge-sanchez",
+    "name": "Jorge Sánchez",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Mexican",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Santos Laguna",
+        "city": "Torreón, Coahuila",
+        "country": "Mexico",
+        "lat": 25.542698,
+        "lng": -103.410512,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "CF América",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Ajax Amsterdam",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "lat": 52.3730796,
+        "lng": 4.8924534,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Porto",
+        "city": "Porto",
+        "country": "Portugal",
+        "lat": 41.1502195,
+        "lng": -8.6103497,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "CD Cruz Azul",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Ajax Amsterdam",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "lat": 52.3730796,
+        "lng": 4.8924534,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "PAOK Thessaloniki",
+        "city": "Thessaloniki",
+        "country": "Greece",
+        "lat": 40.6403167,
+        "lng": 22.9352716,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jorge_S%C3%A1nchez"
+  },
+  {
+    "id": "julian-quinones",
+    "name": "Julián Quiñones",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Mexican",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Venados FC Yucatán",
+        "city": "Mérida, Yucatán",
+        "country": "Mexico",
+        "lat": 20.9670759,
+        "lng": -89.6237402,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Lobos BUAP (- 2019)",
+        "city": "Puebla de Zaragoza",
+        "country": "Mexico",
+        "lat": 19.0437196,
+        "lng": -98.1981486,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Tigres UANL",
+        "city": "San Nicolás de los Garza, Nuevo León",
+        "country": "Mexico",
+        "lat": 25.7558021,
+        "lng": -100.289648,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Atlas Guadalajara",
+        "city": "Guadalajara, Jalisco",
+        "country": "Mexico",
+        "lat": 20.6720375,
+        "lng": -103.338396,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Tigres UANL",
+        "city": "San Nicolás de los Garza, Nuevo León",
+        "country": "Mexico",
+        "lat": 25.7558021,
+        "lng": -100.289648,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "CF América",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Qadsiah FC",
+        "city": "Madinat Al-Umal, Khobar",
+        "country": "Saudi Arabia",
+        "lat": 26.2172,
+        "lng": 50.1971,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Juli%C3%A1n_Qui%C3%B1ones"
+  },
+  {
+    "id": "luis-chavez",
+    "name": "Luis Chávez",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Mexican",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Club Tijuana",
+        "city": "Tijuana, Baja California",
+        "country": "Mexico",
+        "lat": 32.5317397,
+        "lng": -117.019529,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "CF Pachuca",
+        "city": "Pachuca de Soto, Hidalgo",
+        "country": "Mexico",
+        "lat": 20.10451,
+        "lng": -98.7889224,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Dynamo Moscow",
+        "city": "Moskau",
+        "country": "Russia",
+        "lat": 55.625578,
+        "lng": 37.6063916,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Luis_Ch%C3%A1vez"
+  },
+  {
+    "id": "luis-romo",
+    "name": "Luis Romo",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Mexican",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Querétaro FC II",
+        "city": "Santiago de Querétaro",
+        "country": "Mexico",
+        "lat": 20.5922997,
+        "lng": -100.3917424,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Cimarrones de Sonora",
+        "city": "Hermosillo",
+        "country": "Mexico",
+        "lat": 29.0948207,
+        "lng": -110.9692202,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Querétaro FC II",
+        "city": "Santiago de Querétaro",
+        "country": "Mexico",
+        "lat": 20.5922997,
+        "lng": -100.3917424,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Querétaro FC",
+        "city": "Santiago de Querétaro, Querétaro",
+        "country": "Mexico",
+        "lat": 20.5922997,
+        "lng": -100.3917424,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "CD Cruz Azul",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "CF Monterrey",
+        "city": "Guadalupe, Nuevo León",
+        "country": "Mexico",
+        "lat": 25.6751114,
+        "lng": -100.2151753,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "CD Cruz Azul",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Deportivo Guadalajara",
+        "city": "Zapopan, Jalisco",
+        "country": "Mexico",
+        "lat": 20.7211203,
+        "lng": -103.3913671,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Luis_Romo"
+  },
+  {
+    "id": "mateo-chavez",
+    "name": "Mateo Chávez",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Mexican",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "CD Tapatío",
+        "city": "Guadalajara",
+        "country": "Mexico",
+        "lat": 20.6720375,
+        "lng": -103.338396,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Deportivo Guadalajara",
+        "city": "Zapopan, Jalisco",
+        "country": "Mexico",
+        "lat": 20.7211203,
+        "lng": -103.3913671,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "AZ Alkmaar",
+        "city": "Alkmaar",
+        "country": "Netherlands",
+        "lat": 52.6008538,
+        "lng": 4.8170994,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mateo_Ch%C3%A1vez"
+  },
+  {
+    "id": "obed-vargas",
+    "name": "Obed Vargas",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Mexican",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Tacoma Defiance",
+        "city": "Tacoma, Washington",
+        "country": "United States",
+        "lat": 47.2455013,
+        "lng": -122.438329,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Seattle Sounders FC",
+        "city": "Seattle",
+        "country": "United States",
+        "lat": 47.6038321,
+        "lng": -122.330062,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Tacoma Defiance",
+        "city": "Tacoma, Washington",
+        "country": "United States",
+        "lat": 47.2455013,
+        "lng": -122.438329,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Seattle Sounders FC",
+        "city": "Seattle",
+        "country": "United States",
+        "lat": 47.6038321,
+        "lng": -122.330062,
+        "fromYear": 2021,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Atlético de Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Obed_Vargas"
+  },
+  {
+    "id": "orbelin-pineda",
+    "name": "Orbelín Pineda",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Mexican",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Querétaro FC",
+        "city": "Santiago de Querétaro, Querétaro",
+        "country": "Mexico",
+        "lat": 20.5922997,
+        "lng": -100.3917424,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Deportivo Guadalajara",
+        "city": "Zapopan, Jalisco",
+        "country": "Mexico",
+        "lat": 20.7211203,
+        "lng": -103.3913671,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "CD Cruz Azul",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Celta de Vigo",
+        "city": "Vigo",
+        "country": "Spain",
+        "lat": 42.1986395,
+        "lng": -8.727956,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "AEK Athens",
+        "city": "Nea Filadelfeia (Athens)",
+        "country": "Greece",
+        "lat": 38.0324068,
+        "lng": 23.7374874,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Celta de Vigo",
+        "city": "Vigo",
+        "country": "Spain",
+        "lat": 42.1986395,
+        "lng": -8.727956,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Orbel%C3%ADn_Pineda"
+  },
+  {
+    "id": "raul-jimenez",
+    "name": "Raúl Jiménez",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Mexican",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "CF América",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2011,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Atlético de Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "SL Benfica",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2015,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Wolverhampton Wanderers",
+        "city": "Wolverhampton",
+        "country": "England",
+        "lat": 52.5847651,
+        "lng": -2.127567,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "SL Benfica",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Fulham FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2023,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Wolverhampton Wanderers",
+        "city": "Wolverhampton",
+        "country": "England",
+        "lat": 52.5847651,
+        "lng": -2.127567,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ra%C3%BAl_Jim%C3%A9nez"
+  },
+  {
+    "id": "raul-rangel",
+    "name": "Raúl Rangel",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Mexican",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "CD Tapatío",
+        "city": "Guadalajara",
+        "country": "Mexico",
+        "lat": 20.6720375,
+        "lng": -103.338396,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Deportivo Guadalajara",
+        "city": "Zapopan, Jalisco",
+        "country": "Mexico",
+        "lat": 20.7211203,
+        "lng": -103.3913671,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ra%C3%BAl_Rangel"
+  },
+  {
+    "id": "roberto-alvarado",
+    "name": "Roberto Alvarado",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Mexican",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Celaya FC II",
+        "city": "Celaya, Guanajuato",
+        "country": "Mexico",
+        "lat": 20.5222851,
+        "lng": -100.8307739,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Celaya FC",
+        "city": "Celaya, Guanajuato",
+        "country": "Mexico",
+        "lat": 20.5222851,
+        "lng": -100.8307739,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "CF Pachuca",
+        "city": "Pachuca de Soto, Hidalgo",
+        "country": "Mexico",
+        "lat": 20.10451,
+        "lng": -98.7889224,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Club Necaxa",
+        "city": "Aguascalientes, Aguascalientes",
+        "country": "Mexico",
+        "lat": 21.880487,
+        "lng": -102.2967195,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "CD Cruz Azul",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Deportivo Guadalajara",
+        "city": "Zapopan, Jalisco",
+        "country": "Mexico",
+        "lat": 20.7211203,
+        "lng": -103.3913671,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Roberto_Alvarado"
+  },
+  {
+    "id": "santiago-gimenez",
+    "name": "Santiago Gimenez",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Mexican",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "CD Cruz Azul",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Feyenoord Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "AC Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Santiago_Gimenez"
+  },
+  {
+    "id": "alvaro-fidalgo",
+    "name": "Álvaro Fidalgo",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Mexican",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Real Madrid Castilla",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2016,
+        "toYear": 2020
+      },
+      {
+        "clubName": "CD Castellón",
+        "city": "Castellón de la Plana",
+        "country": "Spain",
+        "lat": 39.9860347,
+        "lng": -0.0377354,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "CF América",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "CD Castellón",
+        "city": "Castellón de la Plana",
+        "country": "Spain",
+        "lat": 39.9860347,
+        "lng": -0.0377354,
+        "fromYear": 2021,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Real Betis Balompié",
+        "city": "Sevilla",
+        "country": "Spain",
+        "lat": 37.3886303,
+        "lng": -5.9953403,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%81lvaro_Fidalgo"
+  },
+  {
+    "id": "erik-lira",
+    "name": "Érik Lira",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Mexican",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "UNAM Pumas",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "CD Cruz Azul",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%89rik_Lira"
+  }
+]

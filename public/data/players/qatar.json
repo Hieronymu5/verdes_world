@@ -1,0 +1,1178 @@
+[
+  {
+    "id": "abdulaziz-hatim",
+    "name": "Abdulaziz Hatim",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Qatari",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Al-Arabi SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2007,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Al-Gharafa SC",
+        "city": "Al-Rayyan",
+        "country": "Qatar",
+        "lat": 25.0819602,
+        "lng": 51.158416,
+        "fromYear": 2015,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Al-Rayyan SC",
+        "city": "Al-Rayyan",
+        "country": "Qatar",
+        "lat": 25.0819602,
+        "lng": 51.158416,
+        "fromYear": 2019,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdulaziz_Hatim"
+  },
+  {
+    "id": "ahmed-al-ganehi",
+    "name": "Ahmed Al-Ganehi",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Qatari",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Al-Gharafa SC",
+        "city": "Al-Rayyan",
+        "country": "Qatar",
+        "lat": 25.0819602,
+        "lng": 51.158416,
+        "fromYear": 2018,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Al-Rayyan SC",
+        "city": "Al-Rayyan",
+        "country": "Qatar",
+        "lat": 25.0819602,
+        "lng": 51.158416,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_Al-Ganehi"
+  },
+  {
+    "id": "ahmed-alaaeldin",
+    "name": "Ahmed Alaaeldin",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Qatari",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Al-Rayyan SC",
+        "city": "Al-Rayyan",
+        "country": "Qatar",
+        "lat": 25.0819602,
+        "lng": 51.158416,
+        "fromYear": 2012,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Al-Gharafa SC",
+        "city": "Al-Rayyan",
+        "country": "Qatar",
+        "lat": 25.0819602,
+        "lng": 51.158416,
+        "fromYear": 2017,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Arabi SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Rayyan SC",
+        "city": "Al-Rayyan",
+        "country": "Qatar",
+        "lat": 25.0819602,
+        "lng": 51.158416,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Gharafa SC",
+        "city": "Al-Rayyan",
+        "country": "Qatar",
+        "lat": 25.0819602,
+        "lng": 51.158416,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_Alaaeldin"
+  },
+  {
+    "id": "ahmed-fathi",
+    "name": "Ahmed Fathi",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Qatari",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Al-Arabi SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2011,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_Fathi"
+  },
+  {
+    "id": "akram-afif",
+    "name": "Akram Afif",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Qatari",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Al-Sadd SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2012,
+        "toYear": 2015
+      },
+      {
+        "clubName": "KAS Eupen",
+        "city": "Eupen",
+        "country": "Belgium",
+        "lat": 50.6305665,
+        "lng": 6.0312717,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Villarreal CF",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Sporting Gijón",
+        "city": "Leorio - Gijón (Asturias)",
+        "country": "Spain",
+        "lat": 43.4765996,
+        "lng": -5.6845375,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Al-Sadd SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Villarreal CF",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "KAS Eupen",
+        "city": "Eupen",
+        "country": "Belgium",
+        "lat": 50.6305665,
+        "lng": 6.0312717,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Villarreal CF",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Al-Sadd SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Villarreal CF",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Al-Sadd SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2020,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Akram_Afif"
+  },
+  {
+    "id": "al-hashmi-al-hussain",
+    "name": "Al-Hashmi Al-Hussain",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Qatari",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "AD Alcorcón B",
+        "city": "Alcorcón",
+        "country": "Spain",
+        "lat": 40.3492998,
+        "lng": -3.8284295,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Arabi SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2025,
+        "toYear": 2025
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Al-Hashmi_Al-Hussain"
+  },
+  {
+    "id": "almoez-ali",
+    "name": "Almoez Ali",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Qatari",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "LASK",
+        "city": "Pasching",
+        "country": "Austria",
+        "lat": 48.2576453,
+        "lng": 14.2044214,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Cultural Leonesa",
+        "city": "León",
+        "country": "Spain",
+        "lat": 42.6341451,
+        "lng": -5.9714151,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Al-Duhail SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2016,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Almoez_Ali"
+  },
+  {
+    "id": "assim-madibo",
+    "name": "Assim Madibo",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Qatari",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "LASK",
+        "city": "Pasching",
+        "country": "Austria",
+        "lat": 48.2576453,
+        "lng": 14.2044214,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Cultural Leonesa",
+        "city": "León",
+        "country": "Spain",
+        "lat": 42.6341451,
+        "lng": -5.9714151,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Al-Duhail SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "KAS Eupen",
+        "city": "Eupen",
+        "country": "Belgium",
+        "lat": 50.6305665,
+        "lng": 6.0312717,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Al-Duhail SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Al-Gharafa SC",
+        "city": "Al-Rayyan",
+        "country": "Qatar",
+        "lat": 25.0819602,
+        "lng": 51.158416,
+        "fromYear": 2018,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Wakrah SC",
+        "city": "Al-Wakra",
+        "country": "Qatar",
+        "lat": 25.0037453,
+        "lng": 51.4103338,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Duhail SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Assim_Madibo"
+  },
+  {
+    "id": "ayoub-al-oui",
+    "name": "Ayoub Al-Oui",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Qatari",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Al-Gharafa SC",
+        "city": "Al-Rayyan",
+        "country": "Qatar",
+        "lat": 25.0819602,
+        "lng": 51.158416,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ayoub_Al-Oui"
+  },
+  {
+    "id": "boualem-khoukhi",
+    "name": "Boualem Khoukhi",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Qatari",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "JSM Chéraga",
+        "city": "Chéraga, Algier",
+        "country": "Algeria",
+        "lat": 36.7669269,
+        "lng": 2.9602571,
+        "fromYear": 2007,
+        "toYear": 2009
+      },
+      {
+        "clubName": "Al-Arabi SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2009,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Al-Sadd SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2017,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Boualem_Khoukhi"
+  },
+  {
+    "id": "edmilson-junior",
+    "name": "Edmílson Junior",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Qatari",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Sint-Truidense VV",
+        "city": "Sint-Truiden",
+        "country": "Belgium",
+        "lat": 50.8152784,
+        "lng": 5.1858896,
+        "fromYear": 2012,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Standard Liège",
+        "city": "Lüttich (Liège)",
+        "country": "Belgium",
+        "lat": 50.6419089,
+        "lng": 6.0178968,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Al-Duhail SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2018,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Edm%C3%ADlson_Junior"
+  },
+  {
+    "id": "hassan-al-haydos",
+    "name": "Hassan Al-Haydos",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Qatari",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Al-Sadd SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2007,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Hassan_Al-Haydos"
+  },
+  {
+    "id": "homam-al-amin",
+    "name": "Homam Al-Amin",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Qatari",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Al-Gharafa SC",
+        "city": "Al-Rayyan",
+        "country": "Qatar",
+        "lat": 25.0819602,
+        "lng": 51.158416,
+        "fromYear": 2019,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Duhail SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Cultural Leonesa",
+        "city": "León",
+        "country": "Spain",
+        "lat": 42.6341451,
+        "lng": -5.9714151,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Al-Duhail SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Homam_Al-Amin"
+  },
+  {
+    "id": "issa-laye",
+    "name": "Issa Laye",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Qatari",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Lusail SC",
+        "city": "Lusail City",
+        "country": "Qatar",
+        "lat": 25.4228888,
+        "lng": 51.5197163,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Shamal SC",
+        "city": "Al-Shamal",
+        "country": "Qatar",
+        "lat": 26.0517166,
+        "lng": 51.2005821,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Arabi SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Lusail SC",
+        "city": "Lusail City",
+        "country": "Qatar",
+        "lat": 25.4228888,
+        "lng": 51.5197163,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Arabi SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Lusail SC",
+        "city": "Lusail City",
+        "country": "Qatar",
+        "lat": 25.4228888,
+        "lng": 51.5197163,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Issa_Laye"
+  },
+  {
+    "id": "jassem-gaber",
+    "name": "Jassem Gaber",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Qatari",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Al-Arabi SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2019,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Rayyan SC",
+        "city": "Al-Rayyan",
+        "country": "Qatar",
+        "lat": 25.0819602,
+        "lng": 51.158416,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jassem_Gaber"
+  },
+  {
+    "id": "karim-boudiaf",
+    "name": "Karim Boudiaf",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Qatari",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Lorient B",
+        "city": "Lorient",
+        "country": "France",
+        "lat": 47.7477336,
+        "lng": -3.3660907,
+        "fromYear": 2008,
+        "toYear": 2008
+      },
+      {
+        "clubName": "AS Nancy-Lorraine B",
+        "city": "Tomblaine",
+        "country": "France",
+        "lat": 48.6864409,
+        "lng": 6.2106707,
+        "fromYear": 2008,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Al-Duhail SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2010,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Karim_Boudiaf"
+  },
+  {
+    "id": "lucas-mendes",
+    "name": "Lucas Mendes",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Qatari",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Coritiba Foot Ball Club",
+        "city": "Curitiba",
+        "country": "Brazil",
+        "lat": -25.4295963,
+        "lng": -49.2712724,
+        "fromYear": 2010,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Olympique Marseille",
+        "city": "Marseille",
+        "country": "France",
+        "lat": 43.2963986,
+        "lng": 5.3777888,
+        "fromYear": 2012,
+        "toYear": 2014
+      },
+      {
+        "clubName": "El-Jaish SC (- 2017)",
+        "city": "Al-Duhail",
+        "country": "Qatar",
+        "lat": 25.3808371,
+        "lng": 51.4616054,
+        "fromYear": 2014,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Al-Duhail SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Al-Gharafa SC",
+        "city": "Al-Rayyan",
+        "country": "Qatar",
+        "lat": 25.0819602,
+        "lng": 51.158416,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Al-Wakrah SC",
+        "city": "Al-Wakra",
+        "country": "Qatar",
+        "lat": 25.0037453,
+        "lng": 51.4103338,
+        "fromYear": 2020,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Lucas_Mendes"
+  },
+  {
+    "id": "mahmoud-abunada",
+    "name": "Mahmoud Abunada",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Qatari",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Al-Arabi SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2019,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Rayyan SC",
+        "city": "Al-Rayyan",
+        "country": "Qatar",
+        "lat": 25.0819602,
+        "lng": 51.158416,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahmoud_Abunada"
+  },
+  {
+    "id": "meshaal-barsham",
+    "name": "Meshaal Barsham",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Qatari",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Al-Sadd SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2017,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Meshaal_Barsham"
+  },
+  {
+    "id": "mohamed-manai",
+    "name": "Mohamed Manai",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Qatari",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Al-Sadd SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Markhiya SC",
+        "city": "Al-Markhiya/Doha",
+        "country": "Qatar",
+        "lat": 25.3133947,
+        "lng": 51.5182349,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Shamal SC",
+        "city": "Al-Shamal",
+        "country": "Qatar",
+        "lat": 26.0517166,
+        "lng": 51.2005821,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Manai"
+  },
+  {
+    "id": "mohammed-muntari",
+    "name": "Mohammed Muntari",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Qatari",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "El-Jaish SC (- 2017)",
+        "city": "Al-Duhail",
+        "country": "Qatar",
+        "lat": 25.3808371,
+        "lng": 51.4616054,
+        "fromYear": 2012,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Al-Duhail SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Al-Ahli SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Al-Duhail SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Al-Ahli SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Al-Duhail SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2019,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Gharafa SC",
+        "city": "Al-Rayyan",
+        "country": "Qatar",
+        "lat": 25.0819602,
+        "lng": 51.158416,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohammed_Muntari"
+  },
+  {
+    "id": "pedro-miguel",
+    "name": "Pedro Miguel",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Qatari",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "SC Farense",
+        "city": "Faro",
+        "country": "Portugal",
+        "lat": 37.0162944,
+        "lng": -7.935182,
+        "fromYear": 2009,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Al-Ahli SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2011,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Al-Sadd SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2016,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Pedro_Miguel"
+  },
+  {
+    "id": "salah-zakaria",
+    "name": "Salah Zakaria",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Qatari",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Al-Wakrah SC",
+        "city": "Al-Wakra",
+        "country": "Qatar",
+        "lat": 25.0037453,
+        "lng": 51.4103338,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Al-Gharafa SC",
+        "city": "Al-Rayyan",
+        "country": "Qatar",
+        "lat": 25.0819602,
+        "lng": 51.158416,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Al-Wakrah SC",
+        "city": "Al-Wakra",
+        "country": "Qatar",
+        "lat": 25.0037453,
+        "lng": 51.4103338,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Al-Duhail SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Salah_Zakaria"
+  },
+  {
+    "id": "sultan-al-brake",
+    "name": "Sultan Al-Brake",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Qatari",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Al-Wakrah SC",
+        "city": "Al-Wakra",
+        "country": "Qatar",
+        "lat": 25.0037453,
+        "lng": 51.4103338,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Cultural Leonesa",
+        "city": "León",
+        "country": "Spain",
+        "lat": 42.6341451,
+        "lng": -5.9714151,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Al-Wakrah SC",
+        "city": "Al-Wakra",
+        "country": "Qatar",
+        "lat": 25.0037453,
+        "lng": 51.4103338,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Al-Duhail SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2017,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Sultan_Al-Brake"
+  },
+  {
+    "id": "tahsin-mohammed-jamshid",
+    "name": "Tahsin Mohammed Jamshid",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Qatari",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Al-Duhail SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2025,
+        "toYear": 2025
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tahsin_Mohammed_Jamshid"
+  },
+  {
+    "id": "yusuf-abdurisag",
+    "name": "Yusuf Abdurisag",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Qatari",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Al-Sadd SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Al-Arabi SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Al-Sadd SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Wakrah SC",
+        "city": "Al-Wakra",
+        "country": "Qatar",
+        "lat": 25.0037453,
+        "lng": 51.4103338,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Sadd SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Wakrah SC",
+        "city": "Al-Wakra",
+        "country": "Qatar",
+        "lat": 25.0037453,
+        "lng": 51.4103338,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Al-Sadd SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Yusuf_Abdurisag"
+  }
+]

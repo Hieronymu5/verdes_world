@@ -1,0 +1,2123 @@
+[
+  {
+    "id": "alex-paulsen",
+    "name": "Alex Paulsen",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "New Zealander",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Wellington United",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "lat": -41.2887953,
+        "lng": 174.7772114,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Wellington Phoenix FC Reserves",
+        "city": "Lower Hutt",
+        "country": "New Zealand",
+        "lat": -41.2125751,
+        "lng": 174.9057626,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Wellington Phoenix",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "lat": -41.2887953,
+        "lng": 174.7772114,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "AFC Bournemouth",
+        "city": "Bournemouth",
+        "country": "England",
+        "lat": 50.7446718,
+        "lng": -1.8579514,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Auckland FC",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "lat": -36.852095,
+        "lng": 174.7631803,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "AFC Bournemouth",
+        "city": "Bournemouth",
+        "country": "England",
+        "lat": 50.7446718,
+        "lng": -1.8579514,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Lechia Gdansk",
+        "city": "Gdańsk",
+        "country": "Poland",
+        "lat": 54.3482907,
+        "lng": 18.6540233,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "AFC Bournemouth",
+        "city": "Bournemouth",
+        "country": "England",
+        "lat": 50.7446718,
+        "lng": -1.8579514,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_Paulsen"
+  },
+  {
+    "id": "alex-rufer",
+    "name": "Alex Rufer",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "New Zealander",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "YoungHeart Manawatu (2004 - 2013)",
+        "city": "Palmerston North, Manawatu",
+        "country": "New Zealand",
+        "lat": -40.356317,
+        "lng": 175.6112388,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Wellington Phoenix",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "lat": -41.2887953,
+        "lng": 174.7772114,
+        "fromYear": 2013,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_Rufer"
+  },
+  {
+    "id": "ben-old",
+    "name": "Ben Old",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "New Zealander",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Wellington United",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "lat": -41.2887953,
+        "lng": 174.7772114,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Wellington Phoenix FC Reserves",
+        "city": "Lower Hutt",
+        "country": "New Zealand",
+        "lat": -41.2125751,
+        "lng": 174.9057626,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Wellington Phoenix",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "lat": -41.2887953,
+        "lng": 174.7772114,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "AS Saint-Étienne",
+        "city": "Saint-Étienne",
+        "country": "France",
+        "lat": 45.4401467,
+        "lng": 4.3873058,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ben_Old"
+  },
+  {
+    "id": "ben-waine",
+    "name": "Ben Waine",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "New Zealander",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Wellington Phoenix FC Reserves",
+        "city": "Lower Hutt",
+        "country": "New Zealand",
+        "lat": -41.2125751,
+        "lng": 174.9057626,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Wellington Phoenix",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "lat": -41.2887953,
+        "lng": 174.7772114,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Plymouth Argyle",
+        "city": "Plymouth",
+        "country": "England",
+        "lat": 50.3714122,
+        "lng": -4.1424451,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Mansfield Town",
+        "city": "Mansfield",
+        "country": "England",
+        "lat": 53.1443785,
+        "lng": -1.1964165,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Port Vale FC",
+        "city": "Burslem, Stoke-on-Trent",
+        "country": "England",
+        "lat": 53.0451032,
+        "lng": -2.1961439,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Plymouth Argyle",
+        "city": "Plymouth",
+        "country": "England",
+        "lat": 50.3714122,
+        "lng": -4.1424451,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ben_Waine"
+  },
+  {
+    "id": "callan-elliot",
+    "name": "Callan Elliot",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "New Zealander",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Wellington Phoenix",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "lat": -41.2887953,
+        "lng": 174.7772114,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Xanthi FC",
+        "city": "Xanthi",
+        "country": "Greece",
+        "lat": 41.13805,
+        "lng": 24.8864089,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Wellington Phoenix",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "lat": -41.2887953,
+        "lng": 174.7772114,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Motherwell FC",
+        "city": "Motherwell",
+        "country": "Scotland",
+        "lat": 55.7893512,
+        "lng": -3.9904173,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Auckland FC",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "lat": -36.852095,
+        "lng": 174.7631803,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Callan_Elliot"
+  },
+  {
+    "id": "callum-mccowatt",
+    "name": "Callum McCowatt",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "New Zealander",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Auckland City FC",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "lat": -36.852095,
+        "lng": 174.7631803,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Eastern Suburbs AFC",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "lat": -36.852095,
+        "lng": 174.7631803,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Wellington Phoenix",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "lat": -41.2887953,
+        "lng": 174.7772114,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Helsingør",
+        "city": "Helsingør",
+        "country": "Denmark",
+        "lat": 56.0348739,
+        "lng": 12.6130073,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Silkeborg IF",
+        "city": "Silkeborg",
+        "country": "Denmark",
+        "lat": 56.169453,
+        "lng": 9.5495141,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Callum_McCowatt"
+  },
+  {
+    "id": "chris-wood",
+    "name": "Chris Wood",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "New Zealander",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "WaiBOP United (2004 - 2016)",
+        "city": "Hamilton, Waikato",
+        "country": "New Zealand",
+        "lat": -37.7878809,
+        "lng": 175.281788,
+        "fromYear": 2008,
+        "toYear": 2008
+      },
+      {
+        "clubName": "Barnsley FC",
+        "city": "Barnsley",
+        "country": "England",
+        "lat": 53.5527719,
+        "lng": -1.4827755,
+        "fromYear": 2010,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2010,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Birmingham City",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2011,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Millwall FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2012,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Bristol City",
+        "city": "Bristol",
+        "country": "England",
+        "lat": 51.4538022,
+        "lng": -2.5972985,
+        "fromYear": 2012,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Leicester City",
+        "city": "Leicester",
+        "country": "England",
+        "lat": 52.6362,
+        "lng": -1.1331969,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Leeds United",
+        "city": "Leeds",
+        "country": "England",
+        "lat": 53.7974185,
+        "lng": -1.5437941,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Ipswich Town",
+        "city": "Ipswich",
+        "country": "England",
+        "lat": 52.0579324,
+        "lng": 1.1528095,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Leicester City",
+        "city": "Leicester",
+        "country": "England",
+        "lat": 52.6362,
+        "lng": -1.1331969,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Burnley FC",
+        "city": "Burnley",
+        "country": "England",
+        "lat": 53.7907262,
+        "lng": -2.2439196,
+        "fromYear": 2017,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Newcastle United",
+        "city": "Newcastle upon Tyne",
+        "country": "England",
+        "lat": 54.9738474,
+        "lng": -1.6131572,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Newcastle United",
+        "city": "Newcastle upon Tyne",
+        "country": "England",
+        "lat": 54.9738474,
+        "lng": -1.6131572,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Wood"
+  },
+  {
+    "id": "elijah-just",
+    "name": "Elijah Just",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "New Zealander",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Eastern Suburbs AFC",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "lat": -36.852095,
+        "lng": 174.7631803,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Helsingør",
+        "city": "Helsingør",
+        "country": "Denmark",
+        "lat": 56.0348739,
+        "lng": 12.6130073,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "AC Horsens",
+        "city": "Horsens",
+        "country": "Denmark",
+        "lat": 55.8611696,
+        "lng": 9.8444774,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "SKN St. Pölten",
+        "city": "St. Pölten",
+        "country": "Austria",
+        "lat": 48.2043985,
+        "lng": 15.6229118,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "AC Horsens",
+        "city": "Horsens",
+        "country": "Denmark",
+        "lat": 55.8611696,
+        "lng": 9.8444774,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Motherwell FC",
+        "city": "Motherwell",
+        "country": "Scotland",
+        "lat": 55.7893512,
+        "lng": -3.9904173,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Elijah_Just"
+  },
+  {
+    "id": "finn-surman",
+    "name": "Finn Surman",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "New Zealander",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Wellington Phoenix FC Reserves",
+        "city": "Lower Hutt",
+        "country": "New Zealand",
+        "lat": -41.2125751,
+        "lng": 174.9057626,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Wellington Phoenix",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "lat": -41.2887953,
+        "lng": 174.7772114,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Portland Timbers",
+        "city": "Portland, Oregon",
+        "country": "United States",
+        "lat": 45.5202471,
+        "lng": -122.674194,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Finn_Surman"
+  },
+  {
+    "id": "francis-de-vries",
+    "name": "Francis de Vries",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "New Zealander",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Canterbury United (2002 - 2021)",
+        "city": "Edgeware,Canterbury",
+        "country": "New Zealand",
+        "lat": -43.5136645,
+        "lng": 172.6472085,
+        "fromYear": 2011,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Saint Francis University",
+        "city": "Loretto, Pennsylvania",
+        "country": "United States",
+        "lat": 40.5029161,
+        "lng": -78.6314019,
+        "fromYear": 2012,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Vancouver Whitecaps FC",
+        "city": "Vancouver, British Columbia",
+        "country": "Canada",
+        "lat": 49.2608724,
+        "lng": -123.113952,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Whitecaps FC 2",
+        "city": "Vancouver, British Columbia",
+        "country": "Canada",
+        "lat": 49.2608724,
+        "lng": -123.113952,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Canterbury United (2002 - 2021)",
+        "city": "Edgeware,Canterbury",
+        "country": "New Zealand",
+        "lat": -43.5136645,
+        "lng": 172.6472085,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Nyköpings BIS",
+        "city": "Nyköping",
+        "country": "Sweden",
+        "lat": 58.7545409,
+        "lng": 17.0120656,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "IFK Värnamo",
+        "city": "Värnamo",
+        "country": "Sweden",
+        "lat": 57.184902,
+        "lng": 14.0410977,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Eastern Suburbs AFC",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "lat": -36.852095,
+        "lng": 174.7631803,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Auckland FC",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "lat": -36.852095,
+        "lng": 174.7631803,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Francis_de_Vries"
+  },
+  {
+    "id": "jesse-randall",
+    "name": "Jesse Randall",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "New Zealander",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Island Bay United",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "lat": -41.2887953,
+        "lng": 174.7772114,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "North Wellington FC",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "lat": -41.2887953,
+        "lng": 174.7772114,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Hawke’s Bay United (2005 - 2021)",
+        "city": "Greenmeadows, Napier",
+        "country": "New Zealand",
+        "lat": -39.522285,
+        "lng": 176.8612753,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "North Wellington FC",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "lat": -41.2887953,
+        "lng": 174.7772114,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Wellington Olympic AFC",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "lat": -41.2887953,
+        "lng": 174.7772114,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Charleston Battery",
+        "city": "Mount Pleasant, South Carolina",
+        "country": "United States",
+        "lat": 32.7927956,
+        "lng": -79.8678322,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Wellington Olympic AFC",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "lat": -41.2887953,
+        "lng": 174.7772114,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Auckland FC",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "lat": -36.852095,
+        "lng": 174.7631803,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Dundee United FC",
+        "city": "Dundee",
+        "country": "Scotland",
+        "lat": 56.4605938,
+        "lng": -2.97019,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jesse_Randall"
+  },
+  {
+    "id": "joe-bell",
+    "name": "Joe Bell",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "New Zealander",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Wellington Phoenix FC Reserves",
+        "city": "Lower Hutt",
+        "country": "New Zealand",
+        "lat": -41.2125751,
+        "lng": 174.9057626,
+        "fromYear": 2014,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Virginia Cavaliers (University of Virginia)",
+        "city": "Charlottesville, Virginia",
+        "country": "United States",
+        "lat": 38.029306,
+        "lng": -78.4766781,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Viking FK",
+        "city": "Stavanger",
+        "country": "Norway",
+        "lat": 58.9699675,
+        "lng": 5.7318101,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Bröndby IF",
+        "city": "Brøndby",
+        "country": "Denmark",
+        "lat": 55.644111,
+        "lng": 12.4217135,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Viking FK",
+        "city": "Stavanger",
+        "country": "Norway",
+        "lat": 58.9699675,
+        "lng": 5.7318101,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Joe_Bell"
+  },
+  {
+    "id": "kosta-barbarouses",
+    "name": "Kosta Barbarouses",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "New Zealander",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Team Wellington (2004-2021)",
+        "city": "Miramar, Wellington",
+        "country": "New Zealand",
+        "lat": -41.3164457,
+        "lng": 174.816551,
+        "fromYear": 2006,
+        "toYear": 2007
+      },
+      {
+        "clubName": "Wellington Phoenix",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "lat": -41.2887953,
+        "lng": 174.7772114,
+        "fromYear": 2007,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Brisbane Roar",
+        "city": "Brisbane",
+        "country": "Australia",
+        "lat": -27.4689623,
+        "lng": 153.0235009,
+        "fromYear": 2010,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Spartak Vladikavkaz (-2020)",
+        "city": "Vladikavkaz",
+        "country": "Russia",
+        "lat": 43.024593,
+        "lng": 44.68211,
+        "fromYear": 2011,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Panathinaikos",
+        "city": "Athens",
+        "country": "Greece",
+        "lat": 37.9755648,
+        "lng": 23.7348324,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Melbourne Victory",
+        "city": "Melbourne",
+        "country": "Australia",
+        "lat": -37.8142454,
+        "lng": 144.9631732,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Spartak Vladikavkaz (-2020)",
+        "city": "Vladikavkaz",
+        "country": "Russia",
+        "lat": 43.024593,
+        "lng": 44.68211,
+        "fromYear": 2013,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Wellington Phoenix",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "lat": -41.2887953,
+        "lng": 174.7772114,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Melbourne Victory",
+        "city": "Melbourne",
+        "country": "Australia",
+        "lat": -37.8142454,
+        "lng": 144.9631732,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Sydney FC",
+        "city": "Sydney",
+        "country": "Australia",
+        "lat": -33.8698439,
+        "lng": 151.2082848,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Wellington Phoenix",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "lat": -41.2887953,
+        "lng": 174.7772114,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Western Sydney Wanderers",
+        "city": "Sydney",
+        "country": "Australia",
+        "lat": -33.8698439,
+        "lng": 151.2082848,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kosta_Barbarouses"
+  },
+  {
+    "id": "lachlan-bayliss",
+    "name": "Lachlan Bayliss",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "New Zealander",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Central Coast Mariners",
+        "city": "Gosford",
+        "country": "Australia",
+        "lat": -33.4240979,
+        "lng": 151.3411475,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Newcastle United Jets",
+        "city": "Broadmeadow",
+        "country": "Australia",
+        "lat": -32.9225,
+        "lng": 151.7302778,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Central Coast Mariners",
+        "city": "Gosford",
+        "country": "Australia",
+        "lat": -33.4240979,
+        "lng": 151.3411475,
+        "fromYear": 2023,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Auckland FC",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "lat": -36.852095,
+        "lng": 174.7631803,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Lachlan_Bayliss"
+  },
+  {
+    "id": "liberato-cacace",
+    "name": "Liberato Cacace",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "New Zealander",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Island Bay United",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "lat": -41.2887953,
+        "lng": 174.7772114,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Wellington Phoenix FC Reserves",
+        "city": "Lower Hutt",
+        "country": "New Zealand",
+        "lat": -41.2125751,
+        "lng": 174.9057626,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Wellington Phoenix",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "lat": -41.2887953,
+        "lng": 174.7772114,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Sint-Truidense VV",
+        "city": "Sint-Truiden",
+        "country": "Belgium",
+        "lat": 50.8152784,
+        "lng": 5.1858896,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Empoli",
+        "city": "Empoli",
+        "country": "Italy",
+        "lat": 43.7194884,
+        "lng": 10.9458556,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Sint-Truidense VV",
+        "city": "Sint-Truiden",
+        "country": "Belgium",
+        "lat": 50.8152784,
+        "lng": 5.1858896,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Wrexham AFC",
+        "city": "Wrexham",
+        "country": "Wales",
+        "lat": 53.0465084,
+        "lng": -2.9937869,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Liberato_Cacace"
+  },
+  {
+    "id": "logan-rogerson",
+    "name": "Logan Rogerson",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "New Zealander",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Wellington Phoenix",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "lat": -41.2887953,
+        "lng": 174.7772114,
+        "fromYear": 2015,
+        "toYear": 2018
+      },
+      {
+        "clubName": "FC Carl Zeiss Jena",
+        "city": "Jena",
+        "country": "Germany",
+        "lat": 50.9281717,
+        "lng": 11.5879359,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Auckland City FC",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "lat": -36.852095,
+        "lng": 174.7631803,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "HJK Helsinki",
+        "city": "Helsinki",
+        "country": "Finland",
+        "lat": 60.1666204,
+        "lng": 24.9435408,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Haka",
+        "city": "Valkeakoski",
+        "country": "Finland",
+        "lat": 61.2655907,
+        "lng": 24.0304573,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "HJK Helsinki",
+        "city": "Helsinki",
+        "country": "Finland",
+        "lat": 60.1666204,
+        "lng": 24.9435408,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Haka",
+        "city": "Valkeakoski",
+        "country": "Finland",
+        "lat": 61.2655907,
+        "lng": 24.0304573,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Noah Yerevan",
+        "city": "Yerevan",
+        "country": "Armenia",
+        "lat": 40.1777112,
+        "lng": 44.5126233,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Auckland FC",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "lat": -36.852095,
+        "lng": 174.7631803,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Logan_Rogerson"
+  },
+  {
+    "id": "marko-stamenic",
+    "name": "Marko Stamenić",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "New Zealander",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Team Wellington (2004-2021)",
+        "city": "Miramar, Wellington",
+        "country": "New Zealand",
+        "lat": -41.3164457,
+        "lng": 174.816551,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "HB Köge",
+        "city": "Køge",
+        "country": "Denmark",
+        "lat": 55.4565009,
+        "lng": 12.1818964,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Copenhagen",
+        "city": "København Ø.",
+        "country": "Denmark",
+        "lat": 55.6428043,
+        "lng": 12.5549822,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Red Star Belgrade",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "lat": 44.8153318,
+        "lng": 20.4456588,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Olympiacos Piraeus",
+        "city": "Piraeus",
+        "country": "Greece",
+        "lat": 37.9431594,
+        "lng": 23.6470593,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Swansea City",
+        "city": "Swansea",
+        "country": "Wales",
+        "lat": 51.6195955,
+        "lng": -3.9459248,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marko_Stameni%C4%87"
+  },
+  {
+    "id": "max-crocombe",
+    "name": "Max Crocombe",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "New Zealander",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Oxford United",
+        "city": "Oxford",
+        "country": "England",
+        "lat": 51.7520131,
+        "lng": -1.2578499,
+        "fromYear": 2012,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Nuneaton Borough (2008 - 2024)",
+        "city": "Nuneaton",
+        "country": "England",
+        "lat": 52.5227973,
+        "lng": -1.4679663,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Oxford United",
+        "city": "Oxford",
+        "country": "England",
+        "lat": 51.7520131,
+        "lng": -1.2578499,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Barnet FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Oxford United",
+        "city": "Oxford",
+        "country": "England",
+        "lat": 51.7520131,
+        "lng": -1.2578499,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Southport FC",
+        "city": "Southport",
+        "country": "England",
+        "lat": 53.6487421,
+        "lng": -3.0044972,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Carlisle United",
+        "city": "Carlisle",
+        "country": "England",
+        "lat": 54.8948478,
+        "lng": -2.9362311,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Oxford United",
+        "city": "Oxford",
+        "country": "England",
+        "lat": 51.7520131,
+        "lng": -1.2578499,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Salford City",
+        "city": "Salford",
+        "country": "England",
+        "lat": 53.4877463,
+        "lng": -2.2891921,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Brisbane Roar",
+        "city": "Brisbane",
+        "country": "Australia",
+        "lat": -27.4689623,
+        "lng": 153.0235009,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Melbourne Victory",
+        "city": "Melbourne",
+        "country": "Australia",
+        "lat": -37.8142454,
+        "lng": 144.9631732,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Grimsby Town",
+        "city": "Grimsby, South Humberside",
+        "country": "England",
+        "lat": 53.5773181,
+        "lng": -0.1110058,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Burton Albion",
+        "city": "Burton on Trent",
+        "country": "England",
+        "lat": 52.802742,
+        "lng": -1.629917,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Millwall FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Max_Crocombe"
+  },
+  {
+    "id": "michael-boxall",
+    "name": "Michael Boxall",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "New Zealander",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Auckland City FC",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "lat": -36.852095,
+        "lng": 174.7631803,
+        "fromYear": 2006,
+        "toYear": 2007
+      },
+      {
+        "clubName": "Santa Barbara Gauchos (Uni. of CAL Santa Barbara)",
+        "city": "Santa Barbara, Kalifornien",
+        "country": "United States",
+        "lat": 34.4221319,
+        "lng": -119.702667,
+        "fromYear": 2007,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Vancouver Whitecaps FC",
+        "city": "Vancouver, British Columbia",
+        "country": "Canada",
+        "lat": 49.2608724,
+        "lng": -123.113952,
+        "fromYear": 2011,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Wellington Phoenix",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "lat": -41.2887953,
+        "lng": 174.7772114,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Oakleigh Cannons FC",
+        "city": "Melbourne, Victoria",
+        "country": "Australia",
+        "lat": -37.8142454,
+        "lng": 144.9631732,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Wellington Phoenix",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "lat": -41.2887953,
+        "lng": 174.7772114,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "SuperSport United",
+        "city": "Randburg",
+        "country": "South Africa",
+        "lat": -26.0915852,
+        "lng": 28.0020276,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Minnesota United FC",
+        "city": "Golden Valley, Minnesota",
+        "country": "United States",
+        "lat": 44.9861176,
+        "lng": -93.3784618,
+        "fromYear": 2017,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Boxall"
+  },
+  {
+    "id": "michael-woud",
+    "name": "Michael Woud",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "New Zealander",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Bay Olympic FC",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "lat": -36.852095,
+        "lng": 174.7631803,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Willem II Tilburg",
+        "city": "Tilburg",
+        "country": "Netherlands",
+        "lat": 51.5856185,
+        "lng": 5.0660616,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Almere City FC",
+        "city": "Almere",
+        "country": "Netherlands",
+        "lat": 52.4417513,
+        "lng": 5.2092943,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Willem II Tilburg",
+        "city": "Tilburg",
+        "country": "Netherlands",
+        "lat": 51.5856185,
+        "lng": 5.0660616,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Almere City FC",
+        "city": "Almere",
+        "country": "Netherlands",
+        "lat": 52.4417513,
+        "lng": 5.2092943,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Kyoto Sanga",
+        "city": "Kyoto, Kyoto",
+        "country": "Japan",
+        "lat": 34.9847375,
+        "lng": 135.7576627,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Ventforet Kofu",
+        "city": "Kofu, Yamanashi",
+        "country": "Japan",
+        "lat": 35.6652481,
+        "lng": 138.5710441,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Kyoto Sanga",
+        "city": "Kyoto, Kyoto",
+        "country": "Japan",
+        "lat": 34.9847375,
+        "lng": 135.7576627,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Auckland FC",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "lat": -36.852095,
+        "lng": 174.7631803,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Woud"
+  },
+  {
+    "id": "nando-pijnaker",
+    "name": "Nando Pijnaker",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "New Zealander",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Eastern Suburbs AFC",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "lat": -36.852095,
+        "lng": 174.7631803,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Grasshopper Club Zurich",
+        "city": "Niederhasli",
+        "country": "Switzerland",
+        "lat": 47.4812949,
+        "lng": 8.4858049,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Rio Ave FC",
+        "city": "Vila do Conde",
+        "country": "Portugal",
+        "lat": 41.3540398,
+        "lng": -8.7435403,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Helsingør",
+        "city": "Helsingør",
+        "country": "Denmark",
+        "lat": 56.0348739,
+        "lng": 12.6130073,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Rio Ave FC",
+        "city": "Vila do Conde",
+        "country": "Portugal",
+        "lat": 41.3540398,
+        "lng": -8.7435403,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Sligo Rovers",
+        "city": "Sligo, Co Sligo",
+        "country": "Ireland",
+        "lat": 54.2720696,
+        "lng": -8.4751357,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Rio Ave FC",
+        "city": "Vila do Conde",
+        "country": "Portugal",
+        "lat": 41.3540398,
+        "lng": -8.7435403,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Sligo Rovers",
+        "city": "Sligo, Co Sligo",
+        "country": "Ireland",
+        "lat": 54.2720696,
+        "lng": -8.4751357,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Auckland FC",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "lat": -36.852095,
+        "lng": 174.7631803,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nando_Pijnaker"
+  },
+  {
+    "id": "ryan-thomas",
+    "name": "Ryan Thomas",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "New Zealander",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Melville United",
+        "city": "Hamilton",
+        "country": "New Zealand",
+        "lat": -37.7878809,
+        "lng": 175.281788,
+        "fromYear": 2011,
+        "toYear": 2011
+      },
+      {
+        "clubName": "WaiBOP United (2004 - 2016)",
+        "city": "Hamilton, Waikato",
+        "country": "New Zealand",
+        "lat": -37.7878809,
+        "lng": 175.281788,
+        "fromYear": 2011,
+        "toYear": 2013
+      },
+      {
+        "clubName": "PEC Zwolle",
+        "city": "Zwolle",
+        "country": "Netherlands",
+        "lat": 52.5089759,
+        "lng": 6.0943765,
+        "fromYear": 2013,
+        "toYear": 2018
+      },
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "PEC Zwolle",
+        "city": "Zwolle",
+        "country": "Netherlands",
+        "lat": 52.5089759,
+        "lng": 6.0943765,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ryan_Thomas"
+  },
+  {
+    "id": "sarpreet-singh",
+    "name": "Sarpreet Singh",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "New Zealander",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Wellington Phoenix FC Reserves",
+        "city": "Lower Hutt",
+        "country": "New Zealand",
+        "lat": -41.2125751,
+        "lng": 174.9057626,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Wellington Phoenix",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "lat": -41.2887953,
+        "lng": 174.7772114,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Bayern Munich II",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "1.FC Nuremberg",
+        "city": "Nürnberg",
+        "country": "Germany",
+        "lat": 49.453872,
+        "lng": 11.077298,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Bayern Munich II",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "SSV Jahn Regensburg",
+        "city": "Regensburg",
+        "country": "Germany",
+        "lat": 49.0195333,
+        "lng": 12.0974869,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Bayern Munich II",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "SSV Jahn Regensburg",
+        "city": "Regensburg",
+        "country": "Germany",
+        "lat": 49.0195333,
+        "lng": 12.0974869,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Hansa Rostock",
+        "city": "Rostock",
+        "country": "Germany",
+        "lat": 54.0886707,
+        "lng": 12.1400211,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Bayern Munich II",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "UD Leiria",
+        "city": "Leiria",
+        "country": "Portugal",
+        "lat": 39.7437902,
+        "lng": -8.8071119,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FK TSC Backa Topola",
+        "city": "Bačka Topola",
+        "country": "Serbia",
+        "lat": 45.8121657,
+        "lng": 19.6304705,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Wellington Phoenix",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "lat": -41.2887953,
+        "lng": 174.7772114,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "FK TSC Backa Topola",
+        "city": "Bačka Topola",
+        "country": "Serbia",
+        "lat": 45.8121657,
+        "lng": 19.6304705,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Sarpreet_Singh"
+  },
+  {
+    "id": "tim-payne",
+    "name": "Tim Payne",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "New Zealander",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Auckland City FC",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "lat": -36.852095,
+        "lng": 174.7631803,
+        "fromYear": 2010,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Waitakere United (2004 - 2021)",
+        "city": "Waitakere",
+        "country": "New Zealand",
+        "lat": -41.9835513,
+        "lng": 171.4920839,
+        "fromYear": 2010,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Blackburn Rovers",
+        "city": "Blackburn, Lancashire",
+        "country": "England",
+        "lat": 53.749326,
+        "lng": -2.4840566,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Auckland City FC",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "lat": -36.852095,
+        "lng": 174.7631803,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Portland Timbers 2",
+        "city": "Portland, Oregon",
+        "country": "United States",
+        "lat": 45.5202471,
+        "lng": -122.674194,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Eastern Suburbs AFC",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "lat": -36.852095,
+        "lng": 174.7631803,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Wellington Phoenix",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "lat": -41.2887953,
+        "lng": 174.7772114,
+        "fromYear": 2019,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Club Olimpia",
+        "city": "Asuncíon",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tim_Payne"
+  },
+  {
+    "id": "tommy-smith",
+    "name": "Tommy Smith",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "New Zealander",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "North Shore United",
+        "city": "Devonport",
+        "country": "New Zealand",
+        "lat": -36.8297309,
+        "lng": 174.7975377,
+        "fromYear": 2006,
+        "toYear": 2006
+      },
+      {
+        "clubName": "Stevenage FC",
+        "city": "Stevenage",
+        "country": "England",
+        "lat": 51.9016663,
+        "lng": -0.2027155,
+        "fromYear": 2008,
+        "toYear": 2008
+      },
+      {
+        "clubName": "Ipswich Town",
+        "city": "Ipswich",
+        "country": "England",
+        "lat": 52.0579324,
+        "lng": 1.1528095,
+        "fromYear": 2009,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Brentford FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2010,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Colchester United",
+        "city": "Colchester Essex",
+        "country": "England",
+        "lat": 51.8740232,
+        "lng": 0.9237345,
+        "fromYear": 2011,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Ipswich Town",
+        "city": "Ipswich",
+        "country": "England",
+        "lat": 52.0579324,
+        "lng": 1.1528095,
+        "fromYear": 2011,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Colorado Rapids",
+        "city": "Commerce City, Colorado",
+        "country": "United States",
+        "lat": 39.8083196,
+        "lng": -104.9338675,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Sunderland AFC",
+        "city": "Sunderland",
+        "country": "England",
+        "lat": 54.9058512,
+        "lng": -1.3828727,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Colchester United",
+        "city": "Colchester Essex",
+        "country": "England",
+        "lat": 51.8740232,
+        "lng": 0.9237345,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Milton Keynes Dons",
+        "city": "Milton Keynes",
+        "country": "England",
+        "lat": 52.0406502,
+        "lng": -0.7594092,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Auckland FC",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "lat": -36.852095,
+        "lng": 174.7631803,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Macarthur FC",
+        "city": "Oran Park",
+        "country": "Australia",
+        "lat": -33.9949293,
+        "lng": 150.7403565,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Braintree Town",
+        "city": "Braintree",
+        "country": "England",
+        "lat": 51.878032,
+        "lng": 0.5536542,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tommy_Smith"
+  },
+  {
+    "id": "tyler-bindon",
+    "name": "Tyler Bindon",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "New Zealander",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Reading FC",
+        "city": "Reading",
+        "country": "England",
+        "lat": 51.4564242,
+        "lng": -0.9700664,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Reading FC",
+        "city": "Reading",
+        "country": "England",
+        "lat": 51.4564242,
+        "lng": -0.9700664,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Sheffield United",
+        "city": "Sheffield",
+        "country": "England",
+        "lat": 53.3806626,
+        "lng": -1.4702278,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tyler_Bindon"
+  }
+]

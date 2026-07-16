@@ -5,11 +5,14 @@
       <a routerLink="/" class="btn-return">Back to Game</a>
     </div>
     <p class="subtitle">
-      Welcome to Verdes World! This game tests your knowledge of Austin FC players and their past clubs across the world.
+      Welcome to Verdes World! Explore Austin FC players and their past clubs across the world.
     </p>
 
     <p class="subtitle stats-info">
-      We currently have {{ allPlayers().length }} <a routerLink="/players" class="players-link">players</a> in the <a routerLink="/report" class="database-link">database</a>, and a <a routerLink="/global" class="database-link">global map</a> of every World Cup team.
+      We currently have {{ allPlayers().length }}
+      <a routerLink="/players" class="players-link">players</a> in the
+      <a routerLink="/report" class="database-link">database</a>, and a
+      <a routerLink="/global" class="database-link">World Cup 2026</a> map of every World Cup team.
     </p>
 
     @if (versionInfo(); as vi) {
@@ -22,7 +25,9 @@
   <main class="about-content">
     <section class="resources-section">
       <h2 class="resources-title">Community Resources</h2>
-      <p class="subtitle">Check out these amazing local Austin FC community resources, podcasts and charities:</p>
+      <p class="subtitle">
+        Check out these amazing local Austin FC community resources, podcasts and charities:
+      </p>
 
       <div class="resource-categories">
         @for (category of resources(); track category.category) {
@@ -51,7 +56,19 @@
         </div>
         <div class="resource-category">
           <h3>License</h3>
-          <p>The <a href="https://github.com/Hieronymu5/verdes_world.git" target="_blank" rel="noopener noreferrer">software</a> running this site is open source and available under the <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener noreferrer">MIT License</a>.</p>
+          <p>
+            The
+            <a
+              href="https://github.com/Hieronymu5/verdes_world.git"
+              target="_blank"
+              rel="noopener noreferrer"
+              >software</a
+            >
+            running this site is open source and available under the
+            <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener noreferrer"
+              >MIT License</a
+            >.
+          </p>
         </div>
       </div>
     </section>

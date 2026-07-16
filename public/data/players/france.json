@@ -1,0 +1,1421 @@
+[
+  {
+    "id": "adrien-rabiot",
+    "name": "Adrien Rabiot",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "French",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Paris Saint-Germain",
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8534951,
+        "lng": 2.3483915,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "FC Toulouse",
+        "city": "Toulouse",
+        "country": "France",
+        "lat": 43.6044638,
+        "lng": 1.4442433,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Paris Saint-Germain",
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8534951,
+        "lng": 2.3483915,
+        "fromYear": 2013,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Juventus FC",
+        "city": "Torino",
+        "country": "Italy",
+        "lat": 45.0677551,
+        "lng": 7.6824892,
+        "fromYear": 2019,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Olympique Marseille",
+        "city": "Marseille",
+        "country": "France",
+        "lat": 43.2963986,
+        "lng": 5.3777888,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "AC Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Adrien_Rabiot"
+  },
+  {
+    "id": "aurelien-tchouameni",
+    "name": "Aurélien Tchouaméni",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "French",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Girondins Bordeaux",
+        "city": "Le Haillan",
+        "country": "France",
+        "lat": 44.872105,
+        "lng": -0.6761661,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "AS Monaco",
+        "city": "Monaco",
+        "country": "Monaco",
+        "lat": 43.7309697,
+        "lng": 7.4248152,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Aur%C3%A9lien_Tchouam%C3%A9ni"
+  },
+  {
+    "id": "bradley-barcola",
+    "name": "Bradley Barcola",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "French",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Olympique Lyon B",
+        "city": "Décines-Charpieu",
+        "country": "France",
+        "lat": 45.773606,
+        "lng": 4.9633314,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Olympique Lyon",
+        "city": "Décines-Charpieu",
+        "country": "France",
+        "lat": 45.773606,
+        "lng": 4.9633314,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Paris Saint-Germain",
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8534951,
+        "lng": 2.3483915,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Bradley_Barcola"
+  },
+  {
+    "id": "brice-samba",
+    "name": "Brice Samba",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "French",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Le Havre AC",
+        "city": "Le Havre",
+        "country": "France",
+        "lat": 49.4938975,
+        "lng": 0.1079732,
+        "fromYear": 2011,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Olympique Marseille",
+        "city": "Marseille",
+        "country": "France",
+        "lat": 43.2963986,
+        "lng": 5.3777888,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "AS Nancy-Lorraine",
+        "city": "Tomblaine",
+        "country": "France",
+        "lat": 48.6864409,
+        "lng": 6.2106707,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Olympique Marseille",
+        "city": "Marseille",
+        "country": "France",
+        "lat": 43.2963986,
+        "lng": 5.3777888,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "SM Caen",
+        "city": "Caen",
+        "country": "France",
+        "lat": 49.1813403,
+        "lng": -0.3635615,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "RC Lens",
+        "city": "Avion",
+        "country": "France",
+        "lat": 50.4126128,
+        "lng": 2.8343891,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Stade Rennais FC",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Brice_Samba"
+  },
+  {
+    "id": "dayot-upamecano",
+    "name": "Dayot Upamecano",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "French",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Red Bull Salzburg",
+        "city": "Wals-Siezenheim",
+        "country": "Austria",
+        "lat": 47.7986,
+        "lng": 12.9807,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Dayot_Upamecano"
+  },
+  {
+    "id": "desire-doue",
+    "name": "Désiré Doué",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "French",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Stade Rennais FC B",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Stade Rennais FC",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Paris Saint-Germain",
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8534951,
+        "lng": 2.3483915,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/D%C3%A9sir%C3%A9_Dou%C3%A9"
+  },
+  {
+    "id": "ibrahima-konate",
+    "name": "Ibrahima Konaté",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "French",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Sochaux-Montbéliard B",
+        "city": "Montbéliard",
+        "country": "France",
+        "lat": 47.5102368,
+        "lng": 6.7977564,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "FC Sochaux-Montbéliard",
+        "city": "Montbéliard",
+        "country": "France",
+        "lat": 47.5102368,
+        "lng": 6.7977564,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Liverpool FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2021,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibrahima_Konat%C3%A9"
+  },
+  {
+    "id": "jean-philippe-mateta",
+    "name": "Jean-Philippe Mateta",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "French",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "LB Châteauroux B",
+        "city": "Châteauroux",
+        "country": "France",
+        "lat": 46.8203785,
+        "lng": 1.6770956,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Olympique Lyon",
+        "city": "Décines-Charpieu",
+        "country": "France",
+        "lat": 45.773606,
+        "lng": 4.9633314,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Le Havre AC",
+        "city": "Le Havre",
+        "country": "France",
+        "lat": 49.4938975,
+        "lng": 0.1079732,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "1.FSV Mainz 05",
+        "city": "Mainz",
+        "country": "Germany",
+        "lat": 49.9995205,
+        "lng": 8.2736253,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Olympique Lyon",
+        "city": "Décines-Charpieu",
+        "country": "France",
+        "lat": 45.773606,
+        "lng": 4.9633314,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Crystal Palace",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "1.FSV Mainz 05",
+        "city": "Mainz",
+        "country": "Germany",
+        "lat": 49.9995205,
+        "lng": 8.2736253,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Crystal Palace",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-Philippe_Mateta"
+  },
+  {
+    "id": "jules-kounde",
+    "name": "Jules Koundé",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "French",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Girondins Bordeaux",
+        "city": "Le Haillan",
+        "country": "France",
+        "lat": 44.872105,
+        "lng": -0.6761661,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Sevilla FC",
+        "city": "Sevilla",
+        "country": "Spain",
+        "lat": 37.3886303,
+        "lng": -5.9953403,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jules_Kound%C3%A9"
+  },
+  {
+    "id": "kylian-mbappe",
+    "name": "Kylian Mbappé",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "French",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "AS Monaco",
+        "city": "Monaco",
+        "country": "Monaco",
+        "lat": 43.7309697,
+        "lng": 7.4248152,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Paris Saint-Germain",
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8534951,
+        "lng": 2.3483915,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "AS Monaco",
+        "city": "Monaco",
+        "country": "Monaco",
+        "lat": 43.7309697,
+        "lng": 7.4248152,
+        "fromYear": 2018,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9"
+  },
+  {
+    "id": "lucas-digne",
+    "name": "Lucas Digne",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "French",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "LOSC Lille B",
+        "city": "Camphin-en-Pévèle",
+        "country": "France",
+        "lat": 50.5948763,
+        "lng": 3.2583523,
+        "fromYear": 2010,
+        "toYear": 2012
+      },
+      {
+        "clubName": "LOSC Lille",
+        "city": "Camphin-en-Pévèle",
+        "country": "France",
+        "lat": 50.5948763,
+        "lng": 3.2583523,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Paris Saint-Germain",
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8534951,
+        "lng": 2.3483915,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Paris Saint-Germain",
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8534951,
+        "lng": 2.3483915,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Everton FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Aston Villa",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Lucas_Digne"
+  },
+  {
+    "id": "lucas-hernandez",
+    "name": "Lucas Hernández",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "French",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Atlético Madrileño",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Atlético de Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2015,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Paris Saint-Germain",
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8534951,
+        "lng": 2.3483915,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Lucas_Hern%C3%A1ndez"
+  },
+  {
+    "id": "maghnes-akliouche",
+    "name": "Maghnes Akliouche",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "French",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "AS Monaco",
+        "city": "Monaco",
+        "country": "Monaco",
+        "lat": 43.7309697,
+        "lng": 7.4248152,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Maghnes_Akliouche"
+  },
+  {
+    "id": "malo-gusto",
+    "name": "Malo Gusto",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "French",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Olympique Lyon B",
+        "city": "Décines-Charpieu",
+        "country": "France",
+        "lat": 45.773606,
+        "lng": 4.9633314,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Olympique Lyon",
+        "city": "Décines-Charpieu",
+        "country": "France",
+        "lat": 45.773606,
+        "lng": 4.9633314,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Olympique Lyon",
+        "city": "Décines-Charpieu",
+        "country": "France",
+        "lat": 45.773606,
+        "lng": 4.9633314,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Malo_Gusto"
+  },
+  {
+    "id": "manu-kone",
+    "name": "Manu Koné",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "French",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Toulouse",
+        "city": "Toulouse",
+        "country": "France",
+        "lat": 43.6044638,
+        "lng": 1.4442433,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Borussia Mönchengladbach",
+        "city": "Mönchengladbach",
+        "country": "Germany",
+        "lat": 51.1947131,
+        "lng": 6.4353792,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Toulouse",
+        "city": "Toulouse",
+        "country": "France",
+        "lat": 43.6044638,
+        "lng": 1.4442433,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Borussia Mönchengladbach",
+        "city": "Mönchengladbach",
+        "country": "Germany",
+        "lat": 51.1947131,
+        "lng": 6.4353792,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Manu_Kon%C3%A9"
+  },
+  {
+    "id": "marcus-thuram",
+    "name": "Marcus Thuram",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "French",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "FC Sochaux-Montbéliard B",
+        "city": "Montbéliard",
+        "country": "France",
+        "lat": 47.5102368,
+        "lng": 6.7977564,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "FC Sochaux-Montbéliard",
+        "city": "Montbéliard",
+        "country": "France",
+        "lat": 47.5102368,
+        "lng": 6.7977564,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "EA Guingamp",
+        "city": "Guingamp",
+        "country": "France",
+        "lat": 48.5618483,
+        "lng": -3.1502007,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Borussia Mönchengladbach",
+        "city": "Mönchengladbach",
+        "country": "Germany",
+        "lat": 51.1947131,
+        "lng": 6.4353792,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Inter Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marcus_Thuram"
+  },
+  {
+    "id": "maxence-lacroix",
+    "name": "Maxence Lacroix",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "French",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Sochaux-Montbéliard",
+        "city": "Montbéliard",
+        "country": "France",
+        "lat": 47.5102368,
+        "lng": 6.7977564,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "VfL Wolfsburg",
+        "city": "Wolfsburg",
+        "country": "Germany",
+        "lat": 52.4205588,
+        "lng": 10.7861682,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Crystal Palace",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Maxence_Lacroix"
+  },
+  {
+    "id": "michael-olise",
+    "name": "Michael Olise",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "French",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Reading FC",
+        "city": "Reading",
+        "country": "England",
+        "lat": 51.4564242,
+        "lng": -0.9700664,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Crystal Palace",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Olise"
+  },
+  {
+    "id": "mike-maignan",
+    "name": "Mike Maignan",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "French",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Paris Saint-Germain B",
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8534951,
+        "lng": 2.3483915,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Paris Saint-Germain",
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8534951,
+        "lng": 2.3483915,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "LOSC Lille",
+        "city": "Camphin-en-Pévèle",
+        "country": "France",
+        "lat": 50.5948763,
+        "lng": 3.2583523,
+        "fromYear": 2015,
+        "toYear": 2021
+      },
+      {
+        "clubName": "AC Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mike_Maignan"
+  },
+  {
+    "id": "n-golo-kante",
+    "name": "N'Golo Kanté",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "French",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "US Boulogne",
+        "city": "Boulogne-sur-Mer",
+        "country": "France",
+        "lat": 50.7259985,
+        "lng": 1.6118771,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "SM Caen",
+        "city": "Caen",
+        "country": "France",
+        "lat": 49.1813403,
+        "lng": -0.3635615,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Leicester City",
+        "city": "Leicester",
+        "country": "England",
+        "lat": 52.6362,
+        "lng": -1.1331969,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2016,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Ittihad Club",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.5504432,
+        "lng": 39.1742363,
+        "fromYear": 2023,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Fenerbahce",
+        "city": "Kadıköy / İstanbul",
+        "country": "Türkiye",
+        "lat": 40.9912028,
+        "lng": 29.0401521,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/N%27Golo_Kant%C3%A9"
+  },
+  {
+    "id": "ousmane-dembele",
+    "name": "Ousmane Dembélé",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "French",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Stade Rennais FC B",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Stade Rennais FC",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2017,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Paris Saint-Germain",
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8534951,
+        "lng": 2.3483915,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9"
+  },
+  {
+    "id": "rayan-cherki",
+    "name": "Rayan Cherki",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "French",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Olympique Lyon B",
+        "city": "Décines-Charpieu",
+        "country": "France",
+        "lat": 45.773606,
+        "lng": 4.9633314,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Olympique Lyon",
+        "city": "Décines-Charpieu",
+        "country": "France",
+        "lat": 45.773606,
+        "lng": 4.9633314,
+        "fromYear": 2020,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Rayan_Cherki"
+  },
+  {
+    "id": "robin-risser",
+    "name": "Robin Risser",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "French",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "RC Strasbourg Alsace",
+        "city": "Strasbourg",
+        "country": "France",
+        "lat": 48.584614,
+        "lng": 7.7507127,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Dijon FCO",
+        "city": "Dijon",
+        "country": "France",
+        "lat": 47.3215806,
+        "lng": 5.0414701,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "RC Strasbourg Alsace",
+        "city": "Strasbourg",
+        "country": "France",
+        "lat": 48.584614,
+        "lng": 7.7507127,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Red Star FC",
+        "city": "Saint-Ouen",
+        "country": "France",
+        "lat": 50.03683,
+        "lng": 2.1223737,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "RC Lens",
+        "city": "Avion",
+        "country": "France",
+        "lat": 50.4126128,
+        "lng": 2.8343891,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "RC Strasbourg Alsace",
+        "city": "Strasbourg",
+        "country": "France",
+        "lat": 48.584614,
+        "lng": 7.7507127,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Robin_Risser"
+  },
+  {
+    "id": "theo-hernandez",
+    "name": "Theo Hernández",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "French",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Atlético Madrileño",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2013,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Atlético de Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Deportivo Alavés",
+        "city": "Vitoria-Gasteiz",
+        "country": "Spain",
+        "lat": 42.8505845,
+        "lng": -2.66145,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Atlético de Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Real Sociedad",
+        "city": "Donostia-San Sebastián (Gipuzkoa)",
+        "country": "Spain",
+        "lat": 43.3224219,
+        "lng": -1.9838889,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "AC Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2019,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Hilal SFC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Theo_Hern%C3%A1ndez"
+  },
+  {
+    "id": "warren-zaire-emery",
+    "name": "Warren Zaïre-Emery",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "French",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Paris Saint-Germain",
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8534951,
+        "lng": 2.3483915,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Warren_Za%C3%AFre-Emery"
+  },
+  {
+    "id": "william-saliba",
+    "name": "William Saliba",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "French",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "AS Saint-Étienne",
+        "city": "Saint-Étienne",
+        "country": "France",
+        "lat": 45.4401467,
+        "lng": 4.3873058,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "AS Saint-Étienne B",
+        "city": "Saint-Étienne",
+        "country": "France",
+        "lat": 45.4401467,
+        "lng": 4.3873058,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "AS Saint-Étienne",
+        "city": "Saint-Étienne",
+        "country": "France",
+        "lat": 45.4401467,
+        "lng": 4.3873058,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "OGC Nice",
+        "city": "Nice",
+        "country": "France",
+        "lat": 43.7009358,
+        "lng": 7.2683912,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Olympique Marseille",
+        "city": "Marseille",
+        "country": "France",
+        "lat": 43.2963986,
+        "lng": 5.3777888,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Saliba"
+  }
+]

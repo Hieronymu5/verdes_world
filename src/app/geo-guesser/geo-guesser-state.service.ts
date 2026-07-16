@@ -1,10 +1,9 @@
 import { DestroyRef, inject, Injectable, signal } from '@angular/core';
-import { DifficultyLevel, GameState, Player, WorldCupTeam } from './geo-guesser.models';
+import { DifficultyLevel, GameState, Player } from './geo-guesser.models';
 
 const INITIAL_STATE: GameState = {
   status: 'difficulty',
   selectedDifficulty: null,
-  selectedWorldCupTeam: null,
   currentPlayer: null,
   remainingPlayers: [],
   allPlayers: [],
@@ -46,41 +45,6 @@ export class GeoGuesserStateService {
     this._state.set({
       status: 'playing',
       selectedDifficulty: difficulty,
-      selectedWorldCupTeam: null,
-      currentPlayer: first,
-      remainingPlayers: rest,
-      allPlayers: players,
-      score: 0,
-      lives: difficulty.lives,
-      gameTimeRemaining: difficulty.gameDurationSeconds,
-      playerTimeElapsed: 0,
-      showTeamNames: false,
-      showPlayerName: false,
-      lastGuessResult: null,
-      cGFhcwZWk: null,
-    });
-
-    this.startTimer();
-  }
-
-  /** Moves to the team-select screen; the World Cup roster is chosen next. */
-  chooseWorldCupTeam(difficulty: DifficultyLevel): void {
-    this._lastSelectedDifficultyId.set(difficulty.id);
-    this._state.update((s) => ({ ...s, status: 'team-select', selectedDifficulty: difficulty }));
-  }
-
-  backToDifficultySelect(): void {
-    this._state.update((s) => ({ ...s, status: 'difficulty' }));
-  }
-
-  startWorldCupGame(difficulty: DifficultyLevel, team: WorldCupTeam, players: Player[]): void {
-    const shuffled = [...players].sort(() => Math.random() - 0.5);
-    const [first, ...rest] = shuffled;
-
-    this._state.set({
-      status: 'playing',
-      selectedDifficulty: difficulty,
-      selectedWorldCupTeam: team,
       currentPlayer: first,
       remainingPlayers: rest,
       allPlayers: players,
@@ -113,9 +77,7 @@ export class GeoGuesserStateService {
     const lastName = fullName.split(' ').at(-1) ?? fullName;
 
     let isCorrect =
-      guess === fullName ||
-      guess === lastName ||
-      (guess.length > 3 && fullName.includes(guess));
+      guess === fullName || guess === lastName || (guess.length > 3 && fullName.includes(guess));
 
     let isStuvercGFhcwZWk = false;
     if (state.currentPlayer.id === 'brad-stuver' && /^stuu+$/.test(guess)) {
@@ -196,7 +158,9 @@ export class GeoGuesserStateService {
       this._state.update((state) => {
         if (state.status !== 'playing') return state;
 
-        const newGameTime = state.showPlayerName ? state.gameTimeRemaining : state.gameTimeRemaining - 1;
+        const newGameTime = state.showPlayerName
+          ? state.gameTimeRemaining
+          : state.gameTimeRemaining - 1;
         const newPlayerTime = state.playerTimeElapsed + 1;
         const diff = state.selectedDifficulty!;
 

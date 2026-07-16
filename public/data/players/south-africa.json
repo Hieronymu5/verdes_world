@@ -1,0 +1,1034 @@
+[
+  {
+    "id": "aubrey-modiba",
+    "name": "Aubrey Modiba",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "South African",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Cape Town City FC",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "lat": -33.9288301,
+        "lng": 18.4172197,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "SuperSport United",
+        "city": "Randburg",
+        "country": "South Africa",
+        "lat": -26.0915852,
+        "lng": 28.0020276,
+        "fromYear": 2016,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Mamelodi Sundowns FC",
+        "city": "Edleen",
+        "country": "South Africa",
+        "lat": -26.0925,
+        "lng": 28.2022222,
+        "fromYear": 2020,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Aubrey_Modiba"
+  },
+  {
+    "id": "bradley-cross",
+    "name": "Bradley Cross",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "South African",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Lamontville Golden Arrows",
+        "city": "Durban",
+        "country": "South Africa",
+        "lat": -29.861825,
+        "lng": 31.009909,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Durban City Football Club",
+        "city": "Pietermaritzburg",
+        "country": "South Africa",
+        "lat": -29.6,
+        "lng": 30.3788889,
+        "fromYear": 2023,
+        "toYear": 2024
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Bradley_Cross"
+  },
+  {
+    "id": "evidence-makgopa",
+    "name": "Evidence Makgopa",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "South African",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Orlando Pirates",
+        "city": "Parktown",
+        "country": "South Africa",
+        "lat": -26.1816667,
+        "lng": 28.0277778,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Evidence_Makgopa"
+  },
+  {
+    "id": "ime-okon",
+    "name": "Ime Okon",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "South African",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Randburg FC",
+        "city": "Randburg",
+        "country": "South Africa",
+        "lat": -26.0915852,
+        "lng": 28.0020276,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "SuperSport United",
+        "city": "Randburg",
+        "country": "South Africa",
+        "lat": -26.0915852,
+        "lng": 28.0020276,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Hannover 96",
+        "city": "Hannover",
+        "country": "Germany",
+        "lat": 52.3744779,
+        "lng": 9.7385532,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ime_Okon"
+  },
+  {
+    "id": "iqraam-rayners",
+    "name": "Iqraam Rayners",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "South African",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Santos FC Cape Town",
+        "city": "Lansdowne",
+        "country": "South Africa",
+        "lat": -33.9963409,
+        "lng": 18.5068931,
+        "fromYear": 2014,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Stellenbosch FC",
+        "city": "Stellenbosch",
+        "country": "South Africa",
+        "lat": -33.934444,
+        "lng": 18.869167,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "SuperSport United",
+        "city": "Randburg",
+        "country": "South Africa",
+        "lat": -26.0915852,
+        "lng": 28.0020276,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Stellenbosch FC",
+        "city": "Stellenbosch",
+        "country": "South Africa",
+        "lat": -33.934444,
+        "lng": 18.869167,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Mamelodi Sundowns FC",
+        "city": "Edleen",
+        "country": "South Africa",
+        "lat": -26.0925,
+        "lng": 28.2022222,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Iqraam_Rayners"
+  },
+  {
+    "id": "jayden-adams",
+    "name": "Jayden Adams",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "South African",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Stellenbosch FC",
+        "city": "Stellenbosch",
+        "country": "South Africa",
+        "lat": -33.934444,
+        "lng": 18.869167,
+        "fromYear": 2020,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Mamelodi Sundowns FC",
+        "city": "Edleen",
+        "country": "South Africa",
+        "lat": -26.0925,
+        "lng": 28.2022222,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jayden_Adams"
+  },
+  {
+    "id": "kamogelo-sebelebele",
+    "name": "Kamogelo Sebelebele",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "South African",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "TS Galaxy FC",
+        "city": "Witbank",
+        "country": "South Africa",
+        "lat": -25.8762409,
+        "lng": 29.2099962,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Orlando Pirates",
+        "city": "Parktown",
+        "country": "South Africa",
+        "lat": -26.1816667,
+        "lng": 28.0277778,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kamogelo_Sebelebele"
+  },
+  {
+    "id": "khuliso-mudau",
+    "name": "Khuliso Mudau",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "South African",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Black Leopards FC",
+        "city": "Thohoyandou",
+        "country": "South Africa",
+        "lat": -22.9676429,
+        "lng": 30.4596582,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Mamelodi Sundowns FC",
+        "city": "Edleen",
+        "country": "South Africa",
+        "lat": -26.0925,
+        "lng": 28.2022222,
+        "fromYear": 2020,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Khuliso_Mudau"
+  },
+  {
+    "id": "khulumani-ndamane",
+    "name": "Khulumani Ndamane",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "South African",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "TS Galaxy FC",
+        "city": "Witbank",
+        "country": "South Africa",
+        "lat": -25.8762409,
+        "lng": 29.2099962,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Mamelodi Sundowns FC",
+        "city": "Edleen",
+        "country": "South Africa",
+        "lat": -26.0925,
+        "lng": 28.2022222,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Khulumani_Ndamane"
+  },
+  {
+    "id": "lyle-foster",
+    "name": "Lyle Foster",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "South African",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Orlando Pirates",
+        "city": "Parktown",
+        "country": "South Africa",
+        "lat": -26.1816667,
+        "lng": 28.0277778,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "AS Monaco",
+        "city": "Monaco",
+        "country": "Monaco",
+        "lat": 43.7309697,
+        "lng": 7.4248152,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Cercle Brugge",
+        "city": "Brügge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "AS Monaco",
+        "city": "Monaco",
+        "country": "Monaco",
+        "lat": 43.7309697,
+        "lng": 7.4248152,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Vitória Guimarães SC",
+        "city": "Guimarães",
+        "country": "Portugal",
+        "lat": 41.4417677,
+        "lng": -8.2955712,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Vitória Guimarães SC B",
+        "city": "Guimarães",
+        "country": "Portugal",
+        "lat": 41.4417677,
+        "lng": -8.2955712,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "KVC Westerlo",
+        "city": "Westerlo",
+        "country": "Belgium",
+        "lat": 51.086694,
+        "lng": 4.9168675,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Vitória Guimarães SC B",
+        "city": "Guimarães",
+        "country": "Portugal",
+        "lat": 41.4417677,
+        "lng": -8.2955712,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Burnley FC",
+        "city": "Burnley",
+        "country": "England",
+        "lat": 53.7907262,
+        "lng": -2.2439196,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Lyle_Foster"
+  },
+  {
+    "id": "mbekezeli-mbokazi",
+    "name": "Mbekezeli Mbokazi",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "South African",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Orlando Pirates",
+        "city": "Parktown",
+        "country": "South Africa",
+        "lat": -26.1816667,
+        "lng": 28.0277778,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Chicago Fire FC",
+        "city": "Bridgeview",
+        "country": "United States",
+        "lat": 41.7500323,
+        "lng": -87.8042216,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mbekezeli_Mbokazi"
+  },
+  {
+    "id": "nkosinathi-sibisi",
+    "name": "Nkosinathi Sibisi",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "South African",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Lamontville Golden Arrows",
+        "city": "Durban",
+        "country": "South Africa",
+        "lat": -29.861825,
+        "lng": 31.009909,
+        "fromYear": 2015,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Orlando Pirates",
+        "city": "Parktown",
+        "country": "South Africa",
+        "lat": -26.1816667,
+        "lng": 28.0277778,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nkosinathi_Sibisi"
+  },
+  {
+    "id": "olwethu-makhanya",
+    "name": "Olwethu Makhanya",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "South African",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Stellenbosch FC",
+        "city": "Stellenbosch",
+        "country": "South Africa",
+        "lat": -33.934444,
+        "lng": 18.869167,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Philadelphia Union",
+        "city": "Chester",
+        "country": "United States",
+        "lat": 39.9829308,
+        "lng": -75.7652424,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Olwethu_Makhanya"
+  },
+  {
+    "id": "oswin-appollis",
+    "name": "Oswin Appollis",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "South African",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "SuperSport United",
+        "city": "Randburg",
+        "country": "South Africa",
+        "lat": -26.0915852,
+        "lng": 28.0020276,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "University of Pretoria FC",
+        "city": "Pretoria",
+        "country": "South Africa",
+        "lat": -25.7459277,
+        "lng": 28.1879101,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "SuperSport United",
+        "city": "Randburg",
+        "country": "South Africa",
+        "lat": -26.0915852,
+        "lng": 28.0020276,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Polokwane City FC",
+        "city": "Polokwane",
+        "country": "South Africa",
+        "lat": -23.9058333,
+        "lng": 29.4613889,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Orlando Pirates",
+        "city": "Parktown",
+        "country": "South Africa",
+        "lat": -26.1816667,
+        "lng": 28.0277778,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Oswin_Appollis"
+  },
+  {
+    "id": "relebohile-mofokeng",
+    "name": "Relebohile Mofokeng",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "South African",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Transnet School of Excellence",
+        "city": "Elandsfontein, Johannesburg",
+        "country": "South Africa",
+        "lat": -26.2544112,
+        "lng": 28.0938348,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Orlando Pirates",
+        "city": "Parktown",
+        "country": "South Africa",
+        "lat": -26.1816667,
+        "lng": 28.0277778,
+        "fromYear": 2023,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Union Saint-Gilloise",
+        "city": "Bruxelles",
+        "country": "Belgium",
+        "lat": 50.8551025,
+        "lng": 4.3510915,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Relebohile_Mofokeng"
+  },
+  {
+    "id": "ricardo-goss",
+    "name": "Ricardo Goss",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "South African",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Lamontville Golden Arrows",
+        "city": "Durban",
+        "country": "South Africa",
+        "lat": -29.861825,
+        "lng": 31.009909,
+        "fromYear": 2013,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Tshakhuma Tsha Madzivhandila FC",
+        "city": "Durban, KwaZulu-Natal",
+        "country": "South Africa",
+        "lat": -29.861825,
+        "lng": 31.009909,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Bidvest Wits FC",
+        "city": "Braamfontein",
+        "country": "South Africa",
+        "lat": -26.1923008,
+        "lng": 28.0361353,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Mamelodi Sundowns FC",
+        "city": "Edleen",
+        "country": "South Africa",
+        "lat": -26.0925,
+        "lng": 28.2022222,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "SuperSport United",
+        "city": "Randburg",
+        "country": "South Africa",
+        "lat": -26.0915852,
+        "lng": 28.0020276,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Mamelodi Sundowns FC",
+        "city": "Edleen",
+        "country": "South Africa",
+        "lat": -26.0925,
+        "lng": 28.2022222,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "SuperSport United",
+        "city": "Randburg",
+        "country": "South Africa",
+        "lat": -26.0915852,
+        "lng": 28.0020276,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Mamelodi Sundowns FC",
+        "city": "Edleen",
+        "country": "South Africa",
+        "lat": -26.0925,
+        "lng": 28.2022222,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ricardo_Goss"
+  },
+  {
+    "id": "ronwen-williams",
+    "name": "Ronwen Williams",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "South African",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "SuperSport United",
+        "city": "Randburg",
+        "country": "South Africa",
+        "lat": -26.0915852,
+        "lng": 28.0020276,
+        "fromYear": 2011,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Mamelodi Sundowns FC",
+        "city": "Edleen",
+        "country": "South Africa",
+        "lat": -26.0925,
+        "lng": 28.2022222,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ronwen_Williams"
+  },
+  {
+    "id": "samukele-kabini",
+    "name": "Samukele Kabini",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "South African",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "TS Galaxy FC",
+        "city": "Witbank",
+        "country": "South Africa",
+        "lat": -25.8762409,
+        "lng": 29.2099962,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Molde FK",
+        "city": "Molde",
+        "country": "Norway",
+        "lat": 62.6016257,
+        "lng": 8.1386208,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Samukele_Kabini"
+  },
+  {
+    "id": "sipho-chaine",
+    "name": "Sipho Chaine",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "South African",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Royal AM FC",
+        "city": "Durban, KwaZulu-Natal",
+        "country": "South Africa",
+        "lat": -29.861825,
+        "lng": 31.009909,
+        "fromYear": 2016,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Chippa United",
+        "city": "Port Elizabeth, Eastern Cape",
+        "country": "South Africa",
+        "lat": -33.9618598,
+        "lng": 25.6186731,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Orlando Pirates",
+        "city": "Parktown",
+        "country": "South Africa",
+        "lat": -26.1816667,
+        "lng": 28.0277778,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Sipho_Chaine"
+  },
+  {
+    "id": "teboho-mokoena",
+    "name": "Teboho Mokoena",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "South African",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "SuperSport United",
+        "city": "Randburg",
+        "country": "South Africa",
+        "lat": -26.0915852,
+        "lng": 28.0020276,
+        "fromYear": 2016,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Mamelodi Sundowns FC",
+        "city": "Edleen",
+        "country": "South Africa",
+        "lat": -26.0925,
+        "lng": 28.2022222,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Teboho_Mokoena"
+  },
+  {
+    "id": "thabang-matuludi",
+    "name": "Thabang Matuludi",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "South African",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Polokwane City FC",
+        "city": "Polokwane",
+        "country": "South Africa",
+        "lat": -23.9058333,
+        "lng": 29.4613889,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Thabang_Matuludi"
+  },
+  {
+    "id": "thalente-mbatha",
+    "name": "Thalente Mbatha",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "South African",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Highlands Park FC",
+        "city": "Johannesburg, Gauteng",
+        "country": "South Africa",
+        "lat": -26.205,
+        "lng": 28.049722,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "SuperSport United",
+        "city": "Randburg",
+        "country": "South Africa",
+        "lat": -26.0915852,
+        "lng": 28.0020276,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Orlando Pirates",
+        "city": "Parktown",
+        "country": "South Africa",
+        "lat": -26.1816667,
+        "lng": 28.0277778,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "SuperSport United",
+        "city": "Randburg",
+        "country": "South Africa",
+        "lat": -26.0915852,
+        "lng": 28.0020276,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Thalente_Mbatha"
+  },
+  {
+    "id": "thapelo-maseko",
+    "name": "Thapelo Maseko",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "South African",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "SuperSport United",
+        "city": "Randburg",
+        "country": "South Africa",
+        "lat": -26.0915852,
+        "lng": 28.0020276,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Mamelodi Sundowns FC",
+        "city": "Edleen",
+        "country": "South Africa",
+        "lat": -26.0925,
+        "lng": 28.2022222,
+        "fromYear": 2023,
+        "toYear": 2026
+      },
+      {
+        "clubName": "AEL Limassol",
+        "city": "Limassol",
+        "country": "Cyprus",
+        "lat": 34.6852901,
+        "lng": 33.0332657,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Mamelodi Sundowns FC",
+        "city": "Edleen",
+        "country": "South Africa",
+        "lat": -26.0925,
+        "lng": 28.2022222,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Thapelo_Maseko"
+  },
+  {
+    "id": "themba-zwane",
+    "name": "Themba Zwane",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "South African",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Mamelodi Sundowns FC",
+        "city": "Edleen",
+        "country": "South Africa",
+        "lat": -26.0925,
+        "lng": 28.2022222,
+        "fromYear": 2011,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Cape Town City FC",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "lat": -33.9288301,
+        "lng": 18.4172197,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Mamelodi Sundowns FC",
+        "city": "Edleen",
+        "country": "South Africa",
+        "lat": -26.0925,
+        "lng": 28.2022222,
+        "fromYear": 2014,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Themba_Zwane"
+  },
+  {
+    "id": "tshepang-moremi",
+    "name": "Tshepang Moremi",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "South African",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "AmaZulu FC",
+        "city": "Kwazulu-Natal",
+        "country": "South Africa",
+        "lat": -28.503833,
+        "lng": 30.8875009,
+        "fromYear": 2021,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Orlando Pirates",
+        "city": "Parktown",
+        "country": "South Africa",
+        "lat": -26.1816667,
+        "lng": 28.0277778,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tshepang_Moremi"
+  },
+  {
+    "id": "yaya-sithole",
+    "name": "Yaya Sithole",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "South African",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "B SAD (2018-2024)",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "CD Tondela",
+        "city": "Tondela",
+        "country": "Portugal",
+        "lat": 40.51642,
+        "lng": -8.08053,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Gil Vicente FC",
+        "city": "Barcelos",
+        "country": "Portugal",
+        "lat": 41.5314496,
+        "lng": -8.6192306,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "CD Tondela",
+        "city": "Tondela",
+        "country": "Portugal",
+        "lat": 40.51642,
+        "lng": -8.08053,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Yaya_Sithole"
+  }
+]

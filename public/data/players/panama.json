@@ -1,0 +1,2636 @@
+[
+  {
+    "id": "adalberto-carrasquilla",
+    "name": "Adalberto Carrasquilla",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Panamanian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Tauro FC",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Cartagena",
+        "city": "Cartagena",
+        "country": "Spain",
+        "lat": 37.6155018,
+        "lng": -0.987511,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Tauro FC",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Cartagena",
+        "city": "Cartagena",
+        "country": "Spain",
+        "lat": 37.6155018,
+        "lng": -0.987511,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Houston Dynamo FC",
+        "city": "Houston, Texas",
+        "country": "United States",
+        "lat": 29.7589382,
+        "lng": -95.3676974,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Cartagena",
+        "city": "Cartagena",
+        "country": "Spain",
+        "lat": 37.6155018,
+        "lng": -0.987511,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Houston Dynamo FC",
+        "city": "Houston, Texas",
+        "country": "United States",
+        "lat": 29.7589382,
+        "lng": -95.3676974,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "UNAM Pumas",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Adalberto_Carrasquilla"
+  },
+  {
+    "id": "alberto-quintero",
+    "name": "Alberto Quintero",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Panamanian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "CD Universitario",
+        "city": "Penonomé",
+        "country": "Panama",
+        "lat": 8.5204989,
+        "lng": -80.359579,
+        "fromYear": 2008,
+        "toYear": 2008
+      },
+      {
+        "clubName": "FC Cartagena",
+        "city": "Cartagena",
+        "country": "Spain",
+        "lat": 37.6155018,
+        "lng": -0.987511,
+        "fromYear": 2009,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Ontinyent CF (- 2019)",
+        "city": "Ontinyent",
+        "country": "Spain",
+        "lat": 38.8208523,
+        "lng": -0.6099929,
+        "fromYear": 2010,
+        "toYear": 2011
+      },
+      {
+        "clubName": "CD Universitario",
+        "city": "Penonomé",
+        "country": "Panama",
+        "lat": 8.5204989,
+        "lng": -80.359579,
+        "fromYear": 2011,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Independiente Medellín",
+        "city": "Medellín",
+        "country": "Colombia",
+        "lat": 6.2697324,
+        "lng": -75.6025597,
+        "fromYear": 2012,
+        "toYear": 2012
+      },
+      {
+        "clubName": "CD Universitario",
+        "city": "Penonomé",
+        "country": "Panama",
+        "lat": 8.5204989,
+        "lng": -80.359579,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Lobos BUAP (- 2019)",
+        "city": "Puebla de Zaragoza",
+        "country": "Mexico",
+        "lat": 19.0437196,
+        "lng": -98.1981486,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Venados FC Yucatán",
+        "city": "Mérida, Yucatán",
+        "country": "Mexico",
+        "lat": 20.9670759,
+        "lng": -89.6237402,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Mineros de Zacatecas",
+        "city": "Zacatecas",
+        "country": "Mexico",
+        "lat": 23.0916177,
+        "lng": -102.9333954,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Lobos BUAP (- 2019)",
+        "city": "Puebla de Zaragoza",
+        "country": "Mexico",
+        "lat": 19.0437196,
+        "lng": -98.1981486,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "San Jose Earthquakes",
+        "city": "Santa Clara, California",
+        "country": "United States",
+        "lat": 37.2333253,
+        "lng": -121.6846349,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Lobos BUAP (- 2019)",
+        "city": "Puebla de Zaragoza",
+        "country": "Mexico",
+        "lat": 19.0437196,
+        "lng": -98.1981486,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Universitario de Deportes",
+        "city": "Lima",
+        "country": "Peru",
+        "lat": -12.0459808,
+        "lng": -77.0305912,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Lobos BUAP (- 2019)",
+        "city": "Puebla de Zaragoza",
+        "country": "Mexico",
+        "lat": 19.0437196,
+        "lng": -98.1981486,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Universitario de Deportes",
+        "city": "Lima",
+        "country": "Peru",
+        "lat": -12.0459808,
+        "lng": -77.0305912,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Club Cienciano",
+        "city": "Cusco",
+        "country": "Peru",
+        "lat": -13.5170887,
+        "lng": -71.9785356,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "CD Plaza Amador",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Alberto_Quintero"
+  },
+  {
+    "id": "amir-murillo",
+    "name": "Amir Murillo",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Panamanian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "San Francisco FC",
+        "city": "La Chorrera",
+        "country": "Panama",
+        "lat": 8.883567,
+        "lng": -79.7799498,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Red Bull New York",
+        "city": "NJ, 07094 Secaucus",
+        "country": "United States",
+        "lat": 40.7828896,
+        "lng": -74.0475715,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "San Francisco FC",
+        "city": "La Chorrera",
+        "country": "Panama",
+        "lat": 8.883567,
+        "lng": -79.7799498,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Red Bull New York",
+        "city": "NJ, 07094 Secaucus",
+        "country": "United States",
+        "lat": 40.7828896,
+        "lng": -74.0475715,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "RSC Anderlecht",
+        "city": "Anderlecht (Brüssel)",
+        "country": "Belgium",
+        "lat": 50.841868,
+        "lng": 4.3375643,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Olympique Marseille",
+        "city": "Marseille",
+        "country": "France",
+        "lat": 43.2963986,
+        "lng": 5.3777888,
+        "fromYear": 2023,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Besiktas JK",
+        "city": "Beşiktaş / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.0670098,
+        "lng": 29.0421066,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Amir_Murillo"
+  },
+  {
+    "id": "andres-andrade",
+    "name": "Andrés Andrade",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Panamanian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "San Francisco FC",
+        "city": "La Chorrera",
+        "country": "Panama",
+        "lat": 8.883567,
+        "lng": -79.7799498,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Querétaro FC II",
+        "city": "Santiago de Querétaro",
+        "country": "Mexico",
+        "lat": 20.5922997,
+        "lng": -100.3917424,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "LASK Amateure OÖ",
+        "city": "Pasching",
+        "country": "Austria",
+        "lat": 48.2576453,
+        "lng": 14.2044214,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "LASK",
+        "city": "Pasching",
+        "country": "Austria",
+        "lat": 48.2576453,
+        "lng": 14.2044214,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Arminia Bielefeld",
+        "city": "Bielefeld",
+        "country": "Germany",
+        "lat": 52.0191005,
+        "lng": 8.531007,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "LASK",
+        "city": "Pasching",
+        "country": "Austria",
+        "lat": 48.2576453,
+        "lng": 14.2044214,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Andrade"
+  },
+  {
+    "id": "anibal-godoy",
+    "name": "Aníbal Godoy",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Panamanian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "CD Godoy Cruz Antonio Tomba",
+        "city": "Mendoza",
+        "country": "Argentina",
+        "lat": -34.5970325,
+        "lng": -68.7304797,
+        "fromYear": 2012,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Kispest–Honvéd FC",
+        "city": "Budapest",
+        "country": "Hungary",
+        "lat": 47.4978789,
+        "lng": 19.0402383,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "San Jose Earthquakes",
+        "city": "Santa Clara, California",
+        "country": "United States",
+        "lat": 37.2333253,
+        "lng": -121.6846349,
+        "fromYear": 2015,
+        "toYear": 2020
+      },
+      {
+        "clubName": "San Diego FC",
+        "city": "San Diego, California",
+        "country": "United States",
+        "lat": 32.7174202,
+        "lng": -117.162772,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/An%C3%ADbal_Godoy"
+  },
+  {
+    "id": "azarias-londono",
+    "name": "Azarías Londoño",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Panamanian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Alianza FC Panama",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Universidad O&M FC",
+        "city": "Santo Domingo de Guzmán",
+        "country": "Dominican Republic",
+        "lat": 18.4713858,
+        "lng": -69.8918436,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Alianza FC Panama",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Comunicaciones FC",
+        "city": "Nueva Guatemala de la Asunción",
+        "country": "Guatemala",
+        "lat": 14.6416142,
+        "lng": -90.5132836,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Alianza FC Panama",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Comunicaciones FC",
+        "city": "Nueva Guatemala de la Asunción",
+        "country": "Guatemala",
+        "lat": 14.6416142,
+        "lng": -90.5132836,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Alianza FC Panama",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "CD Universidad Católica",
+        "city": "Quito",
+        "country": "Ecuador",
+        "lat": -0.2201641,
+        "lng": -78.5123274,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Alianza FC Panama",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "CD Universidad Católica",
+        "city": "Quito",
+        "country": "Ecuador",
+        "lat": -0.2201641,
+        "lng": -78.5123274,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Alianza FC Panama",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Azar%C3%ADas_Londo%C3%B1o"
+  },
+  {
+    "id": "carlos-harvey",
+    "name": "Carlos Harvey",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Panamanian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Tauro FC",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Ventura County FC",
+        "city": "Carson, California",
+        "country": "United States",
+        "lat": 33.8322043,
+        "lng": -118.2517547,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Los Angeles Galaxy",
+        "city": "Carson",
+        "country": "United States",
+        "lat": 35.3636563,
+        "lng": -101.3353895,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Ventura County FC",
+        "city": "Carson, California",
+        "country": "United States",
+        "lat": 33.8322043,
+        "lng": -118.2517547,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Tauro FC",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Los Angeles Galaxy",
+        "city": "Carson",
+        "country": "United States",
+        "lat": 35.3636563,
+        "lng": -101.3353895,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Phoenix Rising FC",
+        "city": "Phoenix, Arizona",
+        "country": "United States",
+        "lat": 33.4484367,
+        "lng": -112.074141,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Minnesota United FC",
+        "city": "Golden Valley, Minnesota",
+        "country": "United States",
+        "lat": 44.9861176,
+        "lng": -93.3784618,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Harvey"
+  },
+  {
+    "id": "cecilio-waterman",
+    "name": "Cecilio Waterman",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Panamanian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Sporting San Miguelito",
+        "city": "San Miguelito",
+        "country": "Panama",
+        "lat": 9.0551061,
+        "lng": -79.4933063,
+        "fromYear": 2011,
+        "toYear": 2011
+      },
+      {
+        "clubName": "CA Fénix",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2011,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Venados FC Yucatán",
+        "city": "Mérida, Yucatán",
+        "country": "Mexico",
+        "lat": 20.9670759,
+        "lng": -89.6237402,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "CA Fénix",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Defensor Sporting Club",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Club Plaza Colonia",
+        "city": "Colonia del Sacramento",
+        "country": "Uruguay",
+        "lat": -34.4698592,
+        "lng": -57.8433679,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Universidad de Concepción",
+        "city": "Concepción",
+        "country": "Chile",
+        "lat": -36.8270698,
+        "lng": -73.0502064,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "CD Everton",
+        "city": "Viña del Mar",
+        "country": "Chile",
+        "lat": -33.0244535,
+        "lng": -71.5517636,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Universidad de Concepción",
+        "city": "Concepción",
+        "country": "Chile",
+        "lat": -36.8270698,
+        "lng": -73.0502064,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "CD Cobresal",
+        "city": "El Salvador",
+        "country": "Chile",
+        "lat": -26.2462114,
+        "lng": -69.6259658,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Universidad de Concepción",
+        "city": "Concepción",
+        "country": "Chile",
+        "lat": -36.8270698,
+        "lng": -73.0502064,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "CD Cobresal",
+        "city": "El Salvador",
+        "country": "Chile",
+        "lat": -26.2462114,
+        "lng": -69.6259658,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Club Alianza Lima",
+        "city": "Lima",
+        "country": "Peru",
+        "lat": -12.0459808,
+        "lng": -77.0305912,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Coquimbo Unido",
+        "city": "Coquimbo",
+        "country": "Chile",
+        "lat": -30.7546652,
+        "lng": -70.9005536,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Universidad de Concepción",
+        "city": "Concepción",
+        "country": "Chile",
+        "lat": -36.8270698,
+        "lng": -73.0502064,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Cecilio_Waterman"
+  },
+  {
+    "id": "cristian-martinez",
+    "name": "Cristian Martínez",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Panamanian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "CD Universitario",
+        "city": "Penonomé",
+        "country": "Panama",
+        "lat": 8.5204989,
+        "lng": -80.359579,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Columbus Crew",
+        "city": "Columbus",
+        "country": "United States",
+        "lat": 39.9622601,
+        "lng": -83.0007065,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Pittsburgh Riverhounds SC",
+        "city": "Pittsburgh, Pennsylvania",
+        "country": "United States",
+        "lat": 40.4406968,
+        "lng": -80.0025666,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Columbus Crew",
+        "city": "Columbus",
+        "country": "United States",
+        "lat": 39.9622601,
+        "lng": -83.0007065,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "CD Universitario",
+        "city": "Penonomé",
+        "country": "Panama",
+        "lat": 8.5204989,
+        "lng": -80.359579,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Columbus Crew",
+        "city": "Columbus",
+        "country": "United States",
+        "lat": 39.9622601,
+        "lng": -83.0007065,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "FC Cincinnati",
+        "city": "Cincinnati, Ohio",
+        "country": "United States",
+        "lat": 39.1012809,
+        "lng": -84.5127405,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Columbus Crew",
+        "city": "Columbus",
+        "country": "United States",
+        "lat": 39.9622601,
+        "lng": -83.0007065,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Chicago Fire FC",
+        "city": "Bridgeview",
+        "country": "United States",
+        "lat": 41.7500323,
+        "lng": -87.8042216,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Las Vegas Lights FC",
+        "city": "Las Vegas, Nevada",
+        "country": "United States",
+        "lat": 36.1674263,
+        "lng": -115.1484131,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Chicago Fire FC",
+        "city": "Bridgeview",
+        "country": "United States",
+        "lat": 41.7500323,
+        "lng": -87.8042216,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Cádiz CF Mirandilla",
+        "city": "Cádiz",
+        "country": "Spain",
+        "lat": 36.5297438,
+        "lng": -6.2928976,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Cádiz CF",
+        "city": "Cádiz",
+        "country": "Spain",
+        "lat": 36.5297438,
+        "lng": -6.2928976,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Recreativo Huelva",
+        "city": "Huelva",
+        "country": "Spain",
+        "lat": 37.2575874,
+        "lng": -6.9484945,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Cádiz CF",
+        "city": "Cádiz",
+        "country": "Spain",
+        "lat": 36.5297438,
+        "lng": -6.2928976,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "CD Plaza Amador",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Cádiz CF Mirandilla",
+        "city": "Cádiz",
+        "country": "Spain",
+        "lat": 36.5297438,
+        "lng": -6.2928976,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Monagas SC",
+        "city": "Maturín",
+        "country": "Venezuela",
+        "lat": 9.7422774,
+        "lng": -63.1888854,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "CD Plaza Amador",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Najran SC",
+        "city": "Najran",
+        "country": "Saudi Arabia",
+        "lat": 18.0,
+        "lng": 45.666667,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "CD Plaza Amador",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Ironi Kiryat Shmona",
+        "city": "Kiryat Shmona",
+        "country": "Israel",
+        "lat": 33.2074733,
+        "lng": 35.5707828,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "CD Plaza Amador",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Cristian_Mart%C3%ADnez"
+  },
+  {
+    "id": "cesar-blackman",
+    "name": "César Blackman",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Panamanian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "CD Universitario",
+        "city": "Penonomé",
+        "country": "Panama",
+        "lat": 8.5204989,
+        "lng": -80.359579,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "DAC Dunajska Streda",
+        "city": "Dunajská Streda",
+        "country": "Slovakia",
+        "lat": 47.9956165,
+        "lng": 17.6162934,
+        "fromYear": 2017,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Slovan Bratislava",
+        "city": "Bratislava",
+        "country": "Slovakia",
+        "lat": 48.1516988,
+        "lng": 17.1093063,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/C%C3%A9sar_Blackman"
+  },
+  {
+    "id": "cesar-samudio",
+    "name": "César Samudio",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Panamanian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Potros del Este",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "CD Plaza Amador",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Potros del Este",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "CA Independiente",
+        "city": "La Chorrera",
+        "country": "Panama",
+        "lat": 8.883567,
+        "lng": -79.7799498,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "CD Marathón",
+        "city": "San Pedro Sula",
+        "country": "Honduras",
+        "lat": 15.5053535,
+        "lng": -88.0250839,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "CA Independiente",
+        "city": "La Chorrera",
+        "country": "Panama",
+        "lat": 8.883567,
+        "lng": -79.7799498,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/C%C3%A9sar_Samudio"
+  },
+  {
+    "id": "cesar-yanis",
+    "name": "César Yanis",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Panamanian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "San Francisco FC",
+        "city": "La Chorrera",
+        "country": "Panama",
+        "lat": 8.883567,
+        "lng": -79.7799498,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "CD Universitario",
+        "city": "Penonomé",
+        "country": "Panama",
+        "lat": 8.5204989,
+        "lng": -80.359579,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Potros del Este",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Real Zaragoza",
+        "city": "Zaragoza",
+        "country": "Spain",
+        "lat": 41.6915847,
+        "lng": -0.9101268,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Potros del Este",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Zamora CF",
+        "city": "Zamora",
+        "country": "Spain",
+        "lat": 41.6857693,
+        "lng": -5.942315,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Potros del Este",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "AD San Carlos",
+        "city": "Ciudad Quesada",
+        "country": "Costa Rica",
+        "lat": 10.3256704,
+        "lng": -84.4300287,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "CD Cobresal",
+        "city": "El Salvador",
+        "country": "Chile",
+        "lat": -26.2462114,
+        "lng": -69.6259658,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "AD San Carlos",
+        "city": "Ciudad Quesada",
+        "country": "Costa Rica",
+        "lat": 10.3256704,
+        "lng": -84.4300287,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "CD Cobresal",
+        "city": "El Salvador",
+        "country": "Chile",
+        "lat": -26.2462114,
+        "lng": -69.6259658,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/C%C3%A9sar_Yanis"
+  },
+  {
+    "id": "edgardo-farina",
+    "name": "Edgardo Fariña",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Panamanian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "SD Atlético Nacional",
+        "city": "Panamá",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "CA Independiente",
+        "city": "La Chorrera",
+        "country": "Panama",
+        "lat": 8.883567,
+        "lng": -79.7799498,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "CD Universitario",
+        "city": "Penonomé",
+        "country": "Panama",
+        "lat": 8.5204989,
+        "lng": -80.359579,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "CSD Municipal",
+        "city": "Nueva Guatemala de la Asunción",
+        "country": "Guatemala",
+        "lat": 14.6416142,
+        "lng": -90.5132836,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "CA Independiente",
+        "city": "La Chorrera",
+        "country": "Panama",
+        "lat": 8.883567,
+        "lng": -79.7799498,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Pari Nizhniy Novgorod",
+        "city": "Nizhny Novgorod",
+        "country": "Russia",
+        "lat": 56.3264816,
+        "lng": 44.0051395,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Edgardo_Fari%C3%B1a"
+  },
+  {
+    "id": "fidel-escobar",
+    "name": "Fidel Escobar",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Panamanian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "San Francisco FC",
+        "city": "La Chorrera",
+        "country": "Panama",
+        "lat": 8.883567,
+        "lng": -79.7799498,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Sporting San Miguelito",
+        "city": "San Miguelito",
+        "country": "Panama",
+        "lat": 9.0551061,
+        "lng": -79.4933063,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Sporting CP B",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Sporting San Miguelito",
+        "city": "San Miguelito",
+        "country": "Panama",
+        "lat": 9.0551061,
+        "lng": -79.4933063,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Red Bull New York",
+        "city": "NJ, 07094 Secaucus",
+        "country": "United States",
+        "lat": 40.7828896,
+        "lng": -74.0475715,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Red Bull New York II",
+        "city": "Harrison, New Jersey",
+        "country": "United States",
+        "lat": 40.7464901,
+        "lng": -74.1562551,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Red Bull New York",
+        "city": "NJ, 07094 Secaucus",
+        "country": "United States",
+        "lat": 40.7828896,
+        "lng": -74.0475715,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Sporting San Miguelito",
+        "city": "San Miguelito",
+        "country": "Panama",
+        "lat": 9.0551061,
+        "lng": -79.4933063,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Córdoba CF",
+        "city": "Córdoba",
+        "country": "Spain",
+        "lat": 37.8845813,
+        "lng": -4.7760138,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Correcaminos de la UAT",
+        "city": "Ciudad Victoria, Tamaulipas",
+        "country": "Mexico",
+        "lat": 23.7389846,
+        "lng": -99.1441352,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Sporting San Miguelito",
+        "city": "San Miguelito",
+        "country": "Panama",
+        "lat": 9.0551061,
+        "lng": -79.4933063,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "AD Alcorcón",
+        "city": "Alcorcón",
+        "country": "Spain",
+        "lat": 40.3492998,
+        "lng": -3.8284295,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Cultural Leonesa",
+        "city": "León",
+        "country": "Spain",
+        "lat": 42.6341451,
+        "lng": -5.9714151,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "AD Alcorcón",
+        "city": "Alcorcón",
+        "country": "Spain",
+        "lat": 40.3492998,
+        "lng": -3.8284295,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Deportivo Saprissa",
+        "city": "San Juan de Tibás",
+        "country": "Costa Rica",
+        "lat": 9.9371254,
+        "lng": -84.0797205,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "AD Alcorcón",
+        "city": "Alcorcón",
+        "country": "Spain",
+        "lat": 40.3492998,
+        "lng": -3.8284295,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Deportivo Saprissa",
+        "city": "San Juan de Tibás",
+        "country": "Costa Rica",
+        "lat": 9.9371254,
+        "lng": -84.0797205,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Fidel_Escobar"
+  },
+  {
+    "id": "ismael-diaz",
+    "name": "Ismael Díaz",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Panamanian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Tauro FC",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2012,
+        "toYear": 2015
+      },
+      {
+        "clubName": "FC Porto B",
+        "city": "Porto",
+        "country": "Portugal",
+        "lat": 41.1502195,
+        "lng": -8.6103497,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Tauro FC",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "RC Deportivo Fabril",
+        "city": "La Coruña",
+        "country": "Spain",
+        "lat": 43.3466447,
+        "lng": -8.4127029,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "El Tanque Sisley",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Académico Viseu FC",
+        "city": "Viseu",
+        "country": "Portugal",
+        "lat": 40.6574713,
+        "lng": -7.9138664,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Tauro FC",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "CD Universidad Católica",
+        "city": "Quito",
+        "country": "Ecuador",
+        "lat": -0.2201641,
+        "lng": -78.5123274,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Club León FC",
+        "city": "León de los Aldama",
+        "country": "Mexico",
+        "lat": 21.121965,
+        "lng": -101.6829766,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ismael_D%C3%ADaz"
+  },
+  {
+    "id": "jiovany-ramos",
+    "name": "Jiovany Ramos",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Panamanian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "San Francisco FC",
+        "city": "La Chorrera",
+        "country": "Panama",
+        "lat": 8.883567,
+        "lng": -79.7799498,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "CA Independiente",
+        "city": "La Chorrera",
+        "country": "Panama",
+        "lat": 8.883567,
+        "lng": -79.7799498,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Atlético Venezuela",
+        "city": "Caracas",
+        "country": "Venezuela",
+        "lat": 10.5060934,
+        "lng": -66.9146008,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "CA Independiente",
+        "city": "La Chorrera",
+        "country": "Panama",
+        "lat": 8.883567,
+        "lng": -79.7799498,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Deportivo La Guaira",
+        "city": "Caracas",
+        "country": "Venezuela",
+        "lat": 10.5060934,
+        "lng": -66.9146008,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "CA Independiente",
+        "city": "La Chorrera",
+        "country": "Panama",
+        "lat": 8.883567,
+        "lng": -79.7799498,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Deportivo Táchira",
+        "city": "San Cristóbal",
+        "country": "Venezuela",
+        "lat": 7.7756663,
+        "lng": -72.2214154,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "CA Independiente",
+        "city": "La Chorrera",
+        "country": "Panama",
+        "lat": 8.883567,
+        "lng": -79.7799498,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Club Alianza Lima",
+        "city": "Lima",
+        "country": "Peru",
+        "lat": -12.0459808,
+        "lng": -77.0305912,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "CA Independiente",
+        "city": "La Chorrera",
+        "country": "Panama",
+        "lat": 8.883567,
+        "lng": -79.7799498,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Academia Puerto Cabello",
+        "city": "Puerto Cabello",
+        "country": "Venezuela",
+        "lat": 10.4677932,
+        "lng": -68.0436682,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jiovany_Ramos"
+  },
+  {
+    "id": "jorge-gutierrez",
+    "name": "Jorge Gutiérrez",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Panamanian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Tauro FC",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "UD Melilla",
+        "city": "Melilla",
+        "country": "Spain",
+        "lat": 35.2918698,
+        "lng": -2.9409026,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Tauro FC",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Deportivo La Guaira",
+        "city": "Caracas",
+        "country": "Venezuela",
+        "lat": 10.5060934,
+        "lng": -66.9146008,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Tauro FC",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Deportivo La Guaira",
+        "city": "Caracas",
+        "country": "Venezuela",
+        "lat": 10.5060934,
+        "lng": -66.9146008,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jorge_Guti%C3%A9rrez"
+  },
+  {
+    "id": "jose-cordoba",
+    "name": "José Córdoba",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Panamanian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "CA Independiente",
+        "city": "La Chorrera",
+        "country": "Panama",
+        "lat": 8.883567,
+        "lng": -79.7799498,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Levski Sofia",
+        "city": "Sofia",
+        "country": "Bulgaria",
+        "lat": 42.6977028,
+        "lng": 23.3217359,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "CA Independiente",
+        "city": "La Chorrera",
+        "country": "Panama",
+        "lat": 8.883567,
+        "lng": -79.7799498,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Etar Veliko Tarnovo",
+        "city": "Veliko Tarnovo",
+        "country": "Bulgaria",
+        "lat": 43.0820584,
+        "lng": 25.6321312,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Levski Sofia",
+        "city": "Sofia",
+        "country": "Bulgaria",
+        "lat": 42.6977028,
+        "lng": 23.3217359,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "CA Independiente",
+        "city": "La Chorrera",
+        "country": "Panama",
+        "lat": 8.883567,
+        "lng": -79.7799498,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Norwich City",
+        "city": "Norwich",
+        "country": "England",
+        "lat": 52.6285576,
+        "lng": 1.2923954,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_C%C3%B3rdoba"
+  },
+  {
+    "id": "jose-fajardo",
+    "name": "José Fajardo",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Panamanian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "CA Independiente",
+        "city": "La Chorrera",
+        "country": "Panama",
+        "lat": 8.883567,
+        "lng": -79.7799498,
+        "fromYear": 2016,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Internacional de Bogotá",
+        "city": "Bogotá, Distrito Capital",
+        "country": "Colombia",
+        "lat": 4.6533817,
+        "lng": -74.0836331,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "CA Independiente",
+        "city": "La Chorrera",
+        "country": "Panama",
+        "lat": 8.883567,
+        "lng": -79.7799498,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "AD Nueve de Octubre",
+        "city": "Guayaquil",
+        "country": "Ecuador",
+        "lat": -2.1900572,
+        "lng": -79.8868669,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "CA Independiente",
+        "city": "La Chorrera",
+        "country": "Panama",
+        "lat": 8.883567,
+        "lng": -79.7799498,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Cusco FC",
+        "city": "Cusco",
+        "country": "Peru",
+        "lat": -13.5170887,
+        "lng": -71.9785356,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "D.C. United",
+        "city": "Washington, D.C.",
+        "country": "United States",
+        "lat": 38.8950982,
+        "lng": -77.0363849,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "CA Independiente",
+        "city": "La Chorrera",
+        "country": "Panama",
+        "lat": 8.883567,
+        "lng": -79.7799498,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "CD Universidad Católica",
+        "city": "Quito",
+        "country": "Ecuador",
+        "lat": -0.2201641,
+        "lng": -78.5123274,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "CA Independiente",
+        "city": "La Chorrera",
+        "country": "Panama",
+        "lat": 8.883567,
+        "lng": -79.7799498,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "CD Universidad Católica",
+        "city": "Quito",
+        "country": "Ecuador",
+        "lat": -0.2201641,
+        "lng": -78.5123274,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Fajardo"
+  },
+  {
+    "id": "jose-luis-rodriguez",
+    "name": "José Luis Rodríguez",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Panamanian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "CD Universitario",
+        "city": "Penonomé",
+        "country": "Panama",
+        "lat": 8.5204989,
+        "lng": -80.359579,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "NK Istra 1961",
+        "city": "Pula",
+        "country": "Croatia",
+        "lat": 44.8702281,
+        "lng": 13.8455311,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Deportivo Alavés B",
+        "city": "Vitoria-Gasteiz",
+        "country": "Spain",
+        "lat": 42.8505845,
+        "lng": -2.66145,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "NK Istra 1961",
+        "city": "Pula",
+        "country": "Croatia",
+        "lat": 44.8702281,
+        "lng": 13.8455311,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Deportivo Alavés B",
+        "city": "Vitoria-Gasteiz",
+        "country": "Spain",
+        "lat": 42.8505845,
+        "lng": -2.66145,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Deportivo Alavés",
+        "city": "Vitoria-Gasteiz",
+        "country": "Spain",
+        "lat": 42.8505845,
+        "lng": -2.66145,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "CD Lugo",
+        "city": "Lugo",
+        "country": "Spain",
+        "lat": 43.0395266,
+        "lng": -7.4567985,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Deportivo Alavés",
+        "city": "Vitoria-Gasteiz",
+        "country": "Spain",
+        "lat": 42.8505845,
+        "lng": -2.66145,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Sporting Gijón",
+        "city": "Leorio - Gijón (Asturias)",
+        "country": "Spain",
+        "lat": 43.4765996,
+        "lng": -5.6845375,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Deportivo Alavés",
+        "city": "Vitoria-Gasteiz",
+        "country": "Spain",
+        "lat": 42.8505845,
+        "lng": -2.66145,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Famalicão",
+        "city": "Vila Nova de Famalicão",
+        "country": "Portugal",
+        "lat": 41.4064621,
+        "lng": -8.5187849,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Red Star Belgrade",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "lat": 44.8153318,
+        "lng": 20.4456588,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Juárez",
+        "city": "Ciudad Juárez",
+        "country": "Mexico",
+        "lat": 31.6907979,
+        "lng": -106.4253215,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Red Star Belgrade",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "lat": 44.8153318,
+        "lng": 20.4456588,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez"
+  },
+  {
+    "id": "luis-mejia",
+    "name": "Luis Mejía",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Panamanian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Tauro FC",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2007,
+        "toYear": 2008
+      },
+      {
+        "clubName": "CA Fénix",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2009,
+        "toYear": 2010
+      },
+      {
+        "clubName": "RCD Mallorca B",
+        "city": "Palma de Mallorca",
+        "country": "Spain",
+        "lat": 39.5695818,
+        "lng": 2.6500745,
+        "fromYear": 2010,
+        "toYear": 2010
+      },
+      {
+        "clubName": "CA Fénix",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2010,
+        "toYear": 2011
+      },
+      {
+        "clubName": "FC Toulouse",
+        "city": "Toulouse",
+        "country": "France",
+        "lat": 43.6044638,
+        "lng": 1.4442433,
+        "fromYear": 2011,
+        "toYear": 2011
+      },
+      {
+        "clubName": "CA Fénix",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2011,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Club Nacional",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "CA Fénix",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2016,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Unión Española",
+        "city": "Santiago",
+        "country": "Chile",
+        "lat": -33.4376995,
+        "lng": -70.6510671,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Racing Club de Montevideo",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Unión Española",
+        "city": "Santiago",
+        "country": "Chile",
+        "lat": -33.4376995,
+        "lng": -70.6510671,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Club Nacional",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Luis_Mej%C3%ADa"
+  },
+  {
+    "id": "orlando-mosquera",
+    "name": "Orlando Mosquera",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Panamanian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Sporting San Miguelito",
+        "city": "San Miguelito",
+        "country": "Panama",
+        "lat": 9.0551061,
+        "lng": -79.4933063,
+        "fromYear": 2013,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Tauro FC",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Boluspor",
+        "city": "BOLU",
+        "country": "Türkiye",
+        "lat": 40.6212099,
+        "lng": 31.6460259,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Club Always Ready",
+        "city": "El Alto",
+        "country": "Bolivia",
+        "lat": -16.5048228,
+        "lng": -68.1624337,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Carabobo FC",
+        "city": "Valencia",
+        "country": "Venezuela",
+        "lat": 10.170026,
+        "lng": -68.0003987,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Monagas SC",
+        "city": "Maturín",
+        "country": "Venezuela",
+        "lat": 9.7422774,
+        "lng": -63.1888854,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Maccabi Tel Aviv",
+        "city": "Tel-Aviv",
+        "country": "Israel",
+        "lat": 32.0852997,
+        "lng": 34.7818064,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Fayha FC",
+        "city": "Al-Majma'ah",
+        "country": "Saudi Arabia",
+        "lat": 25.903889,
+        "lng": 45.345556,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Orlando_Mosquera"
+  },
+  {
+    "id": "roderick-miller",
+    "name": "Roderick Miller",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Panamanian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "San Francisco FC",
+        "city": "La Chorrera",
+        "country": "Panama",
+        "lat": 8.883567,
+        "lng": -79.7799498,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Venados FC Yucatán",
+        "city": "Mérida, Yucatán",
+        "country": "Mexico",
+        "lat": 20.9670759,
+        "lng": -89.6237402,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "San Francisco FC",
+        "city": "La Chorrera",
+        "country": "Panama",
+        "lat": 8.883567,
+        "lng": -79.7799498,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Atlético Nacional",
+        "city": "Medellín",
+        "country": "Colombia",
+        "lat": 6.2697324,
+        "lng": -75.6025597,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "CD Feirense",
+        "city": "Santa Maria da Feira",
+        "country": "Portugal",
+        "lat": 40.9254179,
+        "lng": -8.5426688,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "San Francisco FC",
+        "city": "La Chorrera",
+        "country": "Panama",
+        "lat": 8.883567,
+        "lng": -79.7799498,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Carlos Stein",
+        "city": "Chiclayo",
+        "country": "Peru",
+        "lat": -6.7716146,
+        "lng": -79.8387175,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Al-Quwa Al-Jawiya",
+        "city": "Rusafa District, Bagdad",
+        "country": "Iraq",
+        "lat": 33.3321171,
+        "lng": 44.4522741,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Turan-Tovuz IK",
+        "city": "Tovuz",
+        "country": "Azerbaijan",
+        "lat": 40.992505,
+        "lng": 45.6159428,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Roderick_Miller"
+  },
+  {
+    "id": "tomas-rodriguez",
+    "name": "Tomás Rodríguez",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Panamanian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Alianza FC Panama",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2016,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Sporting San Miguelito",
+        "city": "San Miguelito",
+        "country": "Panama",
+        "lat": 9.0551061,
+        "lng": -79.4933063,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Monagas SC",
+        "city": "Maturín",
+        "country": "Venezuela",
+        "lat": 9.7422774,
+        "lng": -63.1888854,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Sporting San Miguelito",
+        "city": "San Miguelito",
+        "country": "Panama",
+        "lat": 9.0551061,
+        "lng": -79.4933063,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Monagas SC",
+        "city": "Maturín",
+        "country": "Venezuela",
+        "lat": 9.7422774,
+        "lng": -63.1888854,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Sporting San Miguelito",
+        "city": "San Miguelito",
+        "country": "Panama",
+        "lat": 9.0551061,
+        "lng": -79.4933063,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Deportivo Saprissa",
+        "city": "San Juan de Tibás",
+        "country": "Costa Rica",
+        "lat": 9.9371254,
+        "lng": -84.0797205,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Sporting San Miguelito",
+        "city": "San Miguelito",
+        "country": "Panama",
+        "lat": 9.0551061,
+        "lng": -79.4933063,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tom%C3%A1s_Rodr%C3%ADguez"
+  },
+  {
+    "id": "yoel-barcenas",
+    "name": "Yoel Bárcenas",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Panamanian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "CD Árabe Unido",
+        "city": "Colón",
+        "country": "Panama",
+        "lat": 9.3553005,
+        "lng": -79.8974085,
+        "fromYear": 2013,
+        "toYear": 2016
+      },
+      {
+        "clubName": "RNK Split",
+        "city": "Split",
+        "country": "Croatia",
+        "lat": 43.5116383,
+        "lng": 16.4399659,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "CD Árabe Unido",
+        "city": "Colón",
+        "country": "Panama",
+        "lat": 9.3553005,
+        "lng": -79.8974085,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Club Tijuana",
+        "city": "Tijuana, Baja California",
+        "country": "Mexico",
+        "lat": 32.5317397,
+        "lng": -117.019529,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "CD Árabe Unido",
+        "city": "Colón",
+        "country": "Panama",
+        "lat": 9.3553005,
+        "lng": -79.8974085,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Real Oviedo",
+        "city": "Oviedo",
+        "country": "Spain",
+        "lat": 43.3533452,
+        "lng": -5.8795096,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Girona FC",
+        "city": "Girona",
+        "country": "Spain",
+        "lat": 41.9793006,
+        "lng": 2.8199439,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Club Tijuana",
+        "city": "Tijuana, Baja California",
+        "country": "Mexico",
+        "lat": 32.5317397,
+        "lng": -117.019529,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "CD Leganés",
+        "city": "Leganés",
+        "country": "Spain",
+        "lat": 40.3281942,
+        "lng": -3.76527,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Club Tijuana",
+        "city": "Tijuana, Baja California",
+        "country": "Mexico",
+        "lat": 32.5317397,
+        "lng": -117.019529,
+        "fromYear": 2022,
+        "toYear": 2025
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Yoel_B%C3%A1rcenas"
+  },
+  {
+    "id": "eric-davis",
+    "name": "Éric Davis",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Panamanian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "CD Árabe Unido",
+        "city": "Colón",
+        "country": "Panama",
+        "lat": 9.3553005,
+        "lng": -79.8974085,
+        "fromYear": 2011,
+        "toYear": 2011
+      },
+      {
+        "clubName": "CA Fénix",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2011,
+        "toYear": 2013
+      },
+      {
+        "clubName": "CD Árabe Unido",
+        "city": "Colón",
+        "country": "Panama",
+        "lat": 9.3553005,
+        "lng": -79.8974085,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "CA Fénix",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Sporting San Miguelito",
+        "city": "San Miguelito",
+        "country": "Panama",
+        "lat": 9.0551061,
+        "lng": -79.4933063,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "CD Árabe Unido",
+        "city": "Colón",
+        "country": "Panama",
+        "lat": 9.3553005,
+        "lng": -79.8974085,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "DAC Dunajska Streda",
+        "city": "Dunajská Streda",
+        "country": "Slovakia",
+        "lat": 47.9956165,
+        "lng": 17.6162934,
+        "fromYear": 2015,
+        "toYear": 2023
+      },
+      {
+        "clubName": "D.C. United",
+        "city": "Washington, D.C.",
+        "country": "United States",
+        "lat": 38.8950982,
+        "lng": -77.0363849,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Kosice",
+        "city": "Košice",
+        "country": "Slovakia",
+        "lat": 48.7172272,
+        "lng": 21.2496774,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Vila Nova Futebol Clube (GO)",
+        "city": "Goiânia",
+        "country": "Brazil",
+        "lat": -16.680882,
+        "lng": -49.2532691,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "CD Plaza Amador",
+        "city": "Panama City",
+        "country": "Panama",
+        "lat": 8.9714493,
+        "lng": -79.5341802,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%89ric_Davis"
+  }
+]

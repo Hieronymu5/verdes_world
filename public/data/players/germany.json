@@ -1,0 +1,1214 @@
+[
+  {
+    "id": "aleksandar-pavlovic",
+    "name": "Aleksandar Pavlovic",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "German",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Bayern Munich II",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandar_Pavlovic"
+  },
+  {
+    "id": "alexander-nubel",
+    "name": "Alexander Nübel",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "German",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "SC Paderborn 07",
+        "city": "Paderborn",
+        "country": "Germany",
+        "lat": 51.7177044,
+        "lng": 8.752653,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "FC Schalke 04",
+        "city": "Gelsenkirchen",
+        "country": "Germany",
+        "lat": 51.5110321,
+        "lng": 7.0960124,
+        "fromYear": 2015,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "AS Monaco",
+        "city": "Monaco",
+        "country": "Monaco",
+        "lat": 43.7309697,
+        "lng": 7.4248152,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "VfB Stuttgart",
+        "city": "Stuttgart",
+        "country": "Germany",
+        "lat": 48.7784485,
+        "lng": 9.1800132,
+        "fromYear": 2023,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_N%C3%BCbel"
+  },
+  {
+    "id": "angelo-stiller",
+    "name": "Angelo Stiller",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "German",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Bayern Munich II",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "VfB Stuttgart",
+        "city": "Stuttgart",
+        "country": "Germany",
+        "lat": 48.7784485,
+        "lng": 9.1800132,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Angelo_Stiller"
+  },
+  {
+    "id": "antonio-rudiger",
+    "name": "Antonio Rüdiger",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "German",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "VfB Stuttgart II",
+        "city": "Stuttgart",
+        "country": "Germany",
+        "lat": 48.7784485,
+        "lng": 9.1800132,
+        "fromYear": 2011,
+        "toYear": 2012
+      },
+      {
+        "clubName": "VfB Stuttgart",
+        "city": "Stuttgart",
+        "country": "Germany",
+        "lat": 48.7784485,
+        "lng": 9.1800132,
+        "fromYear": 2012,
+        "toYear": 2015
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "VfB Stuttgart",
+        "city": "Stuttgart",
+        "country": "Germany",
+        "lat": 48.7784485,
+        "lng": 9.1800132,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2017,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Antonio_R%C3%BCdiger"
+  },
+  {
+    "id": "assan-ouedraogo",
+    "name": "Assan Ouédraogo",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "German",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Schalke 04",
+        "city": "Gelsenkirchen",
+        "country": "Germany",
+        "lat": 51.5110321,
+        "lng": 7.0960124,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Assan_Ou%C3%A9draogo"
+  },
+  {
+    "id": "david-raum",
+    "name": "David Raum",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "German",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "SpVgg Greuther Fürth",
+        "city": "Fürth",
+        "country": "Germany",
+        "lat": 49.4885711,
+        "lng": 10.9587203,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Raum"
+  },
+  {
+    "id": "deniz-undav",
+    "name": "Deniz Undav",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "German",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "TSV Havelse",
+        "city": "Garbsen",
+        "country": "Germany",
+        "lat": 52.4276606,
+        "lng": 9.6005102,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Eintracht Braunschweig II",
+        "city": "Braunschweig",
+        "country": "Germany",
+        "lat": 52.2646577,
+        "lng": 10.5236066,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "SV Meppen",
+        "city": "Meppen",
+        "country": "Germany",
+        "lat": 52.6947452,
+        "lng": 7.2909824,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Union Saint-Gilloise",
+        "city": "Bruxelles",
+        "country": "Belgium",
+        "lat": 50.8551025,
+        "lng": 4.3510915,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Union Saint-Gilloise",
+        "city": "Bruxelles",
+        "country": "Belgium",
+        "lat": 50.8551025,
+        "lng": 4.3510915,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "VfB Stuttgart",
+        "city": "Stuttgart",
+        "country": "Germany",
+        "lat": 48.7784485,
+        "lng": 9.1800132,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "VfB Stuttgart",
+        "city": "Stuttgart",
+        "country": "Germany",
+        "lat": 48.7784485,
+        "lng": 9.1800132,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Deniz_Undav"
+  },
+  {
+    "id": "felix-nmecha",
+    "name": "Felix Nmecha",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "German",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "VfL Wolfsburg",
+        "city": "Wolfsburg",
+        "country": "Germany",
+        "lat": 52.4205588,
+        "lng": 10.7861682,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Felix_Nmecha"
+  },
+  {
+    "id": "florian-wirtz",
+    "name": "Florian Wirtz",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "German",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Bayer 04 Leverkusen",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "lat": 51.0324743,
+        "lng": 6.9881194,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Liverpool FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Florian_Wirtz"
+  },
+  {
+    "id": "jamal-musiala",
+    "name": "Jamal Musiala",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "German",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2020,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jamal_Musiala"
+  },
+  {
+    "id": "jamie-leweling",
+    "name": "Jamie Leweling",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "German",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "SpVgg Greuther Fürth",
+        "city": "Fürth",
+        "country": "Germany",
+        "lat": 49.4885711,
+        "lng": 10.9587203,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "1.FC Union Berlin",
+        "city": "Berlin",
+        "country": "Germany",
+        "lat": 52.5173885,
+        "lng": 13.3951309,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "VfB Stuttgart",
+        "city": "Stuttgart",
+        "country": "Germany",
+        "lat": 48.7784485,
+        "lng": 9.1800132,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "1.FC Union Berlin",
+        "city": "Berlin",
+        "country": "Germany",
+        "lat": 52.5173885,
+        "lng": 13.3951309,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jamie_Leweling"
+  },
+  {
+    "id": "jonathan-tah",
+    "name": "Jonathan Tah",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "German",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Hamburger SV",
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.5501721,
+        "lng": 10.0013165,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Fortuna Düsseldorf",
+        "city": "Düsseldorf",
+        "country": "Germany",
+        "lat": 51.2254018,
+        "lng": 6.7763137,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Hamburger SV",
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.5501721,
+        "lng": 10.0013165,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Bayer 04 Leverkusen",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "lat": 51.0324743,
+        "lng": 6.9881194,
+        "fromYear": 2015,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jonathan_Tah"
+  },
+  {
+    "id": "joshua-kimmich",
+    "name": "Joshua Kimmich",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "German",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "VfB Stuttgart",
+        "city": "Stuttgart",
+        "country": "Germany",
+        "lat": 48.7784485,
+        "lng": 9.1800132,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2015,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Joshua_Kimmich"
+  },
+  {
+    "id": "kai-havertz",
+    "name": "Kai Havertz",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "German",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Bayer 04 Leverkusen",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "lat": 51.0324743,
+        "lng": 6.9881194,
+        "fromYear": 2016,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kai_Havertz"
+  },
+  {
+    "id": "leon-goretzka",
+    "name": "Leon Goretzka",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "German",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "VfL Bochum",
+        "city": "Bochum",
+        "country": "Germany",
+        "lat": 51.4818111,
+        "lng": 7.2196635,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "FC Schalke 04",
+        "city": "Gelsenkirchen",
+        "country": "Germany",
+        "lat": 51.5110321,
+        "lng": 7.0960124,
+        "fromYear": 2013,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2018,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Leon_Goretzka"
+  },
+  {
+    "id": "leroy-sane",
+    "name": "Leroy Sané",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "German",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "FC Schalke 04",
+        "city": "Gelsenkirchen",
+        "country": "Germany",
+        "lat": 51.5110321,
+        "lng": 7.0960124,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2016,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2020,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Galatasaray",
+        "city": "Sarıyer / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.1054207,
+        "lng": 29.006187,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Leroy_San%C3%A9"
+  },
+  {
+    "id": "malick-thiaw",
+    "name": "Malick Thiaw",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "German",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Schalke 04",
+        "city": "Gelsenkirchen",
+        "country": "Germany",
+        "lat": 51.5110321,
+        "lng": 7.0960124,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "AC Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Newcastle United",
+        "city": "Newcastle upon Tyne",
+        "country": "England",
+        "lat": 54.9738474,
+        "lng": -1.6131572,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Malick_Thiaw"
+  },
+  {
+    "id": "manuel-neuer",
+    "name": "Manuel Neuer",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "German",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "FC Schalke 04",
+        "city": "Gelsenkirchen",
+        "country": "Germany",
+        "lat": 51.5110321,
+        "lng": 7.0960124,
+        "fromYear": 2005,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2011,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_Neuer"
+  },
+  {
+    "id": "maximilian-beier",
+    "name": "Maximilian Beier",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "German",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Hannover 96",
+        "city": "Hannover",
+        "country": "Germany",
+        "lat": 52.3744779,
+        "lng": 9.7385532,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Maximilian_Beier"
+  },
+  {
+    "id": "nadiem-amiri",
+    "name": "Nadiem Amiri",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "German",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2014,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Bayer 04 Leverkusen",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "lat": 51.0324743,
+        "lng": 6.9881194,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Genoa CFC",
+        "city": "Genova",
+        "country": "Italy",
+        "lat": 44.40726,
+        "lng": 8.9338624,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Bayer 04 Leverkusen",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "lat": 51.0324743,
+        "lng": 6.9881194,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "1.FSV Mainz 05",
+        "city": "Mainz",
+        "country": "Germany",
+        "lat": 49.9995205,
+        "lng": 8.2736253,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nadiem_Amiri"
+  },
+  {
+    "id": "nathaniel-brown",
+    "name": "Nathaniel Brown",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "German",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "1.FC Nuremberg",
+        "city": "Nürnberg",
+        "country": "Germany",
+        "lat": 49.453872,
+        "lng": 11.077298,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "1.FC Nuremberg",
+        "city": "Nürnberg",
+        "country": "Germany",
+        "lat": 49.453872,
+        "lng": 11.077298,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nathaniel_Brown"
+  },
+  {
+    "id": "nick-woltemade",
+    "name": "Nick Woltemade",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "German",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "SV Werder Bremen",
+        "city": "Bremen",
+        "country": "Germany",
+        "lat": 53.0758196,
+        "lng": 8.8071646,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "SV 07 Elversberg",
+        "city": "St. Ingbert",
+        "country": "Germany",
+        "lat": 49.2788378,
+        "lng": 7.1156707,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "SV Werder Bremen",
+        "city": "Bremen",
+        "country": "Germany",
+        "lat": 53.0758196,
+        "lng": 8.8071646,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "VfB Stuttgart",
+        "city": "Stuttgart",
+        "country": "Germany",
+        "lat": 48.7784485,
+        "lng": 9.1800132,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Newcastle United",
+        "city": "Newcastle upon Tyne",
+        "country": "England",
+        "lat": 54.9738474,
+        "lng": -1.6131572,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nick_Woltemade"
+  },
+  {
+    "id": "nico-schlotterbeck",
+    "name": "Nico Schlotterbeck",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "German",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "SC Freiburg II",
+        "city": "Freiburg im Breisgau",
+        "country": "Germany",
+        "lat": 47.9960901,
+        "lng": 7.8494005,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "SC Freiburg",
+        "city": "Freiburg im Breisgau",
+        "country": "Germany",
+        "lat": 47.9960901,
+        "lng": 7.8494005,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "1.FC Union Berlin",
+        "city": "Berlin",
+        "country": "Germany",
+        "lat": 52.5173885,
+        "lng": 13.3951309,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "SC Freiburg",
+        "city": "Freiburg im Breisgau",
+        "country": "Germany",
+        "lat": 47.9960901,
+        "lng": 7.8494005,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nico_Schlotterbeck"
+  },
+  {
+    "id": "oliver-baumann",
+    "name": "Oliver Baumann",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "German",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "SC Freiburg",
+        "city": "Freiburg im Breisgau",
+        "country": "Germany",
+        "lat": 47.9960901,
+        "lng": 7.8494005,
+        "fromYear": 2009,
+        "toYear": 2014
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2014,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Oliver_Baumann"
+  },
+  {
+    "id": "pascal-gro",
+    "name": "Pascal Groß",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "German",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "TSG 1899 Hoffenheim II",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2010,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Karlsruher SC",
+        "city": "Karlsruhe",
+        "country": "Germany",
+        "lat": 49.0068705,
+        "lng": 8.4034195,
+        "fromYear": 2011,
+        "toYear": 2012
+      },
+      {
+        "clubName": "FC Ingolstadt 04",
+        "city": "Ingolstadt",
+        "country": "Germany",
+        "lat": 48.7630165,
+        "lng": 11.4250395,
+        "fromYear": 2012,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2017,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Pascal_Gro%C3%9F"
+  },
+  {
+    "id": "waldemar-anton",
+    "name": "Waldemar Anton",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "German",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Hannover 96",
+        "city": "Hannover",
+        "country": "Germany",
+        "lat": 52.3744779,
+        "lng": 9.7385532,
+        "fromYear": 2015,
+        "toYear": 2020
+      },
+      {
+        "clubName": "VfB Stuttgart",
+        "city": "Stuttgart",
+        "country": "Germany",
+        "lat": 48.7784485,
+        "lng": 9.1800132,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Waldemar_Anton"
+  }
+]

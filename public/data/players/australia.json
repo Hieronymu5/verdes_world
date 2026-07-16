@@ -1,0 +1,1889 @@
+[
+  {
+    "id": "aiden-o-neill",
+    "name": "Aiden O'Neill",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Australian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Burnley FC",
+        "city": "Burnley",
+        "country": "England",
+        "lat": 53.7907262,
+        "lng": -2.2439196,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Fleetwood Town",
+        "city": "Fleetwood",
+        "country": "England",
+        "lat": 53.9219586,
+        "lng": -3.0327286,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Oldham Athletic",
+        "city": "Oldham",
+        "country": "England",
+        "lat": 53.5415797,
+        "lng": -2.1147831,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Burnley FC",
+        "city": "Burnley",
+        "country": "England",
+        "lat": 53.7907262,
+        "lng": -2.2439196,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Central Coast Mariners",
+        "city": "Gosford",
+        "country": "Australia",
+        "lat": -33.4240979,
+        "lng": 151.3411475,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Brisbane Roar",
+        "city": "Brisbane",
+        "country": "Australia",
+        "lat": -27.4689623,
+        "lng": 153.0235009,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Burnley FC",
+        "city": "Burnley",
+        "country": "England",
+        "lat": 53.7907262,
+        "lng": -2.2439196,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Melbourne City FC",
+        "city": "Melbourne",
+        "country": "Australia",
+        "lat": -37.8142454,
+        "lng": 144.9631732,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Standard Liège",
+        "city": "Lüttich (Liège)",
+        "country": "Belgium",
+        "lat": 50.6419089,
+        "lng": 6.0178968,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "New York City FC",
+        "city": "New York City, New York",
+        "country": "United States",
+        "lat": 40.7127281,
+        "lng": -74.0060152,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Aiden_O%27Neill"
+  },
+  {
+    "id": "ajdin-hrustic",
+    "name": "Ajdin Hrustic",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Australian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Groningen",
+        "city": "Groningen",
+        "country": "Netherlands",
+        "lat": 53.2190652,
+        "lng": 6.5680077,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Hellas Verona",
+        "city": "Verona",
+        "country": "Italy",
+        "lat": 45.4424977,
+        "lng": 10.9857377,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Heracles Almelo",
+        "city": "Almelo",
+        "country": "Netherlands",
+        "lat": 52.3563585,
+        "lng": 6.6636219,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Hellas Verona",
+        "city": "Verona",
+        "country": "Italy",
+        "lat": 45.4424977,
+        "lng": 10.9857377,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "US Salernitana 1919",
+        "city": "Salerno",
+        "country": "Italy",
+        "lat": 40.4194416,
+        "lng": 15.3106085,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Heracles Almelo",
+        "city": "Almelo",
+        "country": "Netherlands",
+        "lat": 52.3563585,
+        "lng": 6.6636219,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ajdin_Hrustic"
+  },
+  {
+    "id": "alessandro-circati",
+    "name": "Alessandro Circati",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Australian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Parma Calcio 1913",
+        "city": "Parma",
+        "country": "Italy",
+        "lat": 44.6952006,
+        "lng": 10.0979869,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Alessandro_Circati"
+  },
+  {
+    "id": "awer-mabil",
+    "name": "Awer Mabil",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Australian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Adelaide United",
+        "city": "Adelaide",
+        "country": "Australia",
+        "lat": -34.9281805,
+        "lng": 138.5999312,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "FC Midtjylland",
+        "city": "Herning",
+        "country": "Denmark",
+        "lat": 56.1379757,
+        "lng": 8.9746623,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Esbjerg fB",
+        "city": "Esbjerg",
+        "country": "Denmark",
+        "lat": 55.4664892,
+        "lng": 8.4520751,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "FC Midtjylland",
+        "city": "Herning",
+        "country": "Denmark",
+        "lat": 56.1379757,
+        "lng": 8.9746623,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "FC Paços de Ferreira",
+        "city": "Paços de Ferreira",
+        "country": "Portugal",
+        "lat": 41.290118,
+        "lng": -8.378194,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "FC Midtjylland",
+        "city": "Herning",
+        "country": "Denmark",
+        "lat": 56.1379757,
+        "lng": 8.9746623,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Cádiz CF",
+        "city": "Cádiz",
+        "country": "Spain",
+        "lat": 36.5297438,
+        "lng": -6.2928976,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Midtjylland",
+        "city": "Herning",
+        "country": "Denmark",
+        "lat": 56.1379757,
+        "lng": 8.9746623,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Kasimpasa",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.006381,
+        "lng": 28.9758715,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "AC Sparta Prague",
+        "city": "Praha",
+        "country": "Czech Republic",
+        "lat": 50.0874654,
+        "lng": 14.4212535,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Cádiz CF",
+        "city": "Cádiz",
+        "country": "Spain",
+        "lat": 36.5297438,
+        "lng": -6.2928976,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Grasshopper Club Zurich",
+        "city": "Niederhasli",
+        "country": "Switzerland",
+        "lat": 47.4812949,
+        "lng": 8.4858049,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "CD Castellón",
+        "city": "Castellón de la Plana",
+        "country": "Spain",
+        "lat": 39.9860347,
+        "lng": -0.0377354,
+        "fromYear": 2025,
+        "toYear": 2025
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Awer_Mabil"
+  },
+  {
+    "id": "aziz-behich",
+    "name": "Aziz Behich",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Australian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Green Gully SC",
+        "city": "Melbourne, Victoria",
+        "country": "Australia",
+        "lat": -37.8142454,
+        "lng": 144.9631732,
+        "fromYear": 2010,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Melbourne City FC",
+        "city": "Melbourne",
+        "country": "Australia",
+        "lat": -37.8142454,
+        "lng": 144.9631732,
+        "fromYear": 2010,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Bursaspor",
+        "city": "Nilüfer / Bursa",
+        "country": "Türkiye",
+        "lat": 40.2274344,
+        "lng": 28.9315848,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Melbourne City FC",
+        "city": "Melbourne",
+        "country": "Australia",
+        "lat": -37.8142454,
+        "lng": 144.9631732,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Bursaspor",
+        "city": "Nilüfer / Bursa",
+        "country": "Türkiye",
+        "lat": 40.2274344,
+        "lng": 28.9315848,
+        "fromYear": 2014,
+        "toYear": 2018
+      },
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Basaksehir FK",
+        "city": "Istanbul",
+        "country": "Türkiye",
+        "lat": 41.006381,
+        "lng": 28.9758715,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Kayserispor",
+        "city": "Kayseri",
+        "country": "Türkiye",
+        "lat": 38.7219011,
+        "lng": 35.4873214,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Basaksehir FK",
+        "city": "Istanbul",
+        "country": "Türkiye",
+        "lat": 41.006381,
+        "lng": 28.9758715,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Giresunspor",
+        "city": "Giresun",
+        "country": "Türkiye",
+        "lat": 40.6531617,
+        "lng": 38.5172032,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Dundee United FC",
+        "city": "Dundee",
+        "country": "Scotland",
+        "lat": 56.4605938,
+        "lng": -2.97019,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Melbourne City FC",
+        "city": "Melbourne",
+        "country": "Australia",
+        "lat": -37.8142454,
+        "lng": 144.9631732,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Nassr FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Melbourne City FC",
+        "city": "Melbourne",
+        "country": "Australia",
+        "lat": -37.8142454,
+        "lng": 144.9631732,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Aziz_Behich"
+  },
+  {
+    "id": "cameron-burgess",
+    "name": "Cameron Burgess",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Australian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Fulham FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Ross County FC",
+        "city": "Dingwall",
+        "country": "Scotland",
+        "lat": 57.5954797,
+        "lng": -4.4284337,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Fulham FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Cheltenham Town",
+        "city": "Cheltenham Spa",
+        "country": "England",
+        "lat": 51.8969882,
+        "lng": -2.1001222,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Fulham FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Oldham Athletic",
+        "city": "Oldham",
+        "country": "England",
+        "lat": 53.5415797,
+        "lng": -2.1147831,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Scunthorpe United",
+        "city": "Scunthorpe",
+        "country": "England",
+        "lat": 53.5922488,
+        "lng": -0.6450841,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Fulham FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Bury FC",
+        "city": "Radcliffe, Manchester",
+        "country": "England",
+        "lat": 53.5593382,
+        "lng": -2.3261546,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Salford City",
+        "city": "Salford",
+        "country": "England",
+        "lat": 53.4877463,
+        "lng": -2.2891921,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Accrington Stanley",
+        "city": "Accrington, Lancashire",
+        "country": "England",
+        "lat": 53.7541156,
+        "lng": -2.3655434,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Scunthorpe United",
+        "city": "Scunthorpe",
+        "country": "England",
+        "lat": 53.5922488,
+        "lng": -0.6450841,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Ipswich Town",
+        "city": "Ipswich",
+        "country": "England",
+        "lat": 52.0579324,
+        "lng": 1.1528095,
+        "fromYear": 2021,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Swansea City",
+        "city": "Swansea",
+        "country": "Wales",
+        "lat": 51.6195955,
+        "lng": -3.9459248,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Cameron_Burgess"
+  },
+  {
+    "id": "cammy-devlin",
+    "name": "Cammy Devlin",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Australian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Sydney FC II",
+        "city": "Sydney",
+        "country": "Australia",
+        "lat": -33.8698439,
+        "lng": 151.2082848,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Sydney FC",
+        "city": "Sydney",
+        "country": "Australia",
+        "lat": -33.8698439,
+        "lng": 151.2082848,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Wellington Phoenix",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "lat": -41.2887953,
+        "lng": 174.7772114,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Newcastle United Jets",
+        "city": "Broadmeadow",
+        "country": "Australia",
+        "lat": -32.9225,
+        "lng": 151.7302778,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Heart of Midlothian FC",
+        "city": "Edinburgh",
+        "country": "Scotland",
+        "lat": 55.9533456,
+        "lng": -3.1883749,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Cammy_Devlin"
+  },
+  {
+    "id": "connor-metcalfe",
+    "name": "Connor Metcalfe",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Australian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Melbourne City FC",
+        "city": "Melbourne",
+        "country": "Australia",
+        "lat": -37.8142454,
+        "lng": 144.9631732,
+        "fromYear": 2017,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC St. Pauli",
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.5501721,
+        "lng": 10.0013165,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Connor_Metcalfe"
+  },
+  {
+    "id": "cristian-volpato",
+    "name": "Cristian Volpato",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Australian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "US Sassuolo",
+        "city": "Sassuolo",
+        "country": "Italy",
+        "lat": 44.5409769,
+        "lng": 10.7829023,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Cristian_Volpato"
+  },
+  {
+    "id": "harry-souttar",
+    "name": "Harry Souttar",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Australian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Dundee United FC",
+        "city": "Dundee",
+        "country": "Scotland",
+        "lat": 56.4605938,
+        "lng": -2.97019,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Stoke City",
+        "city": "Stoke-on-Trent",
+        "country": "England",
+        "lat": 53.0162014,
+        "lng": -2.1812607,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Ross County FC",
+        "city": "Dingwall",
+        "country": "Scotland",
+        "lat": 57.5954797,
+        "lng": -4.4284337,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Stoke City",
+        "city": "Stoke-on-Trent",
+        "country": "England",
+        "lat": 53.0162014,
+        "lng": -2.1812607,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Fleetwood Town",
+        "city": "Fleetwood",
+        "country": "England",
+        "lat": 53.9219586,
+        "lng": -3.0327286,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Stoke City",
+        "city": "Stoke-on-Trent",
+        "country": "England",
+        "lat": 53.0162014,
+        "lng": -2.1812607,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Fleetwood Town",
+        "city": "Fleetwood",
+        "country": "England",
+        "lat": 53.9219586,
+        "lng": -3.0327286,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Stoke City",
+        "city": "Stoke-on-Trent",
+        "country": "England",
+        "lat": 53.0162014,
+        "lng": -2.1812607,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Leicester City",
+        "city": "Leicester",
+        "country": "England",
+        "lat": 52.6362,
+        "lng": -1.1331969,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Sheffield United",
+        "city": "Sheffield",
+        "country": "England",
+        "lat": 53.3806626,
+        "lng": -1.4702278,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Leicester City",
+        "city": "Leicester",
+        "country": "England",
+        "lat": 52.6362,
+        "lng": -1.1331969,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Harry_Souttar"
+  },
+  {
+    "id": "jackson-irvine",
+    "name": "Jackson Irvine",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Australian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Celtic FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Kilmarnock FC",
+        "city": "Kilmarnock",
+        "country": "Scotland",
+        "lat": 55.6100589,
+        "lng": -4.4964652,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Ross County FC",
+        "city": "Dingwall",
+        "country": "Scotland",
+        "lat": 57.5954797,
+        "lng": -4.4284337,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Celtic FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Ross County FC",
+        "city": "Dingwall",
+        "country": "Scotland",
+        "lat": 57.5954797,
+        "lng": -4.4284337,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Burton Albion",
+        "city": "Burton on Trent",
+        "country": "England",
+        "lat": 52.802742,
+        "lng": -1.629917,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Hull City",
+        "city": "Hull",
+        "country": "England",
+        "lat": 53.7623863,
+        "lng": -0.3301214,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC St. Pauli",
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.5501721,
+        "lng": 10.0013165,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Hibernian FC",
+        "city": "Edinburgh",
+        "country": "Scotland",
+        "lat": 55.9533456,
+        "lng": -3.1883749,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jackson_Irvine"
+  },
+  {
+    "id": "jacob-italiano",
+    "name": "Jacob Italiano",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Australian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Perth Glory",
+        "city": "Perth",
+        "country": "Australia",
+        "lat": -31.9558967,
+        "lng": 115.8605784,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Borussia Mönchengladbach II",
+        "city": "Mönchengladbach",
+        "country": "Germany",
+        "lat": 51.1947131,
+        "lng": 6.4353792,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Perth Glory",
+        "city": "Perth",
+        "country": "Australia",
+        "lat": -31.9558967,
+        "lng": 115.8605784,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Borussia Mönchengladbach II",
+        "city": "Mönchengladbach",
+        "country": "Germany",
+        "lat": 51.1947131,
+        "lng": 6.4353792,
+        "fromYear": 2019,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Grazer AK 1902",
+        "city": "Graz",
+        "country": "Austria",
+        "lat": 47.0708678,
+        "lng": 15.4382786,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacob_Italiano"
+  },
+  {
+    "id": "jason-geria",
+    "name": "Jason Geria",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Australian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Melbourne Victory",
+        "city": "Melbourne",
+        "country": "Australia",
+        "lat": -37.8142454,
+        "lng": 144.9631732,
+        "fromYear": 2012,
+        "toYear": 2018
+      },
+      {
+        "clubName": "JEF United Chiba",
+        "city": "Chiba, Chiba",
+        "country": "Japan",
+        "lat": 35.6070629,
+        "lng": 140.1062653,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Perth Glory",
+        "city": "Perth",
+        "country": "Australia",
+        "lat": -31.9558967,
+        "lng": 115.8605784,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Melbourne Victory",
+        "city": "Melbourne",
+        "country": "Australia",
+        "lat": -37.8142454,
+        "lng": 144.9631732,
+        "fromYear": 2021,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Albirex Niigata",
+        "city": "Niigata, Niigata",
+        "country": "Japan",
+        "lat": 37.9163757,
+        "lng": 139.0365062,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jason_Geria"
+  },
+  {
+    "id": "jordan-bos",
+    "name": "Jordan Bos",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Australian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Melbourne City FC",
+        "city": "Melbourne",
+        "country": "Australia",
+        "lat": -37.8142454,
+        "lng": 144.9631732,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "KVC Westerlo",
+        "city": "Westerlo",
+        "country": "Belgium",
+        "lat": 51.086694,
+        "lng": 4.9168675,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Feyenoord Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jordan_Bos"
+  },
+  {
+    "id": "kai-trewin",
+    "name": "Kai Trewin",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Australian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Brisbane Roar",
+        "city": "Brisbane",
+        "country": "Australia",
+        "lat": -27.4689623,
+        "lng": 153.0235009,
+        "fromYear": 2019,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Melbourne City FC",
+        "city": "Melbourne",
+        "country": "Australia",
+        "lat": -37.8142454,
+        "lng": 144.9631732,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "New York City FC",
+        "city": "New York City, New York",
+        "country": "United States",
+        "lat": 40.7127281,
+        "lng": -74.0060152,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kai_Trewin"
+  },
+  {
+    "id": "lucas-herrington",
+    "name": "Lucas Herrington",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Australian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Brisbane Roar",
+        "city": "Brisbane",
+        "country": "Australia",
+        "lat": -27.4689623,
+        "lng": 153.0235009,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Colorado Rapids",
+        "city": "Commerce City, Colorado",
+        "country": "United States",
+        "lat": 39.8083196,
+        "lng": -104.9338675,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Lucas_Herrington"
+  },
+  {
+    "id": "mathew-leckie",
+    "name": "Mathew Leckie",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Australian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Adelaide United",
+        "city": "Adelaide",
+        "country": "Australia",
+        "lat": -34.9281805,
+        "lng": 138.5999312,
+        "fromYear": 2009,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Borussia Mönchengladbach",
+        "city": "Mönchengladbach",
+        "country": "Germany",
+        "lat": 51.1947131,
+        "lng": 6.4353792,
+        "fromYear": 2011,
+        "toYear": 2012
+      },
+      {
+        "clubName": "FSV Frankfurt",
+        "city": "Frankfurt (Main)",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Borussia Mönchengladbach",
+        "city": "Mönchengladbach",
+        "country": "Germany",
+        "lat": 51.1947131,
+        "lng": 6.4353792,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "FC Ingolstadt 04",
+        "city": "Ingolstadt",
+        "country": "Germany",
+        "lat": 48.7630165,
+        "lng": 11.4250395,
+        "fromYear": 2014,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Hertha BSC",
+        "city": "Berlin",
+        "country": "Germany",
+        "lat": 52.5173885,
+        "lng": 13.3951309,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Melbourne City FC",
+        "city": "Melbourne",
+        "country": "Australia",
+        "lat": -37.8142454,
+        "lng": 144.9631732,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mathew_Leckie"
+  },
+  {
+    "id": "mathew-ryan",
+    "name": "Mathew Ryan",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Australian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Blacktown City FC",
+        "city": "Blacktown, New South Wales",
+        "country": "Australia",
+        "lat": -33.7401885,
+        "lng": 150.8648355,
+        "fromYear": 2009,
+        "toYear": 2009
+      },
+      {
+        "clubName": "Central Coast Mariners",
+        "city": "Gosford",
+        "country": "Australia",
+        "lat": -33.4240979,
+        "lng": 151.3411475,
+        "fromYear": 2009,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Blacktown City FC",
+        "city": "Blacktown, New South Wales",
+        "country": "Australia",
+        "lat": -33.7401885,
+        "lng": 150.8648355,
+        "fromYear": 2010,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Central Coast Mariners",
+        "city": "Gosford",
+        "country": "Australia",
+        "lat": -33.4240979,
+        "lng": 151.3411475,
+        "fromYear": 2010,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Club Brugge KV",
+        "city": "Brugge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Valencia CF",
+        "city": "Valencia",
+        "country": "Spain",
+        "lat": 39.4697065,
+        "lng": -0.3763353,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "KRC Genk",
+        "city": "Genk",
+        "country": "Belgium",
+        "lat": 50.9654864,
+        "lng": 5.5001456,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Valencia CF",
+        "city": "Valencia",
+        "country": "Spain",
+        "lat": 39.4697065,
+        "lng": -0.3763353,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Real Sociedad",
+        "city": "Donostia-San Sebastián (Gipuzkoa)",
+        "country": "Spain",
+        "lat": 43.3224219,
+        "lng": -1.9838889,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Copenhagen",
+        "city": "København Ø.",
+        "country": "Denmark",
+        "lat": 55.6428043,
+        "lng": 12.5549822,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "AZ Alkmaar",
+        "city": "Alkmaar",
+        "country": "Netherlands",
+        "lat": 52.6008538,
+        "lng": 4.8170994,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "RC Lens",
+        "city": "Avion",
+        "country": "France",
+        "lat": 50.4126128,
+        "lng": 2.8343891,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Levante UD",
+        "city": "Valencia",
+        "country": "Spain",
+        "lat": 39.4697065,
+        "lng": -0.3763353,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mathew_Ryan"
+  },
+  {
+    "id": "milos-degenek",
+    "name": "Milos Degenek",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Australian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "VfB Stuttgart II",
+        "city": "Stuttgart",
+        "country": "Germany",
+        "lat": 48.7784485,
+        "lng": 9.1800132,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "TSV 1860 Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Yokohama F. Marinos",
+        "city": "Yokohama, Kanagawa",
+        "country": "Japan",
+        "lat": 35.4503381,
+        "lng": 139.6343802,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Red Star Belgrade",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "lat": 44.8153318,
+        "lng": 20.4456588,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Al-Hilal SFC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Red Star Belgrade",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "lat": 44.8153318,
+        "lng": 20.4456588,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Al-Hilal SFC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Red Star Belgrade",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "lat": 44.8153318,
+        "lng": 20.4456588,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Columbus Crew",
+        "city": "Columbus",
+        "country": "United States",
+        "lat": 39.9622601,
+        "lng": -83.0007065,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Red Star Belgrade",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "lat": 44.8153318,
+        "lng": 20.4456588,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FK TSC Backa Topola",
+        "city": "Bačka Topola",
+        "country": "Serbia",
+        "lat": 45.8121657,
+        "lng": 19.6304705,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "APOEL Nicosia",
+        "city": "Nikosia",
+        "country": "Cyprus",
+        "lat": 35.1746503,
+        "lng": 33.3638783,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Milos_Degenek"
+  },
+  {
+    "id": "mohamed-toure",
+    "name": "Mohamed Touré",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Australian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Adelaide United",
+        "city": "Adelaide",
+        "country": "Australia",
+        "lat": -34.9281805,
+        "lng": 138.5999312,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Stade Reims B",
+        "city": "Reims",
+        "country": "France",
+        "lat": 49.2577886,
+        "lng": 4.031926,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Paris FC",
+        "city": "Orly",
+        "country": "France",
+        "lat": 48.7431683,
+        "lng": 2.402391,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Stade Reims B",
+        "city": "Reims",
+        "country": "France",
+        "lat": 49.2577886,
+        "lng": 4.031926,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Randers FC",
+        "city": "Randers",
+        "country": "Denmark",
+        "lat": 56.4355428,
+        "lng": 10.0425957,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Norwich City",
+        "city": "Norwich",
+        "country": "England",
+        "lat": 52.6285576,
+        "lng": 1.2923954,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Tour%C3%A9"
+  },
+  {
+    "id": "nestory-irankunda",
+    "name": "Nestory Irankunda",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Australian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Adelaide United",
+        "city": "Adelaide",
+        "country": "Australia",
+        "lat": -34.9281805,
+        "lng": 138.5999312,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Bayern Munich II",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Grasshopper Club Zurich",
+        "city": "Niederhasli",
+        "country": "Switzerland",
+        "lat": 47.4812949,
+        "lng": 8.4858049,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Bayern Munich II",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Watford FC",
+        "city": "Watford",
+        "country": "England",
+        "lat": 51.6553875,
+        "lng": -0.3957425,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nestory_Irankunda"
+  },
+  {
+    "id": "nishan-velupillay",
+    "name": "Nishan Velupillay",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Australian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Bentleigh Greens SC",
+        "city": "Melbourne, Victoria",
+        "country": "Australia",
+        "lat": -37.8142454,
+        "lng": 144.9631732,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Melbourne Victory",
+        "city": "Melbourne",
+        "country": "Australia",
+        "lat": -37.8142454,
+        "lng": 144.9631732,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nishan_Velupillay"
+  },
+  {
+    "id": "patrick-beach",
+    "name": "Patrick Beach",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Australian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Melbourne City FC",
+        "city": "Melbourne",
+        "country": "Australia",
+        "lat": -37.8142454,
+        "lng": 144.9631732,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Patrick_Beach"
+  },
+  {
+    "id": "paul-izzo",
+    "name": "Paul Izzo",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Australian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Adelaide United",
+        "city": "Adelaide",
+        "country": "Australia",
+        "lat": -34.9281805,
+        "lng": 138.5999312,
+        "fromYear": 2011,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Central Coast Mariners",
+        "city": "Gosford",
+        "country": "Australia",
+        "lat": -33.4240979,
+        "lng": 151.3411475,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Adelaide United",
+        "city": "Adelaide",
+        "country": "Australia",
+        "lat": -34.9281805,
+        "lng": 138.5999312,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Xanthi FC",
+        "city": "Xanthi",
+        "country": "Greece",
+        "lat": 41.13805,
+        "lng": 24.8864089,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Melbourne Victory",
+        "city": "Melbourne",
+        "country": "Australia",
+        "lat": -37.8142454,
+        "lng": 144.9631732,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Randers FC",
+        "city": "Randers",
+        "country": "Denmark",
+        "lat": 56.4355428,
+        "lng": 10.0425957,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Izzo"
+  },
+  {
+    "id": "paul-okon-engstler",
+    "name": "Paul Okon-Engstler",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Australian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "SL Benfica B",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Sydney FC",
+        "city": "Sydney",
+        "country": "Australia",
+        "lat": -33.8698439,
+        "lng": 151.2082848,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Okon-Engstler"
+  },
+  {
+    "id": "tete-yengi",
+    "name": "Tete Yengi",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Australian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Newcastle United Jets",
+        "city": "Broadmeadow",
+        "country": "Australia",
+        "lat": -32.9225,
+        "lng": 151.7302778,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Ipswich Town",
+        "city": "Ipswich",
+        "country": "England",
+        "lat": 52.0579324,
+        "lng": 1.1528095,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Vaasan Palloseura",
+        "city": "Vaasa",
+        "country": "Finland",
+        "lat": 63.0957722,
+        "lng": 21.6159187,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Ipswich Town",
+        "city": "Ipswich",
+        "country": "England",
+        "lat": 52.0579324,
+        "lng": 1.1528095,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Northampton Town",
+        "city": "Sixfields Stadium, Northampton",
+        "country": "England",
+        "lat": 52.2352633,
+        "lng": -0.9335741,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Ipswich Town",
+        "city": "Ipswich",
+        "country": "England",
+        "lat": 52.0579324,
+        "lng": 1.1528095,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Kuopion Palloseura",
+        "city": "Kuopio",
+        "country": "Finland",
+        "lat": 62.8924628,
+        "lng": 27.6783603,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Ipswich Town",
+        "city": "Ipswich",
+        "country": "England",
+        "lat": 52.0579324,
+        "lng": 1.1528095,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Livingston FC",
+        "city": "Livingston",
+        "country": "Scotland",
+        "lat": 55.8829582,
+        "lng": -3.5175773,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Machida Zelvia",
+        "city": "Machida, Tokio",
+        "country": "Japan",
+        "lat": 35.5466803,
+        "lng": 139.4386999,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Livingston FC",
+        "city": "Livingston",
+        "country": "Scotland",
+        "lat": 55.8829582,
+        "lng": -3.5175773,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tete_Yengi"
+  }
+]

@@ -1,0 +1,1520 @@
+[
+  {
+    "id": "bart-verbruggen",
+    "name": "Bart Verbruggen",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Dutch",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "RSC Anderlecht",
+        "city": "Anderlecht (Brüssel)",
+        "country": "Belgium",
+        "lat": 50.841868,
+        "lng": 4.3375643,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Bart_Verbruggen"
+  },
+  {
+    "id": "brian-brobbey",
+    "name": "Brian Brobbey",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Dutch",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Ajax Amsterdam",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "lat": 52.3730796,
+        "lng": 4.8924534,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Ajax Amsterdam",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "lat": 52.3730796,
+        "lng": 4.8924534,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Sunderland AFC",
+        "city": "Sunderland",
+        "country": "England",
+        "lat": 54.9058512,
+        "lng": -1.3828727,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_Brobbey"
+  },
+  {
+    "id": "cody-gakpo",
+    "name": "Cody Gakpo",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Dutch",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2018,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Liverpool FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Cody_Gakpo"
+  },
+  {
+    "id": "crysencio-summerville",
+    "name": "Crysencio Summerville",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Dutch",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "FC Dordrecht",
+        "city": "Dordrecht",
+        "country": "Netherlands",
+        "lat": 51.7689546,
+        "lng": 4.6867891,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "ADO Den Haag",
+        "city": "Den Haag",
+        "country": "Netherlands",
+        "lat": 52.0799838,
+        "lng": 4.3113461,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Leeds United",
+        "city": "Leeds",
+        "country": "England",
+        "lat": 53.7974185,
+        "lng": -1.5437941,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "West Ham United",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Crysencio_Summerville"
+  },
+  {
+    "id": "denzel-dumfries",
+    "name": "Denzel Dumfries",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Dutch",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Sparta Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "SC Heerenveen",
+        "city": "Heerenveen",
+        "country": "Netherlands",
+        "lat": 52.9984742,
+        "lng": 5.9231488,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Inter Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2021,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Denzel_Dumfries"
+  },
+  {
+    "id": "donyell-malen",
+    "name": "Donyell Malen",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Dutch",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2021,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Aston Villa",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Aston Villa",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Donyell_Malen"
+  },
+  {
+    "id": "frenkie-de-jong",
+    "name": "Frenkie de Jong",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Dutch",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Willem II Tilburg",
+        "city": "Tilburg",
+        "country": "Netherlands",
+        "lat": 51.5856185,
+        "lng": 5.0660616,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Ajax Amsterdam",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "lat": 52.3730796,
+        "lng": 4.8924534,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2019,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Frenkie_de_Jong"
+  },
+  {
+    "id": "guus-til",
+    "name": "Guus Til",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Dutch",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "AZ Alkmaar",
+        "city": "Alkmaar",
+        "country": "Netherlands",
+        "lat": 52.6008538,
+        "lng": 4.8170994,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Spartak Moscow",
+        "city": "Moskau",
+        "country": "Russia",
+        "lat": 55.625578,
+        "lng": 37.6063916,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "SC Freiburg",
+        "city": "Freiburg im Breisgau",
+        "country": "Germany",
+        "lat": 47.9960901,
+        "lng": 7.8494005,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Feyenoord Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Spartak Moscow",
+        "city": "Moskau",
+        "country": "Russia",
+        "lat": 55.625578,
+        "lng": 37.6063916,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Spartak Moscow",
+        "city": "Moskau",
+        "country": "Russia",
+        "lat": 55.625578,
+        "lng": 37.6063916,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Guus_Til"
+  },
+  {
+    "id": "jan-paul-van-hecke",
+    "name": "Jan Paul van Hecke",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Dutch",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "VV GOES",
+        "city": "Goes",
+        "country": "Netherlands",
+        "lat": 51.5031033,
+        "lng": 3.8897596,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "NAC Breda",
+        "city": "Breda",
+        "country": "Netherlands",
+        "lat": 51.5887845,
+        "lng": 4.7760237,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "SC Heerenveen",
+        "city": "Heerenveen",
+        "country": "Netherlands",
+        "lat": 52.9984742,
+        "lng": 5.9231488,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Blackburn Rovers",
+        "city": "Blackburn, Lancashire",
+        "country": "England",
+        "lat": 53.749326,
+        "lng": -2.4840566,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2022,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Tottenham Hotspur",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jan_Paul_van_Hecke"
+  },
+  {
+    "id": "jorrel-hato",
+    "name": "Jorrel Hato",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Dutch",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Ajax Amsterdam",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "lat": 52.3730796,
+        "lng": 4.8924534,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jorrel_Hato"
+  },
+  {
+    "id": "justin-kluivert",
+    "name": "Justin Kluivert",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Dutch",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Ajax Amsterdam",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "lat": 52.3730796,
+        "lng": 4.8924534,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "OGC Nice",
+        "city": "Nice",
+        "country": "France",
+        "lat": 43.7009358,
+        "lng": 7.2683912,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Valencia CF",
+        "city": "Valencia",
+        "country": "Spain",
+        "lat": 39.4697065,
+        "lng": -0.3763353,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "AFC Bournemouth",
+        "city": "Bournemouth",
+        "country": "England",
+        "lat": 50.7446718,
+        "lng": -1.8579514,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Justin_Kluivert"
+  },
+  {
+    "id": "lutsharel-geertruida",
+    "name": "Lutsharel Geertruida",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Dutch",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Feyenoord Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2018,
+        "toYear": 2024
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Sunderland AFC",
+        "city": "Sunderland",
+        "country": "England",
+        "lat": 54.9058512,
+        "lng": -1.3828727,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Lutsharel_Geertruida"
+  },
+  {
+    "id": "mark-flekken",
+    "name": "Mark Flekken",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Dutch",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Alemannia Aachen",
+        "city": "Aachen",
+        "country": "Germany",
+        "lat": 50.776351,
+        "lng": 6.083862,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "SpVgg Greuther Fürth",
+        "city": "Fürth",
+        "country": "Germany",
+        "lat": 49.4885711,
+        "lng": 10.9587203,
+        "fromYear": 2013,
+        "toYear": 2016
+      },
+      {
+        "clubName": "MSV Duisburg",
+        "city": "Duisburg",
+        "country": "Germany",
+        "lat": 51.434999,
+        "lng": 6.759562,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "SC Freiburg",
+        "city": "Freiburg im Breisgau",
+        "country": "Germany",
+        "lat": 47.9960901,
+        "lng": 7.8494005,
+        "fromYear": 2018,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Brentford FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Bayer 04 Leverkusen",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "lat": 51.0324743,
+        "lng": 6.9881194,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mark_Flekken"
+  },
+  {
+    "id": "marten-de-roon",
+    "name": "Marten de Roon",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Dutch",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Sparta Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2010,
+        "toYear": 2012
+      },
+      {
+        "clubName": "SC Heerenveen",
+        "city": "Heerenveen",
+        "country": "Netherlands",
+        "lat": 52.9984742,
+        "lng": 5.9231488,
+        "fromYear": 2012,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Atalanta BC",
+        "city": "Bergamo",
+        "country": "Italy",
+        "lat": 45.7566557,
+        "lng": 9.7542192,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Middlesbrough FC",
+        "city": "Middlesbrough",
+        "country": "England",
+        "lat": 54.5760419,
+        "lng": -1.2344047,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Atalanta BC",
+        "city": "Bergamo",
+        "country": "Italy",
+        "lat": 45.7566557,
+        "lng": 9.7542192,
+        "fromYear": 2017,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marten_de_Roon"
+  },
+  {
+    "id": "mats-wieffer",
+    "name": "Mats Wieffer",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Dutch",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Excelsior Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Feyenoord Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mats_Wieffer"
+  },
+  {
+    "id": "memphis-depay",
+    "name": "Memphis Depay",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Dutch",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2012,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Olympique Lyon",
+        "city": "Décines-Charpieu",
+        "country": "France",
+        "lat": 45.773606,
+        "lng": 4.9633314,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Atlético de Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Sport Club Corinthians Paulista",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Memphis_Depay"
+  },
+  {
+    "id": "micky-van-de-ven",
+    "name": "Micky van de Ven",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Dutch",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Volendam",
+        "city": "Volendam",
+        "country": "Netherlands",
+        "lat": 52.4963759,
+        "lng": 5.0682736,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "VfL Wolfsburg",
+        "city": "Wolfsburg",
+        "country": "Germany",
+        "lat": 52.4205588,
+        "lng": 10.7861682,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Tottenham Hotspur",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Micky_van_de_Ven"
+  },
+  {
+    "id": "nathan-ake",
+    "name": "Nathan Aké",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Dutch",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Reading FC",
+        "city": "Reading",
+        "country": "England",
+        "lat": 51.4564242,
+        "lng": -0.9700664,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Watford FC",
+        "city": "Watford",
+        "country": "England",
+        "lat": 51.6553875,
+        "lng": -0.3957425,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "AFC Bournemouth",
+        "city": "Bournemouth",
+        "country": "England",
+        "lat": 50.7446718,
+        "lng": -1.8579514,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "AFC Bournemouth",
+        "city": "Bournemouth",
+        "country": "England",
+        "lat": 50.7446718,
+        "lng": -1.8579514,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2020,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Fenerbahce",
+        "city": "Kadıköy / İstanbul",
+        "country": "Türkiye",
+        "lat": 40.9912028,
+        "lng": 29.0401521,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nathan_Ak%C3%A9"
+  },
+  {
+    "id": "noa-lang",
+    "name": "Noa Lang",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Dutch",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "RSV HION Rotterdam (- 2010)",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2005,
+        "toYear": 2005
+      },
+      {
+        "clubName": "Ajax Amsterdam",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "lat": 52.3730796,
+        "lng": 4.8924534,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Twente Enschede",
+        "city": "Enschede",
+        "country": "Netherlands",
+        "lat": 52.2209855,
+        "lng": 6.8940537,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Ajax Amsterdam",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "lat": 52.3730796,
+        "lng": 4.8924534,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Club Brugge KV",
+        "city": "Brugge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Ajax Amsterdam",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "lat": 52.3730796,
+        "lng": 4.8924534,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "SSC Napoli",
+        "city": "Napoli",
+        "country": "Italy",
+        "lat": 40.8358846,
+        "lng": 14.2487679,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Galatasaray",
+        "city": "Sarıyer / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.1054207,
+        "lng": 29.006187,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "SSC Napoli",
+        "city": "Napoli",
+        "country": "Italy",
+        "lat": 40.8358846,
+        "lng": 14.2487679,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Noa_Lang"
+  },
+  {
+    "id": "quinten-timber",
+    "name": "Quinten Timber",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Dutch",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Utrecht",
+        "city": "Utrecht",
+        "country": "Netherlands",
+        "lat": 52.0907006,
+        "lng": 5.1215634,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Feyenoord Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2022,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Olympique Marseille",
+        "city": "Marseille",
+        "country": "France",
+        "lat": 43.2963986,
+        "lng": 5.3777888,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Quinten_Timber"
+  },
+  {
+    "id": "robin-roefs",
+    "name": "Robin Roefs",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Dutch",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "NEC Nijmegen",
+        "city": "Nijmegen",
+        "country": "Netherlands",
+        "lat": 51.8474946,
+        "lng": 5.8637771,
+        "fromYear": 2021,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Sunderland AFC",
+        "city": "Sunderland",
+        "country": "England",
+        "lat": 54.9058512,
+        "lng": -1.3828727,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Robin_Roefs"
+  },
+  {
+    "id": "ryan-gravenberch",
+    "name": "Ryan Gravenberch",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Dutch",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Ajax Amsterdam",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "lat": 52.3730796,
+        "lng": 4.8924534,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Liverpool FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ryan_Gravenberch"
+  },
+  {
+    "id": "teun-koopmeiners",
+    "name": "Teun Koopmeiners",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Dutch",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "AZ Alkmaar",
+        "city": "Alkmaar",
+        "country": "Netherlands",
+        "lat": 52.6008538,
+        "lng": 4.8170994,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Atalanta BC",
+        "city": "Bergamo",
+        "country": "Italy",
+        "lat": 45.7566557,
+        "lng": 9.7542192,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Juventus FC",
+        "city": "Torino",
+        "country": "Italy",
+        "lat": 45.0677551,
+        "lng": 7.6824892,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Teun_Koopmeiners"
+  },
+  {
+    "id": "tijjani-reijnders",
+    "name": "Tijjani Reijnders",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Dutch",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "CSV '28 Zwolle",
+        "city": "Zwolle",
+        "country": "Netherlands",
+        "lat": 52.5089759,
+        "lng": 6.0943765,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "PEC Zwolle",
+        "city": "Zwolle",
+        "country": "Netherlands",
+        "lat": 52.5089759,
+        "lng": 6.0943765,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "AZ Alkmaar",
+        "city": "Alkmaar",
+        "country": "Netherlands",
+        "lat": 52.6008538,
+        "lng": 4.8170994,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "RKC Waalwijk",
+        "city": "Waalwijk",
+        "country": "Netherlands",
+        "lat": 51.6873372,
+        "lng": 5.0173079,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "AZ Alkmaar",
+        "city": "Alkmaar",
+        "country": "Netherlands",
+        "lat": 52.6008538,
+        "lng": 4.8170994,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "AC Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tijjani_Reijnders"
+  },
+  {
+    "id": "virgil-van-dijk",
+    "name": "Virgil van Dijk",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Dutch",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Groningen",
+        "city": "Groningen",
+        "country": "Netherlands",
+        "lat": 53.2190652,
+        "lng": 6.5680077,
+        "fromYear": 2011,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Celtic FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Southampton FC",
+        "city": "Southampton",
+        "country": "England",
+        "lat": 50.9025349,
+        "lng": -1.404189,
+        "fromYear": 2015,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Liverpool FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2018,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Virgil_van_Dijk"
+  },
+  {
+    "id": "wout-weghorst",
+    "name": "Wout Weghorst",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Dutch",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "RKSV NEO Borne",
+        "city": "Borne",
+        "country": "Netherlands",
+        "lat": 52.3018287,
+        "lng": 6.7502395,
+        "fromYear": 2008,
+        "toYear": 2010
+      },
+      {
+        "clubName": "DETO Twenterand Vriezenveen",
+        "city": "Vriezenveen",
+        "country": "Netherlands",
+        "lat": 52.4086697,
+        "lng": 6.6148049,
+        "fromYear": 2010,
+        "toYear": 2011
+      },
+      {
+        "clubName": "FC Emmen",
+        "city": "Emmen",
+        "country": "Netherlands",
+        "lat": 52.7528662,
+        "lng": 6.9525135,
+        "fromYear": 2012,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Heracles Almelo",
+        "city": "Almelo",
+        "country": "Netherlands",
+        "lat": 52.3563585,
+        "lng": 6.6636219,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "AZ Alkmaar",
+        "city": "Alkmaar",
+        "country": "Netherlands",
+        "lat": 52.6008538,
+        "lng": 4.8170994,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "VfL Wolfsburg",
+        "city": "Wolfsburg",
+        "country": "Germany",
+        "lat": 52.4205588,
+        "lng": 10.7861682,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Burnley FC",
+        "city": "Burnley",
+        "country": "England",
+        "lat": 53.7907262,
+        "lng": -2.2439196,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Besiktas JK",
+        "city": "Beşiktaş / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.0670098,
+        "lng": 29.0421066,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Burnley FC",
+        "city": "Burnley",
+        "country": "England",
+        "lat": 53.7907262,
+        "lng": -2.2439196,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Burnley FC",
+        "city": "Burnley",
+        "country": "England",
+        "lat": 53.7907262,
+        "lng": -2.2439196,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Ajax Amsterdam",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "lat": 52.3730796,
+        "lng": 4.8924534,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "FC Twente Enschede",
+        "city": "Enschede",
+        "country": "Netherlands",
+        "lat": 52.2209855,
+        "lng": 6.8940537,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Wout_Weghorst"
+  }
+]

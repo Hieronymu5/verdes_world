@@ -1,0 +1,1547 @@
+[
+  {
+    "id": "alex-sandro",
+    "name": "Alex Sandro",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Brazilian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Club Athletico Paranaense",
+        "city": "Curitiba",
+        "country": "Brazil",
+        "lat": -25.4295963,
+        "lng": -49.2712724,
+        "fromYear": 2008,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Club Deportivo Maldonado",
+        "city": "Maldonado",
+        "country": "Uruguay",
+        "lat": -34.9087162,
+        "lng": -54.9582718,
+        "fromYear": 2010,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Santos FC",
+        "city": "Santos",
+        "country": "Brazil",
+        "lat": -23.9609448,
+        "lng": -46.3166316,
+        "fromYear": 2010,
+        "toYear": 2011
+      },
+      {
+        "clubName": "FC Porto",
+        "city": "Porto",
+        "country": "Portugal",
+        "lat": 41.1502195,
+        "lng": -8.6103497,
+        "fromYear": 2011,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Club Deportivo Maldonado",
+        "city": "Maldonado",
+        "country": "Uruguay",
+        "lat": -34.9087162,
+        "lng": -54.9582718,
+        "fromYear": 2011,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Juventus FC",
+        "city": "Torino",
+        "country": "Italy",
+        "lat": 45.0677551,
+        "lng": 7.6824892,
+        "fromYear": 2015,
+        "toYear": 2024
+      },
+      {
+        "clubName": "CR Flamengo",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_Sandro"
+  },
+  {
+    "id": "alisson",
+    "name": "Alisson",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Brazilian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Sport Club Internacional",
+        "city": "Porto Alegre",
+        "country": "Brazil",
+        "lat": -30.0324999,
+        "lng": -51.2303767,
+        "fromYear": 2013,
+        "toYear": 2016
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Liverpool FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2018,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Alisson"
+  },
+  {
+    "id": "bremer",
+    "name": "Bremer",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Brazilian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Clube Atlético Mineiro",
+        "city": "Belo Horizonte",
+        "country": "Brazil",
+        "lat": -19.9227318,
+        "lng": -43.9450948,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Torino FC",
+        "city": "Torino",
+        "country": "Italy",
+        "lat": 45.0677551,
+        "lng": 7.6824892,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Juventus FC",
+        "city": "Torino",
+        "country": "Italy",
+        "lat": 45.0677551,
+        "lng": 7.6824892,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Bremer"
+  },
+  {
+    "id": "bruno-guimaraes",
+    "name": "Bruno Guimarães",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Brazilian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Club Athletico Paranaense",
+        "city": "Curitiba",
+        "country": "Brazil",
+        "lat": -25.4295963,
+        "lng": -49.2712724,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Olympique Lyon",
+        "city": "Décines-Charpieu",
+        "country": "France",
+        "lat": 45.773606,
+        "lng": 4.9633314,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Newcastle United",
+        "city": "Newcastle upon Tyne",
+        "country": "England",
+        "lat": 54.9738474,
+        "lng": -1.6131572,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Bruno_Guimar%C3%A3es"
+  },
+  {
+    "id": "casemiro",
+    "name": "Casemiro",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Brazilian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "São Paulo Futebol Clube",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824,
+        "fromYear": 2010,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Real Madrid Castilla",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "São Paulo Futebol Clube",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "FC Porto",
+        "city": "Porto",
+        "country": "Portugal",
+        "lat": 41.1502195,
+        "lng": -8.6103497,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2015,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Casemiro"
+  },
+  {
+    "id": "danilo",
+    "name": "Danilo",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Brazilian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "América Futebol Clube (MG)",
+        "city": "Belo Horizonte",
+        "country": "Brazil",
+        "lat": -19.9227318,
+        "lng": -43.9450948,
+        "fromYear": 2008,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Santos FC",
+        "city": "Santos",
+        "country": "Brazil",
+        "lat": -23.9609448,
+        "lng": -46.3166316,
+        "fromYear": 2010,
+        "toYear": 2011
+      },
+      {
+        "clubName": "FC Porto",
+        "city": "Porto",
+        "country": "Portugal",
+        "lat": 41.1502195,
+        "lng": -8.6103497,
+        "fromYear": 2011,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Santos FC",
+        "city": "Santos",
+        "country": "Brazil",
+        "lat": -23.9609448,
+        "lng": -46.3166316,
+        "fromYear": 2011,
+        "toYear": 2011
+      },
+      {
+        "clubName": "FC Porto",
+        "city": "Porto",
+        "country": "Portugal",
+        "lat": 41.1502195,
+        "lng": -8.6103497,
+        "fromYear": 2011,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Juventus FC",
+        "city": "Torino",
+        "country": "Italy",
+        "lat": 45.0677551,
+        "lng": 7.6824892,
+        "fromYear": 2019,
+        "toYear": 2025
+      },
+      {
+        "clubName": "CR Flamengo",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Danilo"
+  },
+  {
+    "id": "danilo-808509",
+    "name": "Danilo",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Brazilian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Pituaçu Futebol Clube Cajazeiras (BA) (-2021)",
+        "city": "Salvador",
+        "country": "Brazil",
+        "lat": -12.9822499,
+        "lng": -38.4812772,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Sociedade Esportiva Palmeiras",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Botafogo de Futebol e Regatas",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Danilo"
+  },
+  {
+    "id": "douglas-santos",
+    "name": "Douglas Santos",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Brazilian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Clube Náutico Capibaribe",
+        "city": "Recife",
+        "country": "Brazil",
+        "lat": -8.0584933,
+        "lng": -34.8848193,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Udinese Calcio",
+        "city": "Udine",
+        "country": "Italy",
+        "lat": 46.0634632,
+        "lng": 13.2358377,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Granada CF",
+        "city": "Granada",
+        "country": "Spain",
+        "lat": 37.1734995,
+        "lng": -3.5995337,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Udinese Calcio",
+        "city": "Udine",
+        "country": "Italy",
+        "lat": 46.0634632,
+        "lng": 13.2358377,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Clube Atlético Mineiro",
+        "city": "Belo Horizonte",
+        "country": "Brazil",
+        "lat": -19.9227318,
+        "lng": -43.9450948,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Udinese Calcio",
+        "city": "Udine",
+        "country": "Italy",
+        "lat": 46.0634632,
+        "lng": 13.2358377,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Clube Atlético Mineiro",
+        "city": "Belo Horizonte",
+        "country": "Brazil",
+        "lat": -19.9227318,
+        "lng": -43.9450948,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Hamburger SV",
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.5501721,
+        "lng": 10.0013165,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Zenit St. Petersburg",
+        "city": "Sankt Petersburg",
+        "country": "Russia",
+        "lat": 59.9606739,
+        "lng": 30.1586551,
+        "fromYear": 2019,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Douglas_Santos"
+  },
+  {
+    "id": "ederson",
+    "name": "Ederson",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Brazilian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Ribeirão 1968 FC",
+        "city": "Ribeirão",
+        "country": "Portugal",
+        "lat": 41.3572464,
+        "lng": -8.5589745,
+        "fromYear": 2011,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Rio Ave FC",
+        "city": "Vila do Conde",
+        "country": "Portugal",
+        "lat": 41.3540398,
+        "lng": -8.7435403,
+        "fromYear": 2012,
+        "toYear": 2015
+      },
+      {
+        "clubName": "SL Benfica",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2017,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Fenerbahce",
+        "city": "Kadıköy / İstanbul",
+        "country": "Türkiye",
+        "lat": 40.9912028,
+        "lng": 29.0401521,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ederson"
+  },
+  {
+    "id": "endrick",
+    "name": "Endrick",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Brazilian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Sociedade Esportiva Palmeiras",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Olympique Lyon",
+        "city": "Décines-Charpieu",
+        "country": "France",
+        "lat": 45.773606,
+        "lng": 4.9633314,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Endrick"
+  },
+  {
+    "id": "fabinho",
+    "name": "Fabinho",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Brazilian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Rio Ave FC",
+        "city": "Vila do Conde",
+        "country": "Portugal",
+        "lat": 41.3540398,
+        "lng": -8.7435403,
+        "fromYear": 2012,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Real Madrid Castilla",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Rio Ave FC",
+        "city": "Vila do Conde",
+        "country": "Portugal",
+        "lat": 41.3540398,
+        "lng": -8.7435403,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "AS Monaco",
+        "city": "Monaco",
+        "country": "Monaco",
+        "lat": 43.7309697,
+        "lng": 7.4248152,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Rio Ave FC",
+        "city": "Vila do Conde",
+        "country": "Portugal",
+        "lat": 41.3540398,
+        "lng": -8.7435403,
+        "fromYear": 2015,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Liverpool FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2018,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Ittihad Club",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.5504432,
+        "lng": 39.1742363,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Fabinho"
+  },
+  {
+    "id": "gabriel",
+    "name": "Gabriel",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Brazilian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Avaí FC",
+        "city": "Florianópolis",
+        "country": "Brazil",
+        "lat": -27.5973002,
+        "lng": -48.5496098,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "LOSC Lille",
+        "city": "Camphin-en-Pévèle",
+        "country": "France",
+        "lat": 50.5948763,
+        "lng": 3.2583523,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2020,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Gabriel"
+  },
+  {
+    "id": "gabriel-martinelli",
+    "name": "Gabriel Martinelli",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Brazilian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Ituano Futebol Clube (SP)",
+        "city": "Itu",
+        "country": "Brazil",
+        "lat": -23.2637798,
+        "lng": -47.2998462,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2019,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Gabriel_Martinelli"
+  },
+  {
+    "id": "igor-thiago",
+    "name": "Igor Thiago",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Brazilian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Cruzeiro Esporte Clube",
+        "city": "Belo Horizonte",
+        "country": "Brazil",
+        "lat": -19.9227318,
+        "lng": -43.9450948,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Ludogorets Razgrad",
+        "city": "Razgrad",
+        "country": "Bulgaria",
+        "lat": 43.6394793,
+        "lng": 26.7022408,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Club Brugge KV",
+        "city": "Brugge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Brentford FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Igor_Thiago"
+  },
+  {
+    "id": "lucas-paqueta",
+    "name": "Lucas Paquetá",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Brazilian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "CR Flamengo",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "AC Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Olympique Lyon",
+        "city": "Décines-Charpieu",
+        "country": "France",
+        "lat": 45.773606,
+        "lng": 4.9633314,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "West Ham United",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2022,
+        "toYear": 2026
+      },
+      {
+        "clubName": "CR Flamengo",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Lucas_Paquet%C3%A1"
+  },
+  {
+    "id": "luiz-henrique",
+    "name": "Luiz Henrique",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Brazilian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Fluminense Football Club",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Real Betis Balompié",
+        "city": "Sevilla",
+        "country": "Spain",
+        "lat": 37.3886303,
+        "lng": -5.9953403,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Botafogo de Futebol e Regatas",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Zenit St. Petersburg",
+        "city": "Sankt Petersburg",
+        "country": "Russia",
+        "lat": 59.9606739,
+        "lng": 30.1586551,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Luiz_Henrique"
+  },
+  {
+    "id": "leo-pereira",
+    "name": "Léo Pereira",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Brazilian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Club Athletico Paranaense",
+        "city": "Curitiba",
+        "country": "Brazil",
+        "lat": -25.4295963,
+        "lng": -49.2712724,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Guaratinguetá (SP)",
+        "city": "Guaratinguetá",
+        "country": "Brazil",
+        "lat": -22.8057839,
+        "lng": -45.1908926,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Club Athletico Paranaense",
+        "city": "Curitiba",
+        "country": "Brazil",
+        "lat": -25.4295963,
+        "lng": -49.2712724,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Clube Náutico Capibaribe",
+        "city": "Recife",
+        "country": "Brazil",
+        "lat": -8.0584933,
+        "lng": -34.8848193,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Club Athletico Paranaense",
+        "city": "Curitiba",
+        "country": "Brazil",
+        "lat": -25.4295963,
+        "lng": -49.2712724,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Orlando City SC",
+        "city": "Lake Mary, Florida",
+        "country": "United States",
+        "lat": 28.7562749,
+        "lng": -81.322093,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Club Athletico Paranaense",
+        "city": "Curitiba",
+        "country": "Brazil",
+        "lat": -25.4295963,
+        "lng": -49.2712724,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "CR Flamengo",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2020,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/L%C3%A9o_Pereira"
+  },
+  {
+    "id": "marquinhos",
+    "name": "Marquinhos",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Brazilian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Sport Club Corinthians Paulista",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824,
+        "fromYear": 2012,
+        "toYear": 2012
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Sport Club Corinthians Paulista",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Paris Saint-Germain",
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8534951,
+        "lng": 2.3483915,
+        "fromYear": 2013,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marquinhos"
+  },
+  {
+    "id": "matheus-cunha",
+    "name": "Matheus Cunha",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Brazilian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "FC Sion",
+        "city": "Martigny 1",
+        "country": "Switzerland",
+        "lat": 46.1241773,
+        "lng": 7.1392195,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Hertha BSC",
+        "city": "Berlin",
+        "country": "Germany",
+        "lat": 52.5173885,
+        "lng": 13.3951309,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Atlético de Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Wolverhampton Wanderers",
+        "city": "Wolverhampton",
+        "country": "England",
+        "lat": 52.5847651,
+        "lng": -2.127567,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Atlético de Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Matheus_Cunha"
+  },
+  {
+    "id": "neymar",
+    "name": "Neymar",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Brazilian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Santos FC",
+        "city": "Santos",
+        "country": "Brazil",
+        "lat": -23.9609448,
+        "lng": -46.3166316,
+        "fromYear": 2009,
+        "toYear": 2013
+      },
+      {
+        "clubName": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2013,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Paris Saint-Germain",
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8534951,
+        "lng": 2.3483915,
+        "fromYear": 2017,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Hilal SFC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Santos FC",
+        "city": "Santos",
+        "country": "Brazil",
+        "lat": -23.9609448,
+        "lng": -46.3166316,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Neymar"
+  },
+  {
+    "id": "raphinha",
+    "name": "Raphinha",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Brazilian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Vitória Guimarães SC B",
+        "city": "Guimarães",
+        "country": "Portugal",
+        "lat": 41.4417677,
+        "lng": -8.2955712,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Vitória Guimarães SC",
+        "city": "Guimarães",
+        "country": "Portugal",
+        "lat": 41.4417677,
+        "lng": -8.2955712,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Sporting CP",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Stade Rennais FC",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Leeds United",
+        "city": "Leeds",
+        "country": "England",
+        "lat": 53.7974185,
+        "lng": -1.5437941,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Raphinha"
+  },
+  {
+    "id": "rayan",
+    "name": "Rayan",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Brazilian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Clube de Regatas Vasco da Gama",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2023,
+        "toYear": 2026
+      },
+      {
+        "clubName": "AFC Bournemouth",
+        "city": "Bournemouth",
+        "country": "England",
+        "lat": 50.7446718,
+        "lng": -1.8579514,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Rayan"
+  },
+  {
+    "id": "roger-ibanez",
+    "name": "Roger Ibañez",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Brazilian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Fluminense Football Club",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Atalanta BC",
+        "city": "Bergamo",
+        "country": "Italy",
+        "lat": 45.7566557,
+        "lng": 9.7542192,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Atalanta BC",
+        "city": "Bergamo",
+        "country": "Italy",
+        "lat": 45.7566557,
+        "lng": 9.7542192,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Ahli SFC",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.5504432,
+        "lng": 39.1742363,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Roger_Iba%C3%B1ez"
+  },
+  {
+    "id": "vinicius-junior",
+    "name": "Vinicius Junior",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Brazilian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "CR Flamengo",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2018,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Vinicius_Junior"
+  },
+  {
+    "id": "weverton",
+    "name": "Weverton",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Brazilian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "SC Corinthians B",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824,
+        "fromYear": 2006,
+        "toYear": 2006
+      },
+      {
+        "clubName": "Sport Club Corinthians Paulista",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824,
+        "fromYear": 2006,
+        "toYear": 2007
+      },
+      {
+        "clubName": "Clube do Remo (PA)",
+        "city": "Belém",
+        "country": "Brazil",
+        "lat": -1.45056,
+        "lng": -48.4682453,
+        "fromYear": 2007,
+        "toYear": 2007
+      },
+      {
+        "clubName": "Sport Club Corinthians Paulista",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824,
+        "fromYear": 2007,
+        "toYear": 2009
+      },
+      {
+        "clubName": "Osasco Sporting",
+        "city": "Itápolis",
+        "country": "Brazil",
+        "lat": -21.5958368,
+        "lng": -48.8122696,
+        "fromYear": 2009,
+        "toYear": 2009
+      },
+      {
+        "clubName": "América FC",
+        "city": "Natal",
+        "country": "Brazil",
+        "lat": -5.805398,
+        "lng": -35.2080905,
+        "fromYear": 2009,
+        "toYear": 2009
+      },
+      {
+        "clubName": "Sport Club Corinthians Paulista",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824,
+        "fromYear": 2009,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Botafogo FC",
+        "city": "Ribeirão Preto",
+        "country": "Brazil",
+        "lat": -21.1776315,
+        "lng": -47.8100983,
+        "fromYear": 2010,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Portuguesa",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824,
+        "fromYear": 2010,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Club Athletico Paranaense",
+        "city": "Curitiba",
+        "country": "Brazil",
+        "lat": -25.4295963,
+        "lng": -49.2712724,
+        "fromYear": 2012,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Sociedade Esportiva Palmeiras",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824,
+        "fromYear": 2018,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Grêmio Foot-Ball Porto Alegrense",
+        "city": "Porto Alegre",
+        "country": "Brazil",
+        "lat": -30.0324999,
+        "lng": -51.2303767,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Weverton"
+  },
+  {
+    "id": "ederson-607854",
+    "name": "Éderson",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Brazilian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Cruzeiro Esporte Clube",
+        "city": "Belo Horizonte",
+        "country": "Brazil",
+        "lat": -19.9227318,
+        "lng": -43.9450948,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Sport Club Corinthians Paulista",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Fortaleza Esporte Clube",
+        "city": "Fortaleza, Ceará",
+        "country": "Brazil",
+        "lat": -3.7932167,
+        "lng": -38.5280359,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Sport Club Corinthians Paulista",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "US Salernitana 1919",
+        "city": "Salerno",
+        "country": "Italy",
+        "lat": 40.4194416,
+        "lng": 15.3106085,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Atalanta BC",
+        "city": "Bergamo",
+        "country": "Italy",
+        "lat": 45.7566557,
+        "lng": 9.7542192,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%89derson"
+  }
+]

@@ -2,7 +2,8 @@
   <header class="page-header">
     <div class="header-top">
       @if (player(); as p) {
-        <h1>{{ p.name }}
+        <h1>
+          {{ p.name }}
           <span class="jersey-numbers">
             @for (num of p.jerseyNumbers; track num) {
               <span class="jersey-badge">{{ num }}</span>
@@ -12,7 +13,21 @@
       } @else {
         <h1>Player Not Found</h1>
       }
-      <a routerLink="/players" class="btn-return">Back</a>
+      <div class="header-actions">
+        <button
+          type="button"
+          class="btn-return download-button"
+          (click)="downloadGif()"
+          [disabled]="exportingGif()"
+          aria-label="Download animated career GIF"
+          title="Download animated career GIF"
+        >
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M12 3v11m0 0 4-4m-4 4-4-4M5 17v3h14v-3" />
+          </svg>
+        </button>
+        <a routerLink="/players" class="btn-return">Back</a>
+      </div>
     </div>
 
     @if (player(); as p) {
@@ -30,7 +45,13 @@
   @if (loaded() && player()) {
     <section class="map-section">
       <div class="map-container">
-        <app-world-map [player]="player()" [showPlayerName]="false" [smallDots]="true" [showYearsOnMap]="false" [lastGuessResult]="'correct'"></app-world-map>
+        <app-world-map
+          [player]="player()"
+          [showPlayerName]="true"
+          [smallDots]="true"
+          [showYearsOnMap]="false"
+          [lastGuessResult]="'correct'"
+        ></app-world-map>
       </div>
     </section>
   } @else if (loaded() && !player()) {
@@ -39,5 +60,8 @@
     <p class="status error" role="alert">Error loading player data: {{ error() }}</p>
   } @else {
     <p class="status loading" aria-live="polite">Loading player…</p>
+  }
+  @if (gifExportError()) {
+    <p class="status error" role="alert">Couldn't generate GIF: {{ gifExportError() }}</p>
   }
 </main>

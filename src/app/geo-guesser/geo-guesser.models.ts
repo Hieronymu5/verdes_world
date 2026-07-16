@@ -54,18 +54,17 @@ export interface WorldCupTeam {
   country: string;
   lat: number;
   lng: number;
-  /** Flag colors, used to theme the game map when this team is selected. */
+  /** Flag colors, used to theme the world map when this team is selected. */
   colors: string[];
   clubId: string;
   playerCount: number;
 }
 
-export type GameStatus = 'difficulty' | 'team-select' | 'playing' | 'game-over';
+export type GameStatus = 'difficulty' | 'playing' | 'game-over';
 
 export interface GameState {
   status: GameStatus;
   selectedDifficulty: DifficultyLevel | null;
-  selectedWorldCupTeam: WorldCupTeam | null;
   currentPlayer: Player | null;
   remainingPlayers: Player[];
   allPlayers: Player[];

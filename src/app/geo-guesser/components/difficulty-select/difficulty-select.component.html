@@ -5,15 +5,13 @@
       <span class="globe globe-2">🌎</span>
       <span class="globe globe-3">🌏</span>
     </span>
-    <h1 class="title">
-      Verdes World
-    </h1>
+    <h1 class="title">Verdes World</h1>
   </div>
 
   <nav aria-label="Difficulty selection">
     <ul class="difficulty-list">
       @for (level of difficulties(); track level.id; let i = $index) {
-        <li [class.full-width]="isWorldCup(level)">
+        <li>
           <button
             #difficultyBtn
             [class]="
@@ -21,11 +19,7 @@
             "
             [attr.tabindex]="i === selectedIndex() ? 0 : -1"
             [attr.aria-pressed]="i === selectedIndex()"
-            [attr.aria-label]="
-              isWorldCup(level)
-                ? 'World Cup mode. ' + level.description + '. Choose a national team next.'
-                : 'Start game on ' + level.name + ' difficulty. ' + level.description
-            "
+            [attr.aria-label]="'Start game on ' + level.name + ' difficulty. ' + level.description"
             (focus)="onCardFocus(i)"
             (click)="onCardClick(level, i)"
           >
@@ -40,17 +34,10 @@
                 <span class="stat-icon" aria-hidden="true">💚</span>
                 {{ level.lives }} {{ level.lives === 1 ? 'life' : 'lives' }}
               </span>
-              @if (isWorldCup(level)) {
-                <span class="stat">
-                  <span class="stat-icon" aria-hidden="true">🏆</span>
-                  Pick a team
-                </span>
-              } @else {
-                <span class="stat">
-                  <span class="stat-icon" aria-hidden="true">⚽</span>
-                  {{ level.minGamesPlayed === -1 ? 0 : level.minGamesPlayed }} matches
-                </span>
-              }
+              <span class="stat">
+                <span class="stat-icon" aria-hidden="true">⚽</span>
+                {{ level.minGamesPlayed === -1 ? 0 : level.minGamesPlayed }} matches
+              </span>
             </div>
           </button>
         </li>

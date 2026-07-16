@@ -1,0 +1,1592 @@
+[
+  {
+    "id": "alfie-jones",
+    "name": "Alfie Jones",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Canadian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "St. Mirren FC",
+        "city": "Paisley",
+        "country": "Scotland",
+        "lat": 55.8455828,
+        "lng": -4.4239646,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Gillingham FC",
+        "city": "Gillingham",
+        "country": "England",
+        "lat": 51.3871701,
+        "lng": 0.5461611,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Hull City",
+        "city": "Hull",
+        "country": "England",
+        "lat": 53.7623863,
+        "lng": -0.3301214,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Middlesbrough FC",
+        "city": "Middlesbrough",
+        "country": "England",
+        "lat": 54.5760419,
+        "lng": -1.2344047,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfie_Jones"
+  },
+  {
+    "id": "ali-ahmed",
+    "name": "Ali Ahmed",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Canadian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Whitecaps FC 2",
+        "city": "Vancouver, British Columbia",
+        "country": "Canada",
+        "lat": 49.2608724,
+        "lng": -123.113952,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Vancouver Whitecaps FC",
+        "city": "Vancouver, British Columbia",
+        "country": "Canada",
+        "lat": 49.2608724,
+        "lng": -123.113952,
+        "fromYear": 2022,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Norwich City",
+        "city": "Norwich",
+        "country": "England",
+        "lat": 52.6285576,
+        "lng": 1.2923954,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Ahmed"
+  },
+  {
+    "id": "alistair-johnston",
+    "name": "Alistair Johnston",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Canadian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Aurora FC",
+        "city": "Aurora",
+        "country": "Canada",
+        "lat": 43.99973,
+        "lng": -79.467545,
+        "fromYear": 2006,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Wake Forest Demon Deacons (Wake Forest University)",
+        "city": "Winston-Salem, North Carolina",
+        "country": "United States",
+        "lat": 36.0998131,
+        "lng": -80.2440518,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "CF Montréal",
+        "city": "Montreal, Quebec",
+        "country": "Canada",
+        "lat": 45.5031824,
+        "lng": -73.5698065,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Celtic FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Alistair_Johnston"
+  },
+  {
+    "id": "alphonso-davies",
+    "name": "Alphonso Davies",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Canadian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Whitecaps FC 2",
+        "city": "Vancouver, British Columbia",
+        "country": "Canada",
+        "lat": 49.2608724,
+        "lng": -123.113952,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Vancouver Whitecaps FC",
+        "city": "Vancouver, British Columbia",
+        "country": "Canada",
+        "lat": 49.2608724,
+        "lng": -123.113952,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2019,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Alphonso_Davies"
+  },
+  {
+    "id": "cyle-larin",
+    "name": "Cyle Larin",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Canadian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Orlando City SC",
+        "city": "Lake Mary, Florida",
+        "country": "United States",
+        "lat": 28.7562749,
+        "lng": -81.322093,
+        "fromYear": 2015,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Besiktas JK",
+        "city": "Beşiktaş / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.0670098,
+        "lng": 29.0421066,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Zulte Waregem",
+        "city": "Waregem",
+        "country": "Belgium",
+        "lat": 50.8868222,
+        "lng": 3.4323622,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Besiktas JK",
+        "city": "Beşiktaş / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.0670098,
+        "lng": 29.0421066,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Club Brugge KV",
+        "city": "Brugge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Real Valladolid CF",
+        "city": "Valladolid",
+        "country": "Spain",
+        "lat": 41.6200024,
+        "lng": -4.7259906,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "RCD Mallorca",
+        "city": "Palma de Mallorca",
+        "country": "Spain",
+        "lat": 39.5695818,
+        "lng": 2.6500745,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Club Brugge KV",
+        "city": "Brugge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Feyenoord Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "RCD Mallorca",
+        "city": "Palma de Mallorca",
+        "country": "Spain",
+        "lat": 39.5695818,
+        "lng": 2.6500745,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Southampton FC",
+        "city": "Southampton",
+        "country": "England",
+        "lat": 50.9025349,
+        "lng": -1.404189,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "RCD Mallorca",
+        "city": "Palma de Mallorca",
+        "country": "Spain",
+        "lat": 39.5695818,
+        "lng": 2.6500745,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Cyle_Larin"
+  },
+  {
+    "id": "dayne-st-clair",
+    "name": "Dayne St. Clair",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Canadian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Maryland Terrapins (University of Maryland)",
+        "city": "Baltimore, MD",
+        "country": "United States",
+        "lat": 39.2908816,
+        "lng": -76.610759,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Red Bull New York U-23",
+        "city": "Hanover Township",
+        "country": "United States",
+        "lat": 42.1331668,
+        "lng": -84.536913,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Maryland Terrapins (University of Maryland)",
+        "city": "Baltimore, MD",
+        "country": "United States",
+        "lat": 39.2908816,
+        "lng": -76.610759,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Forward Madison FC",
+        "city": "Madison, Wisconsin",
+        "country": "United States",
+        "lat": 43.07469,
+        "lng": -89.3841663,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Minnesota United FC",
+        "city": "Golden Valley, Minnesota",
+        "country": "United States",
+        "lat": 44.9861176,
+        "lng": -93.3784618,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "San Antonio FC",
+        "city": "San Antonio, Texas",
+        "country": "United States",
+        "lat": 29.4246002,
+        "lng": -98.4951405,
+        "fromYear": 2020,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Inter Miami CF",
+        "city": "Fort Lauderdale, Florida",
+        "country": "United States",
+        "lat": 26.1223084,
+        "lng": -80.1433786,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Dayne_St._Clair"
+  },
+  {
+    "id": "derek-cornelius",
+    "name": "Derek Cornelius",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Canadian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "VfB Lübeck",
+        "city": "Lübeck",
+        "country": "Germany",
+        "lat": 53.866444,
+        "lng": 10.684738,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "VfR Neumünster",
+        "city": "Neumünster",
+        "country": "Germany",
+        "lat": 54.0703296,
+        "lng": 9.9884451,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "FK Javor-Matis Ivanjica",
+        "city": "Ivanjica",
+        "country": "Serbia",
+        "lat": 43.5816675,
+        "lng": 20.2304548,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Vancouver Whitecaps FC",
+        "city": "Vancouver, British Columbia",
+        "country": "Canada",
+        "lat": 49.2608724,
+        "lng": -123.113952,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Panetolikos",
+        "city": "Agrinio",
+        "country": "Greece",
+        "lat": 38.6248275,
+        "lng": 21.4094206,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Vancouver Whitecaps FC",
+        "city": "Vancouver, British Columbia",
+        "country": "Canada",
+        "lat": 49.2608724,
+        "lng": -123.113952,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Malmö FF",
+        "city": "Malmö",
+        "country": "Sweden",
+        "lat": 55.6052931,
+        "lng": 13.0001566,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Olympique Marseille",
+        "city": "Marseille",
+        "country": "France",
+        "lat": 43.2963986,
+        "lng": 5.3777888,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Rangers FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Olympique Marseille",
+        "city": "Marseille",
+        "country": "France",
+        "lat": 43.2963986,
+        "lng": 5.3777888,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Derek_Cornelius"
+  },
+  {
+    "id": "ismael-kone",
+    "name": "Ismaël Koné",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Canadian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "CF Montréal",
+        "city": "Montreal, Quebec",
+        "country": "Canada",
+        "lat": 45.5031824,
+        "lng": -73.5698065,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Watford FC",
+        "city": "Watford",
+        "country": "England",
+        "lat": 51.6553875,
+        "lng": -0.3957425,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Olympique Marseille",
+        "city": "Marseille",
+        "country": "France",
+        "lat": 43.2963986,
+        "lng": 5.3777888,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Stade Rennais FC",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Olympique Marseille",
+        "city": "Marseille",
+        "country": "France",
+        "lat": 43.2963986,
+        "lng": 5.3777888,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "US Sassuolo",
+        "city": "Sassuolo",
+        "country": "Italy",
+        "lat": 44.5409769,
+        "lng": 10.7829023,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Olympique Marseille",
+        "city": "Marseille",
+        "country": "France",
+        "lat": 43.2963986,
+        "lng": 5.3777888,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "US Sassuolo",
+        "city": "Sassuolo",
+        "country": "Italy",
+        "lat": 44.5409769,
+        "lng": 10.7829023,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Isma%C3%ABl_Kon%C3%A9"
+  },
+  {
+    "id": "jacob-shaffelburg",
+    "name": "Jacob Shaffelburg",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Canadian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Toronto FC II",
+        "city": "Toronto, Ontario",
+        "country": "Canada",
+        "lat": 43.6534817,
+        "lng": -79.3839347,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Toronto FC",
+        "city": "Toronto, Ontario",
+        "country": "Canada",
+        "lat": 43.6534817,
+        "lng": -79.3839347,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Los Angeles FC",
+        "city": "Los Angeles, California",
+        "country": "United States",
+        "lat": 34.0536909,
+        "lng": -118.242766,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacob_Shaffelburg"
+  },
+  {
+    "id": "jayden-nelson",
+    "name": "Jayden Nelson",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Canadian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Toronto FC II",
+        "city": "Toronto, Ontario",
+        "country": "Canada",
+        "lat": 43.6534817,
+        "lng": -79.3839347,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Toronto FC",
+        "city": "Toronto, Ontario",
+        "country": "Canada",
+        "lat": 43.6534817,
+        "lng": -79.3839347,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Toronto FC II",
+        "city": "Toronto, Ontario",
+        "country": "Canada",
+        "lat": 43.6534817,
+        "lng": -79.3839347,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Toronto FC",
+        "city": "Toronto, Ontario",
+        "country": "Canada",
+        "lat": 43.6534817,
+        "lng": -79.3839347,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Rosenborg BK",
+        "city": "Trondheim",
+        "country": "Norway",
+        "lat": 63.4304475,
+        "lng": 10.3952118,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "SSV Ulm 1846",
+        "city": "Ulm",
+        "country": "Germany",
+        "lat": 48.3984968,
+        "lng": 9.9912458,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Rosenborg BK",
+        "city": "Trondheim",
+        "country": "Norway",
+        "lat": 63.4304475,
+        "lng": 10.3952118,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Vancouver Whitecaps FC",
+        "city": "Vancouver, British Columbia",
+        "country": "Canada",
+        "lat": 49.2608724,
+        "lng": -123.113952,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "United States",
+        "lat": 30.2711286,
+        "lng": -97.7436995,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jayden_Nelson"
+  },
+  {
+    "id": "joel-waterman",
+    "name": "Joel Waterman",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Canadian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Kitsap Pumas SC",
+        "city": "Bremerton, Washington",
+        "country": "United States",
+        "lat": 47.5653663,
+        "lng": -122.6246836,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Cavalry FC",
+        "city": "Calgary, Alberta",
+        "country": "Canada",
+        "lat": 51.0456064,
+        "lng": -114.057541,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "CF Montréal",
+        "city": "Montreal, Quebec",
+        "country": "Canada",
+        "lat": 45.5031824,
+        "lng": -73.5698065,
+        "fromYear": 2020,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Chicago Fire FC",
+        "city": "Bridgeview",
+        "country": "United States",
+        "lat": 41.7500323,
+        "lng": -87.8042216,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Joel_Waterman"
+  },
+  {
+    "id": "jonathan-david",
+    "name": "Jonathan David",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Canadian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "KAA Gent",
+        "city": "Gent",
+        "country": "Belgium",
+        "lat": 51.0538286,
+        "lng": 3.7250121,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "LOSC Lille",
+        "city": "Camphin-en-Pévèle",
+        "country": "France",
+        "lat": 50.5948763,
+        "lng": 3.2583523,
+        "fromYear": 2020,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Juventus FC",
+        "city": "Torino",
+        "country": "Italy",
+        "lat": 45.0677551,
+        "lng": 7.6824892,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jonathan_David"
+  },
+  {
+    "id": "jonathan-osorio",
+    "name": "Jonathan Osorio",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Canadian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "SC Toronto",
+        "city": "Toronto",
+        "country": "Canada",
+        "lat": 43.6534817,
+        "lng": -79.3839347,
+        "fromYear": 2012,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Toronto FC",
+        "city": "Toronto, Ontario",
+        "country": "Canada",
+        "lat": 43.6534817,
+        "lng": -79.3839347,
+        "fromYear": 2013,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jonathan_Osorio"
+  },
+  {
+    "id": "liam-millar",
+    "name": "Liam Millar",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Canadian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Kilmarnock FC",
+        "city": "Kilmarnock",
+        "country": "Scotland",
+        "lat": 55.6100589,
+        "lng": -4.4964652,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Charlton Athletic",
+        "city": "Charlton, London",
+        "country": "England",
+        "lat": 51.4826053,
+        "lng": 0.0365359,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Basel 1893",
+        "city": "Basel",
+        "country": "Switzerland",
+        "lat": 47.5581077,
+        "lng": 7.5878261,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Preston North End",
+        "city": "Preston",
+        "country": "England",
+        "lat": 53.7593363,
+        "lng": -2.6992717,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Basel 1893",
+        "city": "Basel",
+        "country": "Switzerland",
+        "lat": 47.5581077,
+        "lng": 7.5878261,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Hull City",
+        "city": "Hull",
+        "country": "England",
+        "lat": 53.7623863,
+        "lng": -0.3301214,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Liam_Millar"
+  },
+  {
+    "id": "luc-de-fougerolles",
+    "name": "Luc De Fougerolles",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Canadian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FCV Dender EH",
+        "city": "Denderleeuw",
+        "country": "Belgium",
+        "lat": 50.8877794,
+        "lng": 4.061375,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Luc_De_Fougerolles"
+  },
+  {
+    "id": "mathieu-choiniere",
+    "name": "Mathieu Choinière",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Canadian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "CF Montréal",
+        "city": "Montreal, Quebec",
+        "country": "Canada",
+        "lat": 45.5031824,
+        "lng": -73.5698065,
+        "fromYear": 2018,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Grasshopper Club Zurich",
+        "city": "Niederhasli",
+        "country": "Switzerland",
+        "lat": 47.4812949,
+        "lng": 8.4858049,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Los Angeles FC",
+        "city": "Los Angeles, California",
+        "country": "United States",
+        "lat": 34.0536909,
+        "lng": -118.242766,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Grasshopper Club Zurich",
+        "city": "Niederhasli",
+        "country": "Switzerland",
+        "lat": 47.4812949,
+        "lng": 8.4858049,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Los Angeles FC",
+        "city": "Los Angeles, California",
+        "country": "United States",
+        "lat": 34.0536909,
+        "lng": -118.242766,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mathieu_Choini%C3%A8re"
+  },
+  {
+    "id": "maxime-crepeau",
+    "name": "Maxime Crépeau",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Canadian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "CF Montréal",
+        "city": "Montreal, Quebec",
+        "country": "Canada",
+        "lat": 45.5031824,
+        "lng": -73.5698065,
+        "fromYear": 2013,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Ottawa Fury FC",
+        "city": "Ottawa, Ontario",
+        "country": "Canada",
+        "lat": 45.4208777,
+        "lng": -75.6901106,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Vancouver Whitecaps FC",
+        "city": "Vancouver, British Columbia",
+        "country": "Canada",
+        "lat": 49.2608724,
+        "lng": -123.113952,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "CF Montréal",
+        "city": "Montreal, Quebec",
+        "country": "Canada",
+        "lat": 45.5031824,
+        "lng": -73.5698065,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Los Angeles FC",
+        "city": "Los Angeles, California",
+        "country": "United States",
+        "lat": 34.0536909,
+        "lng": -118.242766,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Portland Timbers",
+        "city": "Portland, Oregon",
+        "country": "United States",
+        "lat": 45.5202471,
+        "lng": -122.674194,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Orlando City SC",
+        "city": "Lake Mary, Florida",
+        "country": "United States",
+        "lat": 28.7562749,
+        "lng": -81.322093,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Maxime_Cr%C3%A9peau"
+  },
+  {
+    "id": "moise-bombito",
+    "name": "Moïse Bombito",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Canadian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Seacoast United Phantoms",
+        "city": "Portsmouth, New Hampshire",
+        "country": "United States",
+        "lat": 43.0751306,
+        "lng": -70.7601826,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "UNH Wildcats (University of New Hampshire)",
+        "city": "Durham, New Hampshire",
+        "country": "United States",
+        "lat": 43.1214141,
+        "lng": -70.9177186,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Colorado Rapids",
+        "city": "Commerce City, Colorado",
+        "country": "United States",
+        "lat": 39.8083196,
+        "lng": -104.9338675,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "OGC Nice",
+        "city": "Nice",
+        "country": "France",
+        "lat": 43.7009358,
+        "lng": 7.2683912,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mo%C3%AFse_Bombito"
+  },
+  {
+    "id": "nathan-dylan-saliba",
+    "name": "Nathan-Dylan Saliba",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Canadian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "CF Montréal",
+        "city": "Montreal, Quebec",
+        "country": "Canada",
+        "lat": 45.5031824,
+        "lng": -73.5698065,
+        "fromYear": 2020,
+        "toYear": 2025
+      },
+      {
+        "clubName": "RSC Anderlecht",
+        "city": "Anderlecht (Brüssel)",
+        "country": "Belgium",
+        "lat": 50.841868,
+        "lng": 4.3375643,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nathan-Dylan_Saliba"
+  },
+  {
+    "id": "niko-sigur",
+    "name": "Niko Sigur",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Canadian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Vancouver Whitecaps Reserves",
+        "city": "Vancouver, British Columbia",
+        "country": "Canada",
+        "lat": 49.2608724,
+        "lng": -123.113952,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "HNK Hajduk Split",
+        "city": "Split",
+        "country": "Croatia",
+        "lat": 43.5116383,
+        "lng": 16.4399659,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Niko_Sigur"
+  },
+  {
+    "id": "owen-goodman",
+    "name": "Owen Goodman",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Canadian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Colchester United",
+        "city": "Colchester Essex",
+        "country": "England",
+        "lat": 51.8740232,
+        "lng": 0.9237345,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "AFC Wimbledon",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Crystal Palace",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Huddersfield Town",
+        "city": "Huddersfield",
+        "country": "England",
+        "lat": 53.6466645,
+        "lng": -1.7822482,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Barnsley FC",
+        "city": "Barnsley",
+        "country": "England",
+        "lat": 53.5527719,
+        "lng": -1.4827755,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Crystal Palace",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Owen_Goodman"
+  },
+  {
+    "id": "promise-david",
+    "name": "Promise David",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Canadian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "FC Tulsa",
+        "city": "Tulsa, Oklahoma",
+        "country": "United States",
+        "lat": 36.1563122,
+        "lng": -95.9927516,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Sirens FC",
+        "city": "San Pawl il-Baħar",
+        "country": "Malta",
+        "lat": 35.9480742,
+        "lng": 14.3973929,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Valletta FC",
+        "city": "Valletta",
+        "country": "Malta",
+        "lat": 35.8989979,
+        "lng": 14.5136607,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Kalju FC",
+        "city": "Tallinn",
+        "country": "Estonia",
+        "lat": 59.437242,
+        "lng": 24.7572693,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Union Saint-Gilloise",
+        "city": "Bruxelles",
+        "country": "Belgium",
+        "lat": 50.8551025,
+        "lng": 4.3510915,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Promise_David"
+  },
+  {
+    "id": "richie-laryea",
+    "name": "Richie Laryea",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Canadian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Orlando City SC",
+        "city": "Lake Mary, Florida",
+        "country": "United States",
+        "lat": 28.7562749,
+        "lng": -81.322093,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Orlando City B",
+        "city": "Lake Mary, Florida",
+        "country": "United States",
+        "lat": 28.7562749,
+        "lng": -81.322093,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Orlando City SC",
+        "city": "Lake Mary, Florida",
+        "country": "United States",
+        "lat": 28.7562749,
+        "lng": -81.322093,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Orlando City B",
+        "city": "Lake Mary, Florida",
+        "country": "United States",
+        "lat": 28.7562749,
+        "lng": -81.322093,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Orlando City SC",
+        "city": "Lake Mary, Florida",
+        "country": "United States",
+        "lat": 28.7562749,
+        "lng": -81.322093,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Toronto FC",
+        "city": "Toronto, Ontario",
+        "country": "Canada",
+        "lat": 43.6534817,
+        "lng": -79.3839347,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Vancouver Whitecaps FC",
+        "city": "Vancouver, British Columbia",
+        "country": "Canada",
+        "lat": 49.2608724,
+        "lng": -123.113952,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Toronto FC",
+        "city": "Toronto, Ontario",
+        "country": "Canada",
+        "lat": 43.6534817,
+        "lng": -79.3839347,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Richie_Laryea"
+  },
+  {
+    "id": "stephen-eustaquio",
+    "name": "Stephen Eustaquio",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Canadian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "SC União Torreense",
+        "city": "Torres Vedras",
+        "country": "Portugal",
+        "lat": 39.0930856,
+        "lng": -9.260741,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Leixões SC",
+        "city": "Matosinhos",
+        "country": "Portugal",
+        "lat": 41.1806814,
+        "lng": -8.6821998,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "GD Chaves",
+        "city": "Chaves",
+        "country": "Portugal",
+        "lat": 41.7399003,
+        "lng": -7.4715213,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "CD Cruz Azul",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Paços de Ferreira",
+        "city": "Paços de Ferreira",
+        "country": "Portugal",
+        "lat": 41.290118,
+        "lng": -8.378194,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "CD Cruz Azul",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Paços de Ferreira",
+        "city": "Paços de Ferreira",
+        "country": "Portugal",
+        "lat": 41.290118,
+        "lng": -8.378194,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Porto",
+        "city": "Porto",
+        "country": "Portugal",
+        "lat": 41.1502195,
+        "lng": -8.6103497,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Paços de Ferreira",
+        "city": "Paços de Ferreira",
+        "country": "Portugal",
+        "lat": 41.290118,
+        "lng": -8.378194,
+        "fromYear": 2022,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Los Angeles FC",
+        "city": "Los Angeles, California",
+        "country": "United States",
+        "lat": 34.0536909,
+        "lng": -118.242766,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "FC Porto",
+        "city": "Porto",
+        "country": "Portugal",
+        "lat": 41.1502195,
+        "lng": -8.6103497,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Stephen_Eustaquio"
+  },
+  {
+    "id": "tajon-buchanan",
+    "name": "Tajon Buchanan",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Canadian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "New England Revolution",
+        "city": "Foxborough, Massachusetts",
+        "country": "United States",
+        "lat": 42.0653768,
+        "lng": -71.2478308,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Club Brugge KV",
+        "city": "Brugge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Inter Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Villarreal CF",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Inter Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Villarreal CF",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tajon_Buchanan"
+  },
+  {
+    "id": "tani-oluwaseyi",
+    "name": "Tani Oluwaseyi",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Canadian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "New York Pancyprian Freedoms",
+        "city": "Astoria, New York",
+        "country": "United States",
+        "lat": 40.7720145,
+        "lng": -73.9302673,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Minnesota United FC",
+        "city": "Golden Valley, Minnesota",
+        "country": "United States",
+        "lat": 44.9861176,
+        "lng": -93.3784618,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "San Antonio FC",
+        "city": "San Antonio, Texas",
+        "country": "United States",
+        "lat": 29.4246002,
+        "lng": -98.4951405,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Minnesota United FC",
+        "city": "Golden Valley, Minnesota",
+        "country": "United States",
+        "lat": 44.9861176,
+        "lng": -93.3784618,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Villarreal CF",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tani_Oluwaseyi"
+  }
+]

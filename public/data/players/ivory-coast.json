@@ -1,0 +1,1718 @@
+[
+  {
+    "id": "alban-lafont",
+    "name": "Alban Lafont",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Ivorian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "FC Toulouse",
+        "city": "Toulouse",
+        "country": "France",
+        "lat": 43.6044638,
+        "lng": 1.4442433,
+        "fromYear": 2015,
+        "toYear": 2018
+      },
+      {
+        "clubName": "ACF Fiorentina",
+        "city": "Firenze",
+        "country": "Italy",
+        "lat": 43.7697955,
+        "lng": 11.2556404,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Nantes",
+        "city": "La Chapelle-sur-Erdre",
+        "country": "France",
+        "lat": 47.2996846,
+        "lng": -1.5518632,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "ACF Fiorentina",
+        "city": "Firenze",
+        "country": "Italy",
+        "lat": 43.7697955,
+        "lng": 11.2556404,
+        "fromYear": 2021,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Panathinaikos",
+        "city": "Athens",
+        "country": "Greece",
+        "lat": 37.9755648,
+        "lng": 23.7348324,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "FC Nantes",
+        "city": "La Chapelle-sur-Erdre",
+        "country": "France",
+        "lat": 47.2996846,
+        "lng": -1.5518632,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Alban_Lafont"
+  },
+  {
+    "id": "amad-diallo",
+    "name": "Amad Diallo",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Ivorian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Atalanta BC",
+        "city": "Bergamo",
+        "country": "Italy",
+        "lat": 45.7566557,
+        "lng": 9.7542192,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Rangers FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Sunderland AFC",
+        "city": "Sunderland",
+        "country": "England",
+        "lat": 54.9058512,
+        "lng": -1.3828727,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Amad_Diallo"
+  },
+  {
+    "id": "ange-yoan-bonny",
+    "name": "Ange-Yoan Bonny",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Ivorian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "LB Châteauroux B",
+        "city": "Châteauroux",
+        "country": "France",
+        "lat": 46.8203785,
+        "lng": 1.6770956,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Parma Calcio 1913",
+        "city": "Parma",
+        "country": "Italy",
+        "lat": 44.6952006,
+        "lng": 10.0979869,
+        "fromYear": 2021,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Inter Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ange-Yoan_Bonny"
+  },
+  {
+    "id": "bazoumana-toure",
+    "name": "Bazoumana Touré",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Ivorian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "ASEC Mimosas",
+        "city": "Abidjan",
+        "country": "Cote d'Ivoire",
+        "lat": 5.320357,
+        "lng": -4.016107,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Hammarby IF",
+        "city": "Årsta",
+        "country": "Sweden",
+        "lat": 59.2964776,
+        "lng": 18.0528626,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Newcastle United",
+        "city": "Newcastle upon Tyne",
+        "country": "England",
+        "lat": 54.9738474,
+        "lng": -1.6131572,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Bazoumana_Tour%C3%A9"
+  },
+  {
+    "id": "christ-inao-oulai",
+    "name": "Christ Inao Oulaï",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Ivorian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "SC Bastia",
+        "city": "Furiani",
+        "country": "France",
+        "lat": 42.6584811,
+        "lng": 9.4151285,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Trabzonspor",
+        "city": "Trabzon",
+        "country": "Türkiye",
+        "lat": 41.0054605,
+        "lng": 39.7301463,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Christ_Inao_Oula%C3%AF"
+  },
+  {
+    "id": "christopher-operi",
+    "name": "Christopher Operi",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Ivorian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "SM Caen B",
+        "city": "Caen",
+        "country": "France",
+        "lat": 49.1813403,
+        "lng": -0.3635615,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "LB Châteauroux",
+        "city": "Châteauroux",
+        "country": "France",
+        "lat": 46.8203785,
+        "lng": 1.6770956,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "KAA Gent",
+        "city": "Gent",
+        "country": "Belgium",
+        "lat": 51.0538286,
+        "lng": 3.7250121,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Le Havre AC",
+        "city": "Le Havre",
+        "country": "France",
+        "lat": 49.4938975,
+        "lng": 0.1079732,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Basaksehir FK",
+        "city": "Istanbul",
+        "country": "Türkiye",
+        "lat": 41.006381,
+        "lng": 28.9758715,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Christopher_Operi"
+  },
+  {
+    "id": "elye-wahi",
+    "name": "Elye Wahi",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Ivorian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Montpellier HSC B",
+        "city": "Montpellier",
+        "country": "France",
+        "lat": 43.6112422,
+        "lng": 3.8767337,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Montpellier HSC",
+        "city": "Montpellier",
+        "country": "France",
+        "lat": 43.6112422,
+        "lng": 3.8767337,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "RC Lens",
+        "city": "Avion",
+        "country": "France",
+        "lat": 50.4126128,
+        "lng": 2.8343891,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Olympique Marseille",
+        "city": "Marseille",
+        "country": "France",
+        "lat": 43.2963986,
+        "lng": 5.3777888,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "OGC Nice",
+        "city": "Nice",
+        "country": "France",
+        "lat": 43.7009358,
+        "lng": 7.2683912,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Elye_Wahi"
+  },
+  {
+    "id": "emmanuel-agbadou",
+    "name": "Emmanuel Agbadou",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Ivorian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC San Pedro",
+        "city": "San-Pédro",
+        "country": "Cote d'Ivoire",
+        "lat": 4.7589989,
+        "lng": -6.6463922,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "US Monastir",
+        "city": "Monastir",
+        "country": "Tunisia",
+        "lat": 35.7707582,
+        "lng": 10.8280511,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "KAS Eupen",
+        "city": "Eupen",
+        "country": "Belgium",
+        "lat": 50.6305665,
+        "lng": 6.0312717,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC San Pedro",
+        "city": "San-Pédro",
+        "country": "Cote d'Ivoire",
+        "lat": 4.7589989,
+        "lng": -6.6463922,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Stade Reims",
+        "city": "Reims",
+        "country": "France",
+        "lat": 49.2577886,
+        "lng": 4.031926,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Wolverhampton Wanderers",
+        "city": "Wolverhampton",
+        "country": "England",
+        "lat": 52.5847651,
+        "lng": -2.127567,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Besiktas JK",
+        "city": "Beşiktaş / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.0670098,
+        "lng": 29.0421066,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Emmanuel_Agbadou"
+  },
+  {
+    "id": "evan-ndicka",
+    "name": "Evan Ndicka",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Ivorian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "AJ Auxerre B",
+        "city": "Auxerre",
+        "country": "France",
+        "lat": 47.7961287,
+        "lng": 3.570579,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "AJ Auxerre",
+        "city": "Auxerre",
+        "country": "France",
+        "lat": 47.7961287,
+        "lng": 3.570579,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2018,
+        "toYear": 2023
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Evan_Ndicka"
+  },
+  {
+    "id": "evann-guessand",
+    "name": "Evann Guessand",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Ivorian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "OGC Nice B",
+        "city": "Nice",
+        "country": "France",
+        "lat": 43.7009358,
+        "lng": 7.2683912,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "OGC Nice",
+        "city": "Nice",
+        "country": "France",
+        "lat": 43.7009358,
+        "lng": 7.2683912,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Lausanne-Sport",
+        "city": "Lausanne",
+        "country": "Switzerland",
+        "lat": 46.5218269,
+        "lng": 6.6327025,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "OGC Nice",
+        "city": "Nice",
+        "country": "France",
+        "lat": 43.7009358,
+        "lng": 7.2683912,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Nantes",
+        "city": "La Chapelle-sur-Erdre",
+        "country": "France",
+        "lat": 47.2996846,
+        "lng": -1.5518632,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "OGC Nice",
+        "city": "Nice",
+        "country": "France",
+        "lat": 43.7009358,
+        "lng": 7.2683912,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Aston Villa",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Crystal Palace",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Aston Villa",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Evann_Guessand"
+  },
+  {
+    "id": "franck-kessie",
+    "name": "Franck Kessié",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Ivorian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Atalanta BC",
+        "city": "Bergamo",
+        "country": "Italy",
+        "lat": 45.7566557,
+        "lng": 9.7542192,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Cesena FC",
+        "city": "Cesena",
+        "country": "Italy",
+        "lat": 44.136352,
+        "lng": 12.2422442,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Atalanta BC",
+        "city": "Bergamo",
+        "country": "Italy",
+        "lat": 45.7566557,
+        "lng": 9.7542192,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "AC Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Atalanta BC",
+        "city": "Bergamo",
+        "country": "Italy",
+        "lat": 45.7566557,
+        "lng": 9.7542192,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Ahli SFC",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.5504432,
+        "lng": 39.1742363,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Franck_Kessi%C3%A9"
+  },
+  {
+    "id": "ghislain-konan",
+    "name": "Ghislain Konan",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Ivorian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "ASEC Mimosas",
+        "city": "Abidjan",
+        "country": "Cote d'Ivoire",
+        "lat": 5.320357,
+        "lng": -4.016107,
+        "fromYear": 2013,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Vitória Guimarães SC B",
+        "city": "Guimarães",
+        "country": "Portugal",
+        "lat": 41.4417677,
+        "lng": -8.2955712,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Vitória Guimarães SC",
+        "city": "Guimarães",
+        "country": "Portugal",
+        "lat": 41.4417677,
+        "lng": -8.2955712,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Stade Reims",
+        "city": "Reims",
+        "country": "France",
+        "lat": 49.2577886,
+        "lng": 4.031926,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Al-Nassr FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Fayha FC",
+        "city": "Al-Majma'ah",
+        "country": "Saudi Arabia",
+        "lat": 25.903889,
+        "lng": 45.345556,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Nassr FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Gil Vicente FC",
+        "city": "Barcelos",
+        "country": "Portugal",
+        "lat": 41.5314496,
+        "lng": -8.6192306,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Burgos CF",
+        "city": "Burgos",
+        "country": "Spain",
+        "lat": 42.3448498,
+        "lng": -3.6812477,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ghislain_Konan"
+  },
+  {
+    "id": "guela-doue",
+    "name": "Guéla Doué",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Ivorian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Stade Rennais FC B",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Stade Rennais FC",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "RC Strasbourg Alsace",
+        "city": "Strasbourg",
+        "country": "France",
+        "lat": 48.584614,
+        "lng": 7.7507127,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Gu%C3%A9la_Dou%C3%A9"
+  },
+  {
+    "id": "ibrahim-sangare",
+    "name": "Ibrahim Sangaré",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Ivorian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Toulouse",
+        "city": "Toulouse",
+        "country": "France",
+        "lat": 43.6044638,
+        "lng": 1.4442433,
+        "fromYear": 2016,
+        "toYear": 2020
+      },
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibrahim_Sangar%C3%A9"
+  },
+  {
+    "id": "jean-michael-seri",
+    "name": "Jean Michaël Seri",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Ivorian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Africa Sports",
+        "city": "Abidjan",
+        "country": "Cote d'Ivoire",
+        "lat": 5.320357,
+        "lng": -4.016107,
+        "fromYear": 2010,
+        "toYear": 2010
+      },
+      {
+        "clubName": "ASEC Mimosas",
+        "city": "Abidjan",
+        "country": "Cote d'Ivoire",
+        "lat": 5.320357,
+        "lng": -4.016107,
+        "fromYear": 2010,
+        "toYear": 2012
+      },
+      {
+        "clubName": "FC Porto B",
+        "city": "Porto",
+        "country": "Portugal",
+        "lat": 41.1502195,
+        "lng": -8.6103497,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "ASEC Mimosas",
+        "city": "Abidjan",
+        "country": "Cote d'Ivoire",
+        "lat": 5.320357,
+        "lng": -4.016107,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "FC Paços de Ferreira",
+        "city": "Paços de Ferreira",
+        "country": "Portugal",
+        "lat": 41.290118,
+        "lng": -8.378194,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "OGC Nice",
+        "city": "Nice",
+        "country": "France",
+        "lat": 43.7009358,
+        "lng": 7.2683912,
+        "fromYear": 2015,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Fulham FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Galatasaray",
+        "city": "Sarıyer / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.1054207,
+        "lng": 29.006187,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Fulham FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Girondins Bordeaux",
+        "city": "Le Haillan",
+        "country": "France",
+        "lat": 44.872105,
+        "lng": -0.6761661,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Fulham FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Hull City",
+        "city": "Hull",
+        "country": "England",
+        "lat": 53.7623863,
+        "lng": -0.3301214,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Orobah FC",
+        "city": "Sakakah, Al-Jawf",
+        "country": "Saudi Arabia",
+        "lat": 29.9784008,
+        "lng": 40.2047701,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "NK Maribor",
+        "city": "Maribor",
+        "country": "Slovenia",
+        "lat": 46.5576439,
+        "lng": 15.6455854,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean_Micha%C3%ABl_Seri"
+  },
+  {
+    "id": "mohamed-kone",
+    "name": "Mohamed Koné",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Ivorian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "AC Le Havre B",
+        "city": "Le Havre",
+        "country": "France",
+        "lat": 49.4938975,
+        "lng": 0.1079732,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Le Havre AC",
+        "city": "Le Havre",
+        "country": "France",
+        "lat": 49.4938975,
+        "lng": 0.1079732,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "USL Dunkerque",
+        "city": "Dunkerque",
+        "country": "France",
+        "lat": 51.0347708,
+        "lng": 2.3772525,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Royal Charleroi SC",
+        "city": "Charleroi",
+        "country": "Belgium",
+        "lat": 50.4116233,
+        "lng": 4.444528,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Le Havre AC",
+        "city": "Le Havre",
+        "country": "France",
+        "lat": 49.4938975,
+        "lng": 0.1079732,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Kon%C3%A9"
+  },
+  {
+    "id": "nicolas-pepe",
+    "name": "Nicolas Pépé",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Ivorian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Stade Poitevin FC",
+        "city": "Buxerolles",
+        "country": "France",
+        "lat": 47.8072225,
+        "lng": 4.9321318,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Angers SCO B",
+        "city": "Angers",
+        "country": "France",
+        "lat": 47.4739884,
+        "lng": -0.5515588,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Angers SCO",
+        "city": "Angers",
+        "country": "France",
+        "lat": 47.4739884,
+        "lng": -0.5515588,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "US Orléans",
+        "city": "Orléans",
+        "country": "France",
+        "lat": 47.9027336,
+        "lng": 1.9086066,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Angers SCO",
+        "city": "Angers",
+        "country": "France",
+        "lat": 47.4739884,
+        "lng": -0.5515588,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "LOSC Lille",
+        "city": "Camphin-en-Pévèle",
+        "country": "France",
+        "lat": 50.5948763,
+        "lng": 3.2583523,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "OGC Nice",
+        "city": "Nice",
+        "country": "France",
+        "lat": 43.7009358,
+        "lng": 7.2683912,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Trabzonspor",
+        "city": "Trabzon",
+        "country": "Türkiye",
+        "lat": 41.0054605,
+        "lng": 39.7301463,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Villarreal CF",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicolas_P%C3%A9p%C3%A9"
+  },
+  {
+    "id": "odilon-kossounou",
+    "name": "Odilon Kossounou",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Ivorian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Hammarby IF",
+        "city": "Årsta",
+        "country": "Sweden",
+        "lat": 59.2964776,
+        "lng": 18.0528626,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Club Brugge KV",
+        "city": "Brugge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Hammarby IF",
+        "city": "Årsta",
+        "country": "Sweden",
+        "lat": 59.2964776,
+        "lng": 18.0528626,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Bayer 04 Leverkusen",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "lat": 51.0324743,
+        "lng": 6.9881194,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Atalanta BC",
+        "city": "Bergamo",
+        "country": "Italy",
+        "lat": 45.7566557,
+        "lng": 9.7542192,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Bayer 04 Leverkusen",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "lat": 51.0324743,
+        "lng": 6.9881194,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Odilon_Kossounou"
+  },
+  {
+    "id": "oumar-diakite",
+    "name": "Oumar Diakité",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Ivorian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "ASEC Mimosas",
+        "city": "Abidjan",
+        "country": "Cote d'Ivoire",
+        "lat": 5.320357,
+        "lng": -4.016107,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Liefering",
+        "city": "Salzburg",
+        "country": "Austria",
+        "lat": 47.7981346,
+        "lng": 13.0464806,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Red Bull Salzburg",
+        "city": "Wals-Siezenheim",
+        "country": "Austria",
+        "lat": 47.7986,
+        "lng": 12.9807,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Stade Reims",
+        "city": "Reims",
+        "country": "France",
+        "lat": 49.2577886,
+        "lng": 4.031926,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Red Bull Salzburg",
+        "city": "Wals-Siezenheim",
+        "country": "Austria",
+        "lat": 47.7986,
+        "lng": 12.9807,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Cercle Brugge",
+        "city": "Brügge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Stade Reims",
+        "city": "Reims",
+        "country": "France",
+        "lat": 49.2577886,
+        "lng": 4.031926,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Oumar_Diakit%C3%A9"
+  },
+  {
+    "id": "ousmane-diomande",
+    "name": "Ousmane Diomande",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Ivorian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Midtjylland",
+        "city": "Herning",
+        "country": "Denmark",
+        "lat": 56.1379757,
+        "lng": 8.9746623,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "CD Mafra",
+        "city": "Mafra",
+        "country": "Portugal",
+        "lat": 38.9369782,
+        "lng": -9.3282374,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Midtjylland",
+        "city": "Herning",
+        "country": "Denmark",
+        "lat": 56.1379757,
+        "lng": 8.9746623,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Sporting CP",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ousmane_Diomande"
+  },
+  {
+    "id": "parfait-guiagon",
+    "name": "Parfait Guiagon",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Ivorian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Africa Sports",
+        "city": "Abidjan",
+        "country": "Cote d'Ivoire",
+        "lat": 5.320357,
+        "lng": -4.016107,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Maccabi Tel Aviv",
+        "city": "Tel-Aviv",
+        "country": "Israel",
+        "lat": 32.0852997,
+        "lng": 34.7818064,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Africa Sports",
+        "city": "Abidjan",
+        "country": "Cote d'Ivoire",
+        "lat": 5.320357,
+        "lng": -4.016107,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Maccabi Tel Aviv",
+        "city": "Tel-Aviv",
+        "country": "Israel",
+        "lat": 32.0852997,
+        "lng": 34.7818064,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Maccabi Netanya",
+        "city": "Netanya",
+        "country": "Israel",
+        "lat": 32.3286181,
+        "lng": 34.8566246,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Maccabi Tel Aviv",
+        "city": "Tel-Aviv",
+        "country": "Israel",
+        "lat": 32.0852997,
+        "lng": 34.7818064,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Royal Charleroi SC",
+        "city": "Charleroi",
+        "country": "Belgium",
+        "lat": 50.4116233,
+        "lng": 4.444528,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Parfait_Guiagon"
+  },
+  {
+    "id": "seko-fofana",
+    "name": "Seko Fofana",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Ivorian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Lorient B",
+        "city": "Lorient",
+        "country": "France",
+        "lat": 47.7477336,
+        "lng": -3.3660907,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Fulham FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "SC Bastia",
+        "city": "Furiani",
+        "country": "France",
+        "lat": 42.6584811,
+        "lng": 9.4151285,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Udinese Calcio",
+        "city": "Udine",
+        "country": "Italy",
+        "lat": 46.0634632,
+        "lng": 13.2358377,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "RC Lens",
+        "city": "Avion",
+        "country": "France",
+        "lat": 50.4126128,
+        "lng": 2.8343891,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Nassr FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Ettifaq FC",
+        "city": "Dammam",
+        "country": "Saudi Arabia",
+        "lat": 26.4367824,
+        "lng": 50.1039991,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Nassr FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Stade Rennais FC",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "FC Porto",
+        "city": "Porto",
+        "country": "Portugal",
+        "lat": 41.1502195,
+        "lng": -8.6103497,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Stade Rennais FC",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Seko_Fofana"
+  },
+  {
+    "id": "simon-adingra",
+    "name": "Simon Adingra",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Ivorian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "FC Nordsjaelland",
+        "city": "Farum",
+        "country": "Denmark",
+        "lat": 55.8101232,
+        "lng": 12.3702505,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Union Saint-Gilloise",
+        "city": "Bruxelles",
+        "country": "Belgium",
+        "lat": 50.8551025,
+        "lng": 4.3510915,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Sunderland AFC",
+        "city": "Sunderland",
+        "country": "England",
+        "lat": 54.9058512,
+        "lng": -1.3828727,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "AS Monaco",
+        "city": "Monaco",
+        "country": "Monaco",
+        "lat": 43.7309697,
+        "lng": 7.4248152,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Sunderland AFC",
+        "city": "Sunderland",
+        "country": "England",
+        "lat": 54.9058512,
+        "lng": -1.3828727,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Simon_Adingra"
+  },
+  {
+    "id": "wilfried-singo",
+    "name": "Wilfried Singo",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Ivorian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Torino FC",
+        "city": "Torino",
+        "country": "Italy",
+        "lat": 45.0677551,
+        "lng": 7.6824892,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "AS Monaco",
+        "city": "Monaco",
+        "country": "Monaco",
+        "lat": 43.7309697,
+        "lng": 7.4248152,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Galatasaray",
+        "city": "Sarıyer / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.1054207,
+        "lng": 29.006187,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Wilfried_Singo"
+  },
+  {
+    "id": "yahia-fofana",
+    "name": "Yahia Fofana",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Ivorian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "AC Le Havre B",
+        "city": "Le Havre",
+        "country": "France",
+        "lat": 49.4938975,
+        "lng": 0.1079732,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Le Havre AC",
+        "city": "Le Havre",
+        "country": "France",
+        "lat": 49.4938975,
+        "lng": 0.1079732,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Angers SCO",
+        "city": "Angers",
+        "country": "France",
+        "lat": 47.4739884,
+        "lng": -0.5515588,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Caykur Rizespor",
+        "city": "Merkez/RİZE",
+        "country": "Türkiye",
+        "lat": 41.0348622,
+        "lng": 40.5088943,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Yahia_Fofana"
+  },
+  {
+    "id": "yan-diomande",
+    "name": "Yan Diomande",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Ivorian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "CD Leganés",
+        "city": "Leganés",
+        "country": "Spain",
+        "lat": 40.3281942,
+        "lng": -3.76527,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Yan_Diomande"
+  }
+]

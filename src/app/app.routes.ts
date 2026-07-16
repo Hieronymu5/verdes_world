@@ -4,13 +4,14 @@ import { Routes } from '@angular/router';
 export const routes: Routes = [
   {
     path: 'players',
-    loadComponent: () =>
-      import('./players/players.component').then((m) => m.PlayersComponent),
+    loadComponent: () => import('./players/players.component').then((m) => m.PlayersComponent),
   },
   {
     path: 'players/:player-id',
     loadComponent: () =>
-      import('./players/player-detail/player-detail.component').then((m) => m.PlayerDetailComponent),
+      import('./players/player-detail/player-detail.component').then(
+        (m) => m.PlayerDetailComponent,
+      ),
   },
   {
     path: 'about',

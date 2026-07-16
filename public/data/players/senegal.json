@@ -1,0 +1,1565 @@
+[
+  {
+    "id": "abdoulaye-seck",
+    "name": "Abdoulaye Seck",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Senegalese",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Stade de Mbour",
+        "city": "Mbour",
+        "country": "Senegal",
+        "lat": 14.4207396,
+        "lng": -16.971484,
+        "fromYear": 2010,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Touré Kunda",
+        "city": "Mbour",
+        "country": "Senegal",
+        "lat": 14.4207396,
+        "lng": -16.971484,
+        "fromYear": 2010,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Casa Sports",
+        "city": "Ziguinchor",
+        "country": "Senegal",
+        "lat": 12.5634929,
+        "lng": -16.2724609,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Diambars de Saly FC",
+        "city": "Saly",
+        "country": "Senegal",
+        "lat": 14.4411148,
+        "lng": -17.0148303,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Hønefoss BK",
+        "city": "Hønefoss",
+        "country": "Norway",
+        "lat": 60.1662082,
+        "lng": 10.255486,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Diambars de Saly FC",
+        "city": "Saly",
+        "country": "Senegal",
+        "lat": 14.4411148,
+        "lng": -17.0148303,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Hønefoss BK",
+        "city": "Hønefoss",
+        "country": "Norway",
+        "lat": 60.1662082,
+        "lng": 10.255486,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Sandefjord Fotball",
+        "city": "Sandefjord",
+        "country": "Norway",
+        "lat": 59.0799004,
+        "lng": 10.2804322,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Royal Antwerp FC",
+        "city": "Deurne - Antwerpen",
+        "country": "Belgium",
+        "lat": 51.2244162,
+        "lng": 4.463811,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Maccabi Haifa",
+        "city": "Haifa",
+        "country": "Israel",
+        "lat": 32.8191218,
+        "lng": 34.9983856,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdoulaye_Seck"
+  },
+  {
+    "id": "antoine-mendy",
+    "name": "Antoine Mendy",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Senegalese",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "OGC Nice B",
+        "city": "Nice",
+        "country": "France",
+        "lat": 43.7009358,
+        "lng": 7.2683912,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "OGC Nice",
+        "city": "Nice",
+        "country": "France",
+        "lat": 43.7009358,
+        "lng": 7.2683912,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Antoine_Mendy"
+  },
+  {
+    "id": "assane-diao",
+    "name": "Assane Diao",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Senegalese",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Betis Deportivo Balompié",
+        "city": "Sevilla",
+        "country": "Spain",
+        "lat": 37.3886303,
+        "lng": -5.9953403,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Real Betis Balompié",
+        "city": "Sevilla",
+        "country": "Spain",
+        "lat": 37.3886303,
+        "lng": -5.9953403,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Como 1907",
+        "city": "Como",
+        "country": "Italy",
+        "lat": 45.9394759,
+        "lng": 9.1494101,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Assane_Diao"
+  },
+  {
+    "id": "bamba-dieng",
+    "name": "Bamba Dieng",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Senegalese",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Diambars de Saly FC",
+        "city": "Saly",
+        "country": "Senegal",
+        "lat": 14.4411148,
+        "lng": -17.0148303,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Olympique de Marseille B",
+        "city": "Marseille",
+        "country": "France",
+        "lat": 43.2963986,
+        "lng": 5.3777888,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Olympique Marseille",
+        "city": "Marseille",
+        "country": "France",
+        "lat": 43.2963986,
+        "lng": 5.3777888,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Diambars de Saly FC",
+        "city": "Saly",
+        "country": "Senegal",
+        "lat": 14.4411148,
+        "lng": -17.0148303,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Lorient",
+        "city": "Lorient",
+        "country": "France",
+        "lat": 47.7477336,
+        "lng": -3.3660907,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Angers SCO",
+        "city": "Angers",
+        "country": "France",
+        "lat": 47.4739884,
+        "lng": -0.5515588,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Lorient",
+        "city": "Lorient",
+        "country": "France",
+        "lat": 47.7477336,
+        "lng": -3.3660907,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Bamba_Dieng"
+  },
+  {
+    "id": "bara-sapoko-ndiaye",
+    "name": "Bara Sapoko Ndiaye",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Senegalese",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Bara_Sapoko_Ndiaye"
+  },
+  {
+    "id": "cherif-ndiaye",
+    "name": "Cherif Ndiaye",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Senegalese",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "SK Beveren",
+        "city": "Beveren",
+        "country": "Belgium",
+        "lat": 51.212611,
+        "lng": 4.2577808,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "HNK Gorica",
+        "city": "Velika Gorica",
+        "country": "Croatia",
+        "lat": 45.7155672,
+        "lng": 16.0717164,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Göztepe",
+        "city": "Güzelyalı, Konak/İZMİR",
+        "country": "Türkiye",
+        "lat": 38.3961251,
+        "lng": 27.0857954,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "HNK Gorica",
+        "city": "Velika Gorica",
+        "country": "Croatia",
+        "lat": 45.7155672,
+        "lng": 16.0717164,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Shanghai Port",
+        "city": "Pudong, Shanghai",
+        "country": "China",
+        "lat": 31.2232671,
+        "lng": 121.5397849,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Adana Demirspor",
+        "city": "Adana",
+        "country": "Türkiye",
+        "lat": 36.9863599,
+        "lng": 35.3252861,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Red Star Belgrade",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "lat": 44.8153318,
+        "lng": 20.4456588,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Shanghai Port",
+        "city": "Pudong, Shanghai",
+        "country": "China",
+        "lat": 31.2232671,
+        "lng": 121.5397849,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Samsunspor",
+        "city": "SAMSUN",
+        "country": "Türkiye",
+        "lat": 41.2303557,
+        "lng": 35.9683338,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Cherif_Ndiaye"
+  },
+  {
+    "id": "edouard-mendy",
+    "name": "Edouard Mendy",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Senegalese",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Le Havre Caucriauville",
+        "city": "Le Havre",
+        "country": "France",
+        "lat": 49.4938975,
+        "lng": 0.1079732,
+        "fromYear": 2011,
+        "toYear": 2011
+      },
+      {
+        "clubName": "AS Cherbourg",
+        "city": "Cherbourg-en-Cotentin",
+        "country": "France",
+        "lat": 49.6425343,
+        "lng": -1.6249565,
+        "fromYear": 2011,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Olympique de Marseille B",
+        "city": "Marseille",
+        "country": "France",
+        "lat": 43.2963986,
+        "lng": 5.3777888,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Stade Reims",
+        "city": "Reims",
+        "country": "France",
+        "lat": 49.2577886,
+        "lng": 4.031926,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Stade Rennais FC",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Ahli SFC",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.5504432,
+        "lng": 39.1742363,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Edouard_Mendy"
+  },
+  {
+    "id": "el-hadji-malick-diouf",
+    "name": "El Hadji Malick Diouf",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Senegalese",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Tromsø IL",
+        "city": "Tromsø",
+        "country": "Norway",
+        "lat": 69.6516345,
+        "lng": 18.9558585,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "West Ham United",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/El_Hadji_Malick_Diouf"
+  },
+  {
+    "id": "habib-diarra",
+    "name": "Habib Diarra",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Senegalese",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "RC Strasbourg Alsace",
+        "city": "Strasbourg",
+        "country": "France",
+        "lat": 48.584614,
+        "lng": 7.7507127,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Sunderland AFC",
+        "city": "Sunderland",
+        "country": "England",
+        "lat": 54.9058512,
+        "lng": -1.3828727,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Habib_Diarra"
+  },
+  {
+    "id": "ibrahim-mbaye",
+    "name": "Ibrahim Mbaye",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Senegalese",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Paris Saint-Germain",
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8534951,
+        "lng": 2.3483915,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibrahim_Mbaye"
+  },
+  {
+    "id": "idrissa-gueye",
+    "name": "Idrissa Gueye",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Senegalese",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Diambars de Saly FC",
+        "city": "Saly",
+        "country": "Senegal",
+        "lat": 14.4411148,
+        "lng": -17.0148303,
+        "fromYear": 2008,
+        "toYear": 2008
+      },
+      {
+        "clubName": "LOSC Lille B",
+        "city": "Camphin-en-Pévèle",
+        "country": "France",
+        "lat": 50.5948763,
+        "lng": 3.2583523,
+        "fromYear": 2008,
+        "toYear": 2010
+      },
+      {
+        "clubName": "LOSC Lille",
+        "city": "Camphin-en-Pévèle",
+        "country": "France",
+        "lat": 50.5948763,
+        "lng": 3.2583523,
+        "fromYear": 2010,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Aston Villa",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Everton FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Paris Saint-Germain",
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8534951,
+        "lng": 2.3483915,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Everton FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Idrissa_Gueye"
+  },
+  {
+    "id": "iliman-ndiaye",
+    "name": "Iliman Ndiaye",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Senegalese",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "AS Dakar Sacré Cœur",
+        "city": "Dakar",
+        "country": "Senegal",
+        "lat": 14.693425,
+        "lng": -17.447938,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Rising Ballers Kensington",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Hyde United",
+        "city": "Hyde",
+        "country": "England",
+        "lat": 53.4508687,
+        "lng": -2.0782603,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Sheffield United",
+        "city": "Sheffield",
+        "country": "England",
+        "lat": 53.3806626,
+        "lng": -1.4702278,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Olympique Marseille",
+        "city": "Marseille",
+        "country": "France",
+        "lat": 43.2963986,
+        "lng": 5.3777888,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Everton FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Iliman_Ndiaye"
+  },
+  {
+    "id": "ismail-jakobs",
+    "name": "Ismail Jakobs",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Senegalese",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "1.FC Köln II",
+        "city": "Köln",
+        "country": "Germany",
+        "lat": 50.938361,
+        "lng": 6.959974,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "1.FC Köln",
+        "city": "Köln",
+        "country": "Germany",
+        "lat": 50.938361,
+        "lng": 6.959974,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "AS Monaco",
+        "city": "Monaco",
+        "country": "Monaco",
+        "lat": 43.7309697,
+        "lng": 7.4248152,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Galatasaray",
+        "city": "Sarıyer / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.1054207,
+        "lng": 29.006187,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "AS Monaco",
+        "city": "Monaco",
+        "country": "Monaco",
+        "lat": 43.7309697,
+        "lng": 7.4248152,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ismail_Jakobs"
+  },
+  {
+    "id": "ismaila-sarr",
+    "name": "Ismaïla Sarr",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Senegalese",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "AS Académie Génération Foot",
+        "city": "Rufisque",
+        "country": "Senegal",
+        "lat": 14.716417,
+        "lng": -17.273844,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "FC Metz",
+        "city": "Metz",
+        "country": "France",
+        "lat": 49.1196964,
+        "lng": 6.1763552,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Stade Rennais FC",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Watford FC",
+        "city": "Watford",
+        "country": "England",
+        "lat": 51.6553875,
+        "lng": -0.3957425,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Olympique Marseille",
+        "city": "Marseille",
+        "country": "France",
+        "lat": 43.2963986,
+        "lng": 5.3777888,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Crystal Palace",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Isma%C3%AFla_Sarr"
+  },
+  {
+    "id": "kalidou-koulibaly",
+    "name": "Kalidou Koulibaly",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Senegalese",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Metz B",
+        "city": "Metz",
+        "country": "France",
+        "lat": 49.1196964,
+        "lng": 6.1763552,
+        "fromYear": 2009,
+        "toYear": 2010
+      },
+      {
+        "clubName": "FC Metz",
+        "city": "Metz",
+        "country": "France",
+        "lat": 49.1196964,
+        "lng": 6.1763552,
+        "fromYear": 2010,
+        "toYear": 2012
+      },
+      {
+        "clubName": "KRC Genk",
+        "city": "Genk",
+        "country": "Belgium",
+        "lat": 50.9654864,
+        "lng": 5.5001456,
+        "fromYear": 2012,
+        "toYear": 2014
+      },
+      {
+        "clubName": "SSC Napoli",
+        "city": "Napoli",
+        "country": "Italy",
+        "lat": 40.8358846,
+        "lng": 14.2487679,
+        "fromYear": 2014,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Hilal SFC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kalidou_Koulibaly"
+  },
+  {
+    "id": "krepin-diatta",
+    "name": "Krépin Diatta",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Senegalese",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Sarpsborg 08 FF",
+        "city": "Sarpsborg",
+        "country": "Norway",
+        "lat": 59.254955,
+        "lng": 11.2297811,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Club Brugge KV",
+        "city": "Brugge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "AS Monaco",
+        "city": "Monaco",
+        "country": "Monaco",
+        "lat": 43.7309697,
+        "lng": 7.4248152,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kr%C3%A9pin_Diatta"
+  },
+  {
+    "id": "lamine-camara",
+    "name": "Lamine Camara",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Senegalese",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Casa Sports",
+        "city": "Ziguinchor",
+        "country": "Senegal",
+        "lat": 12.5634929,
+        "lng": -16.2724609,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "AS Académie Génération Foot",
+        "city": "Rufisque",
+        "country": "Senegal",
+        "lat": 14.716417,
+        "lng": -17.273844,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Metz",
+        "city": "Metz",
+        "country": "France",
+        "lat": 49.1196964,
+        "lng": 6.1763552,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Metz B",
+        "city": "Metz",
+        "country": "France",
+        "lat": 49.1196964,
+        "lng": 6.1763552,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "AS Monaco",
+        "city": "Monaco",
+        "country": "Monaco",
+        "lat": 43.7309697,
+        "lng": 7.4248152,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Lamine_Camara"
+  },
+  {
+    "id": "mamadou-sarr",
+    "name": "Mamadou Sarr",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Senegalese",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Olympique Lyon B",
+        "city": "Décines-Charpieu",
+        "country": "France",
+        "lat": 45.773606,
+        "lng": 4.9633314,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Olympique Lyon",
+        "city": "Décines-Charpieu",
+        "country": "France",
+        "lat": 45.773606,
+        "lng": 4.9633314,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "RWDM Brussels",
+        "city": "Sint-Jans-Molenbeek",
+        "country": "Belgium",
+        "lat": 50.8545959,
+        "lng": 4.338636,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Olympique Lyon",
+        "city": "Décines-Charpieu",
+        "country": "France",
+        "lat": 45.773606,
+        "lng": 4.9633314,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "RC Strasbourg Alsace",
+        "city": "Strasbourg",
+        "country": "France",
+        "lat": 48.584614,
+        "lng": 7.7507127,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mamadou_Sarr"
+  },
+  {
+    "id": "mory-diaw",
+    "name": "Mory Diaw",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Senegalese",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Paris Saint-Germain B",
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8534951,
+        "lng": 2.3483915,
+        "fromYear": 2012,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Paris Saint-Germain",
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8534951,
+        "lng": 2.3483915,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "CD Mafra",
+        "city": "Mafra",
+        "country": "Portugal",
+        "lat": 38.9369782,
+        "lng": -9.3282374,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Lokomotiv Plovdiv",
+        "city": "Plovdiv",
+        "country": "Bulgaria",
+        "lat": 42.1418541,
+        "lng": 24.7499297,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC United Zürich",
+        "city": "Zürich",
+        "country": "Switzerland",
+        "lat": 47.3744489,
+        "lng": 8.5410422,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Lausanne-Sport",
+        "city": "Lausanne",
+        "country": "Switzerland",
+        "lat": 46.5218269,
+        "lng": 6.6327025,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Clermont Foot 63",
+        "city": "Clermont-Ferrand",
+        "country": "France",
+        "lat": 45.7774551,
+        "lng": 3.0819427,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Rodez AF",
+        "city": "Onet-le-Château",
+        "country": "France",
+        "lat": 44.365393,
+        "lng": 2.5923743,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Clermont Foot 63",
+        "city": "Clermont-Ferrand",
+        "country": "France",
+        "lat": 45.7774551,
+        "lng": 3.0819427,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Le Havre AC",
+        "city": "Le Havre",
+        "country": "France",
+        "lat": 49.4938975,
+        "lng": 0.1079732,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mory_Diaw"
+  },
+  {
+    "id": "moussa-niakhate",
+    "name": "Moussa Niakhaté",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Senegalese",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Valenciennes FC",
+        "city": "Valenciennes",
+        "country": "France",
+        "lat": 50.3579317,
+        "lng": 3.5234846,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "FC Metz",
+        "city": "Metz",
+        "country": "France",
+        "lat": 49.1196964,
+        "lng": 6.1763552,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "1.FSV Mainz 05",
+        "city": "Mainz",
+        "country": "Germany",
+        "lat": 49.9995205,
+        "lng": 8.2736253,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Olympique Lyon",
+        "city": "Décines-Charpieu",
+        "country": "France",
+        "lat": 45.773606,
+        "lng": 4.9633314,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Moussa_Niakhat%C3%A9"
+  },
+  {
+    "id": "nicolas-jackson",
+    "name": "Nicolas Jackson",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Senegalese",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Villarreal CF B",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "CD Mirandés",
+        "city": "Miranda de Ebro",
+        "country": "Spain",
+        "lat": 42.6800943,
+        "lng": -2.9747229,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Villarreal CF B",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Villarreal CF",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicolas_Jackson"
+  },
+  {
+    "id": "pape-gueye",
+    "name": "Pape Gueye",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Senegalese",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "AC Le Havre B",
+        "city": "Le Havre",
+        "country": "France",
+        "lat": 49.4938975,
+        "lng": 0.1079732,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Le Havre AC",
+        "city": "Le Havre",
+        "country": "France",
+        "lat": 49.4938975,
+        "lng": 0.1079732,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Olympique Marseille",
+        "city": "Marseille",
+        "country": "France",
+        "lat": 43.2963986,
+        "lng": 5.3777888,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Sevilla FC",
+        "city": "Sevilla",
+        "country": "Spain",
+        "lat": 37.3886303,
+        "lng": -5.9953403,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Olympique Marseille",
+        "city": "Marseille",
+        "country": "France",
+        "lat": 43.2963986,
+        "lng": 5.3777888,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Villarreal CF",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Pape_Gueye"
+  },
+  {
+    "id": "pape-matar-sarr",
+    "name": "Pape Matar Sarr",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Senegalese",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "AS Académie Génération Foot",
+        "city": "Rufisque",
+        "country": "Senegal",
+        "lat": 14.716417,
+        "lng": -17.273844,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Metz",
+        "city": "Metz",
+        "country": "France",
+        "lat": 49.1196964,
+        "lng": 6.1763552,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Tottenham Hotspur",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Metz",
+        "city": "Metz",
+        "country": "France",
+        "lat": 49.1196964,
+        "lng": 6.1763552,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Tottenham Hotspur",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Pape_Matar_Sarr"
+  },
+  {
+    "id": "pathe-ciss",
+    "name": "Pathé Ciss",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Senegalese",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Diambars de Saly FC",
+        "city": "Saly",
+        "country": "Senegal",
+        "lat": 14.4411148,
+        "lng": -17.0148303,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "CF União Madeira (-2021)",
+        "city": "Funchal",
+        "country": "Portugal",
+        "lat": 32.6496497,
+        "lng": -16.9086783,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "FC Famalicão",
+        "city": "Vila Nova de Famalicão",
+        "country": "Portugal",
+        "lat": 41.4064621,
+        "lng": -8.5187849,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "CF Fuenlabrada",
+        "city": "Fuenlabrada (Madrid)",
+        "country": "Spain",
+        "lat": 40.2837036,
+        "lng": -3.7922808,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "CF União Madeira (-2021)",
+        "city": "Funchal",
+        "country": "Portugal",
+        "lat": 32.6496497,
+        "lng": -16.9086783,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "CF Fuenlabrada",
+        "city": "Fuenlabrada (Madrid)",
+        "country": "Spain",
+        "lat": 40.2837036,
+        "lng": -3.7922808,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Rayo Vallecano",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Path%C3%A9_Ciss"
+  },
+  {
+    "id": "sadio-mane",
+    "name": "Sadio Mané",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Senegalese",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "AS Académie Génération Foot",
+        "city": "Rufisque",
+        "country": "Senegal",
+        "lat": 14.716417,
+        "lng": -17.273844,
+        "fromYear": 2011,
+        "toYear": 2011
+      },
+      {
+        "clubName": "FC Metz B",
+        "city": "Metz",
+        "country": "France",
+        "lat": 49.1196964,
+        "lng": 6.1763552,
+        "fromYear": 2011,
+        "toYear": 2012
+      },
+      {
+        "clubName": "FC Metz",
+        "city": "Metz",
+        "country": "France",
+        "lat": 49.1196964,
+        "lng": 6.1763552,
+        "fromYear": 2012,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Red Bull Salzburg",
+        "city": "Wals-Siezenheim",
+        "country": "Austria",
+        "lat": 47.7986,
+        "lng": 12.9807,
+        "fromYear": 2012,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Southampton FC",
+        "city": "Southampton",
+        "country": "England",
+        "lat": 50.9025349,
+        "lng": -1.404189,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Liverpool FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2016,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Nassr FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Sadio_Man%C3%A9"
+  },
+  {
+    "id": "yehvann-diouf",
+    "name": "Yehvann Diouf",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Senegalese",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Stade Reims",
+        "city": "Reims",
+        "country": "France",
+        "lat": 49.2577886,
+        "lng": 4.031926,
+        "fromYear": 2019,
+        "toYear": 2025
+      },
+      {
+        "clubName": "OGC Nice",
+        "city": "Nice",
+        "country": "France",
+        "lat": 43.7009358,
+        "lng": 7.2683912,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Yehvann_Diouf"
+  }
+]

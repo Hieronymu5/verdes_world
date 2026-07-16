@@ -41,6 +41,11 @@
   color: var(--vw-color-error);
 }
 
+.empty-years {
+  color: var(--vw-color-text-tertiary);
+  margin: var(--vw-space-sm) 0 0;
+}
+
 .search-label {
   display: block;
   margin: var(--vw-space-lg) 0 var(--vw-space-md);

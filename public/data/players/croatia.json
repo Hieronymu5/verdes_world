@@ -1,0 +1,1979 @@
+[
+  {
+    "id": "andrej-kramaric",
+    "name": "Andrej Kramaric",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Croatian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "GNK Dinamo Zagreb",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "lat": 45.8130967,
+        "lng": 15.9772795,
+        "fromYear": 2009,
+        "toYear": 2012
+      },
+      {
+        "clubName": "NK Lokomotiva Zagreb",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "lat": 45.8130967,
+        "lng": 15.9772795,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "GNK Dinamo Zagreb",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "lat": 45.8130967,
+        "lng": 15.9772795,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "HNK Rijeka",
+        "city": "Rijeka",
+        "country": "Croatia",
+        "lat": 45.3267976,
+        "lng": 14.442208,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Leicester City",
+        "city": "Leicester",
+        "country": "England",
+        "lat": 52.6362,
+        "lng": -1.1331969,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Leicester City",
+        "city": "Leicester",
+        "country": "England",
+        "lat": 52.6362,
+        "lng": -1.1331969,
+        "fromYear": 2016,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrej_Kramaric"
+  },
+  {
+    "id": "ante-budimir",
+    "name": "Ante Budimir",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Croatian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "LASK",
+        "city": "Pasching",
+        "country": "Austria",
+        "lat": 48.2576453,
+        "lng": 14.2044214,
+        "fromYear": 2008,
+        "toYear": 2008
+      },
+      {
+        "clubName": "HNK Gorica",
+        "city": "Velika Gorica",
+        "country": "Croatia",
+        "lat": 45.7155672,
+        "lng": 16.0717164,
+        "fromYear": 2009,
+        "toYear": 2011
+      },
+      {
+        "clubName": "NK Inker",
+        "city": "Zapresic",
+        "country": "Croatia",
+        "lat": 45.8572728,
+        "lng": 15.8050436,
+        "fromYear": 2011,
+        "toYear": 2013
+      },
+      {
+        "clubName": "NK Lokomotiva Zagreb",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "lat": 45.8130967,
+        "lng": 15.9772795,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "FC St. Pauli",
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.5501721,
+        "lng": 10.0013165,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "FC Crotone",
+        "city": "Crotone",
+        "country": "Italy",
+        "lat": 39.1873894,
+        "lng": 16.8782819,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "UC Sampdoria",
+        "city": "Genova",
+        "country": "Italy",
+        "lat": 44.40726,
+        "lng": 8.9338624,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "FC St. Pauli",
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.5501721,
+        "lng": 10.0013165,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "FC Crotone",
+        "city": "Crotone",
+        "country": "Italy",
+        "lat": 39.1873894,
+        "lng": 16.8782819,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "UC Sampdoria",
+        "city": "Genova",
+        "country": "Italy",
+        "lat": 44.40726,
+        "lng": 8.9338624,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "RCD Mallorca",
+        "city": "Palma de Mallorca",
+        "country": "Spain",
+        "lat": 39.5695818,
+        "lng": 2.6500745,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Crotone",
+        "city": "Crotone",
+        "country": "Italy",
+        "lat": 39.1873894,
+        "lng": 16.8782819,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "CA Osasuna",
+        "city": "Pamplona",
+        "country": "Spain",
+        "lat": 42.815686,
+        "lng": -1.6522353,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "RCD Mallorca",
+        "city": "Palma de Mallorca",
+        "country": "Spain",
+        "lat": 39.5695818,
+        "lng": 2.6500745,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ante_Budimir"
+  },
+  {
+    "id": "dominik-kotarski",
+    "name": "Dominik Kotarski",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Croatian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Ajax Amsterdam",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "lat": 52.3730796,
+        "lng": 4.8924534,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "HNK Gorica",
+        "city": "Velika Gorica",
+        "country": "Croatia",
+        "lat": 45.7155672,
+        "lng": 16.0717164,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "PAOK Thessaloniki",
+        "city": "Thessaloniki",
+        "country": "Greece",
+        "lat": 40.6403167,
+        "lng": 22.9352716,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Ajax Amsterdam",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "lat": 52.3730796,
+        "lng": 4.8924534,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Copenhagen",
+        "city": "København Ø.",
+        "country": "Denmark",
+        "lat": 55.6428043,
+        "lng": 12.5549822,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Dominik_Kotarski"
+  },
+  {
+    "id": "dominik-livakovic",
+    "name": "Dominik Livakovic",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Croatian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "NK Zagreb",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "lat": 45.8130967,
+        "lng": 15.9772795,
+        "fromYear": 2012,
+        "toYear": 2015
+      },
+      {
+        "clubName": "GNK Dinamo Zagreb",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "lat": 45.8130967,
+        "lng": 15.9772795,
+        "fromYear": 2015,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Fenerbahce",
+        "city": "Kadıköy / İstanbul",
+        "country": "Türkiye",
+        "lat": 40.9912028,
+        "lng": 29.0401521,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Girona FC",
+        "city": "Girona",
+        "country": "Spain",
+        "lat": 41.9793006,
+        "lng": 2.8199439,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Fenerbahce",
+        "city": "Kadıköy / İstanbul",
+        "country": "Türkiye",
+        "lat": 40.9912028,
+        "lng": 29.0401521,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "GNK Dinamo Zagreb",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "lat": 45.8130967,
+        "lng": 15.9772795,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Fenerbahce",
+        "city": "Kadıköy / İstanbul",
+        "country": "Türkiye",
+        "lat": 40.9912028,
+        "lng": 29.0401521,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Dominik_Livakovic"
+  },
+  {
+    "id": "duje-caleta-car",
+    "name": "Duje Caleta-Car",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Croatian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "HNK Sibenik",
+        "city": "Sibenik",
+        "country": "Croatia",
+        "lat": 43.7340647,
+        "lng": 15.8944767,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Red Bull Salzburg",
+        "city": "Wals-Siezenheim",
+        "country": "Austria",
+        "lat": 47.7986,
+        "lng": 12.9807,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "LASK Amateure OÖ",
+        "city": "Pasching",
+        "country": "Austria",
+        "lat": 48.2576453,
+        "lng": 14.2044214,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "FC Liefering",
+        "city": "Salzburg",
+        "country": "Austria",
+        "lat": 47.7981346,
+        "lng": 13.0464806,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Red Bull Salzburg",
+        "city": "Wals-Siezenheim",
+        "country": "Austria",
+        "lat": 47.7986,
+        "lng": 12.9807,
+        "fromYear": 2014,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Olympique Marseille",
+        "city": "Marseille",
+        "country": "France",
+        "lat": 43.2963986,
+        "lng": 5.3777888,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Southampton FC",
+        "city": "Southampton",
+        "country": "England",
+        "lat": 50.9025349,
+        "lng": -1.404189,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Olympique Lyon",
+        "city": "Décines-Charpieu",
+        "country": "France",
+        "lat": 45.773606,
+        "lng": 4.9633314,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Southampton FC",
+        "city": "Southampton",
+        "country": "England",
+        "lat": 50.9025349,
+        "lng": -1.404189,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Olympique Lyon",
+        "city": "Décines-Charpieu",
+        "country": "France",
+        "lat": 45.773606,
+        "lng": 4.9633314,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Real Sociedad",
+        "city": "Donostia-San Sebastián (Gipuzkoa)",
+        "country": "Spain",
+        "lat": 43.3224219,
+        "lng": -1.9838889,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Olympique Lyon",
+        "city": "Décines-Charpieu",
+        "country": "France",
+        "lat": 45.773606,
+        "lng": 4.9633314,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Duje_Caleta-Car"
+  },
+  {
+    "id": "igor-matanovic",
+    "name": "Igor Matanovic",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Croatian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "FC St. Pauli",
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.5501721,
+        "lng": 10.0013165,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC St. Pauli",
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.5501721,
+        "lng": 10.0013165,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Karlsruher SC",
+        "city": "Karlsruhe",
+        "country": "Germany",
+        "lat": 49.0068705,
+        "lng": 8.4034195,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "SC Freiburg",
+        "city": "Freiburg im Breisgau",
+        "country": "Germany",
+        "lat": 47.9960901,
+        "lng": 7.8494005,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Igor_Matanovic"
+  },
+  {
+    "id": "ivan-perisic",
+    "name": "Ivan Perišić",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Croatian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "FC Sochaux-Montbéliard B",
+        "city": "Montbéliard",
+        "country": "France",
+        "lat": 47.5102368,
+        "lng": 6.7977564,
+        "fromYear": 2006,
+        "toYear": 2008
+      },
+      {
+        "clubName": "FC Sochaux-Montbéliard",
+        "city": "Montbéliard",
+        "country": "France",
+        "lat": 47.5102368,
+        "lng": 6.7977564,
+        "fromYear": 2008,
+        "toYear": 2009
+      },
+      {
+        "clubName": "KSV Roeselare (-2020)",
+        "city": "Roeselare",
+        "country": "Belgium",
+        "lat": 50.9449511,
+        "lng": 3.1243935,
+        "fromYear": 2009,
+        "toYear": 2009
+      },
+      {
+        "clubName": "FC Sochaux-Montbéliard",
+        "city": "Montbéliard",
+        "country": "France",
+        "lat": 47.5102368,
+        "lng": 6.7977564,
+        "fromYear": 2009,
+        "toYear": 2009
+      },
+      {
+        "clubName": "Club Brugge KV",
+        "city": "Brugge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2009,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2011,
+        "toYear": 2013
+      },
+      {
+        "clubName": "VfL Wolfsburg",
+        "city": "Wolfsburg",
+        "country": "Germany",
+        "lat": 52.4205588,
+        "lng": 10.7861682,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Inter Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2015,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Inter Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Tottenham Hotspur",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "HNK Hajduk Split",
+        "city": "Split",
+        "country": "Croatia",
+        "lat": 43.5116383,
+        "lng": 16.4399659,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Tottenham Hotspur",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivan_Peri%C5%A1i%C4%87"
+  },
+  {
+    "id": "ivor-pandur",
+    "name": "Ivor Pandur",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Croatian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "HNK Rijeka",
+        "city": "Rijeka",
+        "country": "Croatia",
+        "lat": 45.3267976,
+        "lng": 14.442208,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Hellas Verona",
+        "city": "Verona",
+        "country": "Italy",
+        "lat": 45.4424977,
+        "lng": 10.9857377,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Fortuna Sittard",
+        "city": "Sittard",
+        "country": "Netherlands",
+        "lat": 50.9974235,
+        "lng": 5.8666627,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Hellas Verona",
+        "city": "Verona",
+        "country": "Italy",
+        "lat": 45.4424977,
+        "lng": 10.9857377,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Hull City",
+        "city": "Hull",
+        "country": "England",
+        "lat": 53.7623863,
+        "lng": -0.3301214,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Rangers FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivor_Pandur"
+  },
+  {
+    "id": "josip-stanisic",
+    "name": "Josip Stanisic",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Croatian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Bayern Munich II",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Bayer 04 Leverkusen",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "lat": 51.0324743,
+        "lng": 6.9881194,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Josip_Stanisic"
+  },
+  {
+    "id": "josip-sutalo",
+    "name": "Josip Sutalo",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Croatian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "GNK Dinamo Zagreb",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "lat": 45.8130967,
+        "lng": 15.9772795,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "NK Istra 1961",
+        "city": "Pula",
+        "country": "Croatia",
+        "lat": 44.8702281,
+        "lng": 13.8455311,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "GNK Dinamo Zagreb",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "lat": 45.8130967,
+        "lng": 15.9772795,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Ajax Amsterdam",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "lat": 52.3730796,
+        "lng": 4.8924534,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Josip_Sutalo"
+  },
+  {
+    "id": "josko-gvardiol",
+    "name": "Josko Gvardiol",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Croatian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "GNK Dinamo Zagreb",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "lat": 45.8130967,
+        "lng": 15.9772795,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Josko_Gvardiol"
+  },
+  {
+    "id": "kristijan-jakic",
+    "name": "Kristijan Jakic",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Croatian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "RNK Split",
+        "city": "Split",
+        "country": "Croatia",
+        "lat": 43.5116383,
+        "lng": 16.4399659,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "NK Lokomotiva Zagreb",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "lat": 45.8130967,
+        "lng": 15.9772795,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "NK Istra 1961",
+        "city": "Pula",
+        "country": "Croatia",
+        "lat": 44.8702281,
+        "lng": 13.8455311,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "NK Lokomotiva Zagreb",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "lat": 45.8130967,
+        "lng": 15.9772795,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "GNK Dinamo Zagreb",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "lat": 45.8130967,
+        "lng": 15.9772795,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "GNK Dinamo Zagreb",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "lat": 45.8130967,
+        "lng": 15.9772795,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Augsburg",
+        "city": "Augsburg",
+        "country": "Germany",
+        "lat": 48.3690341,
+        "lng": 10.8979522,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kristijan_Jakic"
+  },
+  {
+    "id": "luka-modric",
+    "name": "Luka Modrić",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Croatian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "GNK Dinamo Zagreb",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "lat": 45.8130967,
+        "lng": 15.9772795,
+        "fromYear": 2002,
+        "toYear": 2003
+      },
+      {
+        "clubName": "HSK Zrinjski Mostar",
+        "city": "Mostar",
+        "country": "Bosnia-Herzegovina",
+        "lat": 43.3435855,
+        "lng": 17.8076584,
+        "fromYear": 2003,
+        "toYear": 2004
+      },
+      {
+        "clubName": "GNK Dinamo Zagreb",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "lat": 45.8130967,
+        "lng": 15.9772795,
+        "fromYear": 2004,
+        "toYear": 2004
+      },
+      {
+        "clubName": "NK Inker",
+        "city": "Zapresic",
+        "country": "Croatia",
+        "lat": 45.8572728,
+        "lng": 15.8050436,
+        "fromYear": 2004,
+        "toYear": 2005
+      },
+      {
+        "clubName": "GNK Dinamo Zagreb",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "lat": 45.8130967,
+        "lng": 15.9772795,
+        "fromYear": 2005,
+        "toYear": 2008
+      },
+      {
+        "clubName": "Tottenham Hotspur",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2008,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2012,
+        "toYear": 2025
+      },
+      {
+        "clubName": "AC Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87"
+  },
+  {
+    "id": "luka-sucic",
+    "name": "Luka Sucic",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Croatian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Liefering",
+        "city": "Salzburg",
+        "country": "Austria",
+        "lat": 47.7981346,
+        "lng": 13.0464806,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Red Bull Salzburg",
+        "city": "Wals-Siezenheim",
+        "country": "Austria",
+        "lat": 47.7986,
+        "lng": 12.9807,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Real Sociedad",
+        "city": "Donostia-San Sebastián (Gipuzkoa)",
+        "country": "Spain",
+        "lat": 43.3224219,
+        "lng": -1.9838889,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Luka_Sucic"
+  },
+  {
+    "id": "luka-vuskovic",
+    "name": "Luka Vuskovic",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Croatian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "HNK Hajduk Split",
+        "city": "Split",
+        "country": "Croatia",
+        "lat": 43.5116383,
+        "lng": 16.4399659,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Radomiak Radom",
+        "city": "Radom",
+        "country": "Poland",
+        "lat": 51.4022557,
+        "lng": 21.1541546,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "HNK Hajduk Split",
+        "city": "Split",
+        "country": "Croatia",
+        "lat": 43.5116383,
+        "lng": 16.4399659,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "KVC Westerlo",
+        "city": "Westerlo",
+        "country": "Belgium",
+        "lat": 51.086694,
+        "lng": 4.9168675,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Tottenham Hotspur",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "HNK Hajduk Split",
+        "city": "Split",
+        "country": "Croatia",
+        "lat": 43.5116383,
+        "lng": 16.4399659,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Hamburger SV",
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.5501721,
+        "lng": 10.0013165,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Tottenham Hotspur",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Luka_Vuskovic"
+  },
+  {
+    "id": "marco-pasalic",
+    "name": "Marco Pašalić",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Croatian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "VfB Stuttgart II",
+        "city": "Stuttgart",
+        "country": "Germany",
+        "lat": 48.7784485,
+        "lng": 9.1800132,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Borussia Dortmund II",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "HNK Rijeka",
+        "city": "Rijeka",
+        "country": "Croatia",
+        "lat": 45.3267976,
+        "lng": 14.442208,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Orlando City SC",
+        "city": "Lake Mary, Florida",
+        "country": "United States",
+        "lat": 28.7562749,
+        "lng": -81.322093,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marco_Pa%C5%A1ali%C4%87"
+  },
+  {
+    "id": "marin-pongracic",
+    "name": "Marin Pongracic",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Croatian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "TSV 1860 München II",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Red Bull Salzburg",
+        "city": "Wals-Siezenheim",
+        "country": "Austria",
+        "lat": 47.7986,
+        "lng": 12.9807,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "TSV 1860 Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "VfL Wolfsburg",
+        "city": "Wolfsburg",
+        "country": "Germany",
+        "lat": 52.4205588,
+        "lng": 10.7861682,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "VfL Wolfsburg",
+        "city": "Wolfsburg",
+        "country": "Germany",
+        "lat": 52.4205588,
+        "lng": 10.7861682,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "US Lecce",
+        "city": "Lecce",
+        "country": "Italy",
+        "lat": 40.1522173,
+        "lng": 18.2260628,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "VfL Wolfsburg",
+        "city": "Wolfsburg",
+        "country": "Germany",
+        "lat": 52.4205588,
+        "lng": 10.7861682,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "ACF Fiorentina",
+        "city": "Firenze",
+        "country": "Italy",
+        "lat": 43.7697955,
+        "lng": 11.2556404,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marin_Pongracic"
+  },
+  {
+    "id": "mario-pasalic",
+    "name": "Mario Pašalić",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Croatian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "HNK Hajduk Split",
+        "city": "Split",
+        "country": "Croatia",
+        "lat": 43.5116383,
+        "lng": 16.4399659,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Elche CF",
+        "city": "Elche (Alicante)",
+        "country": "Spain",
+        "lat": 38.2653307,
+        "lng": -0.6988391,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "AS Monaco",
+        "city": "Monaco",
+        "country": "Monaco",
+        "lat": 43.7309697,
+        "lng": 7.4248152,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "AC Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Spartak Moscow",
+        "city": "Moskau",
+        "country": "Russia",
+        "lat": 55.625578,
+        "lng": 37.6063916,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Atalanta BC",
+        "city": "Bergamo",
+        "country": "Italy",
+        "lat": 45.7566557,
+        "lng": 9.7542192,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2020,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mario_Pa%C5%A1ali%C4%87"
+  },
+  {
+    "id": "martin-baturina",
+    "name": "Martin Baturina",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Croatian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "GNK Dinamo Zagreb",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "lat": 45.8130967,
+        "lng": 15.9772795,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Como 1907",
+        "city": "Como",
+        "country": "Italy",
+        "lat": 45.9394759,
+        "lng": 9.1494101,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Martin_Baturina"
+  },
+  {
+    "id": "martin-erlic",
+    "name": "Martin Erlić",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Croatian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Südtirol",
+        "city": "Bolzano",
+        "country": "Italy",
+        "lat": 46.6559296,
+        "lng": 11.2301833,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "US Sassuolo",
+        "city": "Sassuolo",
+        "country": "Italy",
+        "lat": 44.5409769,
+        "lng": 10.7829023,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Spezia Calcio",
+        "city": "La Spezia",
+        "country": "Italy",
+        "lat": 44.238366,
+        "lng": 9.6912326,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "US Sassuolo",
+        "city": "Sassuolo",
+        "country": "Italy",
+        "lat": 44.5409769,
+        "lng": 10.7829023,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Spezia Calcio",
+        "city": "La Spezia",
+        "country": "Italy",
+        "lat": 44.238366,
+        "lng": 9.6912326,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "US Sassuolo",
+        "city": "Sassuolo",
+        "country": "Italy",
+        "lat": 44.5409769,
+        "lng": 10.7829023,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Bologna FC 1909",
+        "city": "Bologna",
+        "country": "Italy",
+        "lat": 44.4938203,
+        "lng": 11.3426327,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Midtjylland",
+        "city": "Herning",
+        "country": "Denmark",
+        "lat": 56.1379757,
+        "lng": 8.9746623,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Martin_Erli%C4%87"
+  },
+  {
+    "id": "mateo-kovacic",
+    "name": "Mateo Kovacic",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Croatian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "GNK Dinamo Zagreb",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "lat": 45.8130967,
+        "lng": 15.9772795,
+        "fromYear": 2010,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Inter Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2015,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mateo_Kovacic"
+  },
+  {
+    "id": "nikola-moro",
+    "name": "Nikola Moro",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Croatian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "GNK Dinamo Zagreb",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "lat": 45.8130967,
+        "lng": 15.9772795,
+        "fromYear": 2016,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Dynamo Moscow",
+        "city": "Moskau",
+        "country": "Russia",
+        "lat": 55.625578,
+        "lng": 37.6063916,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Bologna FC 1909",
+        "city": "Bologna",
+        "country": "Italy",
+        "lat": 44.4938203,
+        "lng": 11.3426327,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Dynamo Moscow",
+        "city": "Moskau",
+        "country": "Russia",
+        "lat": 55.625578,
+        "lng": 37.6063916,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nikola_Moro"
+  },
+  {
+    "id": "nikola-vlasic",
+    "name": "Nikola Vlašić",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Croatian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "HNK Hajduk Split",
+        "city": "Split",
+        "country": "Croatia",
+        "lat": 43.5116383,
+        "lng": 16.4399659,
+        "fromYear": 2014,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Everton FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "CSKA Moscow",
+        "city": "Moscow",
+        "country": "Russia",
+        "lat": 55.625578,
+        "lng": 37.6063916,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Everton FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "West Ham United",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Torino FC",
+        "city": "Torino",
+        "country": "Italy",
+        "lat": 45.0677551,
+        "lng": 7.6824892,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "West Ham United",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Torino FC",
+        "city": "Torino",
+        "country": "Italy",
+        "lat": 45.0677551,
+        "lng": 7.6824892,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nikola_Vla%C5%A1i%C4%87"
+  },
+  {
+    "id": "petar-musa",
+    "name": "Petar Musa",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Croatian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "NK Inker",
+        "city": "Zapresic",
+        "country": "Croatia",
+        "lat": 45.8572728,
+        "lng": 15.8050436,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "SK Slavia Prague B",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "FK Viktoria Zizkov",
+        "city": "Praha",
+        "country": "Czech Republic",
+        "lat": 50.0874654,
+        "lng": 14.4212535,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Slovan Liberec",
+        "city": "Liberec",
+        "country": "Czech Republic",
+        "lat": 50.7702648,
+        "lng": 15.0583947,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "1.FC Union Berlin",
+        "city": "Berlin",
+        "country": "Germany",
+        "lat": 52.5173885,
+        "lng": 13.3951309,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Boavista FC",
+        "city": "Porto",
+        "country": "Portugal",
+        "lat": 41.1502195,
+        "lng": -8.6103497,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "SL Benfica",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Dallas",
+        "city": "Frisco, Texas",
+        "country": "United States",
+        "lat": 33.1505998,
+        "lng": -96.8238183,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Petar_Musa"
+  },
+  {
+    "id": "petar-sucic",
+    "name": "Petar Sučić",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Croatian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "GNK Dinamo Zagreb",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "lat": 45.8130967,
+        "lng": 15.9772795,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "HSK Zrinjski Mostar",
+        "city": "Mostar",
+        "country": "Bosnia-Herzegovina",
+        "lat": 43.3435855,
+        "lng": 17.8076584,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "GNK Dinamo Zagreb",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "lat": 45.8130967,
+        "lng": 15.9772795,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Inter Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Petar_Su%C4%8Di%C4%87"
+  },
+  {
+    "id": "toni-fruk",
+    "name": "Toni Fruk",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Croatian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "NK NASK Nasice",
+        "city": "Našice",
+        "country": "Croatia",
+        "lat": 45.4907759,
+        "lng": 18.0938075,
+        "fromYear": 2012,
+        "toYear": 2012
+      },
+      {
+        "clubName": "NK Dubrava Tim kabel",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "lat": 45.8130967,
+        "lng": 15.9772795,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "ACF Fiorentina",
+        "city": "Firenze",
+        "country": "Italy",
+        "lat": 43.7697955,
+        "lng": 11.2556404,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "HNK Gorica",
+        "city": "Velika Gorica",
+        "country": "Croatia",
+        "lat": 45.7155672,
+        "lng": 16.0717164,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "ACF Fiorentina",
+        "city": "Firenze",
+        "country": "Italy",
+        "lat": 43.7697955,
+        "lng": 11.2556404,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "HNK Rijeka",
+        "city": "Rijeka",
+        "country": "Croatia",
+        "lat": 45.3267976,
+        "lng": 14.442208,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Toni_Fruk"
+  }
+]

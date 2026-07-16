@@ -1,0 +1,1673 @@
+[
+  {
+    "id": "alexander-bernhardsson",
+    "name": "Alexander Bernhardsson",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Swedish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Jonsereds IF",
+        "city": "Jonsered",
+        "country": "Sweden",
+        "lat": 57.7469786,
+        "lng": 12.1712604,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Örgryte IS",
+        "city": "Göteborg",
+        "country": "Sweden",
+        "lat": 57.7072326,
+        "lng": 11.9670171,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "IF Elfsborg",
+        "city": "Borås",
+        "country": "Sweden",
+        "lat": 57.7210839,
+        "lng": 12.9407407,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Holstein Kiel",
+        "city": "Kiel",
+        "country": "Germany",
+        "lat": 54.3227085,
+        "lng": 10.135555,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Bernhardsson"
+  },
+  {
+    "id": "alexander-isak",
+    "name": "Alexander Isak",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Swedish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "AIK",
+        "city": "Solna",
+        "country": "Sweden",
+        "lat": 59.366667,
+        "lng": 18.016667,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Real Sociedad",
+        "city": "Donostia-San Sebastián (Gipuzkoa)",
+        "country": "Spain",
+        "lat": 43.3224219,
+        "lng": -1.9838889,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Willem II Tilburg",
+        "city": "Tilburg",
+        "country": "Netherlands",
+        "lat": 51.5856185,
+        "lng": 5.0660616,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Newcastle United",
+        "city": "Newcastle upon Tyne",
+        "country": "England",
+        "lat": 54.9738474,
+        "lng": -1.6131572,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Liverpool FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Isak"
+  },
+  {
+    "id": "anthony-elanga",
+    "name": "Anthony Elanga",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Swedish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Newcastle United",
+        "city": "Newcastle upon Tyne",
+        "country": "England",
+        "lat": 54.9738474,
+        "lng": -1.6131572,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Anthony_Elanga"
+  },
+  {
+    "id": "benjamin-nygren",
+    "name": "Benjamin Nygren",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Swedish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "IFK Göteborg",
+        "city": "Göteborg",
+        "country": "Sweden",
+        "lat": 57.7072326,
+        "lng": 11.9670171,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "KRC Genk",
+        "city": "Genk",
+        "country": "Belgium",
+        "lat": 50.9654864,
+        "lng": 5.5001456,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "SC Heerenveen",
+        "city": "Heerenveen",
+        "country": "Netherlands",
+        "lat": 52.9984742,
+        "lng": 5.9231488,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "KRC Genk",
+        "city": "Genk",
+        "country": "Belgium",
+        "lat": 50.9654864,
+        "lng": 5.5001456,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Nordsjaelland",
+        "city": "Farum",
+        "country": "Denmark",
+        "lat": 55.8101232,
+        "lng": 12.3702505,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Celtic FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Benjamin_Nygren"
+  },
+  {
+    "id": "besfort-zeneli",
+    "name": "Besfort Zeneli",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Swedish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "IF Elfsborg",
+        "city": "Borås",
+        "country": "Sweden",
+        "lat": 57.7210839,
+        "lng": 12.9407407,
+        "fromYear": 2022,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Union Saint-Gilloise",
+        "city": "Bruxelles",
+        "country": "Belgium",
+        "lat": 50.8551025,
+        "lng": 4.3510915,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Besfort_Zeneli"
+  },
+  {
+    "id": "carl-starfelt",
+    "name": "Carl Starfelt",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Swedish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "IF Brommapojkarna",
+        "city": "Bromma",
+        "country": "Sweden",
+        "lat": 59.339769,
+        "lng": 17.9395411,
+        "fromYear": 2014,
+        "toYear": 2018
+      },
+      {
+        "clubName": "IFK Göteborg",
+        "city": "Göteborg",
+        "country": "Sweden",
+        "lat": 57.7072326,
+        "lng": 11.9670171,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Rubin Kazan",
+        "city": "Kazan",
+        "country": "Russia",
+        "lat": 55.7946485,
+        "lng": 49.1115022,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Celtic FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Celta de Vigo",
+        "city": "Vigo",
+        "country": "Spain",
+        "lat": 42.1986395,
+        "lng": -8.727956,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Carl_Starfelt"
+  },
+  {
+    "id": "daniel-svensson",
+    "name": "Daniel Svensson",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Swedish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "IF Brommapojkarna",
+        "city": "Bromma",
+        "country": "Sweden",
+        "lat": 59.339769,
+        "lng": 17.9395411,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Nordsjaelland",
+        "city": "Farum",
+        "country": "Denmark",
+        "lat": 55.8101232,
+        "lng": 12.3702505,
+        "fromYear": 2021,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Nordsjaelland",
+        "city": "Farum",
+        "country": "Denmark",
+        "lat": 55.8101232,
+        "lng": 12.3702505,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Svensson"
+  },
+  {
+    "id": "elliot-stroud",
+    "name": "Elliot Stroud",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Swedish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "IK Oddevold",
+        "city": "Uddevalla",
+        "country": "Sweden",
+        "lat": 58.3490555,
+        "lng": 11.9382855,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Mjällby AIF",
+        "city": "Sölvesborg",
+        "country": "Sweden",
+        "lat": 56.0506535,
+        "lng": 14.5871906,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Elliot_Stroud"
+  },
+  {
+    "id": "eric-smith",
+    "name": "Eric Smith",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Swedish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Halmstads BK",
+        "city": "Halmstad",
+        "country": "Sweden",
+        "lat": 56.6739826,
+        "lng": 12.8574827,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "IFK Norrköping",
+        "city": "Norrköping",
+        "country": "Sweden",
+        "lat": 58.5909124,
+        "lng": 16.1903511,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "KAA Gent",
+        "city": "Gent",
+        "country": "Belgium",
+        "lat": 51.0538286,
+        "lng": 3.7250121,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Tromsø IL",
+        "city": "Tromsø",
+        "country": "Norway",
+        "lat": 69.6516345,
+        "lng": 18.9558585,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "KAA Gent",
+        "city": "Gent",
+        "country": "Belgium",
+        "lat": 51.0538286,
+        "lng": 3.7250121,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "IFK Norrköping",
+        "city": "Norrköping",
+        "country": "Sweden",
+        "lat": 58.5909124,
+        "lng": 16.1903511,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "KAA Gent",
+        "city": "Gent",
+        "country": "Belgium",
+        "lat": 51.0538286,
+        "lng": 3.7250121,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC St. Pauli",
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.5501721,
+        "lng": 10.0013165,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "KAA Gent",
+        "city": "Gent",
+        "country": "Belgium",
+        "lat": 51.0538286,
+        "lng": 3.7250121,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC St. Pauli",
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.5501721,
+        "lng": 10.0013165,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eric_Smith"
+  },
+  {
+    "id": "gabriel-gudmundsson",
+    "name": "Gabriel Gudmundsson",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Swedish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Halmstads BK",
+        "city": "Halmstad",
+        "country": "Sweden",
+        "lat": 56.6739826,
+        "lng": 12.8574827,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Groningen",
+        "city": "Groningen",
+        "country": "Netherlands",
+        "lat": 53.2190652,
+        "lng": 6.5680077,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "LOSC Lille",
+        "city": "Camphin-en-Pévèle",
+        "country": "France",
+        "lat": 50.5948763,
+        "lng": 3.2583523,
+        "fromYear": 2021,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Leeds United",
+        "city": "Leeds",
+        "country": "England",
+        "lat": 53.7974185,
+        "lng": -1.5437941,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Gabriel_Gudmundsson"
+  },
+  {
+    "id": "gustaf-lagerbielke",
+    "name": "Gustaf Lagerbielke",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Swedish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Sollentuna FK",
+        "city": "Sollentuna",
+        "country": "Sweden",
+        "lat": 59.4293164,
+        "lng": 17.9500556,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Vasalunds IF",
+        "city": "Solna, Stockholm",
+        "country": "Sweden",
+        "lat": 59.366667,
+        "lng": 18.016667,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Sollentuna FK",
+        "city": "Sollentuna",
+        "country": "Sweden",
+        "lat": 59.4293164,
+        "lng": 17.9500556,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Västerås SK",
+        "city": "Västerås",
+        "country": "Sweden",
+        "lat": 59.6110992,
+        "lng": 16.5463679,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "IF Elfsborg",
+        "city": "Borås",
+        "country": "Sweden",
+        "lat": 57.7210839,
+        "lng": 12.9407407,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Degerfors IF",
+        "city": "Degerfors",
+        "country": "Sweden",
+        "lat": 59.266667,
+        "lng": 14.433333,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "IF Elfsborg",
+        "city": "Borås",
+        "country": "Sweden",
+        "lat": 57.7210839,
+        "lng": 12.9407407,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Celtic FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Twente Enschede",
+        "city": "Enschede",
+        "country": "Netherlands",
+        "lat": 52.2209855,
+        "lng": 6.8940537,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Celtic FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "SC Braga",
+        "city": "Braga",
+        "country": "Portugal",
+        "lat": 41.5510583,
+        "lng": -8.4280045,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Gustaf_Lagerbielke"
+  },
+  {
+    "id": "gustaf-nilsson",
+    "name": "Gustaf Nilsson",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Swedish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Falkenbergs FF",
+        "city": "Falkenberg",
+        "country": "Sweden",
+        "lat": 56.904894,
+        "lng": 12.4912926,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Bröndby IF",
+        "city": "Brøndby",
+        "country": "Denmark",
+        "lat": 55.644111,
+        "lng": 12.4217135,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Silkeborg IF",
+        "city": "Silkeborg",
+        "country": "Denmark",
+        "lat": 56.169453,
+        "lng": 9.5495141,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Bröndby IF",
+        "city": "Brøndby",
+        "country": "Denmark",
+        "lat": 55.644111,
+        "lng": 12.4217135,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Vejle Boldklub",
+        "city": "Vejle",
+        "country": "Denmark",
+        "lat": 55.707931,
+        "lng": 9.5329419,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "BK Häcken",
+        "city": "Göteborg",
+        "country": "Sweden",
+        "lat": 57.7072326,
+        "lng": 11.9670171,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Falkenbergs FF",
+        "city": "Falkenberg",
+        "country": "Sweden",
+        "lat": 56.904894,
+        "lng": 12.4912926,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "BK Häcken",
+        "city": "Göteborg",
+        "country": "Sweden",
+        "lat": 57.7072326,
+        "lng": 11.9670171,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "SV Wehen Wiesbaden",
+        "city": "Wiesbaden",
+        "country": "Germany",
+        "lat": 50.0820384,
+        "lng": 8.2416556,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Union Saint-Gilloise",
+        "city": "Bruxelles",
+        "country": "Belgium",
+        "lat": 50.8551025,
+        "lng": 4.3510915,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Club Brugge KV",
+        "city": "Brugge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Gustaf_Nilsson"
+  },
+  {
+    "id": "herman-johansson",
+    "name": "Herman Johansson",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Swedish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Sandvikens IF",
+        "city": "Sandviken",
+        "country": "Sweden",
+        "lat": 60.6218652,
+        "lng": 16.7759991,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Mjällby AIF",
+        "city": "Sölvesborg",
+        "country": "Sweden",
+        "lat": 56.0506535,
+        "lng": 14.5871906,
+        "fromYear": 2021,
+        "toYear": 2026
+      },
+      {
+        "clubName": "FC Dallas",
+        "city": "Frisco, Texas",
+        "country": "United States",
+        "lat": 33.1505998,
+        "lng": -96.8238183,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Herman_Johansson"
+  },
+  {
+    "id": "hjalmar-ekdal",
+    "name": "Hjalmar Ekdal",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Swedish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "IF Brommapojkarna",
+        "city": "Bromma",
+        "country": "Sweden",
+        "lat": 59.339769,
+        "lng": 17.9395411,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "UNC Wilmington Seahawks (UNC Wilmington)",
+        "city": "Wilmington, North Carolina",
+        "country": "United States",
+        "lat": 34.2352853,
+        "lng": -77.9487284,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "IK Frej Täby",
+        "city": "Täby",
+        "country": "Sweden",
+        "lat": 59.4670482,
+        "lng": 18.0658494,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Assyriska FF",
+        "city": "Södertälje",
+        "country": "Sweden",
+        "lat": 59.1964289,
+        "lng": 17.6271663,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "IK Frej Täby",
+        "city": "Täby",
+        "country": "Sweden",
+        "lat": 59.4670482,
+        "lng": 18.0658494,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Hammarby IF",
+        "city": "Årsta",
+        "country": "Sweden",
+        "lat": 59.2964776,
+        "lng": 18.0528626,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "IK Frej Täby",
+        "city": "Täby",
+        "country": "Sweden",
+        "lat": 59.4670482,
+        "lng": 18.0658494,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Hammarby IF",
+        "city": "Årsta",
+        "country": "Sweden",
+        "lat": 59.2964776,
+        "lng": 18.0528626,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "IK Sirius",
+        "city": "Uppsala",
+        "country": "Sweden",
+        "lat": 59.8586126,
+        "lng": 17.6387436,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Hammarby IF",
+        "city": "Årsta",
+        "country": "Sweden",
+        "lat": 59.2964776,
+        "lng": 18.0528626,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Djurgårdens IF",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "lat": 59.3251172,
+        "lng": 18.0710935,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Burnley FC",
+        "city": "Burnley",
+        "country": "England",
+        "lat": 53.7907262,
+        "lng": -2.2439196,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Groningen",
+        "city": "Groningen",
+        "country": "Netherlands",
+        "lat": 53.2190652,
+        "lng": 6.5680077,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Burnley FC",
+        "city": "Burnley",
+        "country": "England",
+        "lat": 53.7907262,
+        "lng": -2.2439196,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Hjalmar_Ekdal"
+  },
+  {
+    "id": "isak-hien",
+    "name": "Isak Hien",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Swedish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Vasalunds IF",
+        "city": "Solna, Stockholm",
+        "country": "Sweden",
+        "lat": 59.366667,
+        "lng": 18.016667,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Djurgårdens IF",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "lat": 59.3251172,
+        "lng": 18.0710935,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Vasalunds IF",
+        "city": "Solna, Stockholm",
+        "country": "Sweden",
+        "lat": 59.366667,
+        "lng": 18.016667,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Djurgårdens IF",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "lat": 59.3251172,
+        "lng": 18.0710935,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Hellas Verona",
+        "city": "Verona",
+        "country": "Italy",
+        "lat": 45.4424977,
+        "lng": 10.9857377,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Atalanta BC",
+        "city": "Bergamo",
+        "country": "Italy",
+        "lat": 45.7566557,
+        "lng": 9.7542192,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Isak_Hien"
+  },
+  {
+    "id": "jacob-widell-zetterstrom",
+    "name": "Jacob Widell Zetterström",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Swedish",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "IFK Lidingö",
+        "city": "Lidingö",
+        "country": "Sweden",
+        "lat": 59.3669445,
+        "lng": 18.1820897,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Djurgårdens IF",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "lat": 59.3251172,
+        "lng": 18.0710935,
+        "fromYear": 2019,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Derby County",
+        "city": "Derby",
+        "country": "England",
+        "lat": 52.9142235,
+        "lng": -1.4719885,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacob_Widell_Zetterstr%C3%B6m"
+  },
+  {
+    "id": "jesper-karlstrom",
+    "name": "Jesper Karlström",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Swedish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "IF Brommapojkarna",
+        "city": "Bromma",
+        "country": "Sweden",
+        "lat": 59.339769,
+        "lng": 17.9395411,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Djurgårdens IF",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "lat": 59.3251172,
+        "lng": 18.0710935,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "IF Brommapojkarna",
+        "city": "Bromma",
+        "country": "Sweden",
+        "lat": 59.339769,
+        "lng": 17.9395411,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Djurgårdens IF",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "lat": 59.3251172,
+        "lng": 18.0710935,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Lech Poznan",
+        "city": "Poznań",
+        "country": "Poland",
+        "lat": 52.4006632,
+        "lng": 16.9197326,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Udinese Calcio",
+        "city": "Udine",
+        "country": "Italy",
+        "lat": 46.0634632,
+        "lng": 13.2358377,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jesper_Karlstr%C3%B6m"
+  },
+  {
+    "id": "ken-sema",
+    "name": "Ken Sema",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Swedish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "IF Sylvia (1922 - 2025)",
+        "city": "Norrköping",
+        "country": "Sweden",
+        "lat": 58.5909124,
+        "lng": 16.1903511,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Ljungskile SK",
+        "city": "Ljungskile",
+        "country": "Sweden",
+        "lat": 58.2246504,
+        "lng": 11.9198287,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Östersunds FK",
+        "city": "Östersund",
+        "country": "Sweden",
+        "lat": 63.1793655,
+        "lng": 14.6357061,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Watford FC",
+        "city": "Watford",
+        "country": "England",
+        "lat": 51.6553875,
+        "lng": -0.3957425,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Udinese Calcio",
+        "city": "Udine",
+        "country": "Italy",
+        "lat": 46.0634632,
+        "lng": 13.2358377,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Watford FC",
+        "city": "Watford",
+        "country": "England",
+        "lat": 51.6553875,
+        "lng": -0.3957425,
+        "fromYear": 2020,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Pafos FC",
+        "city": "Paphos",
+        "country": "Cyprus",
+        "lat": 34.7743988,
+        "lng": 32.4231586,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ken_Sema"
+  },
+  {
+    "id": "kristoffer-nordfeldt",
+    "name": "Kristoffer Nordfeldt",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Swedish",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "IF Brommapojkarna",
+        "city": "Bromma",
+        "country": "Sweden",
+        "lat": 59.339769,
+        "lng": 17.9395411,
+        "fromYear": 2008,
+        "toYear": 2012
+      },
+      {
+        "clubName": "SC Heerenveen",
+        "city": "Heerenveen",
+        "country": "Netherlands",
+        "lat": 52.9984742,
+        "lng": 5.9231488,
+        "fromYear": 2012,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Swansea City",
+        "city": "Swansea",
+        "country": "Wales",
+        "lat": 51.6195955,
+        "lng": -3.9459248,
+        "fromYear": 2015,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Genclerbirligi Ankara",
+        "city": "ANKARA",
+        "country": "Türkiye",
+        "lat": 39.9207759,
+        "lng": 32.8540497,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "AIK",
+        "city": "Solna",
+        "country": "Sweden",
+        "lat": 59.366667,
+        "lng": 18.016667,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kristoffer_Nordfeldt"
+  },
+  {
+    "id": "lucas-bergvall",
+    "name": "Lucas Bergvall",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Swedish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "IF Brommapojkarna",
+        "city": "Bromma",
+        "country": "Sweden",
+        "lat": 59.339769,
+        "lng": 17.9395411,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Djurgårdens IF",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "lat": 59.3251172,
+        "lng": 18.0710935,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Tottenham Hotspur",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Lucas_Bergvall"
+  },
+  {
+    "id": "mattias-svanberg",
+    "name": "Mattias Svanberg",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Swedish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Malmö FF",
+        "city": "Malmö",
+        "country": "Sweden",
+        "lat": 55.6052931,
+        "lng": 13.0001566,
+        "fromYear": 2015,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Bologna FC 1909",
+        "city": "Bologna",
+        "country": "Italy",
+        "lat": 44.4938203,
+        "lng": 11.3426327,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "VfL Wolfsburg",
+        "city": "Wolfsburg",
+        "country": "Germany",
+        "lat": 52.4205588,
+        "lng": 10.7861682,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mattias_Svanberg"
+  },
+  {
+    "id": "taha-ali",
+    "name": "Taha Ali",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Swedish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Sundbybergs IK",
+        "city": "Sundbyberg",
+        "country": "Sweden",
+        "lat": 59.3628802,
+        "lng": 17.9681359,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "IFK Stocksund",
+        "city": "Stocksund",
+        "country": "Sweden",
+        "lat": 59.3845769,
+        "lng": 18.0571915,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Sollentuna FK",
+        "city": "Sollentuna",
+        "country": "Sweden",
+        "lat": 59.4293164,
+        "lng": 17.9500556,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Örebro SK",
+        "city": "Örebro",
+        "country": "Sweden",
+        "lat": 59.2747287,
+        "lng": 15.2151181,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Västerås SK",
+        "city": "Västerås",
+        "country": "Sweden",
+        "lat": 59.6110992,
+        "lng": 16.5463679,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Örebro SK",
+        "city": "Örebro",
+        "country": "Sweden",
+        "lat": 59.2747287,
+        "lng": 15.2151181,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Helsingborgs IF",
+        "city": "Helsingborg",
+        "country": "Sweden",
+        "lat": 56.0442098,
+        "lng": 12.703706,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Malmö FF",
+        "city": "Malmö",
+        "country": "Sweden",
+        "lat": 55.6052931,
+        "lng": 13.0001566,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Taha_Ali"
+  },
+  {
+    "id": "victor-lindelof",
+    "name": "Victor Lindelöf",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Swedish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Västerås SK",
+        "city": "Västerås",
+        "country": "Sweden",
+        "lat": 59.6110992,
+        "lng": 16.5463679,
+        "fromYear": 2009,
+        "toYear": 2012
+      },
+      {
+        "clubName": "SL Benfica B",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2012,
+        "toYear": 2015
+      },
+      {
+        "clubName": "SL Benfica",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2017,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Aston Villa",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Victor_Lindel%C3%B6f"
+  },
+  {
+    "id": "viktor-gyokeres",
+    "name": "Viktor Gyökeres",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Swedish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "IF Brommapojkarna",
+        "city": "Bromma",
+        "country": "Sweden",
+        "lat": 59.339769,
+        "lng": 17.9395411,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC St. Pauli",
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.5501721,
+        "lng": 10.0013165,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Swansea City",
+        "city": "Swansea",
+        "country": "Wales",
+        "lat": 51.6195955,
+        "lng": -3.9459248,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Coventry City",
+        "city": "Coventry",
+        "country": "England",
+        "lat": 52.4081812,
+        "lng": -1.510477,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Coventry City",
+        "city": "Coventry",
+        "country": "England",
+        "lat": 52.4081812,
+        "lng": -1.510477,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Sporting CP",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Viktor_Gy%C3%B6keres"
+  },
+  {
+    "id": "viktor-johansson",
+    "name": "Viktor Johansson",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Swedish",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Alfreton Town",
+        "city": "Alfreton",
+        "country": "England",
+        "lat": 53.0972537,
+        "lng": -1.3900241,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Rotherham United",
+        "city": "Rotherham",
+        "country": "England",
+        "lat": 53.4310417,
+        "lng": -1.355187,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Stoke City",
+        "city": "Stoke-on-Trent",
+        "country": "England",
+        "lat": 53.0162014,
+        "lng": -2.1812607,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Viktor_Johansson"
+  },
+  {
+    "id": "yasin-ayari",
+    "name": "Yasin Ayari",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Swedish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "AIK",
+        "city": "Solna",
+        "country": "Sweden",
+        "lat": 59.366667,
+        "lng": 18.016667,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Coventry City",
+        "city": "Coventry",
+        "country": "England",
+        "lat": 52.4081812,
+        "lng": -1.510477,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Blackburn Rovers",
+        "city": "Blackburn, Lancashire",
+        "country": "England",
+        "lat": 53.749326,
+        "lng": -2.4840566,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Yasin_Ayari"
+  }
+]

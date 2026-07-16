@@ -72,16 +72,6 @@
   color: var(--vw-color-bg);
 }
 
-.team-swatch {
-  display: inline-block;
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
-  margin-right: var(--vw-space-xs);
-  vertical-align: middle;
-  border: 1px solid var(--vw-color-text-light-16);
-}
-
 .year-actions {
   display: flex;
   gap: var(--vw-space-sm);
@@ -149,13 +139,19 @@
   border-radius: var(--vw-radius-xl);
   overflow: hidden;
   background: var(--vw-color-bg);
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
 }
 
 .world-map {
   display: block;
   width: 100%;
   height: auto;
-  max-height: 72vh;
+  max-height: 92vh;
 }
 
 .land {

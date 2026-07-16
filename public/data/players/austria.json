@@ -1,0 +1,1898 @@
+[
+  {
+    "id": "alessandro-schopf",
+    "name": "Alessandro Schöpf",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Austrian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Bayern Munich II",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2012,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "1.FC Nuremberg",
+        "city": "Nürnberg",
+        "country": "Germany",
+        "lat": 49.453872,
+        "lng": 11.077298,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "FC Schalke 04",
+        "city": "Gelsenkirchen",
+        "country": "Germany",
+        "lat": 51.5110321,
+        "lng": 7.0960124,
+        "fromYear": 2016,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Arminia Bielefeld",
+        "city": "Bielefeld",
+        "country": "Germany",
+        "lat": 52.0191005,
+        "lng": 8.531007,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Vancouver Whitecaps FC",
+        "city": "Vancouver, British Columbia",
+        "country": "Canada",
+        "lat": 49.2608724,
+        "lng": -123.113952,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Wolfsberger AC",
+        "city": "Wolfsberg",
+        "country": "Austria",
+        "lat": 46.8390583,
+        "lng": 14.8452061,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "LASK",
+        "city": "Pasching",
+        "country": "Austria",
+        "lat": 48.2576453,
+        "lng": 14.2044214,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Alessandro_Sch%C3%B6pf"
+  },
+  {
+    "id": "alexander-prass",
+    "name": "Alexander Prass",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Austrian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Liefering",
+        "city": "Salzburg",
+        "country": "Austria",
+        "lat": 47.7981346,
+        "lng": 13.0464806,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "SK Sturm Graz",
+        "city": "Graz",
+        "country": "Austria",
+        "lat": 47.0708678,
+        "lng": 15.4382786,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Prass"
+  },
+  {
+    "id": "alexander-schlager",
+    "name": "Alexander Schlager",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Austrian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "FC Liefering",
+        "city": "Salzburg",
+        "country": "Austria",
+        "lat": 47.7981346,
+        "lng": 13.0464806,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "SV Grödig",
+        "city": "Grödig",
+        "country": "Austria",
+        "lat": 47.7381691,
+        "lng": 13.0394985,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "FC Liefering",
+        "city": "Salzburg",
+        "country": "Austria",
+        "lat": 47.7981346,
+        "lng": 13.0464806,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Floridsdorfer AC",
+        "city": "Wien",
+        "country": "Austria",
+        "lat": 48.2083537,
+        "lng": 16.3725042,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "FC Liefering",
+        "city": "Salzburg",
+        "country": "Austria",
+        "lat": 47.7981346,
+        "lng": 13.0464806,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "LASK",
+        "city": "Pasching",
+        "country": "Austria",
+        "lat": 48.2576453,
+        "lng": 14.2044214,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "FC Liefering",
+        "city": "Salzburg",
+        "country": "Austria",
+        "lat": 47.7981346,
+        "lng": 13.0464806,
+        "fromYear": 2017,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Red Bull Salzburg",
+        "city": "Wals-Siezenheim",
+        "country": "Austria",
+        "lat": 47.7986,
+        "lng": 12.9807,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Schlager"
+  },
+  {
+    "id": "carney-chukwuemeka",
+    "name": "Carney Chukwuemeka",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Austrian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Aston Villa",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Carney_Chukwuemeka"
+  },
+  {
+    "id": "david-affengruber",
+    "name": "David Affengruber",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Austrian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Liefering",
+        "city": "Salzburg",
+        "country": "Austria",
+        "lat": 47.7981346,
+        "lng": 13.0464806,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Red Bull Salzburg",
+        "city": "Wals-Siezenheim",
+        "country": "Austria",
+        "lat": 47.7986,
+        "lng": 12.9807,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "SK Sturm Graz",
+        "city": "Graz",
+        "country": "Austria",
+        "lat": 47.0708678,
+        "lng": 15.4382786,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Elche CF",
+        "city": "Elche (Alicante)",
+        "country": "Spain",
+        "lat": 38.2653307,
+        "lng": -0.6988391,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Affengruber"
+  },
+  {
+    "id": "david-alaba",
+    "name": "David Alaba",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Austrian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Young Violets Austria Wien",
+        "city": "Wien",
+        "country": "Austria",
+        "lat": 48.2083537,
+        "lng": 16.3725042,
+        "fromYear": 2008,
+        "toYear": 2008
+      },
+      {
+        "clubName": "FC Bayern Munich II",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2009,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2010,
+        "toYear": 2011
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2011,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2011,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Alaba"
+  },
+  {
+    "id": "dejan-ljubicic",
+    "name": "Dejan Ljubicic",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Austrian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "SK Rapid Wien II",
+        "city": "Wien",
+        "country": "Austria",
+        "lat": 48.2083537,
+        "lng": 16.3725042,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Rapid Vienna",
+        "city": "Wien",
+        "country": "Austria",
+        "lat": 48.2083537,
+        "lng": 16.3725042,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "1. Fortuna Wiener Neustädter SC",
+        "city": "Wiener Neustadt",
+        "country": "Austria",
+        "lat": 47.8131847,
+        "lng": 16.2441166,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "1.FC Köln",
+        "city": "Köln",
+        "country": "Germany",
+        "lat": 50.938361,
+        "lng": 6.959974,
+        "fromYear": 2021,
+        "toYear": 2025
+      },
+      {
+        "clubName": "GNK Dinamo Zagreb",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "lat": 45.8130967,
+        "lng": 15.9772795,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "FC Schalke 04",
+        "city": "Gelsenkirchen",
+        "country": "Germany",
+        "lat": 51.5110321,
+        "lng": 7.0960124,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Dejan_Ljubicic"
+  },
+  {
+    "id": "florian-grillitsch",
+    "name": "Florian Grillitsch",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Austrian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "SV Werder Bremen II",
+        "city": "Bremen",
+        "country": "Germany",
+        "lat": 53.0758196,
+        "lng": 8.8071646,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "SV Werder Bremen",
+        "city": "Bremen",
+        "country": "Germany",
+        "lat": 53.0758196,
+        "lng": 8.8071646,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2017,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Ajax Amsterdam",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "lat": 52.3730796,
+        "lng": 4.8924534,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Real Valladolid CF",
+        "city": "Valladolid",
+        "country": "Spain",
+        "lat": 41.6200024,
+        "lng": -4.7259906,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "SC Braga",
+        "city": "Braga",
+        "country": "Portugal",
+        "lat": 41.5510583,
+        "lng": -8.4280045,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Florian_Grillitsch"
+  },
+  {
+    "id": "florian-wiegele",
+    "name": "Florian Wiegele",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Austrian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "SK Sturm Graz II",
+        "city": "Graz",
+        "country": "Austria",
+        "lat": 47.0708678,
+        "lng": 15.4382786,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Gleisdorf 09",
+        "city": "Gleisdorf",
+        "country": "Austria",
+        "lat": 47.1054105,
+        "lng": 15.7098162,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "DSV Leoben",
+        "city": "Leoben",
+        "country": "Austria",
+        "lat": 47.3805128,
+        "lng": 15.0947756,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Viktoria Plzen",
+        "city": "Pilsen",
+        "country": "Czech Republic",
+        "lat": 49.7477415,
+        "lng": 13.3775249,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Grazer AK 1902",
+        "city": "Graz",
+        "country": "Austria",
+        "lat": 47.0708678,
+        "lng": 15.4382786,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Viktoria Plzen",
+        "city": "Pilsen",
+        "country": "Czech Republic",
+        "lat": 49.7477415,
+        "lng": 13.3775249,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Florian_Wiegele"
+  },
+  {
+    "id": "kevin-danso",
+    "name": "Kevin Danso",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Austrian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Augsburg",
+        "city": "Augsburg",
+        "country": "Germany",
+        "lat": 48.3690341,
+        "lng": 10.8979522,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Southampton FC",
+        "city": "Southampton",
+        "country": "England",
+        "lat": 50.9025349,
+        "lng": -1.404189,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Augsburg",
+        "city": "Augsburg",
+        "country": "Germany",
+        "lat": 48.3690341,
+        "lng": 10.8979522,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Fortuna Düsseldorf",
+        "city": "Düsseldorf",
+        "country": "Germany",
+        "lat": 51.2254018,
+        "lng": 6.7763137,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "RC Lens",
+        "city": "Avion",
+        "country": "France",
+        "lat": 50.4126128,
+        "lng": 2.8343891,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Augsburg",
+        "city": "Augsburg",
+        "country": "Germany",
+        "lat": 48.3690341,
+        "lng": 10.8979522,
+        "fromYear": 2021,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Tottenham Hotspur",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "RC Lens",
+        "city": "Avion",
+        "country": "France",
+        "lat": 50.4126128,
+        "lng": 2.8343891,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kevin_Danso"
+  },
+  {
+    "id": "konrad-laimer",
+    "name": "Konrad Laimer",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Austrian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Liefering",
+        "city": "Salzburg",
+        "country": "Austria",
+        "lat": 47.7981346,
+        "lng": 13.0464806,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Red Bull Salzburg",
+        "city": "Wals-Siezenheim",
+        "country": "Austria",
+        "lat": 47.7986,
+        "lng": 12.9807,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2017,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Konrad_Laimer"
+  },
+  {
+    "id": "marcel-sabitzer",
+    "name": "Marcel Sabitzer",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Austrian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Admira Wacker",
+        "city": "Maria Enzersdorf",
+        "country": "Austria",
+        "lat": 48.0974516,
+        "lng": 16.2837722,
+        "fromYear": 2010,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Rapid Vienna",
+        "city": "Wien",
+        "country": "Austria",
+        "lat": 48.2083537,
+        "lng": 16.3725042,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Red Bull Salzburg",
+        "city": "Wals-Siezenheim",
+        "country": "Austria",
+        "lat": 47.7986,
+        "lng": 12.9807,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2015,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marcel_Sabitzer"
+  },
+  {
+    "id": "marco-friedl",
+    "name": "Marco Friedl",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Austrian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "SV Werder Bremen",
+        "city": "Bremen",
+        "country": "Germany",
+        "lat": 53.0758196,
+        "lng": 8.8071646,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2019,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marco_Friedl"
+  },
+  {
+    "id": "marko-arnautovic",
+    "name": "Marko Arnautovic",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Austrian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Floridsdorfer AC",
+        "city": "Wien",
+        "country": "Austria",
+        "lat": 48.2083537,
+        "lng": 16.3725042,
+        "fromYear": 2005,
+        "toYear": 2006
+      },
+      {
+        "clubName": "FC Twente Enschede",
+        "city": "Enschede",
+        "country": "Netherlands",
+        "lat": 52.2209855,
+        "lng": 6.8940537,
+        "fromYear": 2007,
+        "toYear": 2009
+      },
+      {
+        "clubName": "Inter Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2009,
+        "toYear": 2010
+      },
+      {
+        "clubName": "SV Werder Bremen",
+        "city": "Bremen",
+        "country": "Germany",
+        "lat": 53.0758196,
+        "lng": 8.8071646,
+        "fromYear": 2010,
+        "toYear": 2010
+      },
+      {
+        "clubName": "FC Twente Enschede",
+        "city": "Enschede",
+        "country": "Netherlands",
+        "lat": 52.2209855,
+        "lng": 6.8940537,
+        "fromYear": 2010,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Stoke City",
+        "city": "Stoke-on-Trent",
+        "country": "England",
+        "lat": 53.0162014,
+        "lng": -2.1812607,
+        "fromYear": 2013,
+        "toYear": 2017
+      },
+      {
+        "clubName": "West Ham United",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Shanghai Port",
+        "city": "Pudong, Shanghai",
+        "country": "China",
+        "lat": 31.2232671,
+        "lng": 121.5397849,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Bologna FC 1909",
+        "city": "Bologna",
+        "country": "Italy",
+        "lat": 44.4938203,
+        "lng": 11.3426327,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Inter Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Bologna FC 1909",
+        "city": "Bologna",
+        "country": "Italy",
+        "lat": 44.4938203,
+        "lng": 11.3426327,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Red Star Belgrade",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "lat": 44.8153318,
+        "lng": 20.4456588,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marko_Arnautovic"
+  },
+  {
+    "id": "michael-gregoritsch",
+    "name": "Michael Gregoritsch",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Austrian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Teamsportakademie Kapfenberg",
+        "city": "Kapfenberg",
+        "country": "Austria",
+        "lat": 47.4405481,
+        "lng": 15.2901669,
+        "fromYear": 2008,
+        "toYear": 2009
+      },
+      {
+        "clubName": "SV Kapfenberg II",
+        "city": "Kapfenberg",
+        "country": "Austria",
+        "lat": 47.4405481,
+        "lng": 15.2901669,
+        "fromYear": 2009,
+        "toYear": 2010
+      },
+      {
+        "clubName": "SV Kapfenberg",
+        "city": "Kapfenberg",
+        "country": "Austria",
+        "lat": 47.4405481,
+        "lng": 15.2901669,
+        "fromYear": 2010,
+        "toYear": 2011
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2011,
+        "toYear": 2011
+      },
+      {
+        "clubName": "SV Kapfenberg",
+        "city": "Kapfenberg",
+        "country": "Austria",
+        "lat": 47.4405481,
+        "lng": 15.2901669,
+        "fromYear": 2011,
+        "toYear": 2012
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "FC St. Pauli",
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.5501721,
+        "lng": 10.0013165,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "VfL Bochum",
+        "city": "Bochum",
+        "country": "Germany",
+        "lat": 51.4818111,
+        "lng": 7.2196635,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "VfL Bochum",
+        "city": "Bochum",
+        "country": "Germany",
+        "lat": 51.4818111,
+        "lng": 7.2196635,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Hamburger SV",
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.5501721,
+        "lng": 10.0013165,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "FC Augsburg",
+        "city": "Augsburg",
+        "country": "Germany",
+        "lat": 48.3690341,
+        "lng": 10.8979522,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Schalke 04",
+        "city": "Gelsenkirchen",
+        "country": "Germany",
+        "lat": 51.5110321,
+        "lng": 7.0960124,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Augsburg",
+        "city": "Augsburg",
+        "country": "Germany",
+        "lat": 48.3690341,
+        "lng": 10.8979522,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "SC Freiburg",
+        "city": "Freiburg im Breisgau",
+        "country": "Germany",
+        "lat": 47.9960901,
+        "lng": 7.8494005,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Bröndby IF",
+        "city": "Brøndby",
+        "country": "Denmark",
+        "lat": 55.644111,
+        "lng": 12.4217135,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "FC Augsburg",
+        "city": "Augsburg",
+        "country": "Germany",
+        "lat": 48.3690341,
+        "lng": 10.8979522,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Bröndby IF",
+        "city": "Brøndby",
+        "country": "Denmark",
+        "lat": 55.644111,
+        "lng": 12.4217135,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "FC Augsburg",
+        "city": "Augsburg",
+        "country": "Germany",
+        "lat": 48.3690341,
+        "lng": 10.8979522,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Gregoritsch"
+  },
+  {
+    "id": "michael-svoboda",
+    "name": "Michael Svoboda",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Austrian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Stadlau",
+        "city": "Wien",
+        "country": "Austria",
+        "lat": 48.2083537,
+        "lng": 16.3725042,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "WSG Tirol",
+        "city": "Wattens",
+        "country": "Austria",
+        "lat": 47.2935786,
+        "lng": 11.5907326,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Venezia FC",
+        "city": "Mestre",
+        "country": "Italy",
+        "lat": 45.4943063,
+        "lng": 12.2418053,
+        "fromYear": 2020,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Svoboda"
+  },
+  {
+    "id": "nicolas-seiwald",
+    "name": "Nicolas Seiwald",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Austrian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Liefering",
+        "city": "Salzburg",
+        "country": "Austria",
+        "lat": 47.7981346,
+        "lng": 13.0464806,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Red Bull Salzburg",
+        "city": "Wals-Siezenheim",
+        "country": "Austria",
+        "lat": 47.7986,
+        "lng": 12.9807,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicolas_Seiwald"
+  },
+  {
+    "id": "patrick-pentz",
+    "name": "Patrick Pentz",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Austrian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Young Violets Austria Wien",
+        "city": "Wien",
+        "country": "Austria",
+        "lat": 48.2083537,
+        "lng": 16.3725042,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Austria Vienna",
+        "city": "Wien",
+        "country": "Austria",
+        "lat": 48.2083537,
+        "lng": 16.3725042,
+        "fromYear": 2015,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Stade Reims",
+        "city": "Reims",
+        "country": "France",
+        "lat": 49.2577886,
+        "lng": 4.031926,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Bayer 04 Leverkusen",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "lat": 51.0324743,
+        "lng": 6.9881194,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Bröndby IF",
+        "city": "Brøndby",
+        "country": "Denmark",
+        "lat": 55.644111,
+        "lng": 12.4217135,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Bayer 04 Leverkusen",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "lat": 51.0324743,
+        "lng": 6.9881194,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Patrick_Pentz"
+  },
+  {
+    "id": "patrick-wimmer",
+    "name": "Patrick Wimmer",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Austrian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "AFW Waidhofen",
+        "city": "Waidhofen/Ybbs",
+        "country": "Austria",
+        "lat": 47.9512695,
+        "lng": 14.7445188,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "SV Gaflenz",
+        "city": "Gaflenz",
+        "country": "Austria",
+        "lat": 47.8949595,
+        "lng": 14.7240481,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Young Violets Austria Wien",
+        "city": "Wien",
+        "country": "Austria",
+        "lat": 48.2083537,
+        "lng": 16.3725042,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Austria Vienna",
+        "city": "Wien",
+        "country": "Austria",
+        "lat": 48.2083537,
+        "lng": 16.3725042,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Arminia Bielefeld",
+        "city": "Bielefeld",
+        "country": "Germany",
+        "lat": 52.0191005,
+        "lng": 8.531007,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "VfL Wolfsburg",
+        "city": "Wolfsburg",
+        "country": "Germany",
+        "lat": 52.4205588,
+        "lng": 10.7861682,
+        "fromYear": 2022,
+        "toYear": 2026
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Patrick_Wimmer"
+  },
+  {
+    "id": "paul-wanner",
+    "name": "Paul Wanner",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Austrian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "SV 07 Elversberg",
+        "city": "St. Ingbert",
+        "country": "Germany",
+        "lat": 49.2788378,
+        "lng": 7.1156707,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "1.FC Heidenheim 1846",
+        "city": "Heidenheim",
+        "country": "Germany",
+        "lat": 48.6767637,
+        "lng": 10.152923,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Wanner"
+  },
+  {
+    "id": "philipp-lienhart",
+    "name": "Philipp Lienhart",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Austrian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "SK Rapid Wien II",
+        "city": "Wien",
+        "country": "Austria",
+        "lat": 48.2083537,
+        "lng": 16.3725042,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Real Madrid Castilla",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "SK Rapid Wien II",
+        "city": "Wien",
+        "country": "Austria",
+        "lat": 48.2083537,
+        "lng": 16.3725042,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "SC Freiburg",
+        "city": "Freiburg im Breisgau",
+        "country": "Germany",
+        "lat": 47.9960901,
+        "lng": 7.8494005,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2018,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Philipp_Lienhart"
+  },
+  {
+    "id": "phillipp-mwene",
+    "name": "Phillipp Mwene",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Austrian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "VfB Stuttgart II",
+        "city": "Stuttgart",
+        "country": "Germany",
+        "lat": 48.7784485,
+        "lng": 9.1800132,
+        "fromYear": 2013,
+        "toYear": 2016
+      },
+      {
+        "clubName": "1.FC Kaiserslautern",
+        "city": "Kaiserslautern",
+        "country": "Germany",
+        "lat": 49.4432174,
+        "lng": 7.7689951,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "1.FSV Mainz 05",
+        "city": "Mainz",
+        "country": "Germany",
+        "lat": 49.9995205,
+        "lng": 8.2736253,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "1.FSV Mainz 05",
+        "city": "Mainz",
+        "country": "Germany",
+        "lat": 49.9995205,
+        "lng": 8.2736253,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Phillipp_Mwene"
+  },
+  {
+    "id": "romano-schmid",
+    "name": "Romano Schmid",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Austrian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "SK Sturm Graz",
+        "city": "Graz",
+        "country": "Austria",
+        "lat": 47.0708678,
+        "lng": 15.4382786,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "SK Sturm Graz II",
+        "city": "Graz",
+        "country": "Austria",
+        "lat": 47.0708678,
+        "lng": 15.4382786,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Red Bull Salzburg",
+        "city": "Wals-Siezenheim",
+        "country": "Austria",
+        "lat": 47.7986,
+        "lng": 12.9807,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "SV Werder Bremen",
+        "city": "Bremen",
+        "country": "Germany",
+        "lat": 53.0758196,
+        "lng": 8.8071646,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Wolfsberger AC",
+        "city": "Wolfsberg",
+        "country": "Austria",
+        "lat": 46.8390583,
+        "lng": 14.8452061,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "SV Werder Bremen",
+        "city": "Bremen",
+        "country": "Germany",
+        "lat": 53.0758196,
+        "lng": 8.8071646,
+        "fromYear": 2020,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Romano_Schmid"
+  },
+  {
+    "id": "sasa-kalajdzic",
+    "name": "Sasa Kalajdzic",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Austrian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "SR Donaufeld",
+        "city": "Wien",
+        "country": "Austria",
+        "lat": 48.2083537,
+        "lng": 16.3725042,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Admira Wacker Panthers",
+        "city": "Maria Enzersdorf",
+        "country": "Austria",
+        "lat": 48.0974516,
+        "lng": 16.2837722,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Admira Wacker",
+        "city": "Maria Enzersdorf",
+        "country": "Austria",
+        "lat": 48.0974516,
+        "lng": 16.2837722,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "VfB Stuttgart",
+        "city": "Stuttgart",
+        "country": "Germany",
+        "lat": 48.7784485,
+        "lng": 9.1800132,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Wolverhampton Wanderers",
+        "city": "Wolverhampton",
+        "country": "England",
+        "lat": 52.5847651,
+        "lng": -2.127567,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "LASK",
+        "city": "Pasching",
+        "country": "Austria",
+        "lat": 48.2576453,
+        "lng": 14.2044214,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Wolverhampton Wanderers",
+        "city": "Wolverhampton",
+        "country": "England",
+        "lat": 52.5847651,
+        "lng": -2.127567,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Sasa_Kalajdzic"
+  },
+  {
+    "id": "stefan-posch",
+    "name": "Stefan Posch",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Austrian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Admira Wacker Panthers",
+        "city": "Maria Enzersdorf",
+        "country": "Austria",
+        "lat": 48.0974516,
+        "lng": 16.2837722,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Admira Wacker",
+        "city": "Maria Enzersdorf",
+        "country": "Austria",
+        "lat": 48.0974516,
+        "lng": 16.2837722,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim II",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2017,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Bologna FC 1909",
+        "city": "Bologna",
+        "country": "Italy",
+        "lat": 44.4938203,
+        "lng": 11.3426327,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Como 1907",
+        "city": "Como",
+        "country": "Italy",
+        "lat": 45.9394759,
+        "lng": 9.1494101,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Atalanta BC",
+        "city": "Bergamo",
+        "country": "Italy",
+        "lat": 45.7566557,
+        "lng": 9.7542192,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Bologna FC 1909",
+        "city": "Bologna",
+        "country": "Italy",
+        "lat": 44.4938203,
+        "lng": 11.3426327,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Como 1907",
+        "city": "Como",
+        "country": "Italy",
+        "lat": 45.9394759,
+        "lng": 9.1494101,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "1.FSV Mainz 05",
+        "city": "Mainz",
+        "country": "Germany",
+        "lat": 49.9995205,
+        "lng": 8.2736253,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Como 1907",
+        "city": "Como",
+        "country": "Italy",
+        "lat": 45.9394759,
+        "lng": 9.1494101,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Stefan_Posch"
+  },
+  {
+    "id": "xaver-schlager",
+    "name": "Xaver Schlager",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Austrian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Liefering",
+        "city": "Salzburg",
+        "country": "Austria",
+        "lat": 47.7981346,
+        "lng": 13.0464806,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Red Bull Salzburg",
+        "city": "Wals-Siezenheim",
+        "country": "Austria",
+        "lat": 47.7986,
+        "lng": 12.9807,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "VfL Wolfsburg",
+        "city": "Wolfsburg",
+        "country": "Germany",
+        "lat": 52.4205588,
+        "lng": 10.7861682,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Xaver_Schlager"
+  }
+]

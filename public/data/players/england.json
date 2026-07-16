@@ -1,0 +1,1538 @@
+[
+  {
+    "id": "anthony-gordon",
+    "name": "Anthony Gordon",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "English",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Everton FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Preston North End",
+        "city": "Preston",
+        "country": "England",
+        "lat": 53.7593363,
+        "lng": -2.6992717,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Everton FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Newcastle United",
+        "city": "Newcastle upon Tyne",
+        "country": "England",
+        "lat": 54.9738474,
+        "lng": -1.6131572,
+        "fromYear": 2023,
+        "toYear": 2026
+      },
+      {
+        "clubName": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Anthony_Gordon"
+  },
+  {
+    "id": "bukayo-saka",
+    "name": "Bukayo Saka",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "English",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2019,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Bukayo_Saka"
+  },
+  {
+    "id": "dan-burn",
+    "name": "Dan Burn",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "English",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Blyth Spartans",
+        "city": "Blyth",
+        "country": "England",
+        "lat": 55.1270903,
+        "lng": -1.5099726,
+        "fromYear": 2007,
+        "toYear": 2009
+      },
+      {
+        "clubName": "Darlington FC (- 2012)",
+        "city": "Darlington",
+        "country": "England",
+        "lat": 54.5242081,
+        "lng": -1.5555812,
+        "fromYear": 2009,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Fulham FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2011,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Yeovil Town",
+        "city": "Yeovil",
+        "country": "England",
+        "lat": 50.9420451,
+        "lng": -2.6318629,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Birmingham City",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Fulham FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2013,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Wigan Athletic",
+        "city": "Wigan",
+        "country": "England",
+        "lat": 53.546215,
+        "lng": -2.6319112,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Wigan Athletic",
+        "city": "Wigan",
+        "country": "England",
+        "lat": 53.546215,
+        "lng": -2.6319112,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Newcastle United",
+        "city": "Newcastle upon Tyne",
+        "country": "England",
+        "lat": 54.9738474,
+        "lng": -1.6131572,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Dan_Burn"
+  },
+  {
+    "id": "dean-henderson",
+    "name": "Dean Henderson",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "English",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Grimsby Town",
+        "city": "Grimsby, South Humberside",
+        "country": "England",
+        "lat": 53.5773181,
+        "lng": -0.1110058,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Shrewsbury Town",
+        "city": "Shrewsbury",
+        "country": "England",
+        "lat": 52.707755,
+        "lng": -2.7540658,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Sheffield United",
+        "city": "Sheffield",
+        "country": "England",
+        "lat": 53.3806626,
+        "lng": -1.4702278,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Crystal Palace",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Dean_Henderson"
+  },
+  {
+    "id": "declan-rice",
+    "name": "Declan Rice",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "English",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "West Ham United",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2017,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Declan_Rice"
+  },
+  {
+    "id": "djed-spence",
+    "name": "Djed Spence",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "English",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Middlesbrough FC",
+        "city": "Middlesbrough",
+        "country": "England",
+        "lat": 54.5760419,
+        "lng": -1.2344047,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Middlesbrough FC",
+        "city": "Middlesbrough",
+        "country": "England",
+        "lat": 54.5760419,
+        "lng": -1.2344047,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Tottenham Hotspur",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Stade Rennais FC",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Tottenham Hotspur",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Leeds United",
+        "city": "Leeds",
+        "country": "England",
+        "lat": 53.7974185,
+        "lng": -1.5437941,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Tottenham Hotspur",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Genoa CFC",
+        "city": "Genova",
+        "country": "Italy",
+        "lat": 44.40726,
+        "lng": 8.9338624,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Djed_Spence"
+  },
+  {
+    "id": "eberechi-eze",
+    "name": "Eberechi Eze",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "English",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Queens Park Rangers",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Wycombe Wanderers",
+        "city": "Sands, High Wycombe",
+        "country": "England",
+        "lat": 51.6326385,
+        "lng": -0.7845023,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Queens Park Rangers",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Crystal Palace",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2020,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eberechi_Eze"
+  },
+  {
+    "id": "elliot-anderson",
+    "name": "Elliot Anderson",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "English",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Newcastle United",
+        "city": "Newcastle upon Tyne",
+        "country": "England",
+        "lat": 54.9738474,
+        "lng": -1.6131572,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Bristol Rovers",
+        "city": "Bristol",
+        "country": "England",
+        "lat": 51.4538022,
+        "lng": -2.5972985,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Elliot_Anderson"
+  },
+  {
+    "id": "ezri-konsa",
+    "name": "Ezri Konsa",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "English",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Charlton Athletic",
+        "city": "Charlton, London",
+        "country": "England",
+        "lat": 51.4826053,
+        "lng": 0.0365359,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Brentford FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Aston Villa",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2019,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ezri_Konsa"
+  },
+  {
+    "id": "harry-kane",
+    "name": "Harry Kane",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "English",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Tottenham Hotspur",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2010,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Leyton Orient",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2011,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Millwall FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2012,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Tottenham Hotspur",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2012,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Norwich City",
+        "city": "Norwich",
+        "country": "England",
+        "lat": 52.6285576,
+        "lng": 1.2923954,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Tottenham Hotspur",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Leicester City",
+        "city": "Leicester",
+        "country": "England",
+        "lat": 52.6362,
+        "lng": -1.1331969,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Tottenham Hotspur",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2013,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Harry_Kane"
+  },
+  {
+    "id": "ivan-toney",
+    "name": "Ivan Toney",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "English",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Northampton Town",
+        "city": "Sixfields Stadium, Northampton",
+        "country": "England",
+        "lat": 52.2352633,
+        "lng": -0.9335741,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Newcastle United",
+        "city": "Newcastle upon Tyne",
+        "country": "England",
+        "lat": 54.9738474,
+        "lng": -1.6131572,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Barnsley FC",
+        "city": "Barnsley",
+        "country": "England",
+        "lat": 53.5527719,
+        "lng": -1.4827755,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Newcastle United",
+        "city": "Newcastle upon Tyne",
+        "country": "England",
+        "lat": 54.9738474,
+        "lng": -1.6131572,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Barnsley FC",
+        "city": "Barnsley",
+        "country": "England",
+        "lat": 53.5527719,
+        "lng": -1.4827755,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Newcastle United",
+        "city": "Newcastle upon Tyne",
+        "country": "England",
+        "lat": 54.9738474,
+        "lng": -1.6131572,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Shrewsbury Town",
+        "city": "Shrewsbury",
+        "country": "England",
+        "lat": 52.707755,
+        "lng": -2.7540658,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Wigan Athletic",
+        "city": "Wigan",
+        "country": "England",
+        "lat": 53.546215,
+        "lng": -2.6319112,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Newcastle United",
+        "city": "Newcastle upon Tyne",
+        "country": "England",
+        "lat": 54.9738474,
+        "lng": -1.6131572,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Scunthorpe United",
+        "city": "Scunthorpe",
+        "country": "England",
+        "lat": 53.5922488,
+        "lng": -0.6450841,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Newcastle United",
+        "city": "Newcastle upon Tyne",
+        "country": "England",
+        "lat": 54.9738474,
+        "lng": -1.6131572,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Peterborough United",
+        "city": "Peterborough",
+        "country": "England",
+        "lat": 52.5725769,
+        "lng": -0.2427336,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Newcastle United",
+        "city": "Newcastle upon Tyne",
+        "country": "England",
+        "lat": 54.9738474,
+        "lng": -1.6131572,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Scunthorpe United",
+        "city": "Scunthorpe",
+        "country": "England",
+        "lat": 53.5922488,
+        "lng": -0.6450841,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Brentford FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Ahli SFC",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.5504432,
+        "lng": 39.1742363,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivan_Toney"
+  },
+  {
+    "id": "james-trafford",
+    "name": "James Trafford",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "English",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Accrington Stanley",
+        "city": "Accrington, Lancashire",
+        "country": "England",
+        "lat": 53.7541156,
+        "lng": -2.3655434,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Bolton Wanderers",
+        "city": "Bolton",
+        "country": "England",
+        "lat": 53.5782863,
+        "lng": -2.4300367,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Burnley FC",
+        "city": "Burnley",
+        "country": "England",
+        "lat": 53.7907262,
+        "lng": -2.2439196,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Trafford"
+  },
+  {
+    "id": "jarell-quansah",
+    "name": "Jarell Quansah",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "English",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Liverpool FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Bristol Rovers",
+        "city": "Bristol",
+        "country": "England",
+        "lat": 51.4538022,
+        "lng": -2.5972985,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Bayer 04 Leverkusen",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "lat": 51.0324743,
+        "lng": 6.9881194,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jarell_Quansah"
+  },
+  {
+    "id": "john-stones",
+    "name": "John Stones",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "English",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Barnsley FC",
+        "city": "Barnsley",
+        "country": "England",
+        "lat": 53.5527719,
+        "lng": -1.4827755,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Everton FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2013,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2016,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Stones"
+  },
+  {
+    "id": "jordan-henderson",
+    "name": "Jordan Henderson",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "English",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Sunderland AFC",
+        "city": "Sunderland",
+        "country": "England",
+        "lat": 54.9058512,
+        "lng": -1.3828727,
+        "fromYear": 2008,
+        "toYear": 2009
+      },
+      {
+        "clubName": "Coventry City",
+        "city": "Coventry",
+        "country": "England",
+        "lat": 52.4081812,
+        "lng": -1.510477,
+        "fromYear": 2009,
+        "toYear": 2009
+      },
+      {
+        "clubName": "Sunderland AFC",
+        "city": "Sunderland",
+        "country": "England",
+        "lat": 54.9058512,
+        "lng": -1.3828727,
+        "fromYear": 2009,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Liverpool FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2011,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Ettifaq FC",
+        "city": "Dammam",
+        "country": "Saudi Arabia",
+        "lat": 26.4367824,
+        "lng": 50.1039991,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Ajax Amsterdam",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "lat": 52.3730796,
+        "lng": 4.8924534,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Brentford FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jordan_Henderson"
+  },
+  {
+    "id": "jordan-pickford",
+    "name": "Jordan Pickford",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "English",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Darlington FC (- 2012)",
+        "city": "Darlington",
+        "country": "England",
+        "lat": 54.5242081,
+        "lng": -1.5555812,
+        "fromYear": 2012,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Sunderland AFC",
+        "city": "Sunderland",
+        "country": "England",
+        "lat": 54.9058512,
+        "lng": -1.3828727,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Burton Albion",
+        "city": "Burton on Trent",
+        "country": "England",
+        "lat": 52.802742,
+        "lng": -1.629917,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Alfreton Town",
+        "city": "Alfreton",
+        "country": "England",
+        "lat": 53.0972537,
+        "lng": -1.3900241,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Sunderland AFC",
+        "city": "Sunderland",
+        "country": "England",
+        "lat": 54.9058512,
+        "lng": -1.3828727,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Bradford City",
+        "city": "Bradford",
+        "country": "England",
+        "lat": 53.7944229,
+        "lng": -1.7519186,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Carlisle United",
+        "city": "Carlisle",
+        "country": "England",
+        "lat": 54.8948478,
+        "lng": -2.9362311,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Preston North End",
+        "city": "Preston",
+        "country": "England",
+        "lat": 53.7593363,
+        "lng": -2.6992717,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Sunderland AFC",
+        "city": "Sunderland",
+        "country": "England",
+        "lat": 54.9058512,
+        "lng": -1.3828727,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Everton FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2017,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jordan_Pickford"
+  },
+  {
+    "id": "jude-bellingham",
+    "name": "Jude Bellingham",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "English",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Birmingham City",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jude_Bellingham"
+  },
+  {
+    "id": "kobbie-mainoo",
+    "name": "Kobbie Mainoo",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "English",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kobbie_Mainoo"
+  },
+  {
+    "id": "marc-guehi",
+    "name": "Marc Guéhi",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "English",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Swansea City",
+        "city": "Swansea",
+        "country": "Wales",
+        "lat": 51.6195955,
+        "lng": -3.9459248,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Crystal Palace",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2021,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marc_Gu%C3%A9hi"
+  },
+  {
+    "id": "marcus-rashford",
+    "name": "Marcus Rashford",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "English",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2016,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Aston Villa",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marcus_Rashford"
+  },
+  {
+    "id": "morgan-rogers",
+    "name": "Morgan Rogers",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "English",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Lincoln City",
+        "city": "Lincoln",
+        "country": "England",
+        "lat": 53.2293545,
+        "lng": -0.5404819,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "AFC Bournemouth",
+        "city": "Bournemouth",
+        "country": "England",
+        "lat": 50.7446718,
+        "lng": -1.8579514,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Blackpool FC",
+        "city": "Blackpool",
+        "country": "England",
+        "lat": 53.8179442,
+        "lng": -3.0509812,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Middlesbrough FC",
+        "city": "Middlesbrough",
+        "country": "England",
+        "lat": 54.5760419,
+        "lng": -1.2344047,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Aston Villa",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Morgan_Rogers"
+  },
+  {
+    "id": "nico-o-reilly",
+    "name": "Nico O'Reilly",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "English",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nico_O%27Reilly"
+  },
+  {
+    "id": "noni-madueke",
+    "name": "Noni Madueke",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "English",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Noni_Madueke"
+  },
+  {
+    "id": "ollie-watkins",
+    "name": "Ollie Watkins",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "English",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Exeter City",
+        "city": "Exeter",
+        "country": "England",
+        "lat": 50.7256138,
+        "lng": -3.5269209,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Weston-super-Mare AFC",
+        "city": "Weston-super-Mare",
+        "country": "England",
+        "lat": 51.3471927,
+        "lng": -2.9778916,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Exeter City",
+        "city": "Exeter",
+        "country": "England",
+        "lat": 50.7256138,
+        "lng": -3.5269209,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Brentford FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Aston Villa",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2020,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ollie_Watkins"
+  },
+  {
+    "id": "reece-james",
+    "name": "Reece James",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "English",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Wigan Athletic",
+        "city": "Wigan",
+        "country": "England",
+        "lat": 53.546215,
+        "lng": -2.6319112,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2019,
+        "toYear": 2019
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Reece_James"
+  },
+  {
+    "id": "trevoh-chalobah",
+    "name": "Trevoh Chalobah",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "English",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Ipswich Town",
+        "city": "Ipswich",
+        "country": "England",
+        "lat": 52.0579324,
+        "lng": 1.1528095,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Huddersfield Town",
+        "city": "Huddersfield",
+        "country": "England",
+        "lat": 53.6466645,
+        "lng": -1.7822482,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Lorient",
+        "city": "Lorient",
+        "country": "France",
+        "lat": 47.7477336,
+        "lng": -3.3660907,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Crystal Palace",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Trevoh_Chalobah"
+  }
+]

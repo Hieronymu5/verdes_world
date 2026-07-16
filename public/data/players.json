@@ -2787,6 +2787,15 @@
         "lat": 30.3848,
         "lng": -97.7183,
         "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "LA Galaxy",
+        "city": "Los Angeles",
+        "country": "USA",
+        "lat": 33.8643,
+        "lng": -118.2611,
+        "fromYear": 2026,
         "toYear": 2026
       }
     ],

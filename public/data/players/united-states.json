@@ -1,0 +1,1754 @@
+[
+  {
+    "id": "alex-freeman",
+    "name": "Alex Freeman",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "American",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Orlando City SC",
+        "city": "Lake Mary, Florida",
+        "country": "United States",
+        "lat": 28.7562749,
+        "lng": -81.322093,
+        "fromYear": 2022,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Villarreal CF",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_Freeman"
+  },
+  {
+    "id": "antonee-robinson",
+    "name": "Antonee Robinson",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "American",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Bolton Wanderers",
+        "city": "Bolton",
+        "country": "England",
+        "lat": 53.5782863,
+        "lng": -2.4300367,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Wigan Athletic",
+        "city": "Wigan",
+        "country": "England",
+        "lat": 53.546215,
+        "lng": -2.6319112,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Fulham FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2020,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Antonee_Robinson"
+  },
+  {
+    "id": "auston-trusty",
+    "name": "Auston Trusty",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "American",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Philadelphia Union II",
+        "city": "Chester, Pennsylvania",
+        "country": "United States",
+        "lat": 39.9829308,
+        "lng": -75.7652424,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Philadelphia Union",
+        "city": "Chester",
+        "country": "United States",
+        "lat": 39.9829308,
+        "lng": -75.7652424,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Colorado Rapids",
+        "city": "Commerce City, Colorado",
+        "country": "United States",
+        "lat": 39.8083196,
+        "lng": -104.9338675,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Birmingham City",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Sheffield United",
+        "city": "Sheffield",
+        "country": "England",
+        "lat": 53.3806626,
+        "lng": -1.4702278,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Celtic FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Auston_Trusty"
+  },
+  {
+    "id": "brenden-aaronson",
+    "name": "Brenden Aaronson",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "American",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Philadelphia Union II",
+        "city": "Chester, Pennsylvania",
+        "country": "United States",
+        "lat": 39.9829308,
+        "lng": -75.7652424,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Philadelphia Union",
+        "city": "Chester",
+        "country": "United States",
+        "lat": 39.9829308,
+        "lng": -75.7652424,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Red Bull Salzburg",
+        "city": "Wals-Siezenheim",
+        "country": "Austria",
+        "lat": 47.7986,
+        "lng": 12.9807,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Leeds United",
+        "city": "Leeds",
+        "country": "England",
+        "lat": 53.7974185,
+        "lng": -1.5437941,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "1.FC Union Berlin",
+        "city": "Berlin",
+        "country": "Germany",
+        "lat": 52.5173885,
+        "lng": 13.3951309,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Leeds United",
+        "city": "Leeds",
+        "country": "England",
+        "lat": 53.7974185,
+        "lng": -1.5437941,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Brenden_Aaronson"
+  },
+  {
+    "id": "chris-brady",
+    "name": "Chris Brady",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "American",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Chicago Fire FC",
+        "city": "Bridgeview",
+        "country": "United States",
+        "lat": 41.7500323,
+        "lng": -87.8042216,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Forward Madison FC",
+        "city": "Madison, Wisconsin",
+        "country": "United States",
+        "lat": 43.07469,
+        "lng": -89.3841663,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Chicago Fire FC",
+        "city": "Bridgeview",
+        "country": "United States",
+        "lat": 41.7500323,
+        "lng": -87.8042216,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Forward Madison FC",
+        "city": "Madison, Wisconsin",
+        "country": "United States",
+        "lat": 43.07469,
+        "lng": -89.3841663,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Brady"
+  },
+  {
+    "id": "chris-richards",
+    "name": "Chris Richards",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "American",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Texans SC Houston (- 2019)",
+        "city": "Houston, Texas",
+        "country": "United States",
+        "lat": 29.7589382,
+        "lng": -95.3676974,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "FC Dallas",
+        "city": "Frisco, Texas",
+        "country": "United States",
+        "lat": 33.1505998,
+        "lng": -96.8238183,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Bayern Munich II",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Crystal Palace",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Richards"
+  },
+  {
+    "id": "christian-pulisic",
+    "name": "Christian Pulisic",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "American",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "AC Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_Pulisic"
+  },
+  {
+    "id": "cristian-roldan",
+    "name": "Cristian Roldán",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "American",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Seattle Sounders FC",
+        "city": "Seattle",
+        "country": "United States",
+        "lat": 47.6038321,
+        "lng": -122.330062,
+        "fromYear": 2015,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Cristian_Rold%C3%A1n"
+  },
+  {
+    "id": "folarin-balogun",
+    "name": "Folarin Balogun",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "American",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Stade Reims",
+        "city": "Reims",
+        "country": "France",
+        "lat": 49.2577886,
+        "lng": 4.031926,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Middlesbrough FC",
+        "city": "Middlesbrough",
+        "country": "England",
+        "lat": 54.5760419,
+        "lng": -1.2344047,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "AS Monaco",
+        "city": "Monaco",
+        "country": "Monaco",
+        "lat": 43.7309697,
+        "lng": 7.4248152,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Folarin_Balogun"
+  },
+  {
+    "id": "giovanni-reyna",
+    "name": "Giovanni Reyna",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "American",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Borussia Mönchengladbach",
+        "city": "Mönchengladbach",
+        "country": "Germany",
+        "lat": 51.1947131,
+        "lng": 6.4353792,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Giovanni_Reyna"
+  },
+  {
+    "id": "haji-wright",
+    "name": "Haji Wright",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "American",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "New York Cosmos",
+        "city": "Hempstead (Town, New York)",
+        "country": "United States",
+        "lat": 40.7048242,
+        "lng": -73.6501295,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "FC Schalke 04",
+        "city": "Gelsenkirchen",
+        "country": "Germany",
+        "lat": 51.5110321,
+        "lng": 7.0960124,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "SV Sandhausen",
+        "city": "Sandhausen",
+        "country": "Germany",
+        "lat": 49.3424055,
+        "lng": 8.6595053,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "FC Schalke 04 II",
+        "city": "Gelsenkirchen",
+        "country": "Germany",
+        "lat": 51.5110321,
+        "lng": 7.0960124,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "FC Schalke 04",
+        "city": "Gelsenkirchen",
+        "country": "Germany",
+        "lat": 51.5110321,
+        "lng": 7.0960124,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "VVV-Venlo",
+        "city": "Venlo",
+        "country": "Netherlands",
+        "lat": 51.3924489,
+        "lng": 6.1511724,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Sönderjyske Fodbold",
+        "city": "Haderslev",
+        "country": "Denmark",
+        "lat": 55.2500715,
+        "lng": 9.4997871,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Antalyaspor",
+        "city": "Muratpaşa/ANTALYA",
+        "country": "Türkiye",
+        "lat": 36.8524224,
+        "lng": 30.7563713,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Sönderjyske Fodbold",
+        "city": "Haderslev",
+        "country": "Denmark",
+        "lat": 55.2500715,
+        "lng": 9.4997871,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Antalyaspor",
+        "city": "Muratpaşa/ANTALYA",
+        "country": "Türkiye",
+        "lat": 36.8524224,
+        "lng": 30.7563713,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Coventry City",
+        "city": "Coventry",
+        "country": "England",
+        "lat": 52.4081812,
+        "lng": -1.510477,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Haji_Wright"
+  },
+  {
+    "id": "joe-scally",
+    "name": "Joe Scally",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "American",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "New York City FC",
+        "city": "New York City, New York",
+        "country": "United States",
+        "lat": 40.7127281,
+        "lng": -74.0060152,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Borussia Mönchengladbach",
+        "city": "Mönchengladbach",
+        "country": "Germany",
+        "lat": 51.1947131,
+        "lng": 6.4353792,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Joe_Scally"
+  },
+  {
+    "id": "malik-tillman",
+    "name": "Malik Tillman",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "American",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Bayern Munich II",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Rangers FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Bayer 04 Leverkusen",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "lat": 51.0324743,
+        "lng": 6.9881194,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Malik_Tillman"
+  },
+  {
+    "id": "mark-mckenzie",
+    "name": "Mark McKenzie",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "American",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Philadelphia Union II",
+        "city": "Chester, Pennsylvania",
+        "country": "United States",
+        "lat": 39.9829308,
+        "lng": -75.7652424,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Wake Forest Demon Deacons (Wake Forest University)",
+        "city": "Winston-Salem, North Carolina",
+        "country": "United States",
+        "lat": 36.0998131,
+        "lng": -80.2440518,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Philadelphia Union II",
+        "city": "Chester, Pennsylvania",
+        "country": "United States",
+        "lat": 39.9829308,
+        "lng": -75.7652424,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Philadelphia Union",
+        "city": "Chester",
+        "country": "United States",
+        "lat": 39.9829308,
+        "lng": -75.7652424,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Philadelphia Union II",
+        "city": "Chester, Pennsylvania",
+        "country": "United States",
+        "lat": 39.9829308,
+        "lng": -75.7652424,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Philadelphia Union",
+        "city": "Chester",
+        "country": "United States",
+        "lat": 39.9829308,
+        "lng": -75.7652424,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Philadelphia Union II",
+        "city": "Chester, Pennsylvania",
+        "country": "United States",
+        "lat": 39.9829308,
+        "lng": -75.7652424,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Philadelphia Union",
+        "city": "Chester",
+        "country": "United States",
+        "lat": 39.9829308,
+        "lng": -75.7652424,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "KRC Genk",
+        "city": "Genk",
+        "country": "Belgium",
+        "lat": 50.9654864,
+        "lng": 5.5001456,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Toulouse",
+        "city": "Toulouse",
+        "country": "France",
+        "lat": 43.6044638,
+        "lng": 1.4442433,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mark_McKenzie"
+  },
+  {
+    "id": "matt-freese",
+    "name": "Matt Freese",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "American",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Philadelphia Union II",
+        "city": "Chester, Pennsylvania",
+        "country": "United States",
+        "lat": 39.9829308,
+        "lng": -75.7652424,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Philadelphia Union",
+        "city": "Chester",
+        "country": "United States",
+        "lat": 39.9829308,
+        "lng": -75.7652424,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Philadelphia Union II",
+        "city": "Chester, Pennsylvania",
+        "country": "United States",
+        "lat": 39.9829308,
+        "lng": -75.7652424,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Philadelphia Union",
+        "city": "Chester",
+        "country": "United States",
+        "lat": 39.9829308,
+        "lng": -75.7652424,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "New York City FC",
+        "city": "New York City, New York",
+        "country": "United States",
+        "lat": 40.7127281,
+        "lng": -74.0060152,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Matt_Freese"
+  },
+  {
+    "id": "matt-turner",
+    "name": "Matt Turner",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "American",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Fairfield Stags (Fairfield University)",
+        "city": "Fairfield, Connecticut",
+        "country": "United States",
+        "lat": 41.1412078,
+        "lng": -73.2637258,
+        "fromYear": 2012,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Jersey Express SC",
+        "city": "Newark, New Jersey",
+        "country": "United States",
+        "lat": 40.735657,
+        "lng": -74.1723667,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Fairfield Stags (Fairfield University)",
+        "city": "Fairfield, Connecticut",
+        "country": "United States",
+        "lat": 41.1412078,
+        "lng": -73.2637258,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Jersey Express SC",
+        "city": "Newark, New Jersey",
+        "country": "United States",
+        "lat": 40.735657,
+        "lng": -74.1723667,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Fairfield Stags (Fairfield University)",
+        "city": "Fairfield, Connecticut",
+        "country": "United States",
+        "lat": 41.1412078,
+        "lng": -73.2637258,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "New England Revolution",
+        "city": "Foxborough, Massachusetts",
+        "country": "United States",
+        "lat": 42.0653768,
+        "lng": -71.2478308,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Richmond Kickers",
+        "city": "Richmond Virginia",
+        "country": "United States",
+        "lat": 37.5439692,
+        "lng": -77.4405013,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "New England Revolution",
+        "city": "Foxborough, Massachusetts",
+        "country": "United States",
+        "lat": 42.0653768,
+        "lng": -71.2478308,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Richmond Kickers",
+        "city": "Richmond Virginia",
+        "country": "United States",
+        "lat": 37.5439692,
+        "lng": -77.4405013,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "New England Revolution",
+        "city": "Foxborough, Massachusetts",
+        "country": "United States",
+        "lat": 42.0653768,
+        "lng": -71.2478308,
+        "fromYear": 2017,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Crystal Palace",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Olympique Lyon",
+        "city": "Décines-Charpieu",
+        "country": "France",
+        "lat": 45.773606,
+        "lng": 4.9633314,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "New England Revolution",
+        "city": "Foxborough, Massachusetts",
+        "country": "United States",
+        "lat": 42.0653768,
+        "lng": -71.2478308,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Olympique Lyon",
+        "city": "Décines-Charpieu",
+        "country": "France",
+        "lat": 45.773606,
+        "lng": 4.9633314,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Matt_Turner"
+  },
+  {
+    "id": "max-arfsten",
+    "name": "Max Arfsten",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "American",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "San Jose Earthquakes II",
+        "city": "Moraga, California",
+        "country": "United States",
+        "lat": 37.834897,
+        "lng": -122.12883,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Columbus Crew",
+        "city": "Columbus",
+        "country": "United States",
+        "lat": 39.9622601,
+        "lng": -83.0007065,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Max_Arfsten"
+  },
+  {
+    "id": "miles-robinson",
+    "name": "Miles Robinson",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "American",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Boston Bolts",
+        "city": "Waban, Massachusetts",
+        "country": "United States",
+        "lat": 42.3258563,
+        "lng": -71.2306431,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Atlanta United FC",
+        "city": "Marietta, GA",
+        "country": "United States",
+        "lat": 33.9528472,
+        "lng": -84.5496148,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Charleston Battery",
+        "city": "Mount Pleasant, South Carolina",
+        "country": "United States",
+        "lat": 32.7927956,
+        "lng": -79.8678322,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Atlanta United FC",
+        "city": "Marietta, GA",
+        "country": "United States",
+        "lat": 33.9528472,
+        "lng": -84.5496148,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Atlanta United 2",
+        "city": "Kennesaw, Georgia",
+        "country": "United States",
+        "lat": 34.0234337,
+        "lng": -84.6154897,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Atlanta United FC",
+        "city": "Marietta, GA",
+        "country": "United States",
+        "lat": 33.9528472,
+        "lng": -84.5496148,
+        "fromYear": 2018,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Cincinnati",
+        "city": "Cincinnati, Ohio",
+        "country": "United States",
+        "lat": 39.1012809,
+        "lng": -84.5127405,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Miles_Robinson"
+  },
+  {
+    "id": "ricardo-pepi",
+    "name": "Ricardo Pepi",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "American",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "North Texas SC",
+        "city": "Frisco, Texas",
+        "country": "United States",
+        "lat": 33.1505998,
+        "lng": -96.8238183,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Dallas",
+        "city": "Frisco, Texas",
+        "country": "United States",
+        "lat": 33.1505998,
+        "lng": -96.8238183,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "North Texas SC",
+        "city": "Frisco, Texas",
+        "country": "United States",
+        "lat": 33.1505998,
+        "lng": -96.8238183,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Dallas",
+        "city": "Frisco, Texas",
+        "country": "United States",
+        "lat": 33.1505998,
+        "lng": -96.8238183,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Augsburg",
+        "city": "Augsburg",
+        "country": "Germany",
+        "lat": 48.3690341,
+        "lng": 10.8979522,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Groningen",
+        "city": "Groningen",
+        "country": "Netherlands",
+        "lat": 53.2190652,
+        "lng": 6.5680077,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Augsburg",
+        "city": "Augsburg",
+        "country": "Germany",
+        "lat": 48.3690341,
+        "lng": 10.8979522,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ricardo_Pepi"
+  },
+  {
+    "id": "sebastian-berhalter",
+    "name": "Sebastian Berhalter",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "American",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "North Carolina Tar Heels (University of NC)",
+        "city": "Chapel Hill, North Carolina",
+        "country": "United States",
+        "lat": 35.9131542,
+        "lng": -79.05578,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Columbus Crew",
+        "city": "Columbus",
+        "country": "United States",
+        "lat": 39.9622601,
+        "lng": -83.0007065,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Austin FC",
+        "city": "Austin",
+        "country": "United States",
+        "lat": 30.2711286,
+        "lng": -97.7436995,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Columbus Crew",
+        "city": "Columbus",
+        "country": "United States",
+        "lat": 39.9622601,
+        "lng": -83.0007065,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Vancouver Whitecaps FC",
+        "city": "Vancouver, British Columbia",
+        "country": "Canada",
+        "lat": 49.2608724,
+        "lng": -123.113952,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Sebastian_Berhalter"
+  },
+  {
+    "id": "sergino-dest",
+    "name": "Sergiño Dest",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "American",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Ajax Amsterdam",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "lat": 52.3730796,
+        "lng": 4.8924534,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "AC Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Sergi%C3%B1o_Dest"
+  },
+  {
+    "id": "tim-ream",
+    "name": "Tim Ream",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "American",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "St. Louis Scott Gallagher SC",
+        "city": "Fenton, MO",
+        "country": "United States",
+        "lat": 38.5131989,
+        "lng": -90.4400578,
+        "fromYear": 2006,
+        "toYear": 2006
+      },
+      {
+        "clubName": "Chicago Fire Premier",
+        "city": "Bridgeview, Illinois",
+        "country": "United States",
+        "lat": 41.7500323,
+        "lng": -87.8042216,
+        "fromYear": 2008,
+        "toYear": 2009
+      },
+      {
+        "clubName": "Red Bull New York",
+        "city": "NJ, 07094 Secaucus",
+        "country": "United States",
+        "lat": 40.7828896,
+        "lng": -74.0475715,
+        "fromYear": 2010,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Bolton Wanderers",
+        "city": "Bolton",
+        "country": "England",
+        "lat": 53.5782863,
+        "lng": -2.4300367,
+        "fromYear": 2012,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Fulham FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2015,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Charlotte FC",
+        "city": "Charlotte, North Carolina",
+        "country": "United States",
+        "lat": 35.2272086,
+        "lng": -80.8430827,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tim_Ream"
+  },
+  {
+    "id": "timothy-weah",
+    "name": "Timothy Weah",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "American",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Blau Weiss Gottschee",
+        "city": "New York City",
+        "country": "United States",
+        "lat": 40.7127281,
+        "lng": -74.0060152,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Paris Saint-Germain B",
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8534951,
+        "lng": 2.3483915,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Paris Saint-Germain",
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8534951,
+        "lng": 2.3483915,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "LOSC Lille",
+        "city": "Camphin-en-Pévèle",
+        "country": "France",
+        "lat": 50.5948763,
+        "lng": 3.2583523,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Celtic FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Paris Saint-Germain",
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8534951,
+        "lng": 2.3483915,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Juventus FC",
+        "city": "Torino",
+        "country": "Italy",
+        "lat": 45.0677551,
+        "lng": 7.6824892,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Olympique Marseille",
+        "city": "Marseille",
+        "country": "France",
+        "lat": 43.2963986,
+        "lng": 5.3777888,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Juventus FC",
+        "city": "Torino",
+        "country": "Italy",
+        "lat": 45.0677551,
+        "lng": 7.6824892,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Timothy_Weah"
+  },
+  {
+    "id": "tyler-adams",
+    "name": "Tyler Adams",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "American",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Red Bull New York II",
+        "city": "Harrison, New Jersey",
+        "country": "United States",
+        "lat": 40.7464901,
+        "lng": -74.1562551,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Red Bull New York",
+        "city": "NJ, 07094 Secaucus",
+        "country": "United States",
+        "lat": 40.7828896,
+        "lng": -74.0475715,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Red Bull New York II",
+        "city": "Harrison, New Jersey",
+        "country": "United States",
+        "lat": 40.7464901,
+        "lng": -74.1562551,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Red Bull New York",
+        "city": "NJ, 07094 Secaucus",
+        "country": "United States",
+        "lat": 40.7828896,
+        "lng": -74.0475715,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Leeds United",
+        "city": "Leeds",
+        "country": "England",
+        "lat": 53.7974185,
+        "lng": -1.5437941,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "AFC Bournemouth",
+        "city": "Bournemouth",
+        "country": "England",
+        "lat": 50.7446718,
+        "lng": -1.8579514,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tyler_Adams"
+  },
+  {
+    "id": "weston-mckennie",
+    "name": "Weston McKennie",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "American",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Schalke 04",
+        "city": "Gelsenkirchen",
+        "country": "Germany",
+        "lat": 51.5110321,
+        "lng": 7.0960124,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Juventus FC",
+        "city": "Torino",
+        "country": "Italy",
+        "lat": 45.0677551,
+        "lng": 7.6824892,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Schalke 04",
+        "city": "Gelsenkirchen",
+        "country": "Germany",
+        "lat": 51.5110321,
+        "lng": 7.0960124,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Leeds United",
+        "city": "Leeds",
+        "country": "England",
+        "lat": 53.7974185,
+        "lng": -1.5437941,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Juventus FC",
+        "city": "Torino",
+        "country": "Italy",
+        "lat": 45.0677551,
+        "lng": 7.6824892,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Weston_McKennie"
+  },
+  {
+    "id": "alex-zendejas",
+    "name": "Álex Zendejas",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "American",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "FC Dallas",
+        "city": "Frisco, Texas",
+        "country": "United States",
+        "lat": 33.1505998,
+        "lng": -96.8238183,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Deportivo Guadalajara",
+        "city": "Zapopan, Jalisco",
+        "country": "Mexico",
+        "lat": 20.7211203,
+        "lng": -103.3913671,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Zacatepec FC",
+        "city": "Zacatepec, Morelos",
+        "country": "Mexico",
+        "lat": 18.6505958,
+        "lng": -99.2030775,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Deportivo Guadalajara",
+        "city": "Zapopan, Jalisco",
+        "country": "Mexico",
+        "lat": 20.7211203,
+        "lng": -103.3913671,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Club Necaxa",
+        "city": "Aguascalientes, Aguascalientes",
+        "country": "Mexico",
+        "lat": 21.880487,
+        "lng": -102.2967195,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "CF América",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%81lex_Zendejas"
+  }
+]

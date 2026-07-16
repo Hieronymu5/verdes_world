@@ -1,0 +1,1295 @@
+[
+  {
+    "id": "achref-abada",
+    "name": "Achref Abada",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Algerian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "USM Alger",
+        "city": "Bab El Oued, Algier",
+        "country": "Algeria",
+        "lat": 36.7907677,
+        "lng": 3.0530812,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Achref_Abada"
+  },
+  {
+    "id": "adil-boulbina",
+    "name": "Adil Boulbina",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Algerian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Paradou AC",
+        "city": "Hydra, Bir Mourad Raïs, Algier",
+        "country": "Algeria",
+        "lat": 36.7474259,
+        "lng": 3.0401832,
+        "fromYear": 2021,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Duhail SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Adil_Boulbina"
+  },
+  {
+    "id": "amine-gouiri",
+    "name": "Amine Gouiri",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Algerian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Olympique Lyon B",
+        "city": "Décines-Charpieu",
+        "country": "France",
+        "lat": 45.773606,
+        "lng": 4.9633314,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Olympique Lyon",
+        "city": "Décines-Charpieu",
+        "country": "France",
+        "lat": 45.773606,
+        "lng": 4.9633314,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "OGC Nice",
+        "city": "Nice",
+        "country": "France",
+        "lat": 43.7009358,
+        "lng": 7.2683912,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Stade Rennais FC",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Olympique Marseille",
+        "city": "Marseille",
+        "country": "France",
+        "lat": 43.2963986,
+        "lng": 5.3777888,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Amine_Gouiri"
+  },
+  {
+    "id": "anis-hadj-moussa",
+    "name": "Anis Hadj Moussa",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Algerian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "RC Lens B",
+        "city": "Avion",
+        "country": "France",
+        "lat": 50.4126128,
+        "lng": 2.8343891,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Patro Eisden Maasmechelen",
+        "city": "Maasmechelen",
+        "country": "Belgium",
+        "lat": 50.9634179,
+        "lng": 5.6960212,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Vitesse Arnhem",
+        "city": "Arnhem",
+        "country": "Netherlands",
+        "lat": 51.984257,
+        "lng": 5.9108573,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Feyenoord Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Patro Eisden Maasmechelen",
+        "city": "Maasmechelen",
+        "country": "Belgium",
+        "lat": 50.9634179,
+        "lng": 5.6960212,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Anis_Hadj_Moussa"
+  },
+  {
+    "id": "aissa-mandi",
+    "name": "Aïssa Mandi",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Algerian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Stade Reims B",
+        "city": "Reims",
+        "country": "France",
+        "lat": 49.2577886,
+        "lng": 4.031926,
+        "fromYear": 2009,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Stade Reims",
+        "city": "Reims",
+        "country": "France",
+        "lat": 49.2577886,
+        "lng": 4.031926,
+        "fromYear": 2011,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Real Betis Balompié",
+        "city": "Sevilla",
+        "country": "Spain",
+        "lat": 37.3886303,
+        "lng": -5.9953403,
+        "fromYear": 2016,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Villarreal CF",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "LOSC Lille",
+        "city": "Camphin-en-Pévèle",
+        "country": "France",
+        "lat": 50.5948763,
+        "lng": 3.2583523,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/A%C3%AFssa_Mandi"
+  },
+  {
+    "id": "fares-chaibi",
+    "name": "Farès Chaïbi",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Algerian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Toulouse",
+        "city": "Toulouse",
+        "country": "France",
+        "lat": 43.6044638,
+        "lng": 1.4442433,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Far%C3%A8s_Cha%C3%AFbi"
+  },
+  {
+    "id": "fares-ghedjemis",
+    "name": "Farès Ghedjemis",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Algerian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "AC Le Havre B",
+        "city": "Le Havre",
+        "country": "France",
+        "lat": 49.4938975,
+        "lng": 0.1079732,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Évreux Football Club 27",
+        "city": "Évreux",
+        "country": "France",
+        "lat": 49.0268903,
+        "lng": 1.1510164,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Rouen 1899",
+        "city": "Le Petit-Quevilly",
+        "country": "France",
+        "lat": 49.4238,
+        "lng": 1.06208,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Vannes OC",
+        "city": "Theix",
+        "country": "France",
+        "lat": 47.6350664,
+        "lng": -2.6474422,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Frosinone Calcio",
+        "city": "Frosinone",
+        "country": "Italy",
+        "lat": 41.6285468,
+        "lng": 13.5758498,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Far%C3%A8s_Ghedjemis"
+  },
+  {
+    "id": "hicham-boudaoui",
+    "name": "Hicham Boudaoui",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Algerian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Paradou AC",
+        "city": "Hydra, Bir Mourad Raïs, Algier",
+        "country": "Algeria",
+        "lat": 36.7474259,
+        "lng": 3.0401832,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "OGC Nice",
+        "city": "Nice",
+        "country": "France",
+        "lat": 43.7009358,
+        "lng": 7.2683912,
+        "fromYear": 2019,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Hicham_Boudaoui"
+  },
+  {
+    "id": "houssem-aouar",
+    "name": "Houssem Aouar",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Algerian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Olympique Lyon B",
+        "city": "Décines-Charpieu",
+        "country": "France",
+        "lat": 45.773606,
+        "lng": 4.9633314,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Olympique Lyon",
+        "city": "Décines-Charpieu",
+        "country": "France",
+        "lat": 45.773606,
+        "lng": 4.9633314,
+        "fromYear": 2017,
+        "toYear": 2023
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Ittihad Club",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.5504432,
+        "lng": 39.1742363,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Houssem_Aouar"
+  },
+  {
+    "id": "ibrahim-maza",
+    "name": "Ibrahim Maza",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Algerian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Hertha BSC",
+        "city": "Berlin",
+        "country": "Germany",
+        "lat": 52.5173885,
+        "lng": 13.3951309,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Bayer 04 Leverkusen",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "lat": 51.0324743,
+        "lng": 6.9881194,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibrahim_Maza"
+  },
+  {
+    "id": "jaouen-hadjam",
+    "name": "Jaouen Hadjam",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Algerian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Paris FC",
+        "city": "Orly",
+        "country": "France",
+        "lat": 48.7431683,
+        "lng": 2.402391,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Nantes",
+        "city": "La Chapelle-sur-Erdre",
+        "country": "France",
+        "lat": 47.2996846,
+        "lng": -1.5518632,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "BSC Young Boys",
+        "city": "Bern",
+        "country": "Switzerland",
+        "lat": 46.9484742,
+        "lng": 7.4521749,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaouen_Hadjam"
+  },
+  {
+    "id": "luca-zidane",
+    "name": "Luca Zidane",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Algerian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Real Madrid Castilla",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Racing Santander",
+        "city": "Santander",
+        "country": "Spain",
+        "lat": 43.4618932,
+        "lng": -3.8100255,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Rayo Vallecano",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "SD Eibar",
+        "city": "Eibar (Gipuzkoa)",
+        "country": "Spain",
+        "lat": 43.1842839,
+        "lng": -2.4732748,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Granada CF",
+        "city": "Granada",
+        "country": "Spain",
+        "lat": 37.1734995,
+        "lng": -3.5995337,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Luca_Zidane"
+  },
+  {
+    "id": "melvin-mastil",
+    "name": "Melvin Mastil",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Algerian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "FC Echichens",
+        "city": "Echichens",
+        "country": "Switzerland",
+        "lat": 46.5265541,
+        "lng": 6.4978862,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Azzurri LS 90",
+        "city": "Lausanne",
+        "country": "Switzerland",
+        "lat": 46.5218269,
+        "lng": 6.6327025,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Echallens Région",
+        "city": "Echallens",
+        "country": "Switzerland",
+        "lat": 46.6381163,
+        "lng": 6.6346951,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Lausanne-Sport",
+        "city": "Lausanne",
+        "country": "Switzerland",
+        "lat": 46.5218269,
+        "lng": 6.6327025,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Echallens Région",
+        "city": "Echallens",
+        "country": "Switzerland",
+        "lat": 46.6381163,
+        "lng": 6.6346951,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Biel-Bienne 1896",
+        "city": "Biel/Bienne",
+        "country": "Switzerland",
+        "lat": 47.1402077,
+        "lng": 7.2439029,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Stade Nyonnais",
+        "city": "Nyon",
+        "country": "Switzerland",
+        "lat": 46.3820585,
+        "lng": 6.2402791,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Lausanne-Sport",
+        "city": "Lausanne",
+        "country": "Switzerland",
+        "lat": 46.5218269,
+        "lng": 6.6327025,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Melvin_Mastil"
+  },
+  {
+    "id": "mohamed-amine-tougai",
+    "name": "Mohamed Amine Tougai",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Algerian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "NA Hussein Dey",
+        "city": "Hussein Dey, Algier",
+        "country": "Algeria",
+        "lat": 36.7427697,
+        "lng": 3.0942689,
+        "fromYear": 2018,
+        "toYear": 2020
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Amine_Tougai"
+  },
+  {
+    "id": "mohamed-amoura",
+    "name": "Mohamed Amoura",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Algerian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "ES Sétif",
+        "city": "Sétif",
+        "country": "Algeria",
+        "lat": 36.1893494,
+        "lng": 5.4046876,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Lugano",
+        "city": "Lugano",
+        "country": "Switzerland",
+        "lat": 46.0038007,
+        "lng": 8.9512275,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Union Saint-Gilloise",
+        "city": "Bruxelles",
+        "country": "Belgium",
+        "lat": 50.8551025,
+        "lng": 4.3510915,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "VfL Wolfsburg",
+        "city": "Wolfsburg",
+        "country": "Germany",
+        "lat": 52.4205588,
+        "lng": 10.7861682,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Union Saint-Gilloise",
+        "city": "Bruxelles",
+        "country": "Belgium",
+        "lat": 50.8551025,
+        "lng": 4.3510915,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Amoura"
+  },
+  {
+    "id": "nabil-bentaleb",
+    "name": "Nabil Bentaleb",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Algerian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Tottenham Hotspur",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "FC Schalke 04",
+        "city": "Gelsenkirchen",
+        "country": "Germany",
+        "lat": 51.5110321,
+        "lng": 7.0960124,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Tottenham Hotspur",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Newcastle United",
+        "city": "Newcastle upon Tyne",
+        "country": "England",
+        "lat": 54.9738474,
+        "lng": -1.6131572,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Schalke 04",
+        "city": "Gelsenkirchen",
+        "country": "Germany",
+        "lat": 51.5110321,
+        "lng": 7.0960124,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Angers SCO",
+        "city": "Angers",
+        "country": "France",
+        "lat": 47.4739884,
+        "lng": -0.5515588,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "LOSC Lille",
+        "city": "Camphin-en-Pévèle",
+        "country": "France",
+        "lat": 50.5948763,
+        "lng": 3.2583523,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nabil_Bentaleb"
+  },
+  {
+    "id": "nadhir-benbouali",
+    "name": "Nadhir Benbouali",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Algerian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Paradou AC",
+        "city": "Hydra, Bir Mourad Raïs, Algier",
+        "country": "Algeria",
+        "lat": 36.7474259,
+        "lng": 3.0401832,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Royal Charleroi SC",
+        "city": "Charleroi",
+        "country": "Belgium",
+        "lat": 50.4116233,
+        "lng": 4.444528,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "ETO FC",
+        "city": "Győr",
+        "country": "Hungary",
+        "lat": 47.6835029,
+        "lng": 17.6342832,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Royal Charleroi SC",
+        "city": "Charleroi",
+        "country": "Belgium",
+        "lat": 50.4116233,
+        "lng": 4.444528,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "ETO FC",
+        "city": "Győr",
+        "country": "Hungary",
+        "lat": 47.6835029,
+        "lng": 17.6342832,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nadhir_Benbouali"
+  },
+  {
+    "id": "oussama-benbout",
+    "name": "Oussama Benbout",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Algerian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "USM Bel Abbès",
+        "city": "Sidi Bel Abbès",
+        "country": "Algeria",
+        "lat": 34.682268,
+        "lng": -0.4357555,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "DRB Tadjenanet",
+        "city": "Tadjenanet",
+        "country": "Algeria",
+        "lat": 36.1192994,
+        "lng": 5.9857948,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "AS Aïn M'lila",
+        "city": "Ain M'lila",
+        "country": "Algeria",
+        "lat": 36.0375444,
+        "lng": 6.570986,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "JS Kabylie",
+        "city": "Tizi Ouzou",
+        "country": "Algeria",
+        "lat": 36.713796,
+        "lng": 4.0493851,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "USM Alger",
+        "city": "Bab El Oued, Algier",
+        "country": "Algeria",
+        "lat": 36.7907677,
+        "lng": 3.0530812,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Oussama_Benbout"
+  },
+  {
+    "id": "rafik-belghali",
+    "name": "Rafik Belghali",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Algerian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Lommel SK",
+        "city": "Lommel",
+        "country": "Belgium",
+        "lat": 51.2305657,
+        "lng": 5.3076895,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "KV Mechelen",
+        "city": "Mechelen",
+        "country": "Belgium",
+        "lat": 51.0281381,
+        "lng": 4.4803453,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Hellas Verona",
+        "city": "Verona",
+        "country": "Italy",
+        "lat": 45.4424977,
+        "lng": 10.9857377,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Rafik_Belghali"
+  },
+  {
+    "id": "ramiz-zerrouki",
+    "name": "Ramiz Zerrouki",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Algerian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Twente Enschede",
+        "city": "Enschede",
+        "country": "Netherlands",
+        "lat": 52.2209855,
+        "lng": 6.8940537,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Feyenoord Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Twente Enschede",
+        "city": "Enschede",
+        "country": "Netherlands",
+        "lat": 52.2209855,
+        "lng": 6.8940537,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Feyenoord Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ramiz_Zerrouki"
+  },
+  {
+    "id": "ramy-bensebaini",
+    "name": "Ramy Bensebaini",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Algerian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Paradou AC",
+        "city": "Hydra, Bir Mourad Raïs, Algier",
+        "country": "Algeria",
+        "lat": 36.7474259,
+        "lng": 3.0401832,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Lierse SK (-2018)",
+        "city": "Lier",
+        "country": "Belgium",
+        "lat": 51.131069,
+        "lng": 4.5696516,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Montpellier HSC",
+        "city": "Montpellier",
+        "country": "France",
+        "lat": 43.6112422,
+        "lng": 3.8767337,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Paradou AC",
+        "city": "Hydra, Bir Mourad Raïs, Algier",
+        "country": "Algeria",
+        "lat": 36.7474259,
+        "lng": 3.0401832,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Stade Rennais FC",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Paradou AC",
+        "city": "Hydra, Bir Mourad Raïs, Algier",
+        "country": "Algeria",
+        "lat": 36.7474259,
+        "lng": 3.0401832,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Borussia Mönchengladbach",
+        "city": "Mönchengladbach",
+        "country": "Germany",
+        "lat": 51.1947131,
+        "lng": 6.4353792,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ramy_Bensebaini"
+  },
+  {
+    "id": "rayan-ait-nouri",
+    "name": "Rayan Aït-Nouri",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Algerian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Angers SCO",
+        "city": "Angers",
+        "country": "France",
+        "lat": 47.4739884,
+        "lng": -0.5515588,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Wolverhampton Wanderers",
+        "city": "Wolverhampton",
+        "country": "England",
+        "lat": 52.5847651,
+        "lng": -2.127567,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Angers SCO",
+        "city": "Angers",
+        "country": "France",
+        "lat": 47.4739884,
+        "lng": -0.5515588,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Wolverhampton Wanderers",
+        "city": "Wolverhampton",
+        "country": "England",
+        "lat": 52.5847651,
+        "lng": -2.127567,
+        "fromYear": 2021,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Rayan_A%C3%AFt-Nouri"
+  },
+  {
+    "id": "riyad-mahrez",
+    "name": "Riyad Mahrez",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Algerian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "AC Le Havre B",
+        "city": "Le Havre",
+        "country": "France",
+        "lat": 49.4938975,
+        "lng": 0.1079732,
+        "fromYear": 2010,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Le Havre AC",
+        "city": "Le Havre",
+        "country": "France",
+        "lat": 49.4938975,
+        "lng": 0.1079732,
+        "fromYear": 2011,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Leicester City",
+        "city": "Leicester",
+        "country": "England",
+        "lat": 52.6362,
+        "lng": -1.1331969,
+        "fromYear": 2014,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2018,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Ahli SFC",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.5504432,
+        "lng": 39.1742363,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Riyad_Mahrez"
+  },
+  {
+    "id": "samir-chergui",
+    "name": "Samir Chergui",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Algerian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "AJ Auxerre B",
+        "city": "Auxerre",
+        "country": "France",
+        "lat": 47.7961287,
+        "lng": 3.570579,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "AJ Auxerre",
+        "city": "Auxerre",
+        "country": "France",
+        "lat": 47.7961287,
+        "lng": 3.570579,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Paris FC B",
+        "city": "Orly",
+        "country": "France",
+        "lat": 48.7431683,
+        "lng": 2.402391,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Paris FC",
+        "city": "Orly",
+        "country": "France",
+        "lat": 48.7431683,
+        "lng": 2.402391,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Samir_Chergui"
+  },
+  {
+    "id": "yassine-titraoui",
+    "name": "Yassine Titraoui",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Algerian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Paradou AC",
+        "city": "Hydra, Bir Mourad Raïs, Algier",
+        "country": "Algeria",
+        "lat": 36.7474259,
+        "lng": 3.0401832,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Royal Charleroi SC",
+        "city": "Charleroi",
+        "country": "Belgium",
+        "lat": 50.4116233,
+        "lng": 4.444528,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Yassine_Titraoui"
+  },
+  {
+    "id": "zineddine-belaid",
+    "name": "Zineddine Belaid",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Algerian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "NA Hussein Dey",
+        "city": "Hussein Dey, Algier",
+        "country": "Algeria",
+        "lat": 36.7427697,
+        "lng": 3.0942689,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "USM Alger",
+        "city": "Bab El Oued, Algier",
+        "country": "Algeria",
+        "lat": 36.7907677,
+        "lng": 3.0530812,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Sint-Truidense VV",
+        "city": "Sint-Truiden",
+        "country": "Belgium",
+        "lat": 50.8152784,
+        "lng": 5.1858896,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "JS Kabylie",
+        "city": "Tizi Ouzou",
+        "country": "Algeria",
+        "lat": 36.713796,
+        "lng": 4.0493851,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Zineddine_Belaid"
+  }
+]

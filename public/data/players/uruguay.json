@@ -1,0 +1,1781 @@
+[
+  {
+    "id": "agustin-canobbio",
+    "name": "Agustín Canobbio",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Uruguayan",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "CA Fénix",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "CA Peñarol",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "CA Fénix",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "CA Peñarol",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Club Athletico Paranaense",
+        "city": "Curitiba",
+        "country": "Brazil",
+        "lat": -25.4295963,
+        "lng": -49.2712724,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Fluminense Football Club",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Agust%C3%ADn_Canobbio"
+  },
+  {
+    "id": "brian-rodriguez",
+    "name": "Brian Rodríguez",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Uruguayan",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "CA Peñarol",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Los Angeles FC",
+        "city": "Los Angeles, California",
+        "country": "United States",
+        "lat": 34.0536909,
+        "lng": -118.242766,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "UD Almería",
+        "city": "Almería",
+        "country": "Spain",
+        "lat": 36.8685739,
+        "lng": -2.3120282,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Los Angeles FC",
+        "city": "Los Angeles, California",
+        "country": "United States",
+        "lat": 34.0536909,
+        "lng": -118.242766,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "CF América",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_Rodr%C3%ADguez"
+  },
+  {
+    "id": "darwin-nunez",
+    "name": "Darwin Núñez",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Uruguayan",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "CA Peñarol",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "UD Almería",
+        "city": "Almería",
+        "country": "Spain",
+        "lat": 36.8685739,
+        "lng": -2.3120282,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "SL Benfica",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Liverpool FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Hilal SFC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Darwin_N%C3%BA%C3%B1ez"
+  },
+  {
+    "id": "emiliano-martinez",
+    "name": "Emiliano Martínez",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Uruguayan",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Club Nacional B",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Club Nacional",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Red Bull Bragantino",
+        "city": "Bragança Paulista",
+        "country": "Brazil",
+        "lat": -22.9520235,
+        "lng": -46.5418586,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Midtjylland",
+        "city": "Herning",
+        "country": "Denmark",
+        "lat": 56.1379757,
+        "lng": 8.9746623,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Red Bull Bragantino",
+        "city": "Bragança Paulista",
+        "country": "Brazil",
+        "lat": -22.9520235,
+        "lng": -46.5418586,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Midtjylland",
+        "city": "Herning",
+        "country": "Denmark",
+        "lat": 56.1379757,
+        "lng": 8.9746623,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Sociedade Esportiva Palmeiras",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Emiliano_Mart%C3%ADnez"
+  },
+  {
+    "id": "facundo-pellistri",
+    "name": "Facundo Pellistri",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Uruguayan",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "CA Peñarol",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Deportivo Alavés",
+        "city": "Vitoria-Gasteiz",
+        "country": "Spain",
+        "lat": 42.8505845,
+        "lng": -2.66145,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Granada CF",
+        "city": "Granada",
+        "country": "Spain",
+        "lat": 37.1734995,
+        "lng": -3.5995337,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Panathinaikos",
+        "city": "Athens",
+        "country": "Greece",
+        "lat": 37.9755648,
+        "lng": 23.7348324,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Facundo_Pellistri"
+  },
+  {
+    "id": "federico-valverde",
+    "name": "Federico Valverde",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Uruguayan",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "CA Peñarol",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Real Madrid Castilla",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Deportivo A Coruña",
+        "city": "La Coruña",
+        "country": "Spain",
+        "lat": 43.3466447,
+        "lng": -8.4127029,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Real Madrid Castilla",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2018,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Federico_Valverde"
+  },
+  {
+    "id": "federico-vinas",
+    "name": "Federico Viñas",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Uruguayan",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "CA Juventud",
+        "city": "Las Piedras",
+        "country": "Uruguay",
+        "lat": -34.7274904,
+        "lng": -56.2164982,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "CF América",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "CA Juventud",
+        "city": "Las Piedras",
+        "country": "Uruguay",
+        "lat": -34.7274904,
+        "lng": -56.2164982,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Club León FC",
+        "city": "León de los Aldama",
+        "country": "Mexico",
+        "lat": 21.121965,
+        "lng": -101.6829766,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Real Oviedo",
+        "city": "Oviedo",
+        "country": "Spain",
+        "lat": 43.3533452,
+        "lng": -5.8795096,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Club León FC",
+        "city": "León de los Aldama",
+        "country": "Mexico",
+        "lat": 21.121965,
+        "lng": -101.6829766,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Federico_Vi%C3%B1as"
+  },
+  {
+    "id": "fernando-muslera",
+    "name": "Fernando Muslera",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Uruguayan",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Montevideo Wanderers",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2004,
+        "toYear": 2007
+      },
+      {
+        "clubName": "Club Nacional",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2007,
+        "toYear": 2007
+      },
+      {
+        "clubName": "Montevideo Wanderers",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2007,
+        "toYear": 2007
+      },
+      {
+        "clubName": "SS Lazio",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2007,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Galatasaray",
+        "city": "Sarıyer / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.1054207,
+        "lng": 29.006187,
+        "fromYear": 2011,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Club Estudiantes de La Plata",
+        "city": "La Plata, Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.9206797,
+        "lng": -57.9537638,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_Muslera"
+  },
+  {
+    "id": "giorgian-de-arrascaeta",
+    "name": "Giorgian de Arrascaeta",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Uruguayan",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Defensor Sporting Club",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2012,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Cruzeiro Esporte Clube",
+        "city": "Belo Horizonte",
+        "country": "Brazil",
+        "lat": -19.9227318,
+        "lng": -43.9450948,
+        "fromYear": 2015,
+        "toYear": 2019
+      },
+      {
+        "clubName": "CR Flamengo",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2019,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Giorgian_de_Arrascaeta"
+  },
+  {
+    "id": "guillermo-varela",
+    "name": "Guillermo Varela",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Uruguayan",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "CA Peñarol",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Real Madrid Castilla",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "CA Peñarol",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Copenhagen",
+        "city": "København Ø.",
+        "country": "Denmark",
+        "lat": 55.6428043,
+        "lng": 12.5549822,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Dynamo Moscow",
+        "city": "Moskau",
+        "country": "Russia",
+        "lat": 55.625578,
+        "lng": 37.6063916,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Copenhagen",
+        "city": "København Ø.",
+        "country": "Denmark",
+        "lat": 55.6428043,
+        "lng": 12.5549822,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Dynamo Moscow",
+        "city": "Moskau",
+        "country": "Russia",
+        "lat": 55.625578,
+        "lng": 37.6063916,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "CR Flamengo",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Dynamo Moscow",
+        "city": "Moskau",
+        "country": "Russia",
+        "lat": 55.625578,
+        "lng": 37.6063916,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "CR Flamengo",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Guillermo_Varela"
+  },
+  {
+    "id": "joaquin-piquerez",
+    "name": "Joaquín Piquerez",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Uruguayan",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Defensor Sporting Club",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "CA River Plate Montevideo",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "CA Peñarol",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Sociedade Esportiva Palmeiras",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Joaqu%C3%ADn_Piquerez"
+  },
+  {
+    "id": "jose-maria-gimenez",
+    "name": "José María Giménez",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Uruguayan",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Danubio FC",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Atlético de Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2013,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Gim%C3%A9nez"
+  },
+  {
+    "id": "juan-manuel-sanabria",
+    "name": "Juan Manuel Sanabria",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Uruguayan",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Atlético Madrileño",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Atlético de Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Real Zaragoza",
+        "city": "Zaragoza",
+        "country": "Spain",
+        "lat": 41.6915847,
+        "lng": -0.9101268,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Atlético Madrileño",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Atlético de San Luis",
+        "city": "San Luis Potosí, San Luis Potosí",
+        "country": "Mexico",
+        "lat": 22.1516472,
+        "lng": -100.9763993,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Atlético de Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2023,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Real Salt Lake City",
+        "city": "Sandy, Utah",
+        "country": "United States",
+        "lat": 40.5710454,
+        "lng": -111.8953815,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Manuel_Sanabria"
+  },
+  {
+    "id": "manuel-ugarte",
+    "name": "Manuel Ugarte",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Uruguayan",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "CA Fénix",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2016,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Famalicão",
+        "city": "Vila Nova de Famalicão",
+        "country": "Portugal",
+        "lat": 41.4064621,
+        "lng": -8.5187849,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Sporting CP",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Paris Saint-Germain",
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8534951,
+        "lng": 2.3483915,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_Ugarte"
+  },
+  {
+    "id": "mathias-olivera",
+    "name": "Mathías Olivera",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Uruguayan",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Club Nacional",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "CA Atenas de San Carlos",
+        "city": "San Carlos",
+        "country": "Uruguay",
+        "lat": -34.7920447,
+        "lng": -54.9207502,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Club Nacional",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Getafe CF",
+        "city": "Getafe (Madrid)",
+        "country": "Spain",
+        "lat": 40.3142702,
+        "lng": -3.6776595,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Albacete Balompié",
+        "city": "Albacete",
+        "country": "Spain",
+        "lat": 38.9950921,
+        "lng": -1.8559154,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Getafe CF",
+        "city": "Getafe (Madrid)",
+        "country": "Spain",
+        "lat": 40.3142702,
+        "lng": -3.6776595,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "SSC Napoli",
+        "city": "Napoli",
+        "country": "Italy",
+        "lat": 40.8358846,
+        "lng": 14.2487679,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Math%C3%ADas_Olivera"
+  },
+  {
+    "id": "matias-vina",
+    "name": "Matías Viña",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Uruguayan",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Club Nacional",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Sociedade Esportiva Palmeiras",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "AFC Bournemouth",
+        "city": "Bournemouth",
+        "country": "England",
+        "lat": 50.7446718,
+        "lng": -1.8579514,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "US Sassuolo",
+        "city": "Sassuolo",
+        "country": "Italy",
+        "lat": 44.5409769,
+        "lng": 10.7829023,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "CR Flamengo",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "CA River Plate",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6095579,
+        "lng": -58.3887904,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "CR Flamengo",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mat%C3%ADas_Vi%C3%B1a"
+  },
+  {
+    "id": "maxi-araujo",
+    "name": "Maxi Araújo",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Uruguayan",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Montevideo Wanderers",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Puebla FC",
+        "city": "Puebla, Puebla",
+        "country": "Mexico",
+        "lat": 19.0437196,
+        "lng": -98.1981486,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Deportivo Toluca",
+        "city": "Toluca, Estado de México",
+        "country": "Mexico",
+        "lat": 19.292545,
+        "lng": -99.6569007,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Sporting CP",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Maxi_Ara%C3%BAjo"
+  },
+  {
+    "id": "nicolas-de-la-cruz",
+    "name": "Nicolás de la Cruz",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Uruguayan",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Liverpool FC Montevideo",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "CA River Plate",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6095579,
+        "lng": -58.3887904,
+        "fromYear": 2017,
+        "toYear": 2024
+      },
+      {
+        "clubName": "CR Flamengo",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_de_la_Cruz"
+  },
+  {
+    "id": "rodrigo-aguirre",
+    "name": "Rodrigo Aguirre",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Uruguayan",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Liverpool FC Montevideo",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2011,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Udinese Calcio",
+        "city": "Udine",
+        "country": "Italy",
+        "lat": 46.0634632,
+        "lng": 13.2358377,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "FC Empoli",
+        "city": "Empoli",
+        "country": "Italy",
+        "lat": 43.7194884,
+        "lng": 10.9458556,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Udinese Calcio",
+        "city": "Udine",
+        "country": "Italy",
+        "lat": 46.0634632,
+        "lng": 13.2358377,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "AC Perugia Calcio",
+        "city": "Perugia",
+        "country": "Italy",
+        "lat": 43.1070321,
+        "lng": 12.4029962,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Udinese Calcio",
+        "city": "Udine",
+        "country": "Italy",
+        "lat": 46.0634632,
+        "lng": 13.2358377,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "FC Lugano",
+        "city": "Lugano",
+        "country": "Switzerland",
+        "lat": 46.0038007,
+        "lng": 8.9512275,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Udinese Calcio",
+        "city": "Udine",
+        "country": "Italy",
+        "lat": 46.0634632,
+        "lng": 13.2358377,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Club Nacional",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Udinese Calcio",
+        "city": "Udine",
+        "country": "Italy",
+        "lat": 46.0634632,
+        "lng": 13.2358377,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Botafogo de Futebol e Regatas",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Udinese Calcio",
+        "city": "Udine",
+        "country": "Italy",
+        "lat": 46.0634632,
+        "lng": 13.2358377,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "LDU Quito",
+        "city": "Quito",
+        "country": "Ecuador",
+        "lat": -0.2201641,
+        "lng": -78.5123274,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Club Necaxa",
+        "city": "Aguascalientes, Aguascalientes",
+        "country": "Mexico",
+        "lat": 21.880487,
+        "lng": -102.2967195,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "CF Monterrey",
+        "city": "Guadalupe, Nuevo León",
+        "country": "Mexico",
+        "lat": 25.6751114,
+        "lng": -100.2151753,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "LDU Quito",
+        "city": "Quito",
+        "country": "Ecuador",
+        "lat": -0.2201641,
+        "lng": -78.5123274,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "CF América",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Tigres UANL",
+        "city": "San Nicolás de los Garza, Nuevo León",
+        "country": "Mexico",
+        "lat": 25.7558021,
+        "lng": -100.289648,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Rodrigo_Aguirre"
+  },
+  {
+    "id": "rodrigo-bentancur",
+    "name": "Rodrigo Bentancur",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Uruguayan",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "CA Boca Juniors",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6095579,
+        "lng": -58.3887904,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Juventus FC",
+        "city": "Torino",
+        "country": "Italy",
+        "lat": 45.0677551,
+        "lng": 7.6824892,
+        "fromYear": 2017,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Tottenham Hotspur",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Rodrigo_Bentancur"
+  },
+  {
+    "id": "rodrigo-zalazar",
+    "name": "Rodrigo Zalazar",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Uruguayan",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Atlético Malagueño",
+        "city": "Málaga",
+        "country": "Spain",
+        "lat": 36.7647913,
+        "lng": -4.4422005,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Korona Kielce",
+        "city": "Kielce",
+        "country": "Poland",
+        "lat": 50.8719903,
+        "lng": 20.6310488,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC St. Pauli",
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.5501721,
+        "lng": 10.0013165,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Schalke 04",
+        "city": "Gelsenkirchen",
+        "country": "Germany",
+        "lat": 51.5110321,
+        "lng": 7.0960124,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Schalke 04",
+        "city": "Gelsenkirchen",
+        "country": "Germany",
+        "lat": 51.5110321,
+        "lng": 7.0960124,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "SC Braga",
+        "city": "Braga",
+        "country": "Portugal",
+        "lat": 41.5510583,
+        "lng": -8.4280045,
+        "fromYear": 2023,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Sporting CP",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Rodrigo_Zalazar"
+  },
+  {
+    "id": "ronald-araujo",
+    "name": "Ronald Araujo",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Uruguayan",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "CA Rentistas",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "CA Boston River",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "FC Barcelona Atlètic",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2020,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ronald_Araujo"
+  },
+  {
+    "id": "santiago-bueno",
+    "name": "Santiago Bueno",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Uruguayan",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Barcelona Atlètic",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Girona FC",
+        "city": "Girona",
+        "country": "Spain",
+        "lat": 41.9793006,
+        "lng": 2.8199439,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Wolverhampton Wanderers",
+        "city": "Wolverhampton",
+        "country": "England",
+        "lat": 52.5847651,
+        "lng": -2.127567,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Santiago_Bueno"
+  },
+  {
+    "id": "santiago-mele",
+    "name": "Santiago Mele",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Uruguayan",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "CA Fénix",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2014,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Sincan Belediyesi Ankaraspor",
+        "city": "Kazan-Sincan / Ankara",
+        "country": "Türkiye",
+        "lat": 40.1065759,
+        "lng": 32.5034946,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "MKE Ankaragücü",
+        "city": "Yenimahalle/Ankara",
+        "country": "Türkiye",
+        "lat": 39.9689092,
+        "lng": 32.7174019,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Sincan Belediyesi Ankaraspor",
+        "city": "Kazan-Sincan / Ankara",
+        "country": "Türkiye",
+        "lat": 40.1065759,
+        "lng": 32.5034946,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Lleida CF",
+        "city": "Lleida",
+        "country": "Spain",
+        "lat": 41.6147605,
+        "lng": 0.6267842,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Sincan Belediyesi Ankaraspor",
+        "city": "Kazan-Sincan / Ankara",
+        "country": "Türkiye",
+        "lat": 40.1065759,
+        "lng": 32.5034946,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Club Plaza Colonia",
+        "city": "Colonia del Sacramento",
+        "country": "Uruguay",
+        "lat": -34.4698592,
+        "lng": -57.8433679,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "CA Unión (Santa Fe)",
+        "city": "Santa Fe",
+        "country": "Argentina",
+        "lat": -30.3154739,
+        "lng": -61.1645076,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Junior FC",
+        "city": "Barranquilla",
+        "country": "Colombia",
+        "lat": 11.0101922,
+        "lng": -74.8231794,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Club Plaza Colonia",
+        "city": "Colonia del Sacramento",
+        "country": "Uruguay",
+        "lat": -34.4698592,
+        "lng": -57.8433679,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Junior FC",
+        "city": "Barranquilla",
+        "country": "Colombia",
+        "lat": 11.0101922,
+        "lng": -74.8231794,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "CF Monterrey",
+        "city": "Guadalupe, Nuevo León",
+        "country": "Mexico",
+        "lat": 25.6751114,
+        "lng": -100.2151753,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Santiago_Mele"
+  },
+  {
+    "id": "sebastian-caceres",
+    "name": "Sebastián Cáceres",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Uruguayan",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Liverpool FC Montevideo",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "CF América",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2020,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_C%C3%A1ceres"
+  },
+  {
+    "id": "sergio-rochet",
+    "name": "Sergio Rochet",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Uruguayan",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Danubio FC",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "AZ Alkmaar",
+        "city": "Alkmaar",
+        "country": "Netherlands",
+        "lat": 52.6008538,
+        "lng": 4.8170994,
+        "fromYear": 2014,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Sivasspor",
+        "city": "SİVAS",
+        "country": "Türkiye",
+        "lat": 39.4191717,
+        "lng": 37.1012388,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Club Nacional",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Sport Club Internacional",
+        "city": "Porto Alegre",
+        "country": "Brazil",
+        "lat": -30.0324999,
+        "lng": -51.2303767,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Sergio_Rochet"
+  }
+]

@@ -1,0 +1,1880 @@
+[
+  {
+    "id": "alexandro-maidana",
+    "name": "Alexandro Maidana",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Paraguayan",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Resistencia Sport Club",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Club Guaraní",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "CA Talleres",
+        "city": "Córdoba",
+        "country": "Argentina",
+        "lat": -31.4166867,
+        "lng": -64.1834193,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandro_Maidana"
+  },
+  {
+    "id": "andres-cubas",
+    "name": "Andrés Cubas",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Paraguayan",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "CA Boca Juniors",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6095579,
+        "lng": -58.3887904,
+        "fromYear": 2014,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Defensa y Justicia",
+        "city": "Florencio Varela, Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.8044384,
+        "lng": -58.2783224,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Delfino Pescara 1936",
+        "city": "Pescara",
+        "country": "Italy",
+        "lat": 42.3102619,
+        "lng": 13.9575901,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "CA Talleres",
+        "city": "Córdoba",
+        "country": "Argentina",
+        "lat": -31.4166867,
+        "lng": -64.1834193,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "CA Boca Juniors",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6095579,
+        "lng": -58.3887904,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Nîmes Olympique",
+        "city": "Nîmes",
+        "country": "France",
+        "lat": 43.8374249,
+        "lng": 4.3600687,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Vancouver Whitecaps FC",
+        "city": "Vancouver, British Columbia",
+        "country": "Canada",
+        "lat": 49.2608724,
+        "lng": -123.113952,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Cubas"
+  },
+  {
+    "id": "antonio-sanabria",
+    "name": "Antonio Sanabria",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Paraguayan",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "FC Barcelona Atlètic",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "US Sassuolo",
+        "city": "Sassuolo",
+        "country": "Italy",
+        "lat": 44.5409769,
+        "lng": 10.7829023,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Sporting Gijón",
+        "city": "Leorio - Gijón (Asturias)",
+        "country": "Spain",
+        "lat": 43.4765996,
+        "lng": -5.6845375,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Real Betis Balompié",
+        "city": "Sevilla",
+        "country": "Spain",
+        "lat": 37.3886303,
+        "lng": -5.9953403,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Genoa CFC",
+        "city": "Genova",
+        "country": "Italy",
+        "lat": 44.40726,
+        "lng": 8.9338624,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Real Betis Balompié",
+        "city": "Sevilla",
+        "country": "Spain",
+        "lat": 37.3886303,
+        "lng": -5.9953403,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Torino FC",
+        "city": "Torino",
+        "country": "Italy",
+        "lat": 45.0677551,
+        "lng": 7.6824892,
+        "fromYear": 2021,
+        "toYear": 2025
+      },
+      {
+        "clubName": "US Cremonese",
+        "city": "Cremona",
+        "country": "Italy",
+        "lat": 45.2208641,
+        "lng": 10.037038,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Antonio_Sanabria"
+  },
+  {
+    "id": "braian-ojeda",
+    "name": "Braian Ojeda",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Paraguayan",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Club Olimpia",
+        "city": "Asuncíon",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Defensa y Justicia",
+        "city": "Florencio Varela, Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.8044384,
+        "lng": -58.2783224,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Club Olimpia",
+        "city": "Asuncíon",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Real Salt Lake City",
+        "city": "Sandy, Utah",
+        "country": "United States",
+        "lat": 40.5710454,
+        "lng": -111.8953815,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2023,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Orlando City SC",
+        "city": "Lake Mary, Florida",
+        "country": "United States",
+        "lat": 28.7562749,
+        "lng": -81.322093,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Braian_Ojeda"
+  },
+  {
+    "id": "damian-bobadilla",
+    "name": "Damián Bobadilla",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Paraguayan",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Club Cerro Porteño",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "São Paulo Futebol Clube",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Dami%C3%A1n_Bobadilla"
+  },
+  {
+    "id": "diego-gomez",
+    "name": "Diego Gómez",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Paraguayan",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Club Libertad Asunción",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Inter Miami CF",
+        "city": "Fort Lauderdale, Florida",
+        "country": "United States",
+        "lat": 26.1223084,
+        "lng": -80.1433786,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Diego_G%C3%B3mez"
+  },
+  {
+    "id": "fabian-balbuena",
+    "name": "Fabián Balbuena",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Paraguayan",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Club Rubio Ñú (Asunción)",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Club Nacional Asunción",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Club Libertad Asunción",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Sport Club Corinthians Paulista",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "West Ham United",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Dynamo Moscow",
+        "city": "Moskau",
+        "country": "Russia",
+        "lat": 55.625578,
+        "lng": 37.6063916,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Sport Club Corinthians Paulista",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Dynamo Moscow",
+        "city": "Moskau",
+        "country": "Russia",
+        "lat": 55.625578,
+        "lng": 37.6063916,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Grêmio Foot-Ball Porto Alegrense",
+        "city": "Porto Alegre",
+        "country": "Brazil",
+        "lat": -30.0324999,
+        "lng": -51.2303767,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Fabi%C3%A1n_Balbuena"
+  },
+  {
+    "id": "gabriel-avalos",
+    "name": "Gabriel Ávalos",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Paraguayan",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Deportes Concepción",
+        "city": "Concepción",
+        "country": "Chile",
+        "lat": -36.8270698,
+        "lng": -73.0502064,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "CM Crucero del Norte",
+        "city": "Garupá",
+        "country": "Argentina",
+        "lat": -27.4837122,
+        "lng": -55.8296552,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "CA Peñarol",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "CA Nueva Chicago",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6095579,
+        "lng": -58.3887904,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "CD Godoy Cruz Antonio Tomba",
+        "city": "Mendoza",
+        "country": "Argentina",
+        "lat": -34.5970325,
+        "lng": -68.7304797,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "CA Patronato",
+        "city": "Paraná",
+        "country": "Argentina",
+        "lat": -27.4210173,
+        "lng": -56.6011693,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "CD Godoy Cruz Antonio Tomba",
+        "city": "Mendoza",
+        "country": "Argentina",
+        "lat": -34.5970325,
+        "lng": -68.7304797,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "AA Argentinos Juniors",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6095579,
+        "lng": -58.3887904,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "CA Independiente",
+        "city": "Avellaneda, Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6648394,
+        "lng": -58.3628061,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Gabriel_%C3%81valos"
+  },
+  {
+    "id": "gaston-olveira",
+    "name": "Gastón Olveira",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Paraguayan",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "CA River Plate Montevideo B",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "CA River Plate Montevideo",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2013,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Club Olimpia",
+        "city": "Asuncíon",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "CA River Plate Montevideo",
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "lat": -34.9058916,
+        "lng": -56.1913095,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Club Olimpia",
+        "city": "Asuncíon",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Gast%C3%B3n_Olveira"
+  },
+  {
+    "id": "gustavo-caballero",
+    "name": "Gustavo Caballero",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Paraguayan",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Sportivo Ameliano",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Club Nacional Asunción",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Sportivo Ameliano",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Club Nacional Asunción",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Santos FC",
+        "city": "Santos",
+        "country": "Brazil",
+        "lat": -23.9609448,
+        "lng": -46.3166316,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Portsmouth FC",
+        "city": "Portsmouth",
+        "country": "England",
+        "lat": 50.800031,
+        "lng": -1.0906023,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Santos FC",
+        "city": "Santos",
+        "country": "Brazil",
+        "lat": -23.9609448,
+        "lng": -46.3166316,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Gustavo_Caballero"
+  },
+  {
+    "id": "gustavo-gomez",
+    "name": "Gustavo Gómez",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Paraguayan",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Club Libertad Asunción",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2012,
+        "toYear": 2014
+      },
+      {
+        "clubName": "CA Lanús",
+        "city": "Lanús, Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.7073871,
+        "lng": -58.3905998,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "AC Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Sociedade Esportiva Palmeiras",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "AC Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2020,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Gustavo_G%C3%B3mez"
+  },
+  {
+    "id": "gustavo-velazquez",
+    "name": "Gustavo Velázquez",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Paraguayan",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Sportivo Luqueño",
+        "city": "Luque",
+        "country": "Paraguay",
+        "lat": -25.2665417,
+        "lng": -57.4926928,
+        "fromYear": 2012,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Club Nacional Asunción",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Club Cerro Porteño",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Club Sol de América",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Club Cerro Porteño",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Club Nacional Asunción",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Lobos BUAP (- 2019)",
+        "city": "Puebla de Zaragoza",
+        "country": "Mexico",
+        "lat": 19.0437196,
+        "lng": -98.1981486,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Juárez",
+        "city": "Ciudad Juárez",
+        "country": "Mexico",
+        "lat": 31.6907979,
+        "lng": -106.4253215,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Club Nacional Asunción",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "CA Newell's Old Boys",
+        "city": "Rosario",
+        "country": "Argentina",
+        "lat": -32.9593609,
+        "lng": -60.6617024,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Club Cerro Porteño",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Gustavo_Vel%C3%A1zquez"
+  },
+  {
+    "id": "isidro-pitta",
+    "name": "Isidro Pitta",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Paraguayan",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "GDSC Alvarenga Futebol SAD",
+        "city": "Alvarenga (Arouca)",
+        "country": "Portugal",
+        "lat": 40.9655099,
+        "lng": -8.1599881,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Sportivo Luqueño",
+        "city": "Luque",
+        "country": "Paraguay",
+        "lat": -25.2665417,
+        "lng": -57.4926928,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Club Olimpia",
+        "city": "Asuncíon",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Sportivo Luqueño",
+        "city": "Luque",
+        "country": "Paraguay",
+        "lat": -25.2665417,
+        "lng": -57.4926928,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Club Olimpia",
+        "city": "Asuncíon",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "SD Huesca",
+        "city": "Huesca",
+        "country": "Spain",
+        "lat": 42.1360615,
+        "lng": -0.0298027,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Esporte Clube Juventude",
+        "city": "Caxias do Sul",
+        "country": "Brazil",
+        "lat": -29.1685045,
+        "lng": -51.1796385,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "SD Huesca",
+        "city": "Huesca",
+        "country": "Spain",
+        "lat": 42.1360615,
+        "lng": -0.0298027,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Red Bull Bragantino",
+        "city": "Bragança Paulista",
+        "country": "Brazil",
+        "lat": -22.9520235,
+        "lng": -46.5418586,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Isidro_Pitta"
+  },
+  {
+    "id": "jose-canale",
+    "name": "José Canale",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Paraguayan",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Club Libertad Asunción",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Club Nacional Asunción",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Club Libertad Asunción",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Club Sol de América",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Club Libertad Asunción",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "CA Newell's Old Boys",
+        "city": "Rosario",
+        "country": "Argentina",
+        "lat": -32.9593609,
+        "lng": -60.6617024,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Club Libertad Asunción",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "CD Godoy Cruz Antonio Tomba",
+        "city": "Mendoza",
+        "country": "Argentina",
+        "lat": -34.5970325,
+        "lng": -68.7304797,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Club Libertad Asunción",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "CA Lanús",
+        "city": "Lanús, Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.7073871,
+        "lng": -58.3905998,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Querétaro FC",
+        "city": "Santiago de Querétaro, Querétaro",
+        "country": "Mexico",
+        "lat": 20.5922997,
+        "lng": -100.3917424,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "CA Lanús",
+        "city": "Lanús, Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.7073871,
+        "lng": -58.3905998,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Canale"
+  },
+  {
+    "id": "juan-jose-caceres",
+    "name": "Juan José Cáceres",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Paraguayan",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Racing Club",
+        "city": "Avellaneda, Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6648394,
+        "lng": -58.3628061,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "CA Lanús",
+        "city": "Lanús, Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.7073871,
+        "lng": -58.3905998,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Racing Club",
+        "city": "Avellaneda, Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6648394,
+        "lng": -58.3628061,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "CA Lanús",
+        "city": "Lanús, Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.7073871,
+        "lng": -58.3905998,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Dynamo Moscow",
+        "city": "Moskau",
+        "country": "Russia",
+        "lat": 55.625578,
+        "lng": 37.6063916,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Jos%C3%A9_C%C3%A1ceres"
+  },
+  {
+    "id": "julio-enciso",
+    "name": "Julio Enciso",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Paraguayan",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Club Libertad Asunción",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "RC Strasbourg Alsace",
+        "city": "Strasbourg",
+        "country": "France",
+        "lat": 48.584614,
+        "lng": 7.7507127,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Ipswich Town",
+        "city": "Ipswich",
+        "country": "England",
+        "lat": 52.0579324,
+        "lng": 1.1528095,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Julio_Enciso"
+  },
+  {
+    "id": "junior-alonso",
+    "name": "Júnior Alonso",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Paraguayan",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Club Cerro Porteño",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2013,
+        "toYear": 2017
+      },
+      {
+        "clubName": "LOSC Lille",
+        "city": "Camphin-en-Pévèle",
+        "country": "France",
+        "lat": 50.5948763,
+        "lng": 3.2583523,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Celta de Vigo",
+        "city": "Vigo",
+        "country": "Spain",
+        "lat": 42.1986395,
+        "lng": -8.727956,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "LOSC Lille",
+        "city": "Camphin-en-Pévèle",
+        "country": "France",
+        "lat": 50.5948763,
+        "lng": 3.2583523,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "CA Boca Juniors",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6095579,
+        "lng": -58.3887904,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Clube Atlético Mineiro",
+        "city": "Belo Horizonte",
+        "country": "Brazil",
+        "lat": -19.9227318,
+        "lng": -43.9450948,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "LOSC Lille",
+        "city": "Camphin-en-Pévèle",
+        "country": "France",
+        "lat": 50.5948763,
+        "lng": 3.2583523,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Clube Atlético Mineiro",
+        "city": "Belo Horizonte",
+        "country": "Brazil",
+        "lat": -19.9227318,
+        "lng": -43.9450948,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Krasnodar",
+        "city": "Krasnodar",
+        "country": "Russia",
+        "lat": 45.0351532,
+        "lng": 38.9772396,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Clube Atlético Mineiro",
+        "city": "Belo Horizonte",
+        "country": "Brazil",
+        "lat": -19.9227318,
+        "lng": -43.9450948,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%BAnior_Alonso"
+  },
+  {
+    "id": "kaku",
+    "name": "Kaku",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Paraguayan",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "CA Huracán",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6095579,
+        "lng": -58.3887904,
+        "fromYear": 2013,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Red Bull New York",
+        "city": "NJ, 07094 Secaucus",
+        "country": "United States",
+        "lat": 40.7828896,
+        "lng": -74.0475715,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Al-Taawoun FC",
+        "city": "Buraydah",
+        "country": "Saudi Arabia",
+        "lat": 26.331667,
+        "lng": 43.971667,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Ain FC",
+        "city": "Al-Ain, Abu Dhabi",
+        "country": "United Arab Emirates",
+        "lat": 24.2248697,
+        "lng": 55.7452211,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kaku"
+  },
+  {
+    "id": "matias-galarza",
+    "name": "Matías Galarza",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Paraguayan",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Clube de Regatas Vasco da Gama",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Coritiba Foot Ball Club",
+        "city": "Curitiba",
+        "country": "Brazil",
+        "lat": -25.4295963,
+        "lng": -49.2712724,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Clube de Regatas Vasco da Gama",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "CA Talleres",
+        "city": "Córdoba",
+        "country": "Argentina",
+        "lat": -31.4166867,
+        "lng": -64.1834193,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Clube de Regatas Vasco da Gama",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "CA Talleres",
+        "city": "Córdoba",
+        "country": "Argentina",
+        "lat": -31.4166867,
+        "lng": -64.1834193,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "CA River Plate",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6095579,
+        "lng": -58.3887904,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Atlanta United FC",
+        "city": "Marietta, GA",
+        "country": "United States",
+        "lat": 33.9528472,
+        "lng": -84.5496148,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "CA River Plate",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6095579,
+        "lng": -58.3887904,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mat%C3%ADas_Galarza"
+  },
+  {
+    "id": "mauricio",
+    "name": "Mauricio",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Paraguayan",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Cruzeiro Esporte Clube",
+        "city": "Belo Horizonte",
+        "country": "Brazil",
+        "lat": -19.9227318,
+        "lng": -43.9450948,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Sport Club Internacional",
+        "city": "Porto Alegre",
+        "country": "Brazil",
+        "lat": -30.0324999,
+        "lng": -51.2303767,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Sociedade Esportiva Palmeiras",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mauricio"
+  },
+  {
+    "id": "miguel-almiron",
+    "name": "Miguel Almirón",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Paraguayan",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Club Cerro Porteño",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2011,
+        "toYear": 2015
+      },
+      {
+        "clubName": "CA Lanús",
+        "city": "Lanús, Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.7073871,
+        "lng": -58.3905998,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Atlanta United FC",
+        "city": "Marietta, GA",
+        "country": "United States",
+        "lat": 33.9528472,
+        "lng": -84.5496148,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Newcastle United",
+        "city": "Newcastle upon Tyne",
+        "country": "England",
+        "lat": 54.9738474,
+        "lng": -1.6131572,
+        "fromYear": 2019,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Atlanta United FC",
+        "city": "Marietta, GA",
+        "country": "United States",
+        "lat": 33.9528472,
+        "lng": -84.5496148,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Miguel_Almir%C3%B3n"
+  },
+  {
+    "id": "omar-alderete",
+    "name": "Omar Alderete",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Paraguayan",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Club Cerro Porteño",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Club de Gimnasia y Esgrima La Plata",
+        "city": "La Plata, Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.9206797,
+        "lng": -57.9537638,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Club Cerro Porteño",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "CA Huracán",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6095579,
+        "lng": -58.3887904,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Basel 1893",
+        "city": "Basel",
+        "country": "Switzerland",
+        "lat": 47.5581077,
+        "lng": 7.5878261,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Hertha BSC",
+        "city": "Berlin",
+        "country": "Germany",
+        "lat": 52.5173885,
+        "lng": 13.3951309,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Valencia CF",
+        "city": "Valencia",
+        "country": "Spain",
+        "lat": 39.4697065,
+        "lng": -0.3763353,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Hertha BSC",
+        "city": "Berlin",
+        "country": "Germany",
+        "lat": 52.5173885,
+        "lng": 13.3951309,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Getafe CF",
+        "city": "Getafe (Madrid)",
+        "country": "Spain",
+        "lat": 40.3142702,
+        "lng": -3.6776595,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Hertha BSC",
+        "city": "Berlin",
+        "country": "Germany",
+        "lat": 52.5173885,
+        "lng": 13.3951309,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Sunderland AFC",
+        "city": "Sunderland",
+        "country": "England",
+        "lat": 54.9058512,
+        "lng": -1.3828727,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Omar_Alderete"
+  },
+  {
+    "id": "orlando-gill",
+    "name": "Orlando Gill",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Paraguayan",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "CA San Lorenzo de Almagro",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6095579,
+        "lng": -58.3887904,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Orlando_Gill"
+  },
+  {
+    "id": "ramon-sosa",
+    "name": "Ramón Sosa",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Paraguayan",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Atlético Tembetary",
+        "city": "VILLA ELISA",
+        "country": "Paraguay",
+        "lat": -25.3715212,
+        "lng": -57.5898279,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Club Olimpia",
+        "city": "Asuncíon",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Club de Gimnasia y Esgrima La Plata",
+        "city": "La Plata, Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.9206797,
+        "lng": -57.9537638,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "CA Talleres",
+        "city": "Córdoba",
+        "country": "Argentina",
+        "lat": -31.4166867,
+        "lng": -64.1834193,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Sociedade Esportiva Palmeiras",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ram%C3%B3n_Sosa"
+  },
+  {
+    "id": "roberto-fernandez",
+    "name": "Roberto Fernández",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Paraguayan",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Club Cerro Porteño",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2009,
+        "toYear": 2009
+      },
+      {
+        "clubName": "Club Estudiantes de La Plata",
+        "city": "La Plata, Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.9206797,
+        "lng": -57.9537638,
+        "fromYear": 2009,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Racing Club",
+        "city": "Avellaneda, Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6648394,
+        "lng": -58.3628061,
+        "fromYear": 2010,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Club Cerro Porteño",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2010,
+        "toYear": 2011
+      },
+      {
+        "clubName": "FC Utrecht",
+        "city": "Utrecht",
+        "country": "Netherlands",
+        "lat": 52.0907006,
+        "lng": 5.1215634,
+        "fromYear": 2011,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Club Cerro Porteño",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2011,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Esporte Clube Vitória",
+        "city": "Salvador",
+        "country": "Brazil",
+        "lat": -12.9822499,
+        "lng": -38.4812772,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Figueirense Futebol Clube",
+        "city": "Florianópolis",
+        "country": "Brazil",
+        "lat": -27.5973002,
+        "lng": -48.5496098,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Botafogo de Futebol e Regatas",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2017,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Club Cerro Porteño",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Roberto_Fern%C3%A1ndez"
+  },
+  {
+    "id": "alex-arce",
+    "name": "Álex Arce",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Paraguayan",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Club Cerro Porteño",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Club Rubio Ñú (Asunción)",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Sportivo Ameliano",
+        "city": "Asunción",
+        "country": "Paraguay",
+        "lat": -25.2800459,
+        "lng": -57.6343814,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "CS Independiente Rivadavia",
+        "city": "Mendoza",
+        "country": "Argentina",
+        "lat": -34.5970325,
+        "lng": -68.7304797,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "LDU Quito",
+        "city": "Quito",
+        "country": "Ecuador",
+        "lat": -0.2201641,
+        "lng": -78.5123274,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "CS Independiente Rivadavia",
+        "city": "Mendoza",
+        "country": "Argentina",
+        "lat": -34.5970325,
+        "lng": -68.7304797,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%81lex_Arce"
+  }
+]

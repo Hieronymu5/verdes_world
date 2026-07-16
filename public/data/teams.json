@@ -1,1 +1,716 @@
-/Users/jnaus/code/players_gen/data/teams.json
+[
+  {
+    "id": "algeria",
+    "name": "Algeria",
+    "filename": "players/algeria.json",
+    "city": "Dely-Ibrahim",
+    "country": "Algeria",
+    "lat": 36.7516098,
+    "lng": 2.9825732,
+    "colors": [
+      "#006233",
+      "#FFFFFF"
+    ],
+    "clubId": "3614",
+    "playerCount": 26
+  },
+  {
+    "id": "argentina",
+    "name": "Argentina",
+    "filename": "players/argentina.json",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "lat": -34.6095579,
+    "lng": -58.3887904,
+    "colors": [
+      "#6CACE4",
+      "#FFFFFF",
+      "#6CACE4"
+    ],
+    "clubId": "3437",
+    "playerCount": 26
+  },
+  {
+    "id": "australia",
+    "name": "Australia",
+    "filename": "players/australia.json",
+    "city": "Sydney South",
+    "country": "Australia",
+    "lat": -33.8644304,
+    "lng": 151.2022166,
+    "colors": [
+      "#FFBF00",
+      "#004044"
+    ],
+    "clubId": "3433",
+    "playerCount": 26
+  },
+  {
+    "id": "austria",
+    "name": "Austria",
+    "filename": "players/austria.json",
+    "city": "Wien",
+    "country": "Austria",
+    "lat": 48.2083537,
+    "lng": 16.3725042,
+    "colors": [
+      "#EE2737",
+      "#000000",
+      "#21a5ef"
+    ],
+    "clubId": "3383",
+    "playerCount": 26
+  },
+  {
+    "id": "belgium",
+    "name": "Belgium",
+    "filename": "players/belgium.json",
+    "city": "Brussel",
+    "country": "Belgium",
+    "lat": 50.8467372,
+    "lng": 4.352493,
+    "colors": [
+      "#EF3340",
+      "#FFFFFF",
+      "#FDDA24"
+    ],
+    "clubId": "3382",
+    "playerCount": 26
+  },
+  {
+    "id": "brazil",
+    "name": "Brazil",
+    "filename": "players/brazil.json",
+    "city": "RIO DE JANEIRO",
+    "country": "Brazil",
+    "lat": -22.9110137,
+    "lng": -43.2093727,
+    "colors": [
+      "#FEDD00",
+      "#002776"
+    ],
+    "clubId": "3439",
+    "playerCount": 26
+  },
+  {
+    "id": "canada",
+    "name": "Canada",
+    "filename": "players/canada.json",
+    "city": "Ottawa, ON",
+    "country": "Canada",
+    "lat": 45.4208777,
+    "lng": -75.6901106,
+    "colors": [
+      "#ff0000",
+      "#ffffff"
+    ],
+    "clubId": "3510",
+    "playerCount": 26
+  },
+  {
+    "id": "cape-verde",
+    "name": "Cape Verde",
+    "filename": "players/cape-verde.json",
+    "city": "Praia",
+    "country": "Cape Verde",
+    "lat": 14.9162811,
+    "lng": -23.5095095,
+    "colors": [
+      "#5338DE",
+      "#FFFFFF",
+      "#BF0C10"
+    ],
+    "clubId": "4311",
+    "playerCount": 26
+  },
+  {
+    "id": "colombia",
+    "name": "Colombia",
+    "filename": "players/colombia.json",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "lat": 4.6533817,
+    "lng": -74.0836331,
+    "colors": [
+      "#FFCD00",
+      "#003087",
+      "#C8102E"
+    ],
+    "clubId": "3816",
+    "playerCount": 26
+  },
+  {
+    "id": "croatia",
+    "name": "Croatia",
+    "filename": "players/croatia.json",
+    "city": "Zagreb",
+    "country": "Croatia",
+    "lat": 45.8130967,
+    "lng": 15.9772795,
+    "colors": [
+      "#C8102E",
+      "#012169"
+    ],
+    "clubId": "3556",
+    "playerCount": 26
+  },
+  {
+    "id": "curacao",
+    "name": "Curaçao",
+    "filename": "players/curacao.json",
+    "city": "Willemstad",
+    "country": "Curacao",
+    "lat": 12.1066695,
+    "lng": -68.9351307,
+    "colors": [
+      "#0000FF",
+      "#FFFF00",
+      "#FFFFFF"
+    ],
+    "clubId": "32364",
+    "playerCount": 26
+  },
+  {
+    "id": "czechia",
+    "name": "Czechia",
+    "filename": "players/czechia.json",
+    "city": "Praha 6",
+    "country": "Czech Republic",
+    "lat": 50.1065562,
+    "lng": 14.3637235,
+    "colors": [
+      "#DF0000",
+      "#006CB7",
+      "#FFFFFF"
+    ],
+    "clubId": "3445",
+    "playerCount": 26
+  },
+  {
+    "id": "democratic-republic-of-the-congo",
+    "name": "Democratic Republic of the Congo",
+    "filename": "players/democratic-republic-of-the-congo.json",
+    "city": "Kinshasa",
+    "country": "DR Congo",
+    "lat": -4.3196982,
+    "lng": 15.3424196,
+    "colors": [
+      "#0080FF",
+      "#F2E63A",
+      "#C8102E"
+    ],
+    "clubId": "3854",
+    "playerCount": 26
+  },
+  {
+    "id": "ecuador",
+    "name": "Ecuador",
+    "filename": "players/ecuador.json",
+    "city": "Quito",
+    "country": "Ecuador",
+    "lat": -0.2201641,
+    "lng": -78.5123274,
+    "colors": [
+      "#FFDD00",
+      "#034EA2",
+      "#ED1C24"
+    ],
+    "clubId": "5750",
+    "playerCount": 26
+  },
+  {
+    "id": "egypt",
+    "name": "Egypt",
+    "filename": "players/egypt.json",
+    "city": "Gezira, Kairo",
+    "country": "Egypt",
+    "lat": 30.0503539,
+    "lng": 31.2230269,
+    "colors": [
+      "#CE1126",
+      "#FFFFFF",
+      "#000000"
+    ],
+    "clubId": "3672",
+    "playerCount": 26
+  },
+  {
+    "id": "england",
+    "name": "England",
+    "filename": "players/england.json",
+    "city": "London",
+    "country": "England",
+    "lat": 51.5074456,
+    "lng": -0.1277653,
+    "colors": [
+      "#FCFCFC",
+      "#C8102E",
+      "#204da3"
+    ],
+    "clubId": "3299",
+    "playerCount": 26
+  },
+  {
+    "id": "france",
+    "name": "France",
+    "filename": "players/france.json",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8534951,
+    "lng": 2.3483915,
+    "colors": [
+      "#123163",
+      "#FFFFFF",
+      "#123163"
+    ],
+    "clubId": "3377",
+    "playerCount": 26
+  },
+  {
+    "id": "germany",
+    "name": "Germany",
+    "filename": "players/germany.json",
+    "city": "Frankfurt (Main)",
+    "country": "Germany",
+    "lat": 50.1106444,
+    "lng": 8.6820917,
+    "colors": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "clubId": "3262",
+    "playerCount": 26
+  },
+  {
+    "id": "ghana",
+    "name": "Ghana",
+    "filename": "players/ghana.json",
+    "city": "Accra",
+    "country": "Ghana",
+    "lat": 5.5571096,
+    "lng": -0.2012376,
+    "colors": [
+      "#FFFFFF",
+      "#D40023",
+      "#000000"
+    ],
+    "clubId": "3441",
+    "playerCount": 26
+  },
+  {
+    "id": "haiti",
+    "name": "Haiti",
+    "filename": "players/haiti.json",
+    "city": "Port-au-Prince",
+    "country": "Haiti",
+    "lat": 18.547327,
+    "lng": -72.3395928,
+    "colors": [
+      "#003DA5",
+      "#EF3340"
+    ],
+    "clubId": "14161",
+    "playerCount": 26
+  },
+  {
+    "id": "iran",
+    "name": "Iran",
+    "filename": "players/iran.json",
+    "city": "Teheran",
+    "country": "Iran",
+    "lat": 35.6892523,
+    "lng": 51.3896004,
+    "colors": [
+      "#FFFFFF",
+      "#FF0000"
+    ],
+    "clubId": "3582",
+    "playerCount": 26
+  },
+  {
+    "id": "ivory-coast",
+    "name": "Ivory Coast",
+    "filename": "players/ivory-coast.json",
+    "city": "Abidjan 01",
+    "country": "Cote d'Ivoire",
+    "lat": 5.320357,
+    "lng": -4.016107,
+    "colors": [
+      "#F77F00",
+      "#009E60",
+      "#FFFFFF"
+    ],
+    "clubId": "3591",
+    "playerCount": 26
+  },
+  {
+    "id": "japan",
+    "name": "Japan",
+    "filename": "players/japan.json",
+    "city": "Bunkyo-ku, Tokyo",
+    "country": "Japan",
+    "lat": 35.7080255,
+    "lng": 139.7523066,
+    "colors": [
+      "#000072",
+      "#FFFFFF"
+    ],
+    "clubId": "3435",
+    "playerCount": 26
+  },
+  {
+    "id": "jordan",
+    "name": "Jordan",
+    "filename": "players/jordan.json",
+    "city": "Amman",
+    "country": "Jordan",
+    "lat": 31.9515694,
+    "lng": 35.9239625,
+    "colors": [
+      "#df2f43",
+      "#000000"
+    ],
+    "clubId": "15737",
+    "playerCount": 26
+  },
+  {
+    "id": "mexico",
+    "name": "Mexico",
+    "filename": "players/mexico.json",
+    "city": "C.P. 06700 México D.F.",
+    "country": "Mexico",
+    "lat": 19.3163378,
+    "lng": -99.1179981,
+    "colors": [
+      "#006847",
+      "#FFFFFF",
+      "#CE1126"
+    ],
+    "clubId": "6303",
+    "playerCount": 26
+  },
+  {
+    "id": "morocco",
+    "name": "Morocco",
+    "filename": "players/morocco.json",
+    "city": "Rabat 1 Rabat",
+    "country": "Morocco",
+    "lat": 34.228988,
+    "lng": -6.5497535,
+    "colors": [
+      "#C1272D",
+      "#006233",
+      "#FFFFFF"
+    ],
+    "clubId": "3575",
+    "playerCount": 26
+  },
+  {
+    "id": "netherlands",
+    "name": "Netherlands",
+    "filename": "players/netherlands.json",
+    "city": "Zeist",
+    "country": "Netherlands",
+    "lat": 52.0892832,
+    "lng": 5.2276307,
+    "colors": [
+      "#FC4C02",
+      "#000000",
+      "#FC4C02"
+    ],
+    "clubId": "3379",
+    "playerCount": 26
+  },
+  {
+    "id": "new-zealand",
+    "name": "New Zealand",
+    "filename": "players/new-zealand.json",
+    "city": "Albany Auckland",
+    "country": "New Zealand",
+    "lat": -36.7320015,
+    "lng": 174.7149595,
+    "colors": [
+      "#ffffff",
+      "#000000"
+    ],
+    "clubId": "9171",
+    "playerCount": 26
+  },
+  {
+    "id": "norway",
+    "name": "Norway",
+    "filename": "players/norway.json",
+    "city": "Oslo",
+    "country": "Norway",
+    "lat": 59.9133301,
+    "lng": 10.7389701,
+    "colors": [
+      "#F02729",
+      "#002468",
+      "#FFFFFF"
+    ],
+    "clubId": "3440",
+    "playerCount": 26
+  },
+  {
+    "id": "panama",
+    "name": "Panama",
+    "filename": "players/panama.json",
+    "city": "Panama City",
+    "country": "Panama",
+    "lat": 8.9714493,
+    "lng": -79.5341802,
+    "colors": [
+      "#DC141C",
+      "#042454",
+      "#FFFFFF"
+    ],
+    "clubId": "3577",
+    "playerCount": 26
+  },
+  {
+    "id": "paraguay",
+    "name": "Paraguay",
+    "filename": "players/paraguay.json",
+    "city": "Asuncion",
+    "country": "Paraguay",
+    "lat": -25.2800459,
+    "lng": -57.6343814,
+    "colors": [
+      "#ffffff",
+      "#ff0000",
+      "#0000ff"
+    ],
+    "clubId": "3581",
+    "playerCount": 26
+  },
+  {
+    "id": "portugal",
+    "name": "Portugal",
+    "filename": "players/portugal.json",
+    "city": "Oeiras",
+    "country": "Portugal",
+    "lat": 38.6925777,
+    "lng": -9.3123076,
+    "colors": [
+      "#DA291C",
+      "#046A38"
+    ],
+    "clubId": "3300",
+    "playerCount": 26
+  },
+  {
+    "id": "qatar",
+    "name": "Qatar",
+    "filename": "players/qatar.json",
+    "city": "Doha",
+    "country": "Qatar",
+    "lat": 25.3108807,
+    "lng": 51.5081812,
+    "colors": [
+      "#8c1c3e",
+      "#8c1c3e"
+    ],
+    "clubId": "14162",
+    "playerCount": 26
+  },
+  {
+    "id": "saudi-arabia",
+    "name": "Saudi Arabia",
+    "filename": "players/saudi-arabia.json",
+    "city": "Riad",
+    "country": "Saudi Arabia",
+    "lat": 24.638916,
+    "lng": 46.7160104,
+    "colors": [
+      "#006C35",
+      "#ffffff",
+      "#006C35"
+    ],
+    "clubId": "3807",
+    "playerCount": 26
+  },
+  {
+    "id": "scotland",
+    "name": "Scotland",
+    "filename": "players/scotland.json",
+    "city": "Glasgow",
+    "country": "Scotland",
+    "lat": 55.861155,
+    "lng": -4.2501687,
+    "colors": [
+      "#0D102F",
+      "#FFFFFF"
+    ],
+    "clubId": "3380",
+    "playerCount": 26
+  },
+  {
+    "id": "senegal",
+    "name": "Senegal",
+    "filename": "players/senegal.json",
+    "city": "Dakar",
+    "country": "Senegal",
+    "lat": 14.693425,
+    "lng": -17.447938,
+    "colors": [
+      "#00A606",
+      "#F7FF00",
+      "#FF0000"
+    ],
+    "clubId": "3499",
+    "playerCount": 26
+  },
+  {
+    "id": "south-africa",
+    "name": "South Africa",
+    "filename": "players/south-africa.json",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.205,
+    "lng": 28.049722,
+    "colors": [
+      "#F2E63A",
+      "#21A300",
+      "#ffffff"
+    ],
+    "clubId": "3806",
+    "playerCount": 26
+  },
+  {
+    "id": "south-korea",
+    "name": "South Korea",
+    "filename": "players/south-korea.json",
+    "city": "Jongno-gu, Seoul",
+    "country": "Korea, South",
+    "lat": 37.5666791,
+    "lng": 126.9782914,
+    "colors": [
+      "#F9041D",
+      "#122DA7"
+    ],
+    "clubId": "3589",
+    "playerCount": 26
+  },
+  {
+    "id": "spain",
+    "name": "Spain",
+    "filename": "players/spain.json",
+    "city": "Las Rozas (Madrid)",
+    "country": "Spain",
+    "lat": 40.4942937,
+    "lng": -3.867936,
+    "colors": [
+      "#EF3340",
+      "#FFD100"
+    ],
+    "clubId": "3375",
+    "playerCount": 26
+  },
+  {
+    "id": "sweden",
+    "name": "Sweden",
+    "filename": "players/sweden.json",
+    "city": "Solna",
+    "country": "Sweden",
+    "lat": 59.366667,
+    "lng": 18.016667,
+    "colors": [
+      "#FFCD00",
+      "#004B87"
+    ],
+    "clubId": "3557",
+    "playerCount": 26
+  },
+  {
+    "id": "switzerland",
+    "name": "Switzerland",
+    "filename": "players/switzerland.json",
+    "city": "Muri bei Bern",
+    "country": "Switzerland",
+    "lat": 46.9290477,
+    "lng": 7.4870909,
+    "colors": [
+      "#FF0000",
+      "#FCFCFC",
+      "#FF0000"
+    ],
+    "clubId": "3384",
+    "playerCount": 26
+  },
+  {
+    "id": "tunisia",
+    "name": "Tunisia",
+    "filename": "players/tunisia.json",
+    "city": "El Menzah",
+    "country": "Tunisia",
+    "lat": 36.8356133,
+    "lng": 10.1583615,
+    "colors": [],
+    "clubId": "3670",
+    "playerCount": 26
+  },
+  {
+    "id": "turkiye",
+    "name": "Turkiye",
+    "filename": "players/turkiye.json",
+    "city": "İstanbul",
+    "country": "Türkiye",
+    "lat": 41.006381,
+    "lng": 28.9758715,
+    "colors": [
+      "#c7102e",
+      "#ffffff"
+    ],
+    "clubId": "3381",
+    "playerCount": 26
+  },
+  {
+    "id": "united-states",
+    "name": "United States",
+    "filename": "players/united-states.json",
+    "city": "Chicago, IL",
+    "country": "United States",
+    "lat": 41.8755616,
+    "lng": -87.6244212,
+    "colors": [
+      "#041e42",
+      "#ffffff",
+      "#BF0D3E"
+    ],
+    "clubId": "3505",
+    "playerCount": 26
+  },
+  {
+    "id": "uruguay",
+    "name": "Uruguay",
+    "filename": "players/uruguay.json",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "lat": -34.9058916,
+    "lng": -56.1913095,
+    "colors": [
+      "#55B5E5",
+      "#FFFFFF",
+      "#55B5E5"
+    ],
+    "clubId": "3449",
+    "playerCount": 26
+  },
+  {
+    "id": "uzbekistan",
+    "name": "Uzbekistan",
+    "filename": "players/uzbekistan.json",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "lat": 41.3123363,
+    "lng": 69.2787079,
+    "colors": [
+      "#ffffff",
+      "#0072CE",
+      "#ffffff"
+    ],
+    "clubId": "3563",
+    "playerCount": 26
+  }
+]

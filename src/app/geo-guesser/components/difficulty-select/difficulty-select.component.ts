@@ -1,4 +1,13 @@
-import { ChangeDetectionStrategy, Component, computed, effect, ElementRef, inject, signal, viewChildren } from '@angular/core';
+import {
+  ChangeDetectionStrategy,
+  Component,
+  computed,
+  effect,
+  ElementRef,
+  inject,
+  signal,
+  viewChildren,
+} from '@angular/core';
 import { RouterLink } from '@angular/router';
 import { GeoGuesserDataService } from '../../geo-guesser-data.service';
 import { GeoGuesserStateService } from '../../geo-guesser-state.service';
@@ -126,15 +135,7 @@ export class DifficultySelectComponent {
     this.selectDifficulty(selectedLevel);
   }
 
-  isWorldCup(level: DifficultyLevel): boolean {
-    return level.id === 'world-cup';
-  }
-
   private selectDifficulty(level: DifficultyLevel): void {
-    if (level.id === 'world-cup') {
-      this.stateService.chooseWorldCupTeam(level);
-      return;
-    }
     this.stateService.startGame(level, this.dataService.players());
   }
 }

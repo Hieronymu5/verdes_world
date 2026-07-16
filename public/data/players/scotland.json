@@ -1,0 +1,1799 @@
+[
+  {
+    "id": "aaron-hickey",
+    "name": "Aaron Hickey",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Scottish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Heart of Midlothian FC",
+        "city": "Edinburgh",
+        "country": "Scotland",
+        "lat": 55.9533456,
+        "lng": -3.1883749,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Bologna FC 1909",
+        "city": "Bologna",
+        "country": "Italy",
+        "lat": 44.4938203,
+        "lng": 11.3426327,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Brentford FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Aaron_Hickey"
+  },
+  {
+    "id": "andrew-robertson",
+    "name": "Andrew Robertson",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Scottish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Queen's Park FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Dundee United FC",
+        "city": "Dundee",
+        "country": "Scotland",
+        "lat": 56.4605938,
+        "lng": -2.97019,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Hull City",
+        "city": "Hull",
+        "country": "England",
+        "lat": 53.7623863,
+        "lng": -0.3301214,
+        "fromYear": 2014,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Liverpool FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2017,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Tottenham Hotspur",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_Robertson"
+  },
+  {
+    "id": "angus-gunn",
+    "name": "Angus Gunn",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Scottish",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Norwich City",
+        "city": "Norwich",
+        "country": "England",
+        "lat": 52.6285576,
+        "lng": 1.2923954,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Southampton FC",
+        "city": "Southampton",
+        "country": "England",
+        "lat": 50.9025349,
+        "lng": -1.404189,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Stoke City",
+        "city": "Stoke-on-Trent",
+        "country": "England",
+        "lat": 53.0162014,
+        "lng": -2.1812607,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Norwich City",
+        "city": "Norwich",
+        "country": "England",
+        "lat": 52.6285576,
+        "lng": 1.2923954,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Southampton FC",
+        "city": "Southampton",
+        "country": "England",
+        "lat": 50.9025349,
+        "lng": -1.404189,
+        "fromYear": 2021,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Angus_Gunn"
+  },
+  {
+    "id": "anthony-ralston",
+    "name": "Anthony Ralston",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Scottish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Queen's Park FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Celtic FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Dundee United FC",
+        "city": "Dundee",
+        "country": "Scotland",
+        "lat": 56.4605938,
+        "lng": -2.97019,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "St. Johnstone FC",
+        "city": "Perth",
+        "country": "Scotland",
+        "lat": 56.3958757,
+        "lng": -3.4303103,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Celtic FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2020,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Anthony_Ralston"
+  },
+  {
+    "id": "ben-gannon-doak",
+    "name": "Ben Gannon-Doak",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Scottish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Liverpool FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Middlesbrough FC",
+        "city": "Middlesbrough",
+        "country": "England",
+        "lat": 54.5760419,
+        "lng": -1.2344047,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Liverpool FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "AFC Bournemouth",
+        "city": "Bournemouth",
+        "country": "England",
+        "lat": 50.7446718,
+        "lng": -1.8579514,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ben_Gannon-Doak"
+  },
+  {
+    "id": "che-adams",
+    "name": "Ché Adams",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Scottish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Leicester St Andrews",
+        "city": "Leicester",
+        "country": "England",
+        "lat": 52.6362,
+        "lng": -1.1331969,
+        "fromYear": 2010,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Oadby Town FC",
+        "city": "Oadby",
+        "country": "England",
+        "lat": 52.5985281,
+        "lng": -1.0823899,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Sheffield United",
+        "city": "Sheffield",
+        "country": "England",
+        "lat": 53.3806626,
+        "lng": -1.4702278,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Birmingham City",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Southampton FC",
+        "city": "Southampton",
+        "country": "England",
+        "lat": 50.9025349,
+        "lng": -1.404189,
+        "fromYear": 2019,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Torino FC",
+        "city": "Torino",
+        "country": "Italy",
+        "lat": 45.0677551,
+        "lng": 7.6824892,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ch%C3%A9_Adams"
+  },
+  {
+    "id": "craig-gordon",
+    "name": "Craig Gordon",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Scottish",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Heart of Midlothian FC",
+        "city": "Edinburgh",
+        "country": "Scotland",
+        "lat": 55.9533456,
+        "lng": -3.1883749,
+        "fromYear": 1999,
+        "toYear": 2001
+      },
+      {
+        "clubName": "Cowdenbeath FC",
+        "city": "Cowdenbeath, Fife",
+        "country": "Scotland",
+        "lat": 56.1110634,
+        "lng": -3.3438843,
+        "fromYear": 2001,
+        "toYear": 2001
+      },
+      {
+        "clubName": "Heart of Midlothian FC",
+        "city": "Edinburgh",
+        "country": "Scotland",
+        "lat": 55.9533456,
+        "lng": -3.1883749,
+        "fromYear": 2001,
+        "toYear": 2007
+      },
+      {
+        "clubName": "Sunderland AFC",
+        "city": "Sunderland",
+        "country": "England",
+        "lat": 54.9058512,
+        "lng": -1.3828727,
+        "fromYear": 2007,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Celtic FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2014,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Heart of Midlothian FC",
+        "city": "Edinburgh",
+        "country": "Scotland",
+        "lat": 55.9533456,
+        "lng": -3.1883749,
+        "fromYear": 2020,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Craig_Gordon"
+  },
+  {
+    "id": "dominic-hyam",
+    "name": "Dominic Hyam",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Scottish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Reading FC",
+        "city": "Reading",
+        "country": "England",
+        "lat": 51.4564242,
+        "lng": -0.9700664,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Hemel Hempstead Town",
+        "city": "Hemel Hempstead",
+        "country": "England",
+        "lat": 51.7511784,
+        "lng": -0.472528,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Reading FC",
+        "city": "Reading",
+        "country": "England",
+        "lat": 51.4564242,
+        "lng": -0.9700664,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Basingstoke Town",
+        "city": "Basingstoke",
+        "country": "England",
+        "lat": 51.262826,
+        "lng": -1.0861976,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Dagenham & Redbridge FC",
+        "city": "Dagenham (London)",
+        "country": "England",
+        "lat": 51.5368009,
+        "lng": 0.1536767,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Reading FC",
+        "city": "Reading",
+        "country": "England",
+        "lat": 51.4564242,
+        "lng": -0.9700664,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Portsmouth FC",
+        "city": "Portsmouth",
+        "country": "England",
+        "lat": 50.800031,
+        "lng": -1.0906023,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Coventry City",
+        "city": "Coventry",
+        "country": "England",
+        "lat": 52.4081812,
+        "lng": -1.510477,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Aldershot Town",
+        "city": "Hampshire",
+        "country": "England",
+        "lat": 51.0449814,
+        "lng": -1.2433102,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Reading FC",
+        "city": "Reading",
+        "country": "England",
+        "lat": 51.4564242,
+        "lng": -0.9700664,
+        "fromYear": 2017,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Blackburn Rovers",
+        "city": "Blackburn, Lancashire",
+        "country": "England",
+        "lat": 53.749326,
+        "lng": -2.4840566,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Wrexham AFC",
+        "city": "Wrexham",
+        "country": "Wales",
+        "lat": 53.0465084,
+        "lng": -2.9937869,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Dominic_Hyam"
+  },
+  {
+    "id": "findlay-curtis",
+    "name": "Findlay Curtis",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Scottish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Rangers FC B",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Rangers FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Kilmarnock FC",
+        "city": "Kilmarnock",
+        "country": "Scotland",
+        "lat": 55.6100589,
+        "lng": -4.4964652,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Rangers FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Findlay_Curtis"
+  },
+  {
+    "id": "george-hirst",
+    "name": "George Hirst",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Scottish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Oud-Heverlee Leuven",
+        "city": "Heverlee (Leuven)",
+        "country": "Belgium",
+        "lat": 50.8596468,
+        "lng": 4.7151342,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Leicester City",
+        "city": "Leicester",
+        "country": "England",
+        "lat": 52.6362,
+        "lng": -1.1331969,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Rotherham United",
+        "city": "Rotherham",
+        "country": "England",
+        "lat": 53.4310417,
+        "lng": -1.355187,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Portsmouth FC",
+        "city": "Portsmouth",
+        "country": "England",
+        "lat": 50.800031,
+        "lng": -1.0906023,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Leicester City",
+        "city": "Leicester",
+        "country": "England",
+        "lat": 52.6362,
+        "lng": -1.1331969,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Blackburn Rovers",
+        "city": "Blackburn, Lancashire",
+        "country": "England",
+        "lat": 53.749326,
+        "lng": -2.4840566,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Leicester City",
+        "city": "Leicester",
+        "country": "England",
+        "lat": 52.6362,
+        "lng": -1.1331969,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Ipswich Town",
+        "city": "Ipswich",
+        "country": "England",
+        "lat": 52.0579324,
+        "lng": 1.1528095,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Hirst"
+  },
+  {
+    "id": "grant-hanley",
+    "name": "Grant Hanley",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Scottish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Blackburn Rovers",
+        "city": "Blackburn, Lancashire",
+        "country": "England",
+        "lat": 53.749326,
+        "lng": -2.4840566,
+        "fromYear": 2010,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Newcastle United",
+        "city": "Newcastle upon Tyne",
+        "country": "England",
+        "lat": 54.9738474,
+        "lng": -1.6131572,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Norwich City",
+        "city": "Norwich",
+        "country": "England",
+        "lat": 52.6285576,
+        "lng": 1.2923954,
+        "fromYear": 2017,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Birmingham City",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Hibernian FC",
+        "city": "Edinburgh",
+        "country": "Scotland",
+        "lat": 55.9533456,
+        "lng": -3.1883749,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Grant_Hanley"
+  },
+  {
+    "id": "jack-hendry",
+    "name": "Jack Hendry",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Scottish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Partick Thistle FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Wigan Athletic",
+        "city": "Wigan",
+        "country": "England",
+        "lat": 53.546215,
+        "lng": -2.6319112,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Shrewsbury Town",
+        "city": "Shrewsbury",
+        "country": "England",
+        "lat": 52.707755,
+        "lng": -2.7540658,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Wigan Athletic",
+        "city": "Wigan",
+        "country": "England",
+        "lat": 53.546215,
+        "lng": -2.6319112,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Milton Keynes Dons",
+        "city": "Milton Keynes",
+        "country": "England",
+        "lat": 52.0406502,
+        "lng": -0.7594092,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Dundee FC",
+        "city": "Dundee",
+        "country": "Scotland",
+        "lat": 56.4605938,
+        "lng": -2.97019,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Wigan Athletic",
+        "city": "Wigan",
+        "country": "England",
+        "lat": 53.546215,
+        "lng": -2.6319112,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Celtic FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Melbourne City FC",
+        "city": "Melbourne",
+        "country": "Australia",
+        "lat": -37.8142454,
+        "lng": 144.9631732,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Celtic FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "KV Oostende (-2024)",
+        "city": "Oostende",
+        "country": "Belgium",
+        "lat": 51.2258565,
+        "lng": 2.919496,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Celtic FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Club Brugge KV",
+        "city": "Brugge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "US Cremonese",
+        "city": "Cremona",
+        "country": "Italy",
+        "lat": 45.2208641,
+        "lng": 10.037038,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Club Brugge KV",
+        "city": "Brugge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Ettifaq FC",
+        "city": "Dammam",
+        "country": "Saudi Arabia",
+        "lat": 26.4367824,
+        "lng": 50.1039991,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jack_Hendry"
+  },
+  {
+    "id": "john-mcginn",
+    "name": "John McGinn",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Scottish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "St. Mirren FC",
+        "city": "Paisley",
+        "country": "Scotland",
+        "lat": 55.8455828,
+        "lng": -4.4239646,
+        "fromYear": 2012,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Hibernian FC",
+        "city": "Edinburgh",
+        "country": "Scotland",
+        "lat": 55.9533456,
+        "lng": -3.1883749,
+        "fromYear": 2015,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Aston Villa",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2018,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/John_McGinn"
+  },
+  {
+    "id": "john-souttar",
+    "name": "John Souttar",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Scottish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Dundee United FC",
+        "city": "Dundee",
+        "country": "Scotland",
+        "lat": 56.4605938,
+        "lng": -2.97019,
+        "fromYear": 2013,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Heart of Midlothian FC",
+        "city": "Edinburgh",
+        "country": "Scotland",
+        "lat": 55.9533456,
+        "lng": -3.1883749,
+        "fromYear": 2016,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Rangers FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Souttar"
+  },
+  {
+    "id": "kenny-mclean",
+    "name": "Kenny McLean",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Scottish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Arbroath FC",
+        "city": "Arbroath, Angus",
+        "country": "Scotland",
+        "lat": 56.5586729,
+        "lng": -2.5815669,
+        "fromYear": 2009,
+        "toYear": 2010
+      },
+      {
+        "clubName": "St. Mirren FC",
+        "city": "Paisley",
+        "country": "Scotland",
+        "lat": 55.8455828,
+        "lng": -4.4239646,
+        "fromYear": 2010,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Aberdeen FC",
+        "city": "Aberdeen",
+        "country": "Scotland",
+        "lat": 57.1482429,
+        "lng": -2.0928095,
+        "fromYear": 2015,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Norwich City",
+        "city": "Norwich",
+        "country": "England",
+        "lat": 52.6285576,
+        "lng": 1.2923954,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Aberdeen FC",
+        "city": "Aberdeen",
+        "country": "Scotland",
+        "lat": 57.1482429,
+        "lng": -2.0928095,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Norwich City",
+        "city": "Norwich",
+        "country": "England",
+        "lat": 52.6285576,
+        "lng": 1.2923954,
+        "fromYear": 2018,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kenny_McLean"
+  },
+  {
+    "id": "kieran-tierney",
+    "name": "Kieran Tierney",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Scottish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Celtic FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Real Sociedad",
+        "city": "Donostia-San Sebastián (Gipuzkoa)",
+        "country": "Spain",
+        "lat": 43.3224219,
+        "lng": -1.9838889,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Celtic FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kieran_Tierney"
+  },
+  {
+    "id": "lawrence-shankland",
+    "name": "Lawrence Shankland",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Scottish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Queen's Park FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Aberdeen FC",
+        "city": "Aberdeen",
+        "country": "Scotland",
+        "lat": 57.1482429,
+        "lng": -2.0928095,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Dunfermline Athletic FC",
+        "city": "Dunfermline, Fife",
+        "country": "Scotland",
+        "lat": 56.0713724,
+        "lng": -3.4616183,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "St. Mirren FC",
+        "city": "Paisley",
+        "country": "Scotland",
+        "lat": 55.8455828,
+        "lng": -4.4239646,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Aberdeen FC",
+        "city": "Aberdeen",
+        "country": "Scotland",
+        "lat": 57.1482429,
+        "lng": -2.0928095,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "St. Mirren FC",
+        "city": "Paisley",
+        "country": "Scotland",
+        "lat": 55.8455828,
+        "lng": -4.4239646,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Greenock Morton FC",
+        "city": "Greenock",
+        "country": "Scotland",
+        "lat": 55.9473423,
+        "lng": -4.7564721,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Aberdeen FC",
+        "city": "Aberdeen",
+        "country": "Scotland",
+        "lat": 57.1482429,
+        "lng": -2.0928095,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Ayr United FC",
+        "city": "Ayr",
+        "country": "Scotland",
+        "lat": 55.4628044,
+        "lng": -4.6302502,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Dundee United FC",
+        "city": "Dundee",
+        "country": "Scotland",
+        "lat": 56.4605938,
+        "lng": -2.97019,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Beerschot VA",
+        "city": "Antwerpen-Kiel",
+        "country": "Belgium",
+        "lat": 51.1895013,
+        "lng": 4.379055,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Heart of Midlothian FC",
+        "city": "Edinburgh",
+        "country": "Scotland",
+        "lat": 55.9533456,
+        "lng": -3.1883749,
+        "fromYear": 2022,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Rangers FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Lawrence_Shankland"
+  },
+  {
+    "id": "lewis-ferguson",
+    "name": "Lewis Ferguson",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Scottish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Hamilton Academical FC",
+        "city": "Hamilton",
+        "country": "Scotland",
+        "lat": 55.7759095,
+        "lng": -4.033442,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Aberdeen FC",
+        "city": "Aberdeen",
+        "country": "Scotland",
+        "lat": 57.1482429,
+        "lng": -2.0928095,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Bologna FC 1909",
+        "city": "Bologna",
+        "country": "Italy",
+        "lat": 44.4938203,
+        "lng": 11.3426327,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Lewis_Ferguson"
+  },
+  {
+    "id": "liam-kelly",
+    "name": "Liam Kelly",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Scottish",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Rangers FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Livingston FC",
+        "city": "Livingston",
+        "country": "Scotland",
+        "lat": 55.8829582,
+        "lng": -3.5175773,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "East Fife FC",
+        "city": "Methil, Fife",
+        "country": "Scotland",
+        "lat": 56.1848771,
+        "lng": -3.0132612,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Rangers FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Livingston FC",
+        "city": "Livingston",
+        "country": "Scotland",
+        "lat": 55.8829582,
+        "lng": -3.5175773,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Queens Park Rangers",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Motherwell FC",
+        "city": "Motherwell",
+        "country": "Scotland",
+        "lat": 55.7893512,
+        "lng": -3.9904173,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Queens Park Rangers",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Motherwell FC",
+        "city": "Motherwell",
+        "country": "Scotland",
+        "lat": 55.7893512,
+        "lng": -3.9904173,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Rangers FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Liam_Kelly"
+  },
+  {
+    "id": "lyndon-dykes",
+    "name": "Lyndon Dykes",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Scottish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Queen of the South FC",
+        "city": "Dumfries",
+        "country": "Scotland",
+        "lat": 55.0691831,
+        "lng": -3.6106856,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Livingston FC",
+        "city": "Livingston",
+        "country": "Scotland",
+        "lat": 55.8829582,
+        "lng": -3.5175773,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Queen of the South FC",
+        "city": "Dumfries",
+        "country": "Scotland",
+        "lat": 55.0691831,
+        "lng": -3.6106856,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Livingston FC",
+        "city": "Livingston",
+        "country": "Scotland",
+        "lat": 55.8829582,
+        "lng": -3.5175773,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Queens Park Rangers",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Birmingham City",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Charlton Athletic",
+        "city": "Charlton, London",
+        "country": "England",
+        "lat": 51.4826053,
+        "lng": 0.0365359,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Lyndon_Dykes"
+  },
+  {
+    "id": "nathan-patterson",
+    "name": "Nathan Patterson",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Scottish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Rangers FC B",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Rangers FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Everton FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nathan_Patterson"
+  },
+  {
+    "id": "ross-stewart",
+    "name": "Ross Stewart",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Scottish",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Partick Thistle FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Ardeer Thistle FC",
+        "city": "Stevenston, North Ayrshire",
+        "country": "Scotland",
+        "lat": 55.6342495,
+        "lng": -4.7501074,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Kilwinning Rangers FC",
+        "city": "Kilwinning, North Ayrshire",
+        "country": "Scotland",
+        "lat": 55.6540048,
+        "lng": -4.6992011,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Albion Rovers FC",
+        "city": "Coatbridge, North Lanarkshire",
+        "country": "Scotland",
+        "lat": 55.8624894,
+        "lng": -4.0259894,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "St. Mirren FC",
+        "city": "Paisley",
+        "country": "Scotland",
+        "lat": 55.8455828,
+        "lng": -4.4239646,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Alloa Athletic FC",
+        "city": "Alloa, Clackmannanshire",
+        "country": "Scotland",
+        "lat": 56.1156137,
+        "lng": -3.7922423,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "St. Mirren FC",
+        "city": "Paisley",
+        "country": "Scotland",
+        "lat": 55.8455828,
+        "lng": -4.4239646,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Ross County FC",
+        "city": "Dingwall",
+        "country": "Scotland",
+        "lat": 57.5954797,
+        "lng": -4.4284337,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Sunderland AFC",
+        "city": "Sunderland",
+        "country": "England",
+        "lat": 54.9058512,
+        "lng": -1.3828727,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Southampton FC",
+        "city": "Southampton",
+        "country": "England",
+        "lat": 50.9025349,
+        "lng": -1.404189,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ross_Stewart"
+  },
+  {
+    "id": "ryan-christie",
+    "name": "Ryan Christie",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Scottish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Inverness Caledonian Thistle FC",
+        "city": "Inverness",
+        "country": "Scotland",
+        "lat": 57.4790124,
+        "lng": -4.225739,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Celtic FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Inverness Caledonian Thistle FC",
+        "city": "Inverness",
+        "country": "Scotland",
+        "lat": 57.4790124,
+        "lng": -4.225739,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Celtic FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Aberdeen FC",
+        "city": "Aberdeen",
+        "country": "Scotland",
+        "lat": 57.1482429,
+        "lng": -2.0928095,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Celtic FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "AFC Bournemouth",
+        "city": "Bournemouth",
+        "country": "England",
+        "lat": 50.7446718,
+        "lng": -1.8579514,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ryan_Christie"
+  },
+  {
+    "id": "scott-mckenna",
+    "name": "Scott McKenna",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Scottish",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Ayr United FC",
+        "city": "Ayr",
+        "country": "Scotland",
+        "lat": 55.4628044,
+        "lng": -4.6302502,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Alloa Athletic FC",
+        "city": "Alloa, Clackmannanshire",
+        "country": "Scotland",
+        "lat": 56.1156137,
+        "lng": -3.7922423,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Aberdeen FC",
+        "city": "Aberdeen",
+        "country": "Scotland",
+        "lat": 57.1482429,
+        "lng": -2.0928095,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Ayr United FC",
+        "city": "Ayr",
+        "country": "Scotland",
+        "lat": 55.4628044,
+        "lng": -4.6302502,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Aberdeen FC",
+        "city": "Aberdeen",
+        "country": "Scotland",
+        "lat": 57.1482429,
+        "lng": -2.0928095,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Copenhagen",
+        "city": "København Ø.",
+        "country": "Denmark",
+        "lat": 55.6428043,
+        "lng": 12.5549822,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "UD Las Palmas",
+        "city": "Las Palmas de Gran Canaria",
+        "country": "Spain",
+        "lat": 28.1288694,
+        "lng": -15.4349015,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "GNK Dinamo Zagreb",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "lat": 45.8130967,
+        "lng": 15.9772795,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Scott_McKenna"
+  },
+  {
+    "id": "scott-mctominay",
+    "name": "Scott McTominay",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Scottish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2017,
+        "toYear": 2024
+      },
+      {
+        "clubName": "SSC Napoli",
+        "city": "Napoli",
+        "country": "Italy",
+        "lat": 40.8358846,
+        "lng": 14.2487679,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Scott_McTominay"
+  },
+  {
+    "id": "tyler-fletcher",
+    "name": "Tyler Fletcher",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Scottish",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tyler_Fletcher"
+  }
+]

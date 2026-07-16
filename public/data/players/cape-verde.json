@@ -1,0 +1,1817 @@
+[
+  {
+    "id": "cj-dos-santos",
+    "name": "CJ dos Santos",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Cape Verdean",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "SL Benfica B",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Inter Miami CF",
+        "city": "Fort Lauderdale, Florida",
+        "country": "United States",
+        "lat": 26.1223084,
+        "lng": -80.1433786,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "San Diego FC",
+        "city": "San Diego, California",
+        "country": "United States",
+        "lat": 32.7174202,
+        "lng": -117.162772,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/CJ_dos_Santos"
+  },
+  {
+    "id": "dailon-livramento",
+    "name": "Dailon Livramento",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Cape Verdean",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "MVV Maastricht",
+        "city": "Maastricht",
+        "country": "Netherlands",
+        "lat": 50.8579855,
+        "lng": 5.6969882,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Hellas Verona",
+        "city": "Verona",
+        "country": "Italy",
+        "lat": 45.4424977,
+        "lng": 10.9857377,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Casa Pia AC",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Hellas Verona",
+        "city": "Verona",
+        "country": "Italy",
+        "lat": 45.4424977,
+        "lng": 10.9857377,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Dailon_Livramento"
+  },
+  {
+    "id": "deroy-duarte",
+    "name": "Deroy Duarte",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Cape Verdean",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Sparta Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2016,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Fortuna Sittard",
+        "city": "Sittard",
+        "country": "Netherlands",
+        "lat": 50.9974235,
+        "lng": 5.8666627,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Ludogorets Razgrad",
+        "city": "Razgrad",
+        "country": "Bulgaria",
+        "lat": 43.6394793,
+        "lng": 26.7022408,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Deroy_Duarte"
+  },
+  {
+    "id": "diney-borges",
+    "name": "Diney Borges",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Cape Verdean",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "CS Marítimo B",
+        "city": "Funchal",
+        "country": "Portugal",
+        "lat": 32.6496497,
+        "lng": -16.9086783,
+        "fromYear": 2014,
+        "toYear": 2017
+      },
+      {
+        "clubName": "CS Marítimo",
+        "city": "Funchal",
+        "country": "Portugal",
+        "lat": 32.6496497,
+        "lng": -16.9086783,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "GD Estoril Praia",
+        "city": "Estoril",
+        "country": "Portugal",
+        "lat": 38.7095707,
+        "lng": -9.3901368,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "AS FAR Rabat",
+        "city": "Rabat-Salé",
+        "country": "Morocco",
+        "lat": 33.9204332,
+        "lng": -6.3676093,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Bataeh CSC",
+        "city": "-",
+        "country": "United Arab Emirates",
+        "lat": 24.0002488,
+        "lng": 53.9994829,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Diney_Borges"
+  },
+  {
+    "id": "garry-rodrigues",
+    "name": "Garry Rodrigues",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Cape Verdean",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "XerxesDZB Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2009,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Rostocker FC 1895",
+        "city": "Rostock",
+        "country": "Germany",
+        "lat": 54.0886707,
+        "lng": 12.1400211,
+        "fromYear": 2010,
+        "toYear": 2011
+      },
+      {
+        "clubName": "LFC Leiden",
+        "city": "Leiden",
+        "country": "Netherlands",
+        "lat": 52.1594747,
+        "lng": 4.4908843,
+        "fromYear": 2011,
+        "toYear": 2012
+      },
+      {
+        "clubName": "ADO Den Haag",
+        "city": "Den Haag",
+        "country": "Netherlands",
+        "lat": 52.0799838,
+        "lng": 4.3113461,
+        "fromYear": 2012,
+        "toYear": 2012
+      },
+      {
+        "clubName": "FC Dordrecht",
+        "city": "Dordrecht",
+        "country": "Netherlands",
+        "lat": 51.7689546,
+        "lng": 4.6867891,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "ADO Den Haag",
+        "city": "Den Haag",
+        "country": "Netherlands",
+        "lat": 52.0799838,
+        "lng": 4.3113461,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Levski Sofia",
+        "city": "Sofia",
+        "country": "Bulgaria",
+        "lat": 42.6977028,
+        "lng": 23.3217359,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Elche CF",
+        "city": "Elche (Alicante)",
+        "country": "Spain",
+        "lat": 38.2653307,
+        "lng": -0.6988391,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "PAOK Thessaloniki",
+        "city": "Thessaloniki",
+        "country": "Greece",
+        "lat": 40.6403167,
+        "lng": 22.9352716,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Galatasaray",
+        "city": "Sarıyer / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.1054207,
+        "lng": 29.006187,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Al-Ittihad Club",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.5504432,
+        "lng": 39.1742363,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Fenerbahce",
+        "city": "Kadıköy / İstanbul",
+        "country": "Türkiye",
+        "lat": 40.9912028,
+        "lng": 29.0401521,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Al-Ittihad Club",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "lat": 21.5504432,
+        "lng": 39.1742363,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Olympiacos Piraeus",
+        "city": "Piraeus",
+        "country": "Greece",
+        "lat": 37.9431594,
+        "lng": 23.6470593,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "MKE Ankaragücü",
+        "city": "Yenimahalle/Ankara",
+        "country": "Türkiye",
+        "lat": 39.9689092,
+        "lng": 32.7174019,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Sivasspor",
+        "city": "SİVAS",
+        "country": "Türkiye",
+        "lat": 39.4191717,
+        "lng": 37.1012388,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Apollon Limassol",
+        "city": "Limassol",
+        "country": "Cyprus",
+        "lat": 34.6852901,
+        "lng": 33.0332657,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Garry_Rodrigues"
+  },
+  {
+    "id": "gilson-benchimol",
+    "name": "Gilson Benchimol",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Cape Verdean",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "SF Damaiense",
+        "city": "Amadora",
+        "country": "Portugal",
+        "lat": 38.758959,
+        "lng": -9.2365233,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "GD Estoril Praia",
+        "city": "Estoril",
+        "country": "Portugal",
+        "lat": 38.7095707,
+        "lng": -9.3901368,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "SL Benfica B",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "GD Estoril Praia",
+        "city": "Estoril",
+        "country": "Portugal",
+        "lat": 38.7095707,
+        "lng": -9.3901368,
+        "fromYear": 2024,
+        "toYear": 2024
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Gilson_Benchimol"
+  },
+  {
+    "id": "helio-varela",
+    "name": "Hélio Varela",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Cape Verdean",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Amora FC",
+        "city": "Amora",
+        "country": "Portugal",
+        "lat": 38.6297097,
+        "lng": -9.1160023,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "SU Sintrense",
+        "city": "Sintra",
+        "country": "Portugal",
+        "lat": 38.8355446,
+        "lng": -9.3522371,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Portimonense SAD",
+        "city": "Portimão",
+        "country": "Portugal",
+        "lat": 37.1375808,
+        "lng": -8.5368426,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "KAA Gent",
+        "city": "Gent",
+        "country": "Belgium",
+        "lat": 51.0538286,
+        "lng": 3.7250121,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Maccabi Tel Aviv",
+        "city": "Tel-Aviv",
+        "country": "Israel",
+        "lat": 32.0852997,
+        "lng": 34.7818064,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/H%C3%A9lio_Varela"
+  },
+  {
+    "id": "jamiro-monteiro",
+    "name": "Jamiro Monteiro",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Cape Verdean",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Anker Wismar",
+        "city": "Wismar",
+        "country": "Germany",
+        "lat": 53.8909832,
+        "lng": 11.4647932,
+        "fromYear": 2012,
+        "toYear": 2014
+      },
+      {
+        "clubName": "SC Cambuur Leeuwarden",
+        "city": "Leeuwarden",
+        "country": "Netherlands",
+        "lat": 53.2005936,
+        "lng": 5.7918548,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Heracles Almelo",
+        "city": "Almelo",
+        "country": "Netherlands",
+        "lat": 52.3563585,
+        "lng": 6.6636219,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "FC Metz",
+        "city": "Metz",
+        "country": "France",
+        "lat": 49.1196964,
+        "lng": 6.1763552,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Philadelphia Union",
+        "city": "Chester",
+        "country": "United States",
+        "lat": 39.9829308,
+        "lng": -75.7652424,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Metz",
+        "city": "Metz",
+        "country": "France",
+        "lat": 49.1196964,
+        "lng": 6.1763552,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Philadelphia Union",
+        "city": "Chester",
+        "country": "United States",
+        "lat": 39.9829308,
+        "lng": -75.7652424,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "San Jose Earthquakes",
+        "city": "Santa Clara, California",
+        "country": "United States",
+        "lat": 37.2333253,
+        "lng": -121.6846349,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Gaziantep FK",
+        "city": "Şahinbey / Gaziantep",
+        "country": "Türkiye",
+        "lat": 37.0596208,
+        "lng": 37.3849645,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "PEC Zwolle",
+        "city": "Zwolle",
+        "country": "Netherlands",
+        "lat": 52.5089759,
+        "lng": 6.0943765,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jamiro_Monteiro"
+  },
+  {
+    "id": "jovane-cabral",
+    "name": "Jovane Cabral",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Cape Verdean",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Sporting CP B",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Sporting CP",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "SS Lazio",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Sporting CP",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "US Salernitana 1919",
+        "city": "Salerno",
+        "country": "Italy",
+        "lat": 40.4194416,
+        "lng": 15.3106085,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Sporting CP",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Olympiacos Piraeus",
+        "city": "Piraeus",
+        "country": "Greece",
+        "lat": 37.9431594,
+        "lng": 23.6470593,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "CF Estrela Amadora",
+        "city": "Amadora",
+        "country": "Portugal",
+        "lat": 38.758959,
+        "lng": -9.2365233,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Sporting CP",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jovane_Cabral"
+  },
+  {
+    "id": "joao-paulo",
+    "name": "João Paulo",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Cape Verdean",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Sporting Clube Praia",
+        "city": "Praia",
+        "country": "Cape Verde",
+        "lat": 14.9162811,
+        "lng": -23.5095095,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "SC Maria da Fonte",
+        "city": "Póvoa de Lanhoso",
+        "country": "Portugal",
+        "lat": 41.5759516,
+        "lng": -8.2699521,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Leça FC",
+        "city": "Leça da Palmeira",
+        "country": "Portugal",
+        "lat": 41.1938981,
+        "lng": -8.6977387,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "CD Feirense",
+        "city": "Santa Maria da Feira",
+        "country": "Portugal",
+        "lat": 40.9254179,
+        "lng": -8.5426688,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Sheriff Tiraspol",
+        "city": "Tiraspol",
+        "country": "Moldova",
+        "lat": 46.8566229,
+        "lng": 29.6059359,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "SC Otelul Galati",
+        "city": "Galaţi",
+        "country": "Romania",
+        "lat": 45.4338215,
+        "lng": 28.0549395,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "FCSB",
+        "city": "Bucharest",
+        "country": "Romania",
+        "lat": 44.4361414,
+        "lng": 26.102684,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Paulo"
+  },
+  {
+    "id": "kelvin-pires",
+    "name": "Kelvin Pires",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Cape Verdean",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "AS Trencin",
+        "city": "Trenčín",
+        "country": "Slovakia",
+        "lat": 48.8922719,
+        "lng": 18.0387465,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "SJK Seinäjoki",
+        "city": "Seinäjoki",
+        "country": "Finland",
+        "lat": 62.790666,
+        "lng": 22.8397378,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "AS Trencin",
+        "city": "Trenčín",
+        "country": "Slovakia",
+        "lat": 48.8922719,
+        "lng": 18.0387465,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "SJK Seinäjoki",
+        "city": "Seinäjoki",
+        "country": "Finland",
+        "lat": 62.790666,
+        "lng": 22.8397378,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kelvin_Pires"
+  },
+  {
+    "id": "kevin-pina",
+    "name": "Kevin Pina",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Cape Verdean",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "UD Oliveirense",
+        "city": "Oliveira de Azeméis",
+        "country": "Portugal",
+        "lat": 40.8390118,
+        "lng": -8.4777807,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Anadia FC",
+        "city": "Anadia",
+        "country": "Portugal",
+        "lat": 40.4426833,
+        "lng": -8.4359581,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "UD Oliveirense",
+        "city": "Oliveira de Azeméis",
+        "country": "Portugal",
+        "lat": 40.8390118,
+        "lng": -8.4777807,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "GD Chaves",
+        "city": "Chaves",
+        "country": "Portugal",
+        "lat": 41.7399003,
+        "lng": -7.4715213,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Krasnodar",
+        "city": "Krasnodar",
+        "country": "Russia",
+        "lat": 45.0351532,
+        "lng": 38.9772396,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kevin_Pina"
+  },
+  {
+    "id": "laros-duarte",
+    "name": "Laros Duarte",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Cape Verdean",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Sparta Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Groningen",
+        "city": "Groningen",
+        "country": "Netherlands",
+        "lat": 53.2190652,
+        "lng": 6.5680077,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Puskás Akadémia FC",
+        "city": "Felcsút",
+        "country": "Hungary",
+        "lat": 47.4545349,
+        "lng": 18.5862386,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Laros_Duarte"
+  },
+  {
+    "id": "logan-costa",
+    "name": "Logan Costa",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Cape Verdean",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Stade Reims B",
+        "city": "Reims",
+        "country": "France",
+        "lat": 49.2577886,
+        "lng": 4.031926,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Stade Reims",
+        "city": "Reims",
+        "country": "France",
+        "lat": 49.2577886,
+        "lng": 4.031926,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Le Mans FC",
+        "city": "Mulsanne",
+        "country": "France",
+        "lat": 47.9069356,
+        "lng": 0.2460607,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Stade Reims",
+        "city": "Reims",
+        "country": "France",
+        "lat": 49.2577886,
+        "lng": 4.031926,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Toulouse",
+        "city": "Toulouse",
+        "country": "France",
+        "lat": 43.6044638,
+        "lng": 1.4442433,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Villarreal CF",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Logan_Costa"
+  },
+  {
+    "id": "marcio-rosa",
+    "name": "Márcio Rosa",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Cape Verdean",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Real SC",
+        "city": "Queluz",
+        "country": "Portugal",
+        "lat": 38.7565837,
+        "lng": -9.2545225,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "CDC Montalegre",
+        "city": "Montalegre",
+        "country": "Portugal",
+        "lat": 41.8232206,
+        "lng": -7.7923142,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "CD Cova Piedade",
+        "city": "Almada",
+        "country": "Portugal",
+        "lat": 38.6831302,
+        "lng": -9.1576301,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "CDC Montalegre",
+        "city": "Montalegre",
+        "country": "Portugal",
+        "lat": 41.8232206,
+        "lng": -7.7923142,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Real SC",
+        "city": "Queluz",
+        "country": "Portugal",
+        "lat": 38.7565837,
+        "lng": -9.2545225,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "UD Vilafranquense",
+        "city": "Vila Franca de Xira",
+        "country": "Portugal",
+        "lat": 38.9120642,
+        "lng": -8.9889234,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Anadia FC",
+        "city": "Anadia",
+        "country": "Portugal",
+        "lat": 40.4426833,
+        "lng": -8.4359581,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Hebar",
+        "city": "Pazardzhik",
+        "country": "Bulgaria",
+        "lat": 42.1486841,
+        "lng": 24.1531871,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Montana",
+        "city": "Montana",
+        "country": "Bulgaria",
+        "lat": 43.4088984,
+        "lng": 23.2203193,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/M%C3%A1rcio_Rosa"
+  },
+  {
+    "id": "nuno-da-costa",
+    "name": "Nuno da Costa",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Cape Verdean",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "ES La Ciotat",
+        "city": "La Ciotat",
+        "country": "France",
+        "lat": 43.1758591,
+        "lng": 5.6062495,
+        "fromYear": 2010,
+        "toYear": 2010
+      },
+      {
+        "clubName": "SC Aubagne Air Bel",
+        "city": "Aubagne",
+        "country": "France",
+        "lat": 43.2924385,
+        "lng": 5.5703031,
+        "fromYear": 2010,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Valenciennes FC",
+        "city": "Valenciennes",
+        "country": "France",
+        "lat": 50.3579317,
+        "lng": 3.5234846,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "RC Strasbourg Alsace",
+        "city": "Strasbourg",
+        "country": "France",
+        "lat": 48.584614,
+        "lng": 7.7507127,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Royal Excel Mouscron (-2022)",
+        "city": "Mouscron",
+        "country": "Belgium",
+        "lat": 50.7436672,
+        "lng": 3.2142729,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "SM Caen",
+        "city": "Caen",
+        "country": "France",
+        "lat": 49.1813403,
+        "lng": -0.3635615,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "AJ Auxerre",
+        "city": "Auxerre",
+        "country": "France",
+        "lat": 47.7961287,
+        "lng": 3.570579,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Kasimpasa",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.006381,
+        "lng": 28.9758715,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Basaksehir FK",
+        "city": "Istanbul",
+        "country": "Türkiye",
+        "lat": 41.006381,
+        "lng": 28.9758715,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nuno_da_Costa"
+  },
+  {
+    "id": "roberto-lopes",
+    "name": "Roberto Lopes",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Cape Verdean",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Bohemian Football Club",
+        "city": "Dublin 7 Dublin",
+        "country": "Ireland",
+        "lat": 53.3488785,
+        "lng": -6.2858,
+        "fromYear": 2011,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Shamrock Rovers",
+        "city": "Dublin 24 Tallaght, Dublin",
+        "country": "Ireland",
+        "lat": 53.2789273,
+        "lng": -6.4137537,
+        "fromYear": 2017,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Roberto_Lopes"
+  },
+  {
+    "id": "ryan-mendes",
+    "name": "Ryan Mendes",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Cape Verdean",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "AC Le Havre B",
+        "city": "Le Havre",
+        "country": "France",
+        "lat": 49.4938975,
+        "lng": 0.1079732,
+        "fromYear": 2008,
+        "toYear": 2009
+      },
+      {
+        "clubName": "Le Havre AC",
+        "city": "Le Havre",
+        "country": "France",
+        "lat": 49.4938975,
+        "lng": 0.1079732,
+        "fromYear": 2009,
+        "toYear": 2012
+      },
+      {
+        "clubName": "LOSC Lille",
+        "city": "Camphin-en-Pévèle",
+        "country": "France",
+        "lat": 50.5948763,
+        "lng": 3.2583523,
+        "fromYear": 2012,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "LOSC Lille",
+        "city": "Camphin-en-Pévèle",
+        "country": "France",
+        "lat": 50.5948763,
+        "lng": 3.2583523,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Kayserispor",
+        "city": "Kayseri",
+        "country": "Türkiye",
+        "lat": 38.7219011,
+        "lng": 35.4873214,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Sharjah FC",
+        "city": "Sharjah City",
+        "country": "United Arab Emirates",
+        "lat": 25.3255476,
+        "lng": 55.3931393,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Al-Nasr SC (UAE)",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "lat": 25.0742823,
+        "lng": 55.1885387,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Fatih Karagümrük",
+        "city": "Fatih, İstanbul",
+        "country": "Türkiye",
+        "lat": 41.0192846,
+        "lng": 28.9479296,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Kocaelispor",
+        "city": "İzmit/Kocaeli",
+        "country": "Türkiye",
+        "lat": 40.762653,
+        "lng": 29.9189415,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Igdir FK",
+        "city": "Iğdır",
+        "country": "Türkiye",
+        "lat": 39.8945292,
+        "lng": 43.9427459,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ryan_Mendes"
+  },
+  {
+    "id": "sidny-lopes-cabral",
+    "name": "Sidny Lopes Cabral",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Cape Verdean",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Rot-Weiß Erfurt",
+        "city": "Erfurt",
+        "country": "Germany",
+        "lat": 50.9777974,
+        "lng": 11.0287364,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Viktoria Köln",
+        "city": "Köln",
+        "country": "Germany",
+        "lat": 50.938361,
+        "lng": 6.959974,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "CF Estrela Amadora",
+        "city": "Amadora",
+        "country": "Portugal",
+        "lat": 38.758959,
+        "lng": -9.2365233,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "SL Benfica",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Trabzonspor",
+        "city": "Trabzon",
+        "country": "Türkiye",
+        "lat": 41.0054605,
+        "lng": 39.7301463,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Sidny_Lopes_Cabral"
+  },
+  {
+    "id": "steven-moreira",
+    "name": "Steven Moreira",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Cape Verdean",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Stade Rennais FC B",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Stade Rennais FC",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2013,
+        "toYear": 2016
+      },
+      {
+        "clubName": "FC Lorient",
+        "city": "Lorient",
+        "country": "France",
+        "lat": 47.7477336,
+        "lng": -3.3660907,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "FC Toulouse",
+        "city": "Toulouse",
+        "country": "France",
+        "lat": 43.6044638,
+        "lng": 1.4442433,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Columbus Crew",
+        "city": "Columbus",
+        "country": "United States",
+        "lat": 39.9622601,
+        "lng": -83.0007065,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Steven_Moreira"
+  },
+  {
+    "id": "stopira",
+    "name": "Stopira",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Cape Verdean",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Sporting Clube Praia",
+        "city": "Praia",
+        "country": "Cape Verde",
+        "lat": 14.9162811,
+        "lng": -23.5095095,
+        "fromYear": 2008,
+        "toYear": 2008
+      },
+      {
+        "clubName": "CD Santa Clara",
+        "city": "Ponta Delgada",
+        "country": "Portugal",
+        "lat": 37.7393398,
+        "lng": -25.6689503,
+        "fromYear": 2008,
+        "toYear": 2010
+      },
+      {
+        "clubName": "RC Deportivo Fabril",
+        "city": "La Coruña",
+        "country": "Spain",
+        "lat": 43.3466447,
+        "lng": -8.4127029,
+        "fromYear": 2010,
+        "toYear": 2011
+      },
+      {
+        "clubName": "CD Feirense",
+        "city": "Santa Maria da Feira",
+        "country": "Portugal",
+        "lat": 40.9254179,
+        "lng": -8.5426688,
+        "fromYear": 2011,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Videoton FC Fehérvár",
+        "city": "Székesfehérvár",
+        "country": "Hungary",
+        "lat": 47.1910169,
+        "lng": 18.410811,
+        "fromYear": 2012,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Boavista Praia FC",
+        "city": "Praia",
+        "country": "Cape Verde",
+        "lat": 14.9162811,
+        "lng": -23.5095095,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "SC União Torreense",
+        "city": "Torres Vedras",
+        "country": "Portugal",
+        "lat": 39.0930856,
+        "lng": -9.260741,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Stopira"
+  },
+  {
+    "id": "telmo-arcanjo",
+    "name": "Telmo Arcanjo",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Cape Verdean",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "CD Tondela",
+        "city": "Tondela",
+        "country": "Portugal",
+        "lat": 40.51642,
+        "lng": -8.08053,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Vitória Guimarães SC",
+        "city": "Guimarães",
+        "country": "Portugal",
+        "lat": 41.4417677,
+        "lng": -8.2955712,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Telmo_Arcanjo"
+  },
+  {
+    "id": "vozinha",
+    "name": "Vozinha",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Cape Verdean",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "CS Mindelense",
+        "city": "Mindelo",
+        "country": "Cape Verde",
+        "lat": 16.8873057,
+        "lng": -24.9864064,
+        "fromYear": 2011,
+        "toYear": 2012
+      },
+      {
+        "clubName": "FC Zimbru Chisinau",
+        "city": "Chişinău",
+        "country": "Moldova",
+        "lat": 47.0245117,
+        "lng": 28.8322923,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Gil Vicente FC",
+        "city": "Barcelos",
+        "country": "Portugal",
+        "lat": 41.5314496,
+        "lng": -8.6192306,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "AEL Limassol",
+        "city": "Limassol",
+        "country": "Cyprus",
+        "lat": 34.6852901,
+        "lng": 33.0332657,
+        "fromYear": 2017,
+        "toYear": 2022
+      },
+      {
+        "clubName": "AS Trencin",
+        "city": "Trenčín",
+        "country": "Slovakia",
+        "lat": 48.8922719,
+        "lng": 18.0387465,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "GD Chaves",
+        "city": "Chaves",
+        "country": "Portugal",
+        "lat": 41.7399003,
+        "lng": -7.4715213,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Vozinha"
+  },
+  {
+    "id": "wagner-pina",
+    "name": "Wagner Pina",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Cape Verdean",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "CD Gouveia",
+        "city": "Gouveia",
+        "country": "Portugal",
+        "lat": 40.4940078,
+        "lng": -7.5917814,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "CF Os Belenenses",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "GD Estoril Praia",
+        "city": "Estoril",
+        "country": "Portugal",
+        "lat": 38.7095707,
+        "lng": -9.3901368,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Trabzonspor",
+        "city": "Trabzon",
+        "country": "Türkiye",
+        "lat": 41.0054605,
+        "lng": 39.7301463,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Wagner_Pina"
+  },
+  {
+    "id": "willy-semedo",
+    "name": "Willy Semedo",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Cape Verdean",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Montrouge FC 92",
+        "city": "Montrouge",
+        "country": "France",
+        "lat": 48.8188544,
+        "lng": 2.3194375,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Alki Oroklini (-2023)",
+        "city": "Oroklini",
+        "country": "Cyprus",
+        "lat": 34.9822755,
+        "lng": 33.6558552,
+        "fromYear": 2014,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Royal Charleroi SC",
+        "city": "Charleroi",
+        "country": "Belgium",
+        "lat": 50.4116233,
+        "lng": 4.444528,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "KSV Roeselare (-2020)",
+        "city": "Roeselare",
+        "country": "Belgium",
+        "lat": 50.9449511,
+        "lng": 3.1243935,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "ACSM Politehnica Iasi",
+        "city": "Iaşi",
+        "country": "Romania",
+        "lat": 47.1615598,
+        "lng": 27.5837814,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Grenoble Foot 38",
+        "city": "Grenoble",
+        "country": "France",
+        "lat": 45.1875602,
+        "lng": 5.7357819,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Royal Charleroi SC",
+        "city": "Charleroi",
+        "country": "Belgium",
+        "lat": 50.4116233,
+        "lng": 4.444528,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Pafos FC",
+        "city": "Paphos",
+        "country": "Cyprus",
+        "lat": 34.7743988,
+        "lng": 32.4231586,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Omonia Nicosia",
+        "city": "Nicosia",
+        "country": "Cyprus",
+        "lat": 35.1746503,
+        "lng": 33.3638783,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Faisaly FC",
+        "city": "Harmah",
+        "country": "Saudi Arabia",
+        "lat": 25.9299255,
+        "lng": 45.3226506,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Willy_Semedo"
+  },
+  {
+    "id": "yannick-semedo",
+    "name": "Yannick Semedo",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Cape Verdean",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "CS Marítimo B",
+        "city": "Funchal",
+        "country": "Portugal",
+        "lat": 32.6496497,
+        "lng": -16.9086783,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "CS Marítimo",
+        "city": "Funchal",
+        "country": "Portugal",
+        "lat": 32.6496497,
+        "lng": -16.9086783,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "CF União Madeira (-2021)",
+        "city": "Funchal",
+        "country": "Portugal",
+        "lat": 32.6496497,
+        "lng": -16.9086783,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "SC Beira-Mar",
+        "city": "Aveiro",
+        "country": "Portugal",
+        "lat": 40.640496,
+        "lng": -8.6537841,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "SC Salgueiros",
+        "city": "Porto",
+        "country": "Portugal",
+        "lat": 41.1502195,
+        "lng": -8.6103497,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Vilaverdense FC",
+        "city": "Vila Verde",
+        "country": "Portugal",
+        "lat": 41.6488247,
+        "lng": -8.4362569,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Vizela",
+        "city": "Caldas de Vizela",
+        "country": "Portugal",
+        "lat": 41.3728321,
+        "lng": -8.3132922,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "CD Santa Clara",
+        "city": "Ponta Delgada",
+        "country": "Portugal",
+        "lat": 37.7393398,
+        "lng": -25.6689503,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "SC Farense",
+        "city": "Faro",
+        "country": "Portugal",
+        "lat": 37.0162944,
+        "lng": -7.935182,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Yannick_Semedo"
+  }
+]

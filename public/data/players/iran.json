@@ -1,0 +1,1898 @@
+[
+  {
+    "id": "ali-alipour",
+    "name": "Ali Alipour",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Iranian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "FC Nassaji Mazandaran",
+        "city": "Qaemshahr, Mazandaran",
+        "country": "Iran",
+        "lat": 36.5170708,
+        "lng": 53.0654516,
+        "fromYear": 2011,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Steel Azin FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2011,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Rah Ahan Yazdan FC",
+        "city": "Teheran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Persepolis FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2014,
+        "toYear": 2020
+      },
+      {
+        "clubName": "CS Marítimo",
+        "city": "Funchal",
+        "country": "Portugal",
+        "lat": 32.6496497,
+        "lng": -16.9086783,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Gil Vicente FC",
+        "city": "Barcelos",
+        "country": "Portugal",
+        "lat": 41.5314496,
+        "lng": -8.6192306,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Persepolis FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Alipour"
+  },
+  {
+    "id": "ali-nemati",
+    "name": "Ali Nemati",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Iranian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Babak Mashhad",
+        "city": "Mashhad",
+        "country": "Iran",
+        "lat": 36.2974945,
+        "lng": 59.6059232,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Shahr Khodrou FC",
+        "city": "Mashhad, Razavi Khorasan",
+        "country": "Iran",
+        "lat": 36.2974945,
+        "lng": 59.6059232,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Persepolis FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Foolad FC",
+        "city": "Ahvaz",
+        "country": "Iran",
+        "lat": 31.3230637,
+        "lng": 48.67932,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Nemati"
+  },
+  {
+    "id": "alireza-beiranvand",
+    "name": "Alireza Beiranvand",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Iranian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Naft Novin Tehran",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2010,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Persepolis FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2016,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Royal Antwerp FC",
+        "city": "Deurne - Antwerpen",
+        "country": "Belgium",
+        "lat": 51.2244162,
+        "lng": 4.463811,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Boavista FC",
+        "city": "Porto",
+        "country": "Portugal",
+        "lat": 41.1502195,
+        "lng": -8.6103497,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Persepolis FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Royal Antwerp FC",
+        "city": "Deurne - Antwerpen",
+        "country": "Belgium",
+        "lat": 51.2244162,
+        "lng": 4.463811,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Tractor FC",
+        "city": "Tabriz",
+        "country": "Iran",
+        "lat": 38.0738612,
+        "lng": 46.2978789,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Alireza_Beiranvand"
+  },
+  {
+    "id": "alireza-jahanbakhsh",
+    "name": "Alireza Jahanbakhsh",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Iranian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Damash Tehran",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2010,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Damash Gilan FC",
+        "city": "Rasht",
+        "country": "Iran",
+        "lat": 37.2697578,
+        "lng": 49.5894854,
+        "fromYear": 2011,
+        "toYear": 2013
+      },
+      {
+        "clubName": "NEC Nijmegen",
+        "city": "Nijmegen",
+        "country": "Netherlands",
+        "lat": 51.8474946,
+        "lng": 5.8637771,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "AZ Alkmaar",
+        "city": "Alkmaar",
+        "country": "Netherlands",
+        "lat": 52.6008538,
+        "lng": 4.8170994,
+        "fromYear": 2015,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Feyenoord Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "SC Heerenveen",
+        "city": "Heerenveen",
+        "country": "Netherlands",
+        "lat": 52.9984742,
+        "lng": 5.9231488,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FCV Dender EH",
+        "city": "Denderleeuw",
+        "country": "Belgium",
+        "lat": 50.8877794,
+        "lng": 4.061375,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Alireza_Jahanbakhsh"
+  },
+  {
+    "id": "amirhossein-hosseinzadeh",
+    "name": "Amirhossein Hosseinzadeh",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Iranian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Saipa FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Esteghlal FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Royal Charleroi SC",
+        "city": "Charleroi",
+        "country": "Belgium",
+        "lat": 50.4116233,
+        "lng": 4.444528,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Tractor FC",
+        "city": "Tabriz",
+        "country": "Iran",
+        "lat": 38.0738612,
+        "lng": 46.2978789,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Amirhossein_Hosseinzadeh"
+  },
+  {
+    "id": "amirmohammad-razzaghinia",
+    "name": "Amirmohammad Razzaghinia",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Iranian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC KIA",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Gol Gohar Sirjan FC",
+        "city": "Sirjan",
+        "country": "Iran",
+        "lat": 29.4490826,
+        "lng": 55.6723771,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Esteghlal FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Amirmohammad_Razzaghinia"
+  },
+  {
+    "id": "arya-yousefi",
+    "name": "Arya Yousefi",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Iranian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Sepahan FC",
+        "city": "Isfahan",
+        "country": "Iran",
+        "lat": 32.6707877,
+        "lng": 51.6650002,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Arya_Yousefi"
+  },
+  {
+    "id": "danial-eiri",
+    "name": "Danial Eiri",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Iranian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Malavan Bandar Anzali",
+        "city": "Bandar Anzali",
+        "country": "Iran",
+        "lat": 37.4716356,
+        "lng": 49.4685904,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "FC Nassaji Mazandaran",
+        "city": "Qaemshahr, Mazandaran",
+        "country": "Iran",
+        "lat": 36.5170708,
+        "lng": 53.0654516,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Danial_Eiri"
+  },
+  {
+    "id": "dennis-eckert-ayensa",
+    "name": "Dennis Eckert Ayensa",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Iranian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Borussia Mönchengladbach II",
+        "city": "Mönchengladbach",
+        "country": "Germany",
+        "lat": 51.1947131,
+        "lng": 6.4353792,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "RC Celta Fortuna",
+        "city": "Vigo",
+        "country": "Spain",
+        "lat": 42.1986395,
+        "lng": -8.727956,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Celta de Vigo",
+        "city": "Vigo",
+        "country": "Spain",
+        "lat": 42.1986395,
+        "lng": -8.727956,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Excelsior Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Ingolstadt 04",
+        "city": "Ingolstadt",
+        "country": "Germany",
+        "lat": 48.7630165,
+        "lng": 11.4250395,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Celta de Vigo",
+        "city": "Vigo",
+        "country": "Spain",
+        "lat": 42.1986395,
+        "lng": -8.727956,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Union Saint-Gilloise",
+        "city": "Bruxelles",
+        "country": "Belgium",
+        "lat": 50.8551025,
+        "lng": 4.3510915,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Standard Liège",
+        "city": "Lüttich (Liège)",
+        "country": "Belgium",
+        "lat": 50.6419089,
+        "lng": 6.0178968,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Union Saint-Gilloise",
+        "city": "Bruxelles",
+        "country": "Belgium",
+        "lat": 50.8551025,
+        "lng": 4.3510915,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Dennis_Eckert_Ayensa"
+  },
+  {
+    "id": "ehsan-hajsafi",
+    "name": "Ehsan Hajsafi",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Iranian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Sepahan FC",
+        "city": "Isfahan",
+        "country": "Iran",
+        "lat": 32.6707877,
+        "lng": 51.6650002,
+        "fromYear": 2006,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Tractor FC",
+        "city": "Tabriz",
+        "country": "Iran",
+        "lat": 38.0738612,
+        "lng": 46.2978789,
+        "fromYear": 2011,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Sepahan FC",
+        "city": "Isfahan",
+        "country": "Iran",
+        "lat": 32.6707877,
+        "lng": 51.6650002,
+        "fromYear": 2012,
+        "toYear": 2015
+      },
+      {
+        "clubName": "FSV Frankfurt",
+        "city": "Frankfurt (Main)",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Sepahan FC",
+        "city": "Isfahan",
+        "country": "Iran",
+        "lat": 32.6707877,
+        "lng": 51.6650002,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Panionios FC",
+        "city": "Nea Smyrni (Athens)",
+        "country": "Greece",
+        "lat": 37.9438757,
+        "lng": 23.7192544,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Olympiacos Piraeus",
+        "city": "Piraeus",
+        "country": "Greece",
+        "lat": 37.9431594,
+        "lng": 23.6470593,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Tractor FC",
+        "city": "Tabriz",
+        "country": "Iran",
+        "lat": 38.0738612,
+        "lng": 46.2978789,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "AEK Athens",
+        "city": "Nea Filadelfeia (Athens)",
+        "country": "Greece",
+        "lat": 38.0324068,
+        "lng": 23.7374874,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Sepahan FC",
+        "city": "Isfahan",
+        "country": "Iran",
+        "lat": 32.6707877,
+        "lng": 51.6650002,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ehsan_Hajsafi"
+  },
+  {
+    "id": "hossein-kanaani",
+    "name": "Hossein Kanaani",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Iranian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Esteghlal Novin Mashahr",
+        "city": "Mahshahr",
+        "country": "Iran",
+        "lat": 35.714184,
+        "lng": 51.4203233,
+        "fromYear": 2011,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Persepolis FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2011,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Malavan Bandar Anzali",
+        "city": "Bandar Anzali",
+        "country": "Iran",
+        "lat": 37.4716356,
+        "lng": 49.4685904,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Esteghlal FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Saipa FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Machine Sazi Tabriz",
+        "city": "Tabriz",
+        "country": "Iran",
+        "lat": 38.0738612,
+        "lng": 46.2978789,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Persepolis FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Al-Ahli SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Persepolis FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Hossein_Kanaani"
+  },
+  {
+    "id": "mehdi-ghayedi",
+    "name": "Mehdi Ghayedi",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Iranian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Iranjavan FC",
+        "city": "Bushehr",
+        "country": "Iran",
+        "lat": 28.8936645,
+        "lng": 51.3204877,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Esteghlal FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Shabab Al-Ahli Club",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "lat": 25.0742823,
+        "lng": 55.1885387,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Esteghlal FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Shabab Al-Ahli Club",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "lat": 25.0742823,
+        "lng": 55.1885387,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Kalba FC",
+        "city": "Kalba",
+        "country": "United Arab Emirates",
+        "lat": 25.0512959,
+        "lng": 56.3542189,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Shabab Al-Ahli Club",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "lat": 25.0742823,
+        "lng": 55.1885387,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Nasr SC (UAE)",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "lat": 25.0742823,
+        "lng": 55.1885387,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mehdi_Ghayedi"
+  },
+  {
+    "id": "mehdi-taremi",
+    "name": "Mehdi Taremi",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Iranian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Iranjavan FC",
+        "city": "Bushehr",
+        "country": "Iran",
+        "lat": 28.8936645,
+        "lng": 51.3204877,
+        "fromYear": 2009,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Shahin Bushehr FC",
+        "city": "Bushehr",
+        "country": "Iran",
+        "lat": 28.8936645,
+        "lng": 51.3204877,
+        "fromYear": 2010,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Iranjavan FC",
+        "city": "Bushehr",
+        "country": "Iran",
+        "lat": 28.8936645,
+        "lng": 51.3204877,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Persepolis FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2014,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Al-Gharafa SC",
+        "city": "Al-Rayyan",
+        "country": "Qatar",
+        "lat": 25.0819602,
+        "lng": 51.158416,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Rio Ave FC",
+        "city": "Vila do Conde",
+        "country": "Portugal",
+        "lat": 41.3540398,
+        "lng": -8.7435403,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Porto",
+        "city": "Porto",
+        "country": "Portugal",
+        "lat": 41.1502195,
+        "lng": -8.6103497,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Inter Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Olympiacos Piraeus",
+        "city": "Piraeus",
+        "country": "Greece",
+        "lat": 37.9431594,
+        "lng": 23.6470593,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mehdi_Taremi"
+  },
+  {
+    "id": "mehdi-torabi",
+    "name": "Mehdi Torabi",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Iranian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Saipa FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2012,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Persepolis FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Al-Arabi SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Persepolis FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Tractor FC",
+        "city": "Tabriz",
+        "country": "Iran",
+        "lat": 38.0738612,
+        "lng": 46.2978789,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mehdi_Torabi"
+  },
+  {
+    "id": "milad-mohammadi",
+    "name": "Milad Mohammadi",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Iranian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Rah Ahan Yazdan FC",
+        "city": "Teheran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Akhmat Grozny",
+        "city": "Grozny",
+        "country": "Russia",
+        "lat": 43.3086383,
+        "lng": 45.7065735,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "KAA Gent",
+        "city": "Gent",
+        "country": "Belgium",
+        "lat": 51.0538286,
+        "lng": 3.7250121,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "AEK Athens",
+        "city": "Nea Filadelfeia (Athens)",
+        "country": "Greece",
+        "lat": 38.0324068,
+        "lng": 23.7374874,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Adana Demirspor",
+        "city": "Adana",
+        "country": "Türkiye",
+        "lat": 36.9863599,
+        "lng": 35.3252861,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Persepolis FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Milad_Mohammadi"
+  },
+  {
+    "id": "mohammad-ghorbani",
+    "name": "Mohammad Ghorbani",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Iranian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Nassaji Mazandaran",
+        "city": "Qaemshahr, Mazandaran",
+        "country": "Iran",
+        "lat": 36.5170708,
+        "lng": 53.0654516,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Sepahan FC",
+        "city": "Isfahan",
+        "country": "Iran",
+        "lat": 32.6707877,
+        "lng": 51.6650002,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Wahda FC",
+        "city": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "lat": 24.4538352,
+        "lng": 54.3774014,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohammad_Ghorbani"
+  },
+  {
+    "id": "mohammad-mohebi",
+    "name": "Mohammad Mohebi",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Iranian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Shahin Bushehr FC",
+        "city": "Bushehr",
+        "country": "Iran",
+        "lat": 28.8936645,
+        "lng": 51.3204877,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Sepahan FC",
+        "city": "Isfahan",
+        "country": "Iran",
+        "lat": 32.6707877,
+        "lng": 51.6650002,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "CD Santa Clara",
+        "city": "Ponta Delgada",
+        "country": "Portugal",
+        "lat": 37.7393398,
+        "lng": -25.6689503,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Esteghlal FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "CD Santa Clara",
+        "city": "Ponta Delgada",
+        "country": "Portugal",
+        "lat": 37.7393398,
+        "lng": -25.6689503,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Rostov",
+        "city": "Rostov-na-Donu",
+        "country": "Russia",
+        "lat": 47.2222596,
+        "lng": 39.7198736,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohammad_Mohebi"
+  },
+  {
+    "id": "payam-niazmand",
+    "name": "Payam Niazmand",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Iranian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Paykan FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2015,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Sepahan FC",
+        "city": "Isfahan",
+        "country": "Iran",
+        "lat": 32.6707877,
+        "lng": 51.6650002,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Portimonense SAD",
+        "city": "Portimão",
+        "country": "Portugal",
+        "lat": 37.1375808,
+        "lng": -8.5368426,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Sepahan FC",
+        "city": "Isfahan",
+        "country": "Iran",
+        "lat": 32.6707877,
+        "lng": 51.6650002,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Portimonense SAD",
+        "city": "Portimão",
+        "country": "Portugal",
+        "lat": 37.1375808,
+        "lng": -8.5368426,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Persepolis FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Payam_Niazmand"
+  },
+  {
+    "id": "ramin-rezaeian",
+    "name": "Ramin Rezaeian",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Iranian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Shahrdari Sari",
+        "city": "Sari",
+        "country": "Iran",
+        "lat": 36.5537458,
+        "lng": 53.0602761,
+        "fromYear": 2008,
+        "toYear": 2008
+      },
+      {
+        "clubName": "Sabaye Qom",
+        "city": "Qom",
+        "country": "Iran",
+        "lat": 34.6422939,
+        "lng": 50.8801184,
+        "fromYear": 2009,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Rah Ahan Yazdan FC",
+        "city": "Teheran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Persepolis FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Caykur Rizespor",
+        "city": "Merkez/RİZE",
+        "country": "Türkiye",
+        "lat": 41.0348622,
+        "lng": 40.5088943,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Persepolis FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "KV Oostende (-2024)",
+        "city": "Oostende",
+        "country": "Belgium",
+        "lat": 51.2258565,
+        "lng": 2.919496,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Al-Duhail SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Al-Sailiya SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Al-Duhail SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Sepahan FC",
+        "city": "Isfahan",
+        "country": "Iran",
+        "lat": 32.6707877,
+        "lng": 51.6650002,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Persepolis FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Esteghlal FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Foolad FC",
+        "city": "Ahvaz",
+        "country": "Iran",
+        "lat": 31.3230637,
+        "lng": 48.67932,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Esteghlal FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ramin_Rezaeian"
+  },
+  {
+    "id": "roozbeh-cheshmi",
+    "name": "Roozbeh Cheshmi",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Iranian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Persepolis FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Sabaye Qom",
+        "city": "Qom",
+        "country": "Iran",
+        "lat": 34.6422939,
+        "lng": 50.8801184,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Esteghlal FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2015,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Umm Salal SC",
+        "city": "Umm Salal",
+        "country": "Qatar",
+        "lat": 25.4897276,
+        "lng": 51.3262709,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Esteghlal FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Roozbeh_Cheshmi"
+  },
+  {
+    "id": "saeed-ezatolahi",
+    "name": "Saeed Ezatolahi",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Iranian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Malavan Bandar Anzali",
+        "city": "Bandar Anzali",
+        "country": "Iran",
+        "lat": 37.4716356,
+        "lng": 49.4685904,
+        "fromYear": 2012,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Atlético Madrid C",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "FC Rostov",
+        "city": "Rostov-na-Donu",
+        "country": "Russia",
+        "lat": 47.2222596,
+        "lng": 39.7198736,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Anzhi Makhachkala",
+        "city": "Kaspiysk",
+        "country": "Russia",
+        "lat": 42.8921817,
+        "lng": 47.6372105,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "FC Rostov",
+        "city": "Rostov-na-Donu",
+        "country": "Russia",
+        "lat": 47.2222596,
+        "lng": 39.7198736,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Amkar Perm",
+        "city": "Perm",
+        "country": "Russia",
+        "lat": 58.0108531,
+        "lng": 56.2318528,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "FC Rostov",
+        "city": "Rostov-na-Donu",
+        "country": "Russia",
+        "lat": 47.2222596,
+        "lng": 39.7198736,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Reading FC",
+        "city": "Reading",
+        "country": "England",
+        "lat": 51.4564242,
+        "lng": -0.9700664,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Rostov",
+        "city": "Rostov-na-Donu",
+        "country": "Russia",
+        "lat": 47.2222596,
+        "lng": 39.7198736,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "KAS Eupen",
+        "city": "Eupen",
+        "country": "Belgium",
+        "lat": 50.6305665,
+        "lng": 6.0312717,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Rostov",
+        "city": "Rostov-na-Donu",
+        "country": "Russia",
+        "lat": 47.2222596,
+        "lng": 39.7198736,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Vejle Boldklub",
+        "city": "Vejle",
+        "country": "Denmark",
+        "lat": 55.707931,
+        "lng": 9.5329419,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Al-Gharafa SC",
+        "city": "Al-Rayyan",
+        "country": "Qatar",
+        "lat": 25.0819602,
+        "lng": 51.158416,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Vejle Boldklub",
+        "city": "Vejle",
+        "country": "Denmark",
+        "lat": 55.707931,
+        "lng": 9.5329419,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Shabab Al-Ahli Club",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "lat": 25.0742823,
+        "lng": 55.1885387,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Saeed_Ezatolahi"
+  },
+  {
+    "id": "saleh-hardani",
+    "name": "Saleh Hardani",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Iranian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Foolad FC",
+        "city": "Ahvaz",
+        "country": "Iran",
+        "lat": 31.3230637,
+        "lng": 48.67932,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Esteghlal FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Sepahan FC",
+        "city": "Isfahan",
+        "country": "Iran",
+        "lat": 32.6707877,
+        "lng": 51.6650002,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Esteghlal FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Saleh_Hardani"
+  },
+  {
+    "id": "saman-ghoddos",
+    "name": "Saman Ghoddos",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Iranian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Trelleborgs FF",
+        "city": "Trelleborg",
+        "country": "Sweden",
+        "lat": 55.37592,
+        "lng": 13.1461522,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Syrianska FC",
+        "city": "Södertälje",
+        "country": "Sweden",
+        "lat": 59.1964289,
+        "lng": 17.6271663,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Östersunds FK",
+        "city": "Östersund",
+        "country": "Sweden",
+        "lat": 63.1793655,
+        "lng": 14.6357061,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Amiens SC",
+        "city": "Amiens",
+        "country": "France",
+        "lat": 49.8941708,
+        "lng": 2.2956951,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Brentford FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Amiens SC",
+        "city": "Amiens",
+        "country": "France",
+        "lat": 49.8941708,
+        "lng": 2.2956951,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Brentford FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Kalba FC",
+        "city": "Kalba",
+        "country": "United Arab Emirates",
+        "lat": 25.0512959,
+        "lng": 56.3542189,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Saman_Ghoddos"
+  },
+  {
+    "id": "seyed-hossein-hosseini",
+    "name": "Seyed Hossein Hosseini",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Iranian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Bargh Shiraz FC",
+        "city": "Shiraz",
+        "country": "Iran",
+        "lat": 29.6060218,
+        "lng": 52.5378041,
+        "fromYear": 2010,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Esteghlal FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2012,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Malavan Bandar Anzali",
+        "city": "Bandar Anzali",
+        "country": "Iran",
+        "lat": 37.4716356,
+        "lng": 49.4685904,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Esteghlal FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2016,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Sepahan FC",
+        "city": "Isfahan",
+        "country": "Iran",
+        "lat": 32.6707877,
+        "lng": 51.6650002,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Seyed_Hossein_Hosseini"
+  },
+  {
+    "id": "shahriar-moghanlou",
+    "name": "Shahriar Moghanlou",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Iranian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Paykan FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Malavan Bandar Anzali",
+        "city": "Bandar Anzali",
+        "country": "Iran",
+        "lat": 37.4716356,
+        "lng": 49.4685904,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Paykan FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "CD Santa Clara",
+        "city": "Ponta Delgada",
+        "country": "Portugal",
+        "lat": 37.7393398,
+        "lng": -25.6689503,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Persepolis FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "CD Santa Clara",
+        "city": "Ponta Delgada",
+        "country": "Portugal",
+        "lat": 37.7393398,
+        "lng": -25.6689503,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Sepahan FC",
+        "city": "Isfahan",
+        "country": "Iran",
+        "lat": 32.6707877,
+        "lng": 51.6650002,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Kalba FC",
+        "city": "Kalba",
+        "country": "United Arab Emirates",
+        "lat": 25.0512959,
+        "lng": 56.3542189,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Shahriar_Moghanlou"
+  },
+  {
+    "id": "shoja-khalilzadeh",
+    "name": "Shoja Khalilzadeh",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Iranian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Mes Rafsanjan",
+        "city": "Rafsanjan",
+        "country": "Iran",
+        "lat": 30.402184,
+        "lng": 55.9941776,
+        "fromYear": 2008,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Mes Kerman",
+        "city": "Kerman",
+        "country": "Iran",
+        "lat": 29.571858,
+        "lng": 57.301047,
+        "fromYear": 2010,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Sepahan FC",
+        "city": "Isfahan",
+        "country": "Iran",
+        "lat": 32.6707877,
+        "lng": 51.6650002,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Tractor FC",
+        "city": "Tabriz",
+        "country": "Iran",
+        "lat": 38.0738612,
+        "lng": 46.2978789,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Sepahan FC",
+        "city": "Isfahan",
+        "country": "Iran",
+        "lat": 32.6707877,
+        "lng": 51.6650002,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Persepolis FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Al-Rayyan SC",
+        "city": "Al-Rayyan",
+        "country": "Qatar",
+        "lat": 25.0819602,
+        "lng": 51.158416,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Al-Ahli SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Tractor FC",
+        "city": "Tabriz",
+        "country": "Iran",
+        "lat": 38.0738612,
+        "lng": 46.2978789,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Shoja_Khalilzadeh"
+  }
+]

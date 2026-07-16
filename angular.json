@@ -27,7 +27,8 @@
             "styles": [
               "src/styles.css",
               "src/app/app.css"
-            ]
+            ],
+            "allowedCommonJsDependencies": ["gifenc"]
           },
           "configurations": {
             "production": {

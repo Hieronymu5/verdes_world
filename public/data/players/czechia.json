@@ -1,0 +1,1826 @@
+[
+  {
+    "id": "adam-hlozek",
+    "name": "Adam Hlozek",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Czech",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "AC Sparta Prague",
+        "city": "Praha",
+        "country": "Czech Republic",
+        "lat": 50.0874654,
+        "lng": 14.4212535,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Bayer 04 Leverkusen",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "lat": 51.0324743,
+        "lng": 6.9881194,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Adam_Hlozek"
+  },
+  {
+    "id": "alexandr-sojka",
+    "name": "Alexandr Sojka",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Czech",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Viktoria Plzen B",
+        "city": "Pilsen",
+        "country": "Czech Republic",
+        "lat": 49.7477415,
+        "lng": 13.3775249,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Viktoria Plzen",
+        "city": "Pilsen",
+        "country": "Czech Republic",
+        "lat": 49.7477415,
+        "lng": 13.3775249,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Viktoria Plzen B",
+        "city": "Pilsen",
+        "country": "Czech Republic",
+        "lat": 49.7477415,
+        "lng": 13.3775249,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Hradec Kralove",
+        "city": "Hradec Králové",
+        "country": "Czech Republic",
+        "lat": 50.2092113,
+        "lng": 15.8327512,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "FC Viktoria Plzen",
+        "city": "Pilsen",
+        "country": "Czech Republic",
+        "lat": 49.7477415,
+        "lng": 13.3775249,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandr_Sojka"
+  },
+  {
+    "id": "david-doudera",
+    "name": "David Doudera",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Czech",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FK Dukla Prague",
+        "city": "Praha-Dejvice",
+        "country": "Czech Republic",
+        "lat": 50.096947,
+        "lng": 14.3995004,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FK Mlada Boleslav",
+        "city": "Mladá Boleslav",
+        "country": "Czech Republic",
+        "lat": 50.4116187,
+        "lng": 14.9031301,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Doudera"
+  },
+  {
+    "id": "david-jurasek",
+    "name": "David Jurásek",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Czech",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Zbrojovka Brno",
+        "city": "Brno",
+        "country": "Czech Republic",
+        "lat": 49.1922443,
+        "lng": 16.6113382,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "1.SK Prostejov",
+        "city": "Prostějov",
+        "country": "Czech Republic",
+        "lat": 49.4721467,
+        "lng": 17.1117979,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FK Mlada Boleslav",
+        "city": "Mladá Boleslav",
+        "country": "Czech Republic",
+        "lat": 50.4116187,
+        "lng": 14.9031301,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "SL Benfica",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Besiktas JK",
+        "city": "Beşiktaş / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.0670098,
+        "lng": 29.0421066,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "SL Benfica",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "SL Benfica",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Jur%C3%A1sek"
+  },
+  {
+    "id": "david-zima",
+    "name": "David Zima",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Czech",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "SK Sigma Olomouc B",
+        "city": "Olomouc",
+        "country": "Czech Republic",
+        "lat": 49.5940567,
+        "lng": 17.251143,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "SK Sigma Olomouc B",
+        "city": "Olomouc",
+        "country": "Czech Republic",
+        "lat": 49.5940567,
+        "lng": 17.251143,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Torino FC",
+        "city": "Torino",
+        "country": "Italy",
+        "lat": 45.0677551,
+        "lng": 7.6824892,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Zima"
+  },
+  {
+    "id": "denis-visinsky",
+    "name": "Denis Visinsky",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Czech",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "SK Slavia Prague B",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Slovan Liberec",
+        "city": "Liberec",
+        "country": "Czech Republic",
+        "lat": 50.7702648,
+        "lng": 15.0583947,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Viktoria Plzen",
+        "city": "Pilsen",
+        "country": "Czech Republic",
+        "lat": 49.7477415,
+        "lng": 13.3775249,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Denis_Visinsky"
+  },
+  {
+    "id": "hugo-sochurek",
+    "name": "Hugo Sochurek",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Czech",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "AC Sparta Prague B",
+        "city": "Praha",
+        "country": "Czech Republic",
+        "lat": 50.0874654,
+        "lng": 14.4212535,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "AC Sparta Prague",
+        "city": "Praha",
+        "country": "Czech Republic",
+        "lat": 50.0874654,
+        "lng": 14.4212535,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Hugo_Sochurek"
+  },
+  {
+    "id": "jan-kuchta",
+    "name": "Jan Kuchta",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Czech",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "SK Slavia Prague B",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Bohemians Prague 1905",
+        "city": "Praha",
+        "country": "Czech Republic",
+        "lat": 50.0874654,
+        "lng": 14.4212535,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "SK Slavia Prague B",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "1.FC Slovacko",
+        "city": "Uherské Hradiště",
+        "country": "Czech Republic",
+        "lat": 49.0681018,
+        "lng": 17.4663899,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "FK Viktoria Zizkov",
+        "city": "Praha",
+        "country": "Czech Republic",
+        "lat": 50.0874654,
+        "lng": 14.4212535,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "SK Slavia Prague B",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Slovan Liberec",
+        "city": "Liberec",
+        "country": "Czech Republic",
+        "lat": 50.7702648,
+        "lng": 15.0583947,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FK Teplice",
+        "city": "Teplice",
+        "country": "Czech Republic",
+        "lat": 50.6406644,
+        "lng": 13.8244461,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "SK Slavia Prague B",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Slovan Liberec",
+        "city": "Liberec",
+        "country": "Czech Republic",
+        "lat": 50.7702648,
+        "lng": 15.0583947,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "AC Sparta Prague",
+        "city": "Praha",
+        "country": "Czech Republic",
+        "lat": 50.0874654,
+        "lng": 14.4212535,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Lokomotiv Moscow",
+        "city": "Moskau",
+        "country": "Russia",
+        "lat": 55.625578,
+        "lng": 37.6063916,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "AC Sparta Prague",
+        "city": "Praha",
+        "country": "Czech Republic",
+        "lat": 50.0874654,
+        "lng": 14.4212535,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Lokomotiv Moscow",
+        "city": "Moskau",
+        "country": "Russia",
+        "lat": 55.625578,
+        "lng": 37.6063916,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Midtjylland",
+        "city": "Herning",
+        "country": "Denmark",
+        "lat": 56.1379757,
+        "lng": 8.9746623,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "AC Sparta Prague",
+        "city": "Praha",
+        "country": "Czech Republic",
+        "lat": 50.0874654,
+        "lng": 14.4212535,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Midtjylland",
+        "city": "Herning",
+        "country": "Denmark",
+        "lat": 56.1379757,
+        "lng": 8.9746623,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jan_Kuchta"
+  },
+  {
+    "id": "jaroslav-zeleny",
+    "name": "Jaroslav Zelený",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Czech",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Hradec Kralove",
+        "city": "Hradec Králové",
+        "country": "Czech Republic",
+        "lat": 50.2092113,
+        "lng": 15.8327512,
+        "fromYear": 2010,
+        "toYear": 2014
+      },
+      {
+        "clubName": "MFK Karvina",
+        "city": "Karviná",
+        "country": "Czech Republic",
+        "lat": 49.8542719,
+        "lng": 18.5416556,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "FC Hradec Kralove",
+        "city": "Hradec Králové",
+        "country": "Czech Republic",
+        "lat": 50.2092113,
+        "lng": 15.8327512,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "FK Jablonec",
+        "city": "Jablonec nad Nisou",
+        "country": "Czech Republic",
+        "lat": 50.7240899,
+        "lng": 15.1710958,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FK Mlada Boleslav",
+        "city": "Mladá Boleslav",
+        "country": "Czech Republic",
+        "lat": 50.4116187,
+        "lng": 14.9031301,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FK Jablonec",
+        "city": "Jablonec nad Nisou",
+        "country": "Czech Republic",
+        "lat": 50.7240899,
+        "lng": 15.1710958,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "AC Sparta Prague",
+        "city": "Praha",
+        "country": "Czech Republic",
+        "lat": 50.0874654,
+        "lng": 14.4212535,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaroslav_Zelen%C3%BD"
+  },
+  {
+    "id": "jindrich-stanek",
+    "name": "Jindrich Stanek",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Czech",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Hyde United",
+        "city": "Hyde",
+        "country": "England",
+        "lat": 53.4508687,
+        "lng": -2.0782603,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "SK Dynamo Ceske Budejovice",
+        "city": "České Budějovice",
+        "country": "Czech Republic",
+        "lat": 48.9747357,
+        "lng": 14.474285,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "FC Viktoria Plzen",
+        "city": "Pilsen",
+        "country": "Czech Republic",
+        "lat": 49.7477415,
+        "lng": 13.3775249,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "SK Dynamo Ceske Budejovice",
+        "city": "České Budějovice",
+        "country": "Czech Republic",
+        "lat": 48.9747357,
+        "lng": 14.474285,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Viktoria Plzen",
+        "city": "Pilsen",
+        "country": "Czech Republic",
+        "lat": 49.7477415,
+        "lng": 13.3775249,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jindrich_Stanek"
+  },
+  {
+    "id": "ladislav-krejci",
+    "name": "Ladislav Krejci",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Czech",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Zbrojovka Brno",
+        "city": "Brno",
+        "country": "Czech Republic",
+        "lat": 49.1922443,
+        "lng": 16.6113382,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "AC Sparta Prague",
+        "city": "Praha",
+        "country": "Czech Republic",
+        "lat": 50.0874654,
+        "lng": 14.4212535,
+        "fromYear": 2019,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Girona FC",
+        "city": "Girona",
+        "country": "Spain",
+        "lat": 41.9793006,
+        "lng": 2.8199439,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Wolverhampton Wanderers",
+        "city": "Wolverhampton",
+        "country": "England",
+        "lat": 52.5847651,
+        "lng": -2.127567,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Girona FC",
+        "city": "Girona",
+        "country": "Spain",
+        "lat": 41.9793006,
+        "lng": 2.8199439,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ladislav_Krejci"
+  },
+  {
+    "id": "lukas-cerv",
+    "name": "Lukas Cerv",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Czech",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "SK Slavia Prague B",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Vysocina Jihlava",
+        "city": "Jihlava",
+        "country": "Czech Republic",
+        "lat": 49.396064,
+        "lng": 15.5903065,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FK Pardubice",
+        "city": "Pardubice",
+        "country": "Czech Republic",
+        "lat": 50.0385812,
+        "lng": 15.7791356,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Slovan Liberec",
+        "city": "Liberec",
+        "country": "Czech Republic",
+        "lat": 50.7702648,
+        "lng": 15.0583947,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Viktoria Plzen",
+        "city": "Pilsen",
+        "country": "Czech Republic",
+        "lat": 49.7477415,
+        "lng": 13.3775249,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Lukas_Cerv"
+  },
+  {
+    "id": "lukas-hornicek",
+    "name": "Lukas Hornicek",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Czech",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "FK Pardubice",
+        "city": "Pardubice",
+        "country": "Czech Republic",
+        "lat": 50.0385812,
+        "lng": 15.7791356,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "SC Braga B",
+        "city": "Braga",
+        "country": "Portugal",
+        "lat": 41.5510583,
+        "lng": -8.4280045,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "SC Braga",
+        "city": "Braga",
+        "country": "Portugal",
+        "lat": 41.5510583,
+        "lng": -8.4280045,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Lukas_Hornicek"
+  },
+  {
+    "id": "lukas-provod",
+    "name": "Lukas Provod",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Czech",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "FC Viktoria Plzen B",
+        "city": "Pilsen",
+        "country": "Czech Republic",
+        "lat": 49.7477415,
+        "lng": 13.3775249,
+        "fromYear": 2015,
+        "toYear": 2019
+      },
+      {
+        "clubName": "SK Dynamo Ceske Budejovice",
+        "city": "České Budějovice",
+        "country": "Czech Republic",
+        "lat": 48.9747357,
+        "lng": 14.474285,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "SK Dynamo Ceske Budejovice",
+        "city": "České Budějovice",
+        "country": "Czech Republic",
+        "lat": 48.9747357,
+        "lng": 14.474285,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Viktoria Plzen B",
+        "city": "Pilsen",
+        "country": "Czech Republic",
+        "lat": 49.7477415,
+        "lng": 13.3775249,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2020,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Lukas_Provod"
+  },
+  {
+    "id": "matej-kovar",
+    "name": "Matej Kovar",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Czech",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Swindon Town",
+        "city": "Swindon",
+        "country": "England",
+        "lat": 51.5615327,
+        "lng": -1.7854322,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Burton Albion",
+        "city": "Burton on Trent",
+        "country": "England",
+        "lat": 52.802742,
+        "lng": -1.629917,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "AC Sparta Prague",
+        "city": "Praha",
+        "country": "Czech Republic",
+        "lat": 50.0874654,
+        "lng": 14.4212535,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Bayer 04 Leverkusen",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "lat": 51.0324743,
+        "lng": 6.9881194,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Bayer 04 Leverkusen",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "lat": 51.0324743,
+        "lng": 6.9881194,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Matej_Kovar"
+  },
+  {
+    "id": "michal-sadilek",
+    "name": "Michal Sadílek",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Czech",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Slovan Liberec",
+        "city": "Liberec",
+        "country": "Czech Republic",
+        "lat": 50.7702648,
+        "lng": 15.0583947,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Twente Enschede",
+        "city": "Enschede",
+        "country": "Netherlands",
+        "lat": 52.2209855,
+        "lng": 6.8940537,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Michal_Sad%C3%ADlek"
+  },
+  {
+    "id": "mojmir-chytil",
+    "name": "Mojmír Chytil",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Czech",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "SK Sigma Olomouc B",
+        "city": "Olomouc",
+        "country": "Czech Republic",
+        "lat": 49.5940567,
+        "lng": 17.251143,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "SK Sigma Olomouc",
+        "city": "Olomouc",
+        "country": "Czech Republic",
+        "lat": 49.5940567,
+        "lng": 17.251143,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FK Pardubice",
+        "city": "Pardubice",
+        "country": "Czech Republic",
+        "lat": 50.0385812,
+        "lng": 15.7791356,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "SK Sigma Olomouc",
+        "city": "Olomouc",
+        "country": "Czech Republic",
+        "lat": 49.5940567,
+        "lng": 17.251143,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mojm%C3%ADr_Chytil"
+  },
+  {
+    "id": "patrik-schick",
+    "name": "Patrik Schick",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Czech",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "AC Sparta Prague",
+        "city": "Praha",
+        "country": "Czech Republic",
+        "lat": 50.0874654,
+        "lng": 14.4212535,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Bohemians Prague 1905",
+        "city": "Praha",
+        "country": "Czech Republic",
+        "lat": 50.0874654,
+        "lng": 14.4212535,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "AC Sparta Prague",
+        "city": "Praha",
+        "country": "Czech Republic",
+        "lat": 50.0874654,
+        "lng": 14.4212535,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "UC Sampdoria",
+        "city": "Genova",
+        "country": "Italy",
+        "lat": 44.40726,
+        "lng": 8.9338624,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "UC Sampdoria",
+        "city": "Genova",
+        "country": "Italy",
+        "lat": 44.40726,
+        "lng": 8.9338624,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Bayer 04 Leverkusen",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "lat": 51.0324743,
+        "lng": 6.9881194,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2020,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Patrik_Schick"
+  },
+  {
+    "id": "pavel-sulc",
+    "name": "Pavel Sulc",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Czech",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Viktoria Plzen B",
+        "city": "Pilsen",
+        "country": "Czech Republic",
+        "lat": 49.7477415,
+        "lng": 13.3775249,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Vysocina Jihlava",
+        "city": "Jihlava",
+        "country": "Czech Republic",
+        "lat": 49.396064,
+        "lng": 15.5903065,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Slezsky FC Opava",
+        "city": "Opava",
+        "country": "Czech Republic",
+        "lat": 49.9389004,
+        "lng": 17.9024174,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Viktoria Plzen B",
+        "city": "Pilsen",
+        "country": "Czech Republic",
+        "lat": 49.7477415,
+        "lng": 13.3775249,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Viktoria Plzen",
+        "city": "Pilsen",
+        "country": "Czech Republic",
+        "lat": 49.7477415,
+        "lng": 13.3775249,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "SK Dynamo Ceske Budejovice",
+        "city": "České Budějovice",
+        "country": "Czech Republic",
+        "lat": 48.9747357,
+        "lng": 14.474285,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Viktoria Plzen",
+        "city": "Pilsen",
+        "country": "Czech Republic",
+        "lat": 49.7477415,
+        "lng": 13.3775249,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "SK Dynamo Ceske Budejovice",
+        "city": "České Budějovice",
+        "country": "Czech Republic",
+        "lat": 48.9747357,
+        "lng": 14.474285,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Viktoria Plzen",
+        "city": "Pilsen",
+        "country": "Czech Republic",
+        "lat": 49.7477415,
+        "lng": 13.3775249,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FK Jablonec",
+        "city": "Jablonec nad Nisou",
+        "country": "Czech Republic",
+        "lat": 50.7240899,
+        "lng": 15.1710958,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Viktoria Plzen",
+        "city": "Pilsen",
+        "country": "Czech Republic",
+        "lat": 49.7477415,
+        "lng": 13.3775249,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Olympique Lyon",
+        "city": "Décines-Charpieu",
+        "country": "France",
+        "lat": 45.773606,
+        "lng": 4.9633314,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Pavel_Sulc"
+  },
+  {
+    "id": "robin-hranac",
+    "name": "Robin Hranac",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Czech",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Viktoria Plzen B",
+        "city": "Pilsen",
+        "country": "Czech Republic",
+        "lat": 49.7477415,
+        "lng": 13.3775249,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Tatran Liptovsky Mikulas",
+        "city": "Liptovský Mikuláš",
+        "country": "Slovakia",
+        "lat": 49.0835785,
+        "lng": 19.612785,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Viktoria Plzen B",
+        "city": "Pilsen",
+        "country": "Czech Republic",
+        "lat": 49.7477415,
+        "lng": 13.3775249,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Viktoria Plzen",
+        "city": "Pilsen",
+        "country": "Czech Republic",
+        "lat": 49.7477415,
+        "lng": 13.3775249,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FK Pardubice",
+        "city": "Pardubice",
+        "country": "Czech Republic",
+        "lat": 50.0385812,
+        "lng": 15.7791356,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Viktoria Plzen B",
+        "city": "Pilsen",
+        "country": "Czech Republic",
+        "lat": 49.7477415,
+        "lng": 13.3775249,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FK Pardubice",
+        "city": "Pardubice",
+        "country": "Czech Republic",
+        "lat": 50.0385812,
+        "lng": 15.7791356,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Viktoria Plzen",
+        "city": "Pilsen",
+        "country": "Czech Republic",
+        "lat": 49.7477415,
+        "lng": 13.3775249,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Robin_Hranac"
+  },
+  {
+    "id": "stepan-chaloupek",
+    "name": "Stepan Chaloupek",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Czech",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FK Teplice",
+        "city": "Teplice",
+        "country": "Czech Republic",
+        "lat": 50.6406644,
+        "lng": 13.8244461,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Stepan_Chaloupek"
+  },
+  {
+    "id": "tomas-chory",
+    "name": "Tomas Chory",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Czech",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "SK Sigma Olomouc",
+        "city": "Olomouc",
+        "country": "Czech Republic",
+        "lat": 49.5940567,
+        "lng": 17.251143,
+        "fromYear": 2014,
+        "toYear": 2018
+      },
+      {
+        "clubName": "FC Viktoria Plzen",
+        "city": "Pilsen",
+        "country": "Czech Republic",
+        "lat": 49.7477415,
+        "lng": 13.3775249,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Zulte Waregem",
+        "city": "Waregem",
+        "country": "Belgium",
+        "lat": 50.8868222,
+        "lng": 3.4323622,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Viktoria Plzen",
+        "city": "Pilsen",
+        "country": "Czech Republic",
+        "lat": 49.7477415,
+        "lng": 13.3775249,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tomas_Chory"
+  },
+  {
+    "id": "tomas-holes",
+    "name": "Tomas Holes",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Czech",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Hradec Kralove",
+        "city": "Hradec Králové",
+        "country": "Czech Republic",
+        "lat": 50.2092113,
+        "lng": 15.8327512,
+        "fromYear": 2012,
+        "toYear": 2017
+      },
+      {
+        "clubName": "FK Jablonec",
+        "city": "Jablonec nad Nisou",
+        "country": "Czech Republic",
+        "lat": 50.7240899,
+        "lng": 15.1710958,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "FC Hradec Kralove",
+        "city": "Hradec Králové",
+        "country": "Czech Republic",
+        "lat": 50.2092113,
+        "lng": 15.8327512,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2019,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tomas_Holes"
+  },
+  {
+    "id": "tomas-soucek",
+    "name": "Tomáš Souček",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Czech",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "FK Viktoria Zizkov",
+        "city": "Praha",
+        "country": "Czech Republic",
+        "lat": 50.0874654,
+        "lng": 14.4212535,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "FC Slovan Liberec",
+        "city": "Liberec",
+        "country": "Czech Republic",
+        "lat": 50.7702648,
+        "lng": 15.0583947,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "West Ham United",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "West Ham United",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2020,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Sou%C4%8Dek"
+  },
+  {
+    "id": "vladimir-coufal",
+    "name": "Vladimír Coufal",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Czech",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Hlucin",
+        "city": "Hlučín",
+        "country": "Czech Republic",
+        "lat": 49.896755,
+        "lng": 18.1870424,
+        "fromYear": 2010,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Slezsky FC Opava",
+        "city": "Opava",
+        "country": "Czech Republic",
+        "lat": 49.9389004,
+        "lng": 17.9024174,
+        "fromYear": 2012,
+        "toYear": 2012
+      },
+      {
+        "clubName": "FC Slovan Liberec",
+        "city": "Liberec",
+        "country": "Czech Republic",
+        "lat": 50.7702648,
+        "lng": 15.0583947,
+        "fromYear": 2012,
+        "toYear": 2018
+      },
+      {
+        "clubName": "SK Slavia Prague",
+        "city": "Praha 10",
+        "country": "Czech Republic",
+        "lat": 50.0670576,
+        "lng": 14.4819397,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "West Ham United",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2020,
+        "toYear": 2025
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Vladim%C3%ADr_Coufal"
+  },
+  {
+    "id": "vladimir-darida",
+    "name": "Vladimír Darida",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Czech",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Viktoria Plzen B",
+        "city": "Pilsen",
+        "country": "Czech Republic",
+        "lat": 49.7477415,
+        "lng": 13.3775249,
+        "fromYear": 2009,
+        "toYear": 2010
+      },
+      {
+        "clubName": "FC Viktoria Plzen",
+        "city": "Pilsen",
+        "country": "Czech Republic",
+        "lat": 49.7477415,
+        "lng": 13.3775249,
+        "fromYear": 2010,
+        "toYear": 2013
+      },
+      {
+        "clubName": "SC Freiburg",
+        "city": "Freiburg im Breisgau",
+        "country": "Germany",
+        "lat": 47.9960901,
+        "lng": 7.8494005,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Hertha BSC",
+        "city": "Berlin",
+        "country": "Germany",
+        "lat": 52.5173885,
+        "lng": 13.3951309,
+        "fromYear": 2015,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Aris Thessaloniki",
+        "city": "Thessaloniki",
+        "country": "Greece",
+        "lat": 40.6403167,
+        "lng": 22.9352716,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Hradec Kralove",
+        "city": "Hradec Králové",
+        "country": "Czech Republic",
+        "lat": 50.2092113,
+        "lng": 15.8327512,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Vladim%C3%ADr_Darida"
+  }
+]

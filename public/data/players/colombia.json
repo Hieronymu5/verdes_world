@@ -1,0 +1,2276 @@
+[
+  {
+    "id": "andres-gomez",
+    "name": "Andrés Gómez",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Colombian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Millonarios FC",
+        "city": "Bogotá D.C.",
+        "country": "Colombia",
+        "lat": 4.2834715,
+        "lng": -74.1753606,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Real Salt Lake City",
+        "city": "Sandy, Utah",
+        "country": "United States",
+        "lat": 40.5710454,
+        "lng": -111.8953815,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Stade Rennais FC",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Clube de Regatas Vasco da Gama",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Stade Rennais FC",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Clube de Regatas Vasco da Gama",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9s_G%C3%B3mez"
+  },
+  {
+    "id": "camilo-vargas",
+    "name": "Camilo Vargas",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Colombian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Independiente Santa Fe",
+        "city": "Bogotá, Distrito Capital",
+        "country": "Colombia",
+        "lat": 4.6533817,
+        "lng": -74.0836331,
+        "fromYear": 2007,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Atlético Nacional",
+        "city": "Medellín",
+        "country": "Colombia",
+        "lat": 6.2697324,
+        "lng": -75.6025597,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Deportivo Cali",
+        "city": "Cali, Valle del Cauca",
+        "country": "Colombia",
+        "lat": 3.4108435,
+        "lng": -76.5812127,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "AA Argentinos Juniors",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6095579,
+        "lng": -58.3887904,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Atlético Nacional",
+        "city": "Medellín",
+        "country": "Colombia",
+        "lat": 6.2697324,
+        "lng": -75.6025597,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Deportivo Cali",
+        "city": "Cali, Valle del Cauca",
+        "country": "Colombia",
+        "lat": 3.4108435,
+        "lng": -76.5812127,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Atlético Nacional",
+        "city": "Medellín",
+        "country": "Colombia",
+        "lat": 6.2697324,
+        "lng": -75.6025597,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Deportivo Cali",
+        "city": "Cali, Valle del Cauca",
+        "country": "Colombia",
+        "lat": 3.4108435,
+        "lng": -76.5812127,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Atlas Guadalajara",
+        "city": "Guadalajara, Jalisco",
+        "country": "Mexico",
+        "lat": 20.6720375,
+        "lng": -103.338396,
+        "fromYear": 2019,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Camilo_Vargas"
+  },
+  {
+    "id": "cucho-hernandez",
+    "name": "Cucho Hernández",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Colombian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Deportivo Pereira",
+        "city": "Pereira - Risaralda",
+        "country": "Colombia",
+        "lat": 4.7951186,
+        "lng": -75.7341995,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Watford FC",
+        "city": "Watford",
+        "country": "England",
+        "lat": 51.6553875,
+        "lng": -0.3957425,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "CD América de Cali",
+        "city": "Cali - Valle del Cauca",
+        "country": "Colombia",
+        "lat": 3.4488295,
+        "lng": -76.499517,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Watford FC",
+        "city": "Watford",
+        "country": "England",
+        "lat": 51.6553875,
+        "lng": -0.3957425,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "SD Huesca",
+        "city": "Huesca",
+        "country": "Spain",
+        "lat": 42.1360615,
+        "lng": -0.0298027,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Watford FC",
+        "city": "Watford",
+        "country": "England",
+        "lat": 51.6553875,
+        "lng": -0.3957425,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "RCD Mallorca",
+        "city": "Palma de Mallorca",
+        "country": "Spain",
+        "lat": 39.5695818,
+        "lng": 2.6500745,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Watford FC",
+        "city": "Watford",
+        "country": "England",
+        "lat": 51.6553875,
+        "lng": -0.3957425,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Getafe CF",
+        "city": "Getafe (Madrid)",
+        "country": "Spain",
+        "lat": 40.3142702,
+        "lng": -3.6776595,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Watford FC",
+        "city": "Watford",
+        "country": "England",
+        "lat": 51.6553875,
+        "lng": -0.3957425,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Columbus Crew",
+        "city": "Columbus",
+        "country": "United States",
+        "lat": 39.9622601,
+        "lng": -83.0007065,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Real Betis Balompié",
+        "city": "Sevilla",
+        "country": "Spain",
+        "lat": 37.3886303,
+        "lng": -5.9953403,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Cucho_Hern%C3%A1ndez"
+  },
+  {
+    "id": "daniel-munoz",
+    "name": "Daniel Muñoz",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Colombian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Rionegro Águilas",
+        "city": "Sincelejo",
+        "country": "Colombia",
+        "lat": 9.2973386,
+        "lng": -75.3926601,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Atlético Nacional",
+        "city": "Medellín",
+        "country": "Colombia",
+        "lat": 6.2697324,
+        "lng": -75.6025597,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "KRC Genk",
+        "city": "Genk",
+        "country": "Belgium",
+        "lat": 50.9654864,
+        "lng": 5.5001456,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Crystal Palace",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Mu%C3%B1oz"
+  },
+  {
+    "id": "david-ospina",
+    "name": "David Ospina",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Colombian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Atlético Nacional",
+        "city": "Medellín",
+        "country": "Colombia",
+        "lat": 6.2697324,
+        "lng": -75.6025597,
+        "fromYear": 2006,
+        "toYear": 2008
+      },
+      {
+        "clubName": "OGC Nice",
+        "city": "Nice",
+        "country": "France",
+        "lat": 43.7009358,
+        "lng": 7.2683912,
+        "fromYear": 2008,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2014,
+        "toYear": 2018
+      },
+      {
+        "clubName": "SSC Napoli",
+        "city": "Napoli",
+        "country": "Italy",
+        "lat": 40.8358846,
+        "lng": 14.2487679,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Al-Nassr FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Atlético Nacional",
+        "city": "Medellín",
+        "country": "Colombia",
+        "lat": 6.2697324,
+        "lng": -75.6025597,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Ospina"
+  },
+  {
+    "id": "davinson-sanchez",
+    "name": "Davinson Sánchez",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Colombian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Atlético Nacional",
+        "city": "Medellín",
+        "country": "Colombia",
+        "lat": 6.2697324,
+        "lng": -75.6025597,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Ajax Amsterdam",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "lat": 52.3730796,
+        "lng": 4.8924534,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Tottenham Hotspur",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2017,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Galatasaray",
+        "city": "Sarıyer / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.1054207,
+        "lng": 29.006187,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Davinson_S%C3%A1nchez"
+  },
+  {
+    "id": "deiver-machado",
+    "name": "Deiver Machado",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Colombian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Atlético Nacional",
+        "city": "Medellín",
+        "country": "Colombia",
+        "lat": 6.2697324,
+        "lng": -75.6025597,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Alianza FC",
+        "city": "Barrancabermeja",
+        "country": "Colombia",
+        "lat": 7.0673313,
+        "lng": -73.8525627,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Atlético Nacional",
+        "city": "Medellín",
+        "country": "Colombia",
+        "lat": 6.2697324,
+        "lng": -75.6025597,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Millonarios FC",
+        "city": "Bogotá D.C.",
+        "country": "Colombia",
+        "lat": 4.2834715,
+        "lng": -74.1753606,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "KAA Gent",
+        "city": "Gent",
+        "country": "Belgium",
+        "lat": 51.0538286,
+        "lng": 3.7250121,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Atlético Nacional",
+        "city": "Medellín",
+        "country": "Colombia",
+        "lat": 6.2697324,
+        "lng": -75.6025597,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "KAA Gent",
+        "city": "Gent",
+        "country": "Belgium",
+        "lat": 51.0538286,
+        "lng": 3.7250121,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Toulouse",
+        "city": "Toulouse",
+        "country": "France",
+        "lat": 43.6044638,
+        "lng": 1.4442433,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "RC Lens",
+        "city": "Avion",
+        "country": "France",
+        "lat": 50.4126128,
+        "lng": 2.8343891,
+        "fromYear": 2021,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Nantes",
+        "city": "La Chapelle-sur-Erdre",
+        "country": "France",
+        "lat": 47.2996846,
+        "lng": -1.5518632,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Deiver_Machado"
+  },
+  {
+    "id": "gustavo-puerta",
+    "name": "Gustavo Puerta",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Colombian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Bogotá FC",
+        "city": "Bogota",
+        "country": "Colombia",
+        "lat": 4.6533817,
+        "lng": -74.0836331,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Bayer 04 Leverkusen",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "lat": 51.0324743,
+        "lng": 6.9881194,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "1.FC Nuremberg",
+        "city": "Nürnberg",
+        "country": "Germany",
+        "lat": 49.453872,
+        "lng": 11.077298,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Bayer 04 Leverkusen",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "lat": 51.0324743,
+        "lng": 6.9881194,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Hull City",
+        "city": "Hull",
+        "country": "England",
+        "lat": 53.7623863,
+        "lng": -0.3301214,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Racing Santander",
+        "city": "Santander",
+        "country": "Spain",
+        "lat": 43.4618932,
+        "lng": -3.8100255,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Bayer 04 Leverkusen",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "lat": 51.0324743,
+        "lng": 6.9881194,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Gustavo_Puerta"
+  },
+  {
+    "id": "james-rodriguez",
+    "name": "James Rodríguez",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Colombian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Envigado FC",
+        "city": "Envigado",
+        "country": "Colombia",
+        "lat": 6.1701348,
+        "lng": -75.587415,
+        "fromYear": 2007,
+        "toYear": 2008
+      },
+      {
+        "clubName": "CA Banfield II",
+        "city": "Lomas de Zamora",
+        "country": "Argentina",
+        "lat": -34.7572582,
+        "lng": -58.4026638,
+        "fromYear": 2008,
+        "toYear": 2009
+      },
+      {
+        "clubName": "CA Banfield",
+        "city": "Banfield",
+        "country": "Argentina",
+        "lat": -34.7437455,
+        "lng": -58.3960811,
+        "fromYear": 2009,
+        "toYear": 2010
+      },
+      {
+        "clubName": "FC Porto",
+        "city": "Porto",
+        "country": "Portugal",
+        "lat": 41.1502195,
+        "lng": -8.6103497,
+        "fromYear": 2010,
+        "toYear": 2013
+      },
+      {
+        "clubName": "AS Monaco",
+        "city": "Monaco",
+        "country": "Monaco",
+        "lat": 43.7309697,
+        "lng": 7.4248152,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2014,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Everton FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Al-Rayyan SC",
+        "city": "Al-Rayyan",
+        "country": "Qatar",
+        "lat": 25.0819602,
+        "lng": 51.158416,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Olympiacos Piraeus",
+        "city": "Piraeus",
+        "country": "Greece",
+        "lat": 37.9431594,
+        "lng": 23.6470593,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "São Paulo Futebol Clube",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Rayo Vallecano",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Club León FC",
+        "city": "León de los Aldama",
+        "country": "Mexico",
+        "lat": 21.121965,
+        "lng": -101.6829766,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Minnesota United FC",
+        "city": "Golden Valley, Minnesota",
+        "country": "United States",
+        "lat": 44.9861176,
+        "lng": -93.3784618,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Rodr%C3%ADguez"
+  },
+  {
+    "id": "jefferson-lerma",
+    "name": "Jefferson Lerma",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Colombian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Independiente Yumbo",
+        "city": "Neiva",
+        "country": "Colombia",
+        "lat": 2.9257038,
+        "lng": -75.2893937,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Levante UD",
+        "city": "Valencia",
+        "country": "Spain",
+        "lat": 39.4697065,
+        "lng": -0.3763353,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Independiente Yumbo",
+        "city": "Neiva",
+        "country": "Colombia",
+        "lat": 2.9257038,
+        "lng": -75.2893937,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "AFC Bournemouth",
+        "city": "Bournemouth",
+        "country": "England",
+        "lat": 50.7446718,
+        "lng": -1.8579514,
+        "fromYear": 2018,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Crystal Palace",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jefferson_Lerma"
+  },
+  {
+    "id": "jhon-arias",
+    "name": "Jhon Arias",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Colombian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Boyacá Patriotas FC",
+        "city": "Tunja",
+        "country": "Colombia",
+        "lat": 5.5324313,
+        "lng": -73.3616014,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Independiente Santa Fe",
+        "city": "Bogotá, Distrito Capital",
+        "country": "Colombia",
+        "lat": 4.6533817,
+        "lng": -74.0836331,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "CD América de Cali",
+        "city": "Cali - Valle del Cauca",
+        "country": "Colombia",
+        "lat": 3.4488295,
+        "lng": -76.499517,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Fluminense Football Club",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2021,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Wolverhampton Wanderers",
+        "city": "Wolverhampton",
+        "country": "England",
+        "lat": 52.5847651,
+        "lng": -2.127567,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Sociedade Esportiva Palmeiras",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jhon_Arias"
+  },
+  {
+    "id": "jhon-cordoba",
+    "name": "Jhon Córdoba",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Colombian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Envigado FC",
+        "city": "Envigado",
+        "country": "Colombia",
+        "lat": 6.1701348,
+        "lng": -75.587415,
+        "fromYear": 2010,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Jaguares FC",
+        "city": "Tuxtla Gutiérrez, Chiapas",
+        "country": "Mexico",
+        "lat": 16.753801,
+        "lng": -93.115959,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "RCD Espanyol Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Jaguares FC",
+        "city": "Tuxtla Gutiérrez, Chiapas",
+        "country": "Mexico",
+        "lat": 16.753801,
+        "lng": -93.115959,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Granada CF",
+        "city": "Granada",
+        "country": "Spain",
+        "lat": 37.1734995,
+        "lng": -3.5995337,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "1.FSV Mainz 05",
+        "city": "Mainz",
+        "country": "Germany",
+        "lat": 49.9995205,
+        "lng": 8.2736253,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Granada CF",
+        "city": "Granada",
+        "country": "Spain",
+        "lat": 37.1734995,
+        "lng": -3.5995337,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "1.FC Köln",
+        "city": "Köln",
+        "country": "Germany",
+        "lat": 50.938361,
+        "lng": 6.959974,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Hertha BSC",
+        "city": "Berlin",
+        "country": "Germany",
+        "lat": 52.5173885,
+        "lng": 13.3951309,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Krasnodar",
+        "city": "Krasnodar",
+        "country": "Russia",
+        "lat": 45.0351532,
+        "lng": 38.9772396,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jhon_C%C3%B3rdoba"
+  },
+  {
+    "id": "jhon-lucumi",
+    "name": "Jhon Lucumí",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Colombian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Deportivo Cali",
+        "city": "Cali, Valle del Cauca",
+        "country": "Colombia",
+        "lat": 3.4108435,
+        "lng": -76.5812127,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "KRC Genk",
+        "city": "Genk",
+        "country": "Belgium",
+        "lat": 50.9654864,
+        "lng": 5.5001456,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Bologna FC 1909",
+        "city": "Bologna",
+        "country": "Italy",
+        "lat": 44.4938203,
+        "lng": 11.3426327,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jhon_Lucum%C3%AD"
+  },
+  {
+    "id": "johan-mojica",
+    "name": "Johan Mojica",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Colombian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Deportivo Cali",
+        "city": "Cali, Valle del Cauca",
+        "country": "Colombia",
+        "lat": 3.4108435,
+        "lng": -76.5812127,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Rayo Vallecano",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Deportivo Cali",
+        "city": "Cali, Valle del Cauca",
+        "country": "Colombia",
+        "lat": 3.4108435,
+        "lng": -76.5812127,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Rayo Vallecano",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Real Valladolid CF",
+        "city": "Valladolid",
+        "country": "Spain",
+        "lat": 41.6200024,
+        "lng": -4.7259906,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Rayo Vallecano",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Girona FC",
+        "city": "Girona",
+        "country": "Spain",
+        "lat": 41.9793006,
+        "lng": 2.8199439,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Rayo Vallecano",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Girona FC",
+        "city": "Girona",
+        "country": "Spain",
+        "lat": 41.9793006,
+        "lng": 2.8199439,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Rayo Vallecano",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Atalanta BC",
+        "city": "Bergamo",
+        "country": "Italy",
+        "lat": 45.7566557,
+        "lng": 9.7542192,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Girona FC",
+        "city": "Girona",
+        "country": "Spain",
+        "lat": 41.9793006,
+        "lng": 2.8199439,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Elche CF",
+        "city": "Elche (Alicante)",
+        "country": "Spain",
+        "lat": 38.2653307,
+        "lng": -0.6988391,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Girona FC",
+        "city": "Girona",
+        "country": "Spain",
+        "lat": 41.9793006,
+        "lng": 2.8199439,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Elche CF",
+        "city": "Elche (Alicante)",
+        "country": "Spain",
+        "lat": 38.2653307,
+        "lng": -0.6988391,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Villarreal CF",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "CA Osasuna",
+        "city": "Pamplona",
+        "country": "Spain",
+        "lat": 42.815686,
+        "lng": -1.6522353,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Villarreal CF",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "RCD Mallorca",
+        "city": "Palma de Mallorca",
+        "country": "Spain",
+        "lat": 39.5695818,
+        "lng": 2.6500745,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Johan_Mojica"
+  },
+  {
+    "id": "jorge-carrascal",
+    "name": "Jorge Carrascal",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Colombian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Millonarios FC",
+        "city": "Bogotá D.C.",
+        "country": "Colombia",
+        "lat": 4.2834715,
+        "lng": -74.1753606,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Sevilla Atlético",
+        "city": "Sevilla",
+        "country": "Spain",
+        "lat": 37.3886303,
+        "lng": -5.9953403,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Karpaty Lviv (-2021)",
+        "city": "Lviv",
+        "country": "Ukraine",
+        "lat": 49.841952,
+        "lng": 24.0315921,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Sevilla Atlético",
+        "city": "Sevilla",
+        "country": "Spain",
+        "lat": 37.3886303,
+        "lng": -5.9953403,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "CA River Plate",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6095579,
+        "lng": -58.3887904,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Karpaty Lviv (-2021)",
+        "city": "Lviv",
+        "country": "Ukraine",
+        "lat": 49.841952,
+        "lng": 24.0315921,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "CA River Plate",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6095579,
+        "lng": -58.3887904,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "CSKA Moscow",
+        "city": "Moscow",
+        "country": "Russia",
+        "lat": 55.625578,
+        "lng": 37.6063916,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "CA River Plate",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6095579,
+        "lng": -58.3887904,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Dynamo Moscow",
+        "city": "Moskau",
+        "country": "Russia",
+        "lat": 55.625578,
+        "lng": 37.6063916,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "CR Flamengo",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jorge_Carrascal"
+  },
+  {
+    "id": "juan-fernando-quintero",
+    "name": "Juan Fernando Quintero",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Colombian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Envigado FC",
+        "city": "Envigado",
+        "country": "Colombia",
+        "lat": 6.1701348,
+        "lng": -75.587415,
+        "fromYear": 2010,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Atlético Nacional",
+        "city": "Medellín",
+        "country": "Colombia",
+        "lat": 6.2697324,
+        "lng": -75.6025597,
+        "fromYear": 2012,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Delfino Pescara 1936",
+        "city": "Pescara",
+        "country": "Italy",
+        "lat": 42.3102619,
+        "lng": 13.9575901,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Atlético Nacional",
+        "city": "Medellín",
+        "country": "Colombia",
+        "lat": 6.2697324,
+        "lng": -75.6025597,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "FC Porto",
+        "city": "Porto",
+        "country": "Portugal",
+        "lat": 41.1502195,
+        "lng": -8.6103497,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Stade Rennais FC",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "FC Porto",
+        "city": "Porto",
+        "country": "Portugal",
+        "lat": 41.1502195,
+        "lng": -8.6103497,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Independiente Medellín",
+        "city": "Medellín",
+        "country": "Colombia",
+        "lat": 6.2697324,
+        "lng": -75.6025597,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "FC Porto",
+        "city": "Porto",
+        "country": "Portugal",
+        "lat": 41.1502195,
+        "lng": -8.6103497,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "CA River Plate",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6095579,
+        "lng": -58.3887904,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "FC Porto",
+        "city": "Porto",
+        "country": "Portugal",
+        "lat": 41.1502195,
+        "lng": -8.6103497,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "CA River Plate",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6095579,
+        "lng": -58.3887904,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Shenzhen FC (1994-2024)",
+        "city": "Shenzhen",
+        "country": "China",
+        "lat": 22.5445741,
+        "lng": 114.0545429,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "CA River Plate",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6095579,
+        "lng": -58.3887904,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Shenzhen FC (1994-2024)",
+        "city": "Shenzhen",
+        "country": "China",
+        "lat": 22.5445741,
+        "lng": 114.0545429,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Junior FC",
+        "city": "Barranquilla",
+        "country": "Colombia",
+        "lat": 11.0101922,
+        "lng": -74.8231794,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Racing Club",
+        "city": "Avellaneda, Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6648394,
+        "lng": -58.3628061,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "CD América de Cali",
+        "city": "Cali - Valle del Cauca",
+        "country": "Colombia",
+        "lat": 3.4488295,
+        "lng": -76.499517,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "CA River Plate",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6095579,
+        "lng": -58.3887904,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Fernando_Quintero"
+  },
+  {
+    "id": "juan-portilla",
+    "name": "Juan Portilla",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Colombian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Jacksonville Armada FC",
+        "city": "Jacksonville, Florida",
+        "country": "United States",
+        "lat": 30.3262247,
+        "lng": -81.6579179,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Deportes Melipilla",
+        "city": "Melipilla",
+        "country": "Chile",
+        "lat": -33.6855134,
+        "lng": -71.2145796,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Jacksonville Armada FC",
+        "city": "Jacksonville, Florida",
+        "country": "United States",
+        "lat": 30.3262247,
+        "lng": -81.6579179,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Alianza FC",
+        "city": "Barrancabermeja",
+        "country": "Colombia",
+        "lat": 7.0673313,
+        "lng": -73.8525627,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "CD América de Cali",
+        "city": "Cali - Valle del Cauca",
+        "country": "Colombia",
+        "lat": 3.4488295,
+        "lng": -76.499517,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "CA Talleres",
+        "city": "Córdoba",
+        "country": "Argentina",
+        "lat": -31.4166867,
+        "lng": -64.1834193,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Club Athletico Paranaense",
+        "city": "Curitiba",
+        "country": "Brazil",
+        "lat": -25.4295963,
+        "lng": -49.2712724,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Portilla"
+  },
+  {
+    "id": "jaminton-campaz",
+    "name": "Jáminton Campaz",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Colombian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Deportes Tolima",
+        "city": "Ibagué",
+        "country": "Colombia",
+        "lat": 4.4386033,
+        "lng": -75.2108857,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Grêmio Foot-Ball Porto Alegrense",
+        "city": "Porto Alegre",
+        "country": "Brazil",
+        "lat": -30.0324999,
+        "lng": -51.2303767,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "CA Rosario Central",
+        "city": "Rosario, Santa Fe",
+        "country": "Argentina",
+        "lat": -32.9593609,
+        "lng": -60.6617024,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Grêmio Foot-Ball Porto Alegrense",
+        "city": "Porto Alegre",
+        "country": "Brazil",
+        "lat": -30.0324999,
+        "lng": -51.2303767,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "CA Rosario Central",
+        "city": "Rosario, Santa Fe",
+        "country": "Argentina",
+        "lat": -32.9593609,
+        "lng": -60.6617024,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%A1minton_Campaz"
+  },
+  {
+    "id": "kevin-castano",
+    "name": "Kevin Castaño",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Colombian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Rionegro Águilas",
+        "city": "Sincelejo",
+        "country": "Colombia",
+        "lat": 9.2973386,
+        "lng": -75.3926601,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "CD Cruz Azul",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Krasnodar",
+        "city": "Krasnodar",
+        "country": "Russia",
+        "lat": 45.0351532,
+        "lng": 38.9772396,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "CA River Plate",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6095579,
+        "lng": -58.3887904,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kevin_Casta%C3%B1o"
+  },
+  {
+    "id": "luis-diaz",
+    "name": "Luis Díaz",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Colombian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Barranquilla FC",
+        "city": "Barranquilla",
+        "country": "Colombia",
+        "lat": 11.0101922,
+        "lng": -74.8231794,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Junior FC",
+        "city": "Barranquilla",
+        "country": "Colombia",
+        "lat": 11.0101922,
+        "lng": -74.8231794,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Porto",
+        "city": "Porto",
+        "country": "Portugal",
+        "lat": 41.1502195,
+        "lng": -8.6103497,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Liverpool FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Luis_D%C3%ADaz"
+  },
+  {
+    "id": "luis-suarez",
+    "name": "Luis Suárez",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Colombian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Leones FC",
+        "city": "itagüí",
+        "country": "Colombia",
+        "lat": 6.1724352,
+        "lng": -75.6093254,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Recreativo Granada",
+        "city": "Granada",
+        "country": "Spain",
+        "lat": 37.1734995,
+        "lng": -3.5995337,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Watford FC",
+        "city": "Watford",
+        "country": "England",
+        "lat": 51.6553875,
+        "lng": -0.3957425,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Leones FC",
+        "city": "itagüí",
+        "country": "Colombia",
+        "lat": 6.1724352,
+        "lng": -75.6093254,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Real Valladolid Promesas",
+        "city": "Valladolid",
+        "country": "Spain",
+        "lat": 41.6200024,
+        "lng": -4.7259906,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Watford FC",
+        "city": "Watford",
+        "country": "England",
+        "lat": 51.6553875,
+        "lng": -0.3957425,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Gimnàstic de Tarragona",
+        "city": "Tarragona",
+        "country": "Spain",
+        "lat": 41.1172364,
+        "lng": 1.2546057,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Real Zaragoza",
+        "city": "Zaragoza",
+        "country": "Spain",
+        "lat": 41.6915847,
+        "lng": -0.9101268,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Watford FC",
+        "city": "Watford",
+        "country": "England",
+        "lat": 51.6553875,
+        "lng": -0.3957425,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Granada CF",
+        "city": "Granada",
+        "country": "Spain",
+        "lat": 37.1734995,
+        "lng": -3.5995337,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Watford FC",
+        "city": "Watford",
+        "country": "England",
+        "lat": 51.6553875,
+        "lng": -0.3957425,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Olympique Marseille",
+        "city": "Marseille",
+        "country": "France",
+        "lat": 43.2963986,
+        "lng": 5.3777888,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "UD Almería",
+        "city": "Almería",
+        "country": "Spain",
+        "lat": 36.8685739,
+        "lng": -2.3120282,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Olympique Marseille",
+        "city": "Marseille",
+        "country": "France",
+        "lat": 43.2963986,
+        "lng": 5.3777888,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Sporting CP",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez"
+  },
+  {
+    "id": "richard-rios",
+    "name": "Richard Ríos",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Colombian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "CR Flamengo",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Guarani Futebol Clube (SP)",
+        "city": "Campinas",
+        "country": "Brazil",
+        "lat": -22.9056391,
+        "lng": -47.059564,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "CR Flamengo",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": -22.9110137,
+        "lng": -43.2093727,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Sociedade Esportiva Palmeiras",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "SL Benfica",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Richard_R%C3%ADos"
+  },
+  {
+    "id": "santiago-arias",
+    "name": "Santiago Arias",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Colombian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Internacional de Bogotá",
+        "city": "Bogotá, Distrito Capital",
+        "country": "Colombia",
+        "lat": 4.6533817,
+        "lng": -74.0836331,
+        "fromYear": 2009,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Sporting CP",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2011,
+        "toYear": 2013
+      },
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2013,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Atlético de Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Bayer 04 Leverkusen",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "lat": 51.0324743,
+        "lng": 6.9881194,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Atlético de Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Granada CF",
+        "city": "Granada",
+        "country": "Spain",
+        "lat": 37.1734995,
+        "lng": -3.5995337,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Atlético de Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Cincinnati",
+        "city": "Cincinnati, Ohio",
+        "country": "United States",
+        "lat": 39.1012809,
+        "lng": -84.5127405,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Esporte Clube Bahia",
+        "city": "Salvador",
+        "country": "Brazil",
+        "lat": -12.9822499,
+        "lng": -38.4812772,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "CA Independiente",
+        "city": "Avellaneda, Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6648394,
+        "lng": -58.3628061,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Santiago_Arias"
+  },
+  {
+    "id": "willer-ditta",
+    "name": "Willer Ditta",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Colombian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Barranquilla FC",
+        "city": "Barranquilla",
+        "country": "Colombia",
+        "lat": 11.0101922,
+        "lng": -74.8231794,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Junior FC",
+        "city": "Barranquilla",
+        "country": "Colombia",
+        "lat": 11.0101922,
+        "lng": -74.8231794,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "CA Newell's Old Boys",
+        "city": "Rosario",
+        "country": "Argentina",
+        "lat": -32.9593609,
+        "lng": -60.6617024,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Junior FC",
+        "city": "Barranquilla",
+        "country": "Colombia",
+        "lat": 11.0101922,
+        "lng": -74.8231794,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "CA Newell's Old Boys",
+        "city": "Rosario",
+        "country": "Argentina",
+        "lat": -32.9593609,
+        "lng": -60.6617024,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "CD Cruz Azul",
+        "city": "Ciudad de México",
+        "country": "Mexico",
+        "lat": 19.3207722,
+        "lng": -99.1514678,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Willer_Ditta"
+  },
+  {
+    "id": "yerry-mina",
+    "name": "Yerry Mina",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Colombian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Asociación Deportivo Pasto",
+        "city": "San Juan de Pasto",
+        "country": "Colombia",
+        "lat": 1.2140275,
+        "lng": -77.2785096,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Independiente Santa Fe",
+        "city": "Bogotá, Distrito Capital",
+        "country": "Colombia",
+        "lat": 4.6533817,
+        "lng": -74.0836331,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Sociedade Esportiva Palmeiras",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "lat": -23.5506507,
+        "lng": -46.6333824,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Everton FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "FC Barcelona",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2018,
+        "toYear": 2023
+      },
+      {
+        "clubName": "ACF Fiorentina",
+        "city": "Firenze",
+        "country": "Italy",
+        "lat": 43.7697955,
+        "lng": 11.2556404,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Cagliari Calcio",
+        "city": "Assemini",
+        "country": "Italy",
+        "lat": 39.291538,
+        "lng": 9.001542,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Yerry_Mina"
+  },
+  {
+    "id": "alvaro-montero",
+    "name": "Álvaro Montero",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Colombian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "CA San Lorenzo de Almagro",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6095579,
+        "lng": -58.3887904,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Cúcuta Deportivo",
+        "city": "Cúcuta - Norte de Santander",
+        "country": "Colombia",
+        "lat": 8.2616852,
+        "lng": -72.4051756,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Deportes Tolima",
+        "city": "Ibagué",
+        "country": "Colombia",
+        "lat": 4.4386033,
+        "lng": -75.2108857,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Millonarios FC",
+        "city": "Bogotá D.C.",
+        "country": "Colombia",
+        "lat": 4.2834715,
+        "lng": -74.1753606,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "CA Vélez Sarsfield",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "lat": -34.6095579,
+        "lng": -58.3887904,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Millonarios FC",
+        "city": "Bogotá D.C.",
+        "country": "Colombia",
+        "lat": 4.2834715,
+        "lng": -74.1753606,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%81lvaro_Montero"
+  }
+]

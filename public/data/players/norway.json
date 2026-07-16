@@ -1,0 +1,1844 @@
+[
+  {
+    "id": "alexander-srloth",
+    "name": "Alexander Sørloth",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Norwegian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Rosenborg BK",
+        "city": "Trondheim",
+        "country": "Norway",
+        "lat": 63.4304475,
+        "lng": 10.3952118,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "FK Bodø/Glimt",
+        "city": "Bodø",
+        "country": "Norway",
+        "lat": 67.2844313,
+        "lng": 14.3817503,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Rosenborg BK",
+        "city": "Trondheim",
+        "country": "Norway",
+        "lat": 63.4304475,
+        "lng": 10.3952118,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "FC Groningen",
+        "city": "Groningen",
+        "country": "Netherlands",
+        "lat": 53.2190652,
+        "lng": 6.5680077,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "FC Midtjylland",
+        "city": "Herning",
+        "country": "Denmark",
+        "lat": 56.1379757,
+        "lng": 8.9746623,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Crystal Palace",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Trabzonspor",
+        "city": "Trabzon",
+        "country": "Türkiye",
+        "lat": 41.0054605,
+        "lng": 39.7301463,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Crystal Palace",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "KAA Gent",
+        "city": "Gent",
+        "country": "Belgium",
+        "lat": 51.0538286,
+        "lng": 3.7250121,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Crystal Palace",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Real Sociedad",
+        "city": "Donostia-San Sebastián (Gipuzkoa)",
+        "country": "Spain",
+        "lat": 43.3224219,
+        "lng": -1.9838889,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Real Sociedad",
+        "city": "Donostia-San Sebastián (Gipuzkoa)",
+        "country": "Spain",
+        "lat": 43.3224219,
+        "lng": -1.9838889,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Villarreal CF",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Atlético de Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_S%C3%B8rloth"
+  },
+  {
+    "id": "andreas-schjelderup",
+    "name": "Andreas Schjelderup",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Norwegian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "FC Nordsjaelland",
+        "city": "Farum",
+        "country": "Denmark",
+        "lat": 55.8101232,
+        "lng": 12.3702505,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "SL Benfica",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Andreas_Schjelderup"
+  },
+  {
+    "id": "antonio-nusa",
+    "name": "Antonio Nusa",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Norwegian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Stabæk Fotball",
+        "city": "Bekkestua",
+        "country": "Norway",
+        "lat": 59.9173125,
+        "lng": 10.5900467,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Club Brugge KV",
+        "city": "Brugge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Antonio_Nusa"
+  },
+  {
+    "id": "david-mller-wolfe",
+    "name": "David Møller Wolfe",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Norwegian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "SK Brann II",
+        "city": "Bergen",
+        "country": "Norway",
+        "lat": 60.3943055,
+        "lng": 5.3259192,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Åsane Fotball",
+        "city": "Ulset",
+        "country": "Norway",
+        "lat": 63.3273745,
+        "lng": 10.4845335,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "SK Brann II",
+        "city": "Bergen",
+        "country": "Norway",
+        "lat": 60.3943055,
+        "lng": 5.3259192,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "SK Brann",
+        "city": "Bergen",
+        "country": "Norway",
+        "lat": 60.3943055,
+        "lng": 5.3259192,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "AZ Alkmaar",
+        "city": "Alkmaar",
+        "country": "Netherlands",
+        "lat": 52.6008538,
+        "lng": 4.8170994,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Wolverhampton Wanderers",
+        "city": "Wolverhampton",
+        "country": "England",
+        "lat": 52.5847651,
+        "lng": -2.127567,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/David_M%C3%B8ller_Wolfe"
+  },
+  {
+    "id": "egil-selvik",
+    "name": "Egil Selvik",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Norwegian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Sandnes Ulf",
+        "city": "Sandnes",
+        "country": "Norway",
+        "lat": 58.9831321,
+        "lng": 6.394641,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Nest-Sotra FK",
+        "city": "Fjell",
+        "country": "Norway",
+        "lat": 59.7228421,
+        "lng": 10.2055643,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Sandnes Ulf",
+        "city": "Sandnes",
+        "country": "Norway",
+        "lat": 58.9831321,
+        "lng": 6.394641,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Odds BK",
+        "city": "Skien",
+        "country": "Norway",
+        "lat": 59.2662883,
+        "lng": 9.5311354,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FK Haugesund",
+        "city": "Haugesund",
+        "country": "Norway",
+        "lat": 59.4682479,
+        "lng": 5.0827612,
+        "fromYear": 2021,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Watford FC",
+        "city": "Watford",
+        "country": "England",
+        "lat": 51.6553875,
+        "lng": -0.3957425,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Udinese Calcio",
+        "city": "Udine",
+        "country": "Italy",
+        "lat": 46.0634632,
+        "lng": 13.2358377,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Egil_Selvik"
+  },
+  {
+    "id": "erling-haaland",
+    "name": "Erling Haaland",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Norwegian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Bryne FK",
+        "city": "Bryne",
+        "country": "Norway",
+        "lat": 58.735525,
+        "lng": 5.6478183,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Molde FK",
+        "city": "Molde",
+        "country": "Norway",
+        "lat": 62.6016257,
+        "lng": 8.1386208,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Red Bull Salzburg",
+        "city": "Wals-Siezenheim",
+        "country": "Austria",
+        "lat": 47.7986,
+        "lng": 12.9807,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Erling_Haaland"
+  },
+  {
+    "id": "fredrik-aursnes",
+    "name": "Fredrik Aursnes",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Norwegian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "IL Hødd",
+        "city": "Ulsteinvik",
+        "country": "Norway",
+        "lat": 62.3426629,
+        "lng": 5.84686,
+        "fromYear": 2012,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Molde FK",
+        "city": "Molde",
+        "country": "Norway",
+        "lat": 62.6016257,
+        "lng": 8.1386208,
+        "fromYear": 2016,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Feyenoord Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "SL Benfica",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Fredrik_Aursnes"
+  },
+  {
+    "id": "fredrik-bjrkan",
+    "name": "Fredrik Bjørkan",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Norwegian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FK Bodø/Glimt",
+        "city": "Bodø",
+        "country": "Norway",
+        "lat": 67.2844313,
+        "lng": 14.3817503,
+        "fromYear": 2015,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Hertha BSC",
+        "city": "Berlin",
+        "country": "Germany",
+        "lat": 52.5173885,
+        "lng": 13.3951309,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Feyenoord Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Hertha BSC",
+        "city": "Berlin",
+        "country": "Germany",
+        "lat": 52.5173885,
+        "lng": 13.3951309,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FK Bodø/Glimt",
+        "city": "Bodø",
+        "country": "Norway",
+        "lat": 67.2844313,
+        "lng": 14.3817503,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Fredrik_Bj%C3%B8rkan"
+  },
+  {
+    "id": "henrik-falchener",
+    "name": "Henrik Falchener",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Norwegian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Sandefjord Fotball II",
+        "city": "Sandefjord",
+        "country": "Norway",
+        "lat": 59.0799004,
+        "lng": 10.2804322,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Sandefjord Fotball",
+        "city": "Sandefjord",
+        "country": "Norway",
+        "lat": 59.0799004,
+        "lng": 10.2804322,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FK Ørn Horten",
+        "city": "Horten",
+        "country": "Norway",
+        "lat": 59.4101728,
+        "lng": 10.4437392,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Egersunds IK",
+        "city": "Egersund",
+        "country": "Norway",
+        "lat": 58.4515121,
+        "lng": 6.0007554,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Viking FK",
+        "city": "Stavanger",
+        "country": "Norway",
+        "lat": 58.9699675,
+        "lng": 5.7318101,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Henrik_Falchener"
+  },
+  {
+    "id": "jens-petter-hauge",
+    "name": "Jens Petter Hauge",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Norwegian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "FK Bodø/Glimt",
+        "city": "Bodø",
+        "country": "Norway",
+        "lat": 67.2844313,
+        "lng": 14.3817503,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Aalesunds FK",
+        "city": "Ålesund",
+        "country": "Norway",
+        "lat": 62.4802364,
+        "lng": 6.5550739,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "FK Bodø/Glimt",
+        "city": "Bodø",
+        "country": "Norway",
+        "lat": 67.2844313,
+        "lng": 14.3817503,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "AC Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "AC Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "KAA Gent",
+        "city": "Gent",
+        "country": "Belgium",
+        "lat": 51.0538286,
+        "lng": 3.7250121,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FK Bodø/Glimt",
+        "city": "Bodø",
+        "country": "Norway",
+        "lat": 67.2844313,
+        "lng": 14.3817503,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FK Bodø/Glimt",
+        "city": "Bodø",
+        "country": "Norway",
+        "lat": 67.2844313,
+        "lng": 14.3817503,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jens_Petter_Hauge"
+  },
+  {
+    "id": "julian-ryerson",
+    "name": "Julian Ryerson",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Norwegian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Viking FK",
+        "city": "Stavanger",
+        "country": "Norway",
+        "lat": 58.9699675,
+        "lng": 5.7318101,
+        "fromYear": 2015,
+        "toYear": 2018
+      },
+      {
+        "clubName": "1.FC Union Berlin",
+        "city": "Berlin",
+        "country": "Germany",
+        "lat": 52.5173885,
+        "lng": 13.3951309,
+        "fromYear": 2018,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Julian_Ryerson"
+  },
+  {
+    "id": "jrgen-strand-larsen",
+    "name": "Jørgen Strand Larsen",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Norwegian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Sarpsborg 08 FF",
+        "city": "Sarpsborg",
+        "country": "Norway",
+        "lat": 59.254955,
+        "lng": 11.2297811,
+        "fromYear": 2016,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Groningen",
+        "city": "Groningen",
+        "country": "Netherlands",
+        "lat": 53.2190652,
+        "lng": 6.5680077,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Celta de Vigo",
+        "city": "Vigo",
+        "country": "Spain",
+        "lat": 42.1986395,
+        "lng": -8.727956,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Wolverhampton Wanderers",
+        "city": "Wolverhampton",
+        "country": "England",
+        "lat": 52.5847651,
+        "lng": -2.127567,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Celta de Vigo",
+        "city": "Vigo",
+        "country": "Spain",
+        "lat": 42.1986395,
+        "lng": -8.727956,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Crystal Palace",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%B8rgen_Strand_Larsen"
+  },
+  {
+    "id": "kristian-thorstvedt",
+    "name": "Kristian Thorstvedt",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Norwegian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Stabæk Fotball II",
+        "city": "Bekkestua",
+        "country": "Norway",
+        "lat": 59.9173125,
+        "lng": 10.5900467,
+        "fromYear": 2013,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Viking FK",
+        "city": "Stavanger",
+        "country": "Norway",
+        "lat": 58.9699675,
+        "lng": 5.7318101,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "KRC Genk",
+        "city": "Genk",
+        "country": "Belgium",
+        "lat": 50.9654864,
+        "lng": 5.5001456,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "US Sassuolo",
+        "city": "Sassuolo",
+        "country": "Italy",
+        "lat": 44.5409769,
+        "lng": 10.7829023,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kristian_Thorstvedt"
+  },
+  {
+    "id": "kristoffer-ajer",
+    "name": "Kristoffer Ajer",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Norwegian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "IK Start",
+        "city": "Kristiansand",
+        "country": "Norway",
+        "lat": 58.0856276,
+        "lng": 7.931858,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Celtic FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Kilmarnock FC",
+        "city": "Kilmarnock",
+        "country": "Scotland",
+        "lat": 55.6100589,
+        "lng": -4.4964652,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Celtic FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Brentford FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kristoffer_Ajer"
+  },
+  {
+    "id": "leo-stigard",
+    "name": "Leo Østigård",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Norwegian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Molde FK II",
+        "city": "Molde",
+        "country": "Norway",
+        "lat": 62.6016257,
+        "lng": 8.1386208,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Viking FK",
+        "city": "Stavanger",
+        "country": "Norway",
+        "lat": 58.9699675,
+        "lng": 5.7318101,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Molde FK",
+        "city": "Molde",
+        "country": "Norway",
+        "lat": 62.6016257,
+        "lng": 8.1386208,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Molde FK",
+        "city": "Molde",
+        "country": "Norway",
+        "lat": 62.6016257,
+        "lng": 8.1386208,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC St. Pauli",
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.5501721,
+        "lng": 10.0013165,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Coventry City",
+        "city": "Coventry",
+        "country": "England",
+        "lat": 52.4081812,
+        "lng": -1.510477,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Stoke City",
+        "city": "Stoke-on-Trent",
+        "country": "England",
+        "lat": 53.0162014,
+        "lng": -2.1812607,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Genoa CFC",
+        "city": "Genova",
+        "country": "Italy",
+        "lat": 44.40726,
+        "lng": 8.9338624,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "SSC Napoli",
+        "city": "Napoli",
+        "country": "Italy",
+        "lat": 40.8358846,
+        "lng": 14.2487679,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Stade Rennais FC",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Stade Rennais FC",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Genoa CFC",
+        "city": "Genova",
+        "country": "Italy",
+        "lat": 44.40726,
+        "lng": 8.9338624,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Stade Rennais FC",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Genoa CFC",
+        "city": "Genova",
+        "country": "Italy",
+        "lat": 44.40726,
+        "lng": 8.9338624,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Leo_%C3%98stig%C3%A5rd"
+  },
+  {
+    "id": "marcus-pedersen",
+    "name": "Marcus Pedersen",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Norwegian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Tromsø IL II",
+        "city": "Tromsø",
+        "country": "Norway",
+        "lat": 69.6516345,
+        "lng": 18.9558585,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Tromsø IL",
+        "city": "Tromsø",
+        "country": "Norway",
+        "lat": 69.6516345,
+        "lng": 18.9558585,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Molde FK",
+        "city": "Molde",
+        "country": "Norway",
+        "lat": 62.6016257,
+        "lng": 8.1386208,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Feyenoord Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "US Sassuolo",
+        "city": "Sassuolo",
+        "country": "Italy",
+        "lat": 44.5409769,
+        "lng": 10.7829023,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Feyenoord Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Torino FC",
+        "city": "Torino",
+        "country": "Italy",
+        "lat": 45.0677551,
+        "lng": 7.6824892,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Feyenoord Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marcus_Pedersen"
+  },
+  {
+    "id": "martin-degaard",
+    "name": "Martin Ødegaard",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Norwegian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Strømsgodset IF II",
+        "city": "Drammen",
+        "country": "Norway",
+        "lat": 59.6964936,
+        "lng": 10.175642,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Strømsgodset IF",
+        "city": "Drammen",
+        "country": "Norway",
+        "lat": 59.6964936,
+        "lng": 10.175642,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Real Madrid Castilla",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "SC Heerenveen",
+        "city": "Heerenveen",
+        "country": "Netherlands",
+        "lat": 52.9984742,
+        "lng": 5.9231488,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Vitesse Arnhem",
+        "city": "Arnhem",
+        "country": "Netherlands",
+        "lat": 51.984257,
+        "lng": 5.9108573,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Real Sociedad",
+        "city": "Donostia-San Sebastián (Gipuzkoa)",
+        "country": "Spain",
+        "lat": 43.3224219,
+        "lng": -1.9838889,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Martin_%C3%98degaard"
+  },
+  {
+    "id": "morten-thorsby",
+    "name": "Morten Thorsby",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Norwegian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Heming Fotball",
+        "city": "Oslo",
+        "country": "Norway",
+        "lat": 59.9133301,
+        "lng": 10.7389701,
+        "fromYear": 2010,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Lyn 1896 FK",
+        "city": "Oslo",
+        "country": "Norway",
+        "lat": 59.9133301,
+        "lng": 10.7389701,
+        "fromYear": 2010,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Stabæk Fotball",
+        "city": "Bekkestua",
+        "country": "Norway",
+        "lat": 59.9173125,
+        "lng": 10.5900467,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "SC Heerenveen",
+        "city": "Heerenveen",
+        "country": "Netherlands",
+        "lat": 52.9984742,
+        "lng": 5.9231488,
+        "fromYear": 2014,
+        "toYear": 2019
+      },
+      {
+        "clubName": "UC Sampdoria",
+        "city": "Genova",
+        "country": "Italy",
+        "lat": 44.40726,
+        "lng": 8.9338624,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "1.FC Union Berlin",
+        "city": "Berlin",
+        "country": "Germany",
+        "lat": 52.5173885,
+        "lng": 13.3951309,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Genoa CFC",
+        "city": "Genova",
+        "country": "Italy",
+        "lat": 44.40726,
+        "lng": 8.9338624,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "1.FC Union Berlin",
+        "city": "Berlin",
+        "country": "Germany",
+        "lat": 52.5173885,
+        "lng": 13.3951309,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "US Cremonese",
+        "city": "Cremona",
+        "country": "Italy",
+        "lat": 45.2208641,
+        "lng": 10.037038,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Morten_Thorsby"
+  },
+  {
+    "id": "oscar-bobb",
+    "name": "Oscar Bobb",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Norwegian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2023,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Fulham FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Oscar_Bobb"
+  },
+  {
+    "id": "patrick-berg",
+    "name": "Patrick Berg",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Norwegian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FK Bodø/Glimt",
+        "city": "Bodø",
+        "country": "Norway",
+        "lat": 67.2844313,
+        "lng": 14.3817503,
+        "fromYear": 2014,
+        "toYear": 2022
+      },
+      {
+        "clubName": "RC Lens",
+        "city": "Avion",
+        "country": "France",
+        "lat": 50.4126128,
+        "lng": 2.8343891,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FK Bodø/Glimt",
+        "city": "Bodø",
+        "country": "Norway",
+        "lat": 67.2844313,
+        "lng": 14.3817503,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Patrick_Berg"
+  },
+  {
+    "id": "sander-berge",
+    "name": "Sander Berge",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Norwegian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Asker Fotball",
+        "city": "Asker",
+        "country": "Norway",
+        "lat": 59.6812603,
+        "lng": 10.474836,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Vålerenga Fotball Elite",
+        "city": "Oslo",
+        "country": "Norway",
+        "lat": 59.9133301,
+        "lng": 10.7389701,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "KRC Genk",
+        "city": "Genk",
+        "country": "Belgium",
+        "lat": 50.9654864,
+        "lng": 5.5001456,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Sheffield United",
+        "city": "Sheffield",
+        "country": "England",
+        "lat": 53.3806626,
+        "lng": -1.4702278,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Burnley FC",
+        "city": "Burnley",
+        "country": "England",
+        "lat": 53.7907262,
+        "lng": -2.2439196,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Fulham FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Sander_Berge"
+  },
+  {
+    "id": "sander-tangvik",
+    "name": "Sander Tangvik",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Norwegian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Rosenborg BK II",
+        "city": "Trondheim",
+        "country": "Norway",
+        "lat": 63.4304475,
+        "lng": 10.3952118,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Rosenborg BK",
+        "city": "Trondheim",
+        "country": "Norway",
+        "lat": 63.4304475,
+        "lng": 10.3952118,
+        "fromYear": 2021,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Hamburger SV",
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.5501721,
+        "lng": 10.0013165,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Sander_Tangvik"
+  },
+  {
+    "id": "sondre-langas",
+    "name": "Sondre Langås",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Norwegian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Ranheim IL II",
+        "city": "Ranheim",
+        "country": "Norway",
+        "lat": 63.4274654,
+        "lng": 10.5300119,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Ranheim IL",
+        "city": "Ranheim",
+        "country": "Norway",
+        "lat": 63.4274654,
+        "lng": 10.5300119,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Stjørdals-Blink Fotball",
+        "city": "Stjørdal",
+        "country": "Norway",
+        "lat": 63.4627028,
+        "lng": 11.1344723,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Ranheim IL",
+        "city": "Ranheim",
+        "country": "Norway",
+        "lat": 63.4274654,
+        "lng": 10.5300119,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Viking FK",
+        "city": "Stavanger",
+        "country": "Norway",
+        "lat": 58.9699675,
+        "lng": 5.7318101,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Derby County",
+        "city": "Derby",
+        "country": "England",
+        "lat": 52.9142235,
+        "lng": -1.4719885,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Sondre_Lang%C3%A5s"
+  },
+  {
+    "id": "thelo-aasgaard",
+    "name": "Thelo Aasgaard",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Norwegian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Wigan Athletic",
+        "city": "Wigan",
+        "country": "England",
+        "lat": 53.546215,
+        "lng": -2.6319112,
+        "fromYear": 2020,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Luton Town",
+        "city": "Luton",
+        "country": "England",
+        "lat": 51.891073,
+        "lng": -0.4230304,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Rangers FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Thelo_Aasgaard"
+  },
+  {
+    "id": "torbjrn-heggem",
+    "name": "Torbjørn Heggem",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Norwegian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Rosenborg BK II",
+        "city": "Trondheim",
+        "country": "Norway",
+        "lat": 63.4304475,
+        "lng": 10.3952118,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Ranheim IL",
+        "city": "Ranheim",
+        "country": "Norway",
+        "lat": 63.4274654,
+        "lng": 10.5300119,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Rosenborg BK II",
+        "city": "Trondheim",
+        "country": "Norway",
+        "lat": 63.4304475,
+        "lng": 10.3952118,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Sandnes Ulf",
+        "city": "Sandnes",
+        "country": "Norway",
+        "lat": 58.9831321,
+        "lng": 6.394641,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "IF Brommapojkarna",
+        "city": "Bromma",
+        "country": "Sweden",
+        "lat": 59.339769,
+        "lng": 17.9395411,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Bologna FC 1909",
+        "city": "Bologna",
+        "country": "Italy",
+        "lat": 44.4938203,
+        "lng": 11.3426327,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Torbj%C3%B8rn_Heggem"
+  },
+  {
+    "id": "rjan-nyland",
+    "name": "Ørjan Nyland",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Norwegian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "IL Hødd",
+        "city": "Ulsteinvik",
+        "country": "Norway",
+        "lat": 62.3426629,
+        "lng": 5.84686,
+        "fromYear": 2009,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Molde FK",
+        "city": "Molde",
+        "country": "Norway",
+        "lat": 62.6016257,
+        "lng": 8.1386208,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "FC Ingolstadt 04",
+        "city": "Ingolstadt",
+        "country": "Germany",
+        "lat": 48.7630165,
+        "lng": 11.4250395,
+        "fromYear": 2015,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Aston Villa",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Norwich City",
+        "city": "Norwich",
+        "country": "England",
+        "lat": 52.6285576,
+        "lng": 1.2923954,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "AFC Bournemouth",
+        "city": "Bournemouth",
+        "country": "England",
+        "lat": 50.7446718,
+        "lng": -1.8579514,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Reading FC",
+        "city": "Reading",
+        "country": "England",
+        "lat": 51.4564242,
+        "lng": -0.9700664,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Sevilla FC",
+        "city": "Sevilla",
+        "country": "Spain",
+        "lat": 37.3886303,
+        "lng": -5.9953403,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%98rjan_Nyland"
+  }
+]

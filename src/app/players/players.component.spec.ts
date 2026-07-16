@@ -18,6 +18,7 @@ describe('PlayersComponent', () => {
         { id: '1', name: 'Player 1', gamesPlayed: 10, clubs: [] },
         { id: '2', name: 'Player 2', gamesPlayed: 20, clubs: [] }
       ]),
+      worldCupTeams: signal([]),
       load: vi.fn().mockReturnValue(Promise.resolve())
     };
 

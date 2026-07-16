@@ -23,7 +23,9 @@
       />
     </label>
 
-    <p class="count">{{ filteredPlayers().length }} player{{ filteredPlayers().length === 1 ? '' : 's' }}</p>
+    <p class="count">
+      {{ filteredPlayers().length }} player{{ filteredPlayers().length === 1 ? '' : 's' }}
+    </p>
 
     <section class="players-list" aria-label="All players and their clubs">
       @for (player of filteredPlayers(); track player.id) {
@@ -36,11 +38,21 @@
               }
             </span>
             @if (player.wikipediaUrl) {
-              <a [href]="player.wikipediaUrl" target="_blank" rel="noopener noreferrer" class="wiki-link" aria-label="Wikipedia page for {{ player.name }}">
+              <a
+                [href]="player.wikipediaUrl"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="wiki-link"
+                aria-label="Wikipedia page for {{ player.name }}"
+              >
                 (Wikipedia)
               </a>
             }
-            <a [routerLink]="['/players', player.id]" class="wiki-link map-link" aria-label="Map for {{ player.name }}">
+            <a
+              [routerLink]="['/players', player.id]"
+              class="wiki-link map-link"
+              aria-label="Map for {{ player.name }}"
+            >
               (Map)
             </a>
           </h2>
@@ -49,10 +61,17 @@
           </p>
 
           <ol class="clubs-list">
-            @for (club of player.clubs; track club.clubName + '-' + club.fromYear + '-' + club.toYear + '-' + $index) {
+            @for (
+              club of player.clubs;
+              track club.clubName + '-' + club.fromYear + '-' + club.toYear + '-' + $index
+            ) {
               <li>
                 <strong>{{ club.clubName }}</strong>
-                <span>— {{ club.city }}, {{ club.country }} ({{ club.fromYear }}–{{ club.toYear }})</span>
+                <span
+                  >— {{ club.city }}, {{ club.country }} ({{ club.fromYear }}–{{
+                    club.toYear
+                  }})</span
+                >
               </li>
             }
           </ol>

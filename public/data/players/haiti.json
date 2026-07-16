@@ -1,0 +1,1727 @@
+[
+  {
+    "id": "alexandre-pierre",
+    "name": "Alexandre Pierre",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Haitian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Angers SCO B",
+        "city": "Angers",
+        "country": "France",
+        "lat": 47.4739884,
+        "lng": -0.5515588,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Racing Strasbourg B",
+        "city": "Strasbourg",
+        "country": "France",
+        "lat": 48.584614,
+        "lng": 7.7507127,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "RC Strasbourg Alsace",
+        "city": "Strasbourg",
+        "country": "France",
+        "lat": 48.584614,
+        "lng": 7.7507127,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Annecy",
+        "city": "Annecy",
+        "country": "France",
+        "lat": 45.8992348,
+        "lng": 6.1288847,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "RC Strasbourg Alsace",
+        "city": "Strasbourg",
+        "country": "France",
+        "lat": 48.584614,
+        "lng": 7.7507127,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Sochaux-Montbéliard",
+        "city": "Montbéliard",
+        "country": "France",
+        "lat": 47.5102368,
+        "lng": 6.7977564,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandre_Pierre"
+  },
+  {
+    "id": "carl-sainte",
+    "name": "Carl Sainté",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Haitian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Violette Athletic Club",
+        "city": "Port-au-Prince",
+        "country": "Haiti",
+        "lat": 18.547327,
+        "lng": -72.3395928,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "New Mexico United",
+        "city": "Albuquerque, New Mexico",
+        "country": "United States",
+        "lat": 35.0841034,
+        "lng": -106.650985,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "North Texas SC",
+        "city": "Frisco, Texas",
+        "country": "United States",
+        "lat": 33.1505998,
+        "lng": -96.8238183,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Dallas",
+        "city": "Frisco, Texas",
+        "country": "United States",
+        "lat": 33.1505998,
+        "lng": -96.8238183,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Phoenix Rising FC",
+        "city": "Phoenix, Arizona",
+        "country": "United States",
+        "lat": 33.4484367,
+        "lng": -112.074141,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Dallas",
+        "city": "Frisco, Texas",
+        "country": "United States",
+        "lat": 33.1505998,
+        "lng": -96.8238183,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "El Paso Locomotive FC",
+        "city": "El Paso, Texas",
+        "country": "United States",
+        "lat": 31.7601001,
+        "lng": -106.4870476,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Carl_Saint%C3%A9"
+  },
+  {
+    "id": "carlens-arcus",
+    "name": "Carlens Arcus",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Haitian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Racing Club Haïtien",
+        "city": "Port-au-Prince",
+        "country": "Haiti",
+        "lat": 18.547327,
+        "lng": -72.3395928,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "LOSC Lille B",
+        "city": "Camphin-en-Pévèle",
+        "country": "France",
+        "lat": 50.5948763,
+        "lng": 3.2583523,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Cercle Brugge",
+        "city": "Brügge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "AJ Auxerre",
+        "city": "Auxerre",
+        "country": "France",
+        "lat": 47.7961287,
+        "lng": 3.570579,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Cercle Brugge",
+        "city": "Brügge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Vitesse Arnhem",
+        "city": "Arnhem",
+        "country": "Netherlands",
+        "lat": 51.984257,
+        "lng": 5.9108573,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Angers SCO",
+        "city": "Angers",
+        "country": "France",
+        "lat": 47.4739884,
+        "lng": -0.5515588,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlens_Arcus"
+  },
+  {
+    "id": "danley-jean-jacques",
+    "name": "Danley Jean Jacques",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Haitian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Metz B",
+        "city": "Metz",
+        "country": "France",
+        "lat": 49.1196964,
+        "lng": 6.1763552,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Metz",
+        "city": "Metz",
+        "country": "France",
+        "lat": 49.1196964,
+        "lng": 6.1763552,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Philadelphia Union",
+        "city": "Chester",
+        "country": "United States",
+        "lat": 39.9829308,
+        "lng": -75.7652424,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Danley_Jean_Jacques"
+  },
+  {
+    "id": "derrick-etienne-jr",
+    "name": "Derrick Etienne Jr.",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Haitian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Virginia Cavaliers (University of Virginia)",
+        "city": "Charlottesville, Virginia",
+        "country": "United States",
+        "lat": 38.029306,
+        "lng": -78.4766781,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Red Bull New York II",
+        "city": "Harrison, New Jersey",
+        "country": "United States",
+        "lat": 40.7464901,
+        "lng": -74.1562551,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Red Bull New York",
+        "city": "NJ, 07094 Secaucus",
+        "country": "United States",
+        "lat": 40.7828896,
+        "lng": -74.0475715,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Red Bull New York II",
+        "city": "Harrison, New Jersey",
+        "country": "United States",
+        "lat": 40.7464901,
+        "lng": -74.1562551,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Red Bull New York",
+        "city": "NJ, 07094 Secaucus",
+        "country": "United States",
+        "lat": 40.7828896,
+        "lng": -74.0475715,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Red Bull New York II",
+        "city": "Harrison, New Jersey",
+        "country": "United States",
+        "lat": 40.7464901,
+        "lng": -74.1562551,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Red Bull New York",
+        "city": "NJ, 07094 Secaucus",
+        "country": "United States",
+        "lat": 40.7828896,
+        "lng": -74.0475715,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Cincinnati",
+        "city": "Cincinnati, Ohio",
+        "country": "United States",
+        "lat": 39.1012809,
+        "lng": -84.5127405,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Red Bull New York",
+        "city": "NJ, 07094 Secaucus",
+        "country": "United States",
+        "lat": 40.7828896,
+        "lng": -74.0475715,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Columbus Crew",
+        "city": "Columbus",
+        "country": "United States",
+        "lat": 39.9622601,
+        "lng": -83.0007065,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Atlanta United FC",
+        "city": "Marietta, GA",
+        "country": "United States",
+        "lat": 33.9528472,
+        "lng": -84.5496148,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Toronto FC",
+        "city": "Toronto, Ontario",
+        "country": "Canada",
+        "lat": 43.6534817,
+        "lng": -79.3839347,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Derrick_Etienne_Jr."
+  },
+  {
+    "id": "dominique-simon",
+    "name": "Dominique Simon",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Haitian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FCM Aubervilliers",
+        "city": "Aubervilliers",
+        "country": "France",
+        "lat": 48.9146078,
+        "lng": 2.3821895,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Paide Linnameeskond",
+        "city": "Paide",
+        "country": "Estonia",
+        "lat": 58.8869266,
+        "lng": 25.5699121,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Dinamo Tbilisi",
+        "city": "Tbilisi",
+        "country": "Georgia",
+        "lat": 41.6934591,
+        "lng": 44.8014495,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FK Pardubice",
+        "city": "Pardubice",
+        "country": "Czech Republic",
+        "lat": 50.0385812,
+        "lng": 15.7791356,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Tatran Presov",
+        "city": "Prešov",
+        "country": "Slovakia",
+        "lat": 49.0000074,
+        "lng": 21.2392122,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "FK Pardubice",
+        "city": "Pardubice",
+        "country": "Czech Republic",
+        "lat": 50.0385812,
+        "lng": 15.7791356,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Dominique_Simon"
+  },
+  {
+    "id": "duckens-nazon",
+    "name": "Duckens Nazon",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Haitian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "FC Lorient B",
+        "city": "Lorient",
+        "country": "France",
+        "lat": 47.7477336,
+        "lng": -3.3660907,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Olympique Saint-Quentin",
+        "city": "Saint-Quentin",
+        "country": "France",
+        "lat": 49.8465253,
+        "lng": 3.2876843,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Stade Lavallois",
+        "city": "Laval",
+        "country": "France",
+        "lat": 48.0706687,
+        "lng": -0.7734022,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Kerala Blasters FC",
+        "city": "Kochi, Ernakulam, Kerala",
+        "country": "India",
+        "lat": 9.9679032,
+        "lng": 76.2444378,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Wolverhampton Wanderers",
+        "city": "Wolverhampton",
+        "country": "England",
+        "lat": 52.5847651,
+        "lng": -2.127567,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Coventry City",
+        "city": "Coventry",
+        "country": "England",
+        "lat": 52.4081812,
+        "lng": -1.510477,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Wolverhampton Wanderers",
+        "city": "Wolverhampton",
+        "country": "England",
+        "lat": 52.5847651,
+        "lng": -2.127567,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Sint-Truidense VV",
+        "city": "Sint-Truiden",
+        "country": "Belgium",
+        "lat": 50.8152784,
+        "lng": 5.1858896,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Oldham Athletic",
+        "city": "Oldham",
+        "country": "England",
+        "lat": 53.5415797,
+        "lng": -2.1147831,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Wolverhampton Wanderers",
+        "city": "Wolverhampton",
+        "country": "England",
+        "lat": 52.5847651,
+        "lng": -2.127567,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "St. Mirren FC",
+        "city": "Paisley",
+        "country": "Scotland",
+        "lat": 55.8455828,
+        "lng": -4.4239646,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Sint-Truidense VV",
+        "city": "Sint-Truiden",
+        "country": "Belgium",
+        "lat": 50.8152784,
+        "lng": 5.1858896,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Quevilly - Rouen Métropole",
+        "city": "Le Petit-Quevilly",
+        "country": "France",
+        "lat": 49.4238,
+        "lng": 1.06208,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "CSKA Sofia",
+        "city": "Sofia",
+        "country": "Bulgaria",
+        "lat": 42.6977028,
+        "lng": 23.3217359,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Kayserispor",
+        "city": "Kayseri",
+        "country": "Türkiye",
+        "lat": 38.7219011,
+        "lng": 35.4873214,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Esteghlal FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Duckens_Nazon"
+  },
+  {
+    "id": "duke-lacroix",
+    "name": "Duke Lacroix",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Haitian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Ocean City Nor'easters",
+        "city": "Ocean City, New Jersey",
+        "country": "United States",
+        "lat": 39.2788685,
+        "lng": -74.5762507,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Indy Eleven",
+        "city": "Indianapolis, Indiana",
+        "country": "United States",
+        "lat": 39.7683331,
+        "lng": -86.1583502,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Orange County SC",
+        "city": "Irvine, California",
+        "country": "United States",
+        "lat": 33.6856969,
+        "lng": -117.825981,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Reno 1868 FC",
+        "city": "Reno, Nevada",
+        "country": "United States",
+        "lat": 39.5261788,
+        "lng": -119.812658,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Sacramento Republic FC",
+        "city": "Sacramento, California",
+        "country": "United States",
+        "lat": 38.5810606,
+        "lng": -121.493895,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Charlotte Independence",
+        "city": "Charlotte, North Carolina",
+        "country": "United States",
+        "lat": 35.2272086,
+        "lng": -80.8430827,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Colorado Springs Switchbacks FC",
+        "city": "Colorado Springs, Colorado",
+        "country": "United States",
+        "lat": 38.8339578,
+        "lng": -104.825348,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Duke_Lacroix"
+  },
+  {
+    "id": "frantzdy-pierrot",
+    "name": "Frantzdy Pierrot",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Haitian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Seacoast United Phantoms",
+        "city": "Portsmouth, New Hampshire",
+        "country": "United States",
+        "lat": 43.0751306,
+        "lng": -70.7601826,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Northeastern Huskies (Northeastern University)",
+        "city": "Boston, Maine",
+        "country": "United States",
+        "lat": 43.852227,
+        "lng": -69.6812341,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Reading United AC",
+        "city": "Wyomissing, Pennsylvania",
+        "country": "United States",
+        "lat": 40.329537,
+        "lng": -75.9652117,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Colorado Rapids",
+        "city": "Commerce City, Colorado",
+        "country": "United States",
+        "lat": 39.8083196,
+        "lng": -104.9338675,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Royal Excel Mouscron (-2022)",
+        "city": "Mouscron",
+        "country": "Belgium",
+        "lat": 50.7436672,
+        "lng": 3.2142729,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "EA Guingamp",
+        "city": "Guingamp",
+        "country": "France",
+        "lat": 48.5618483,
+        "lng": -3.1502007,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Maccabi Haifa",
+        "city": "Haifa",
+        "country": "Israel",
+        "lat": 32.8191218,
+        "lng": 34.9983856,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "AEK Athens",
+        "city": "Nea Filadelfeia (Athens)",
+        "country": "Greece",
+        "lat": 38.0324068,
+        "lng": 23.7374874,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Caykur Rizespor",
+        "city": "Merkez/RİZE",
+        "country": "Türkiye",
+        "lat": 41.0348622,
+        "lng": 40.5088943,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "AEK Athens",
+        "city": "Nea Filadelfeia (Athens)",
+        "country": "Greece",
+        "lat": 38.0324068,
+        "lng": 23.7374874,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Frantzdy_Pierrot"
+  },
+  {
+    "id": "garven-metusala",
+    "name": "Garven Metusala",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Haitian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Forge FC",
+        "city": "Hamilton, Ontario",
+        "country": "Canada",
+        "lat": 43.2560802,
+        "lng": -79.8728583,
+        "fromYear": 2021,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Colorado Springs Switchbacks FC",
+        "city": "Colorado Springs, Colorado",
+        "country": "United States",
+        "lat": 38.8339578,
+        "lng": -104.825348,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Garven_Metusala"
+  },
+  {
+    "id": "hannes-delcroix",
+    "name": "Hannes Delcroix",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Haitian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "RSC Anderlecht",
+        "city": "Anderlecht (Brüssel)",
+        "country": "Belgium",
+        "lat": 50.841868,
+        "lng": 4.3375643,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "RKC Waalwijk",
+        "city": "Waalwijk",
+        "country": "Netherlands",
+        "lat": 51.6873372,
+        "lng": 5.0173079,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "RSC Anderlecht",
+        "city": "Anderlecht (Brüssel)",
+        "country": "Belgium",
+        "lat": 50.841868,
+        "lng": 4.3375643,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Burnley FC",
+        "city": "Burnley",
+        "country": "England",
+        "lat": 53.7907262,
+        "lng": -2.2439196,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Swansea City",
+        "city": "Swansea",
+        "country": "Wales",
+        "lat": 51.6195955,
+        "lng": -3.9459248,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Burnley FC",
+        "city": "Burnley",
+        "country": "England",
+        "lat": 53.7907262,
+        "lng": -2.2439196,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "FC Lugano",
+        "city": "Lugano",
+        "country": "Switzerland",
+        "lat": 46.0038007,
+        "lng": 8.9512275,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Hannes_Delcroix"
+  },
+  {
+    "id": "jean-kevin-duverne",
+    "name": "Jean-Kévin Duverne",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Haitian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "RC Lens B",
+        "city": "Avion",
+        "country": "France",
+        "lat": 50.4126128,
+        "lng": 2.8343891,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "RC Lens",
+        "city": "Avion",
+        "country": "France",
+        "lat": 50.4126128,
+        "lng": 2.8343891,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Stade Brestois 29",
+        "city": "Brest",
+        "country": "France",
+        "lat": 48.3905283,
+        "lng": -4.4860088,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Nantes",
+        "city": "La Chapelle-sur-Erdre",
+        "country": "France",
+        "lat": 47.2996846,
+        "lng": -1.5518632,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "KV Kortrijk",
+        "city": "Kortrijk",
+        "country": "Belgium",
+        "lat": 50.8276429,
+        "lng": 3.2659884,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Nantes",
+        "city": "La Chapelle-sur-Erdre",
+        "country": "France",
+        "lat": 47.2996846,
+        "lng": -1.5518632,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "KAA Gent",
+        "city": "Gent",
+        "country": "Belgium",
+        "lat": 51.0538286,
+        "lng": 3.7250121,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "FC Nantes",
+        "city": "La Chapelle-sur-Erdre",
+        "country": "France",
+        "lat": 47.2996846,
+        "lng": -1.5518632,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-K%C3%A9vin_Duverne"
+  },
+  {
+    "id": "jean-ricner-bellegarde",
+    "name": "Jean-Ricner Bellegarde",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Haitian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "RC Lens B",
+        "city": "Avion",
+        "country": "France",
+        "lat": 50.4126128,
+        "lng": 2.8343891,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "RC Lens",
+        "city": "Avion",
+        "country": "France",
+        "lat": 50.4126128,
+        "lng": 2.8343891,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "RC Strasbourg Alsace",
+        "city": "Strasbourg",
+        "country": "France",
+        "lat": 48.584614,
+        "lng": 7.7507127,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Wolverhampton Wanderers",
+        "city": "Wolverhampton",
+        "country": "England",
+        "lat": 52.5847651,
+        "lng": -2.127567,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-Ricner_Bellegarde"
+  },
+  {
+    "id": "johny-placide",
+    "name": "Johny Placide",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Haitian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "AC Le Havre B",
+        "city": "Le Havre",
+        "country": "France",
+        "lat": 49.4938975,
+        "lng": 0.1079732,
+        "fromYear": 2006,
+        "toYear": 2007
+      },
+      {
+        "clubName": "Le Havre AC",
+        "city": "Le Havre",
+        "country": "France",
+        "lat": 49.4938975,
+        "lng": 0.1079732,
+        "fromYear": 2007,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Stade Reims",
+        "city": "Reims",
+        "country": "France",
+        "lat": 49.2577886,
+        "lng": 4.031926,
+        "fromYear": 2013,
+        "toYear": 2016
+      },
+      {
+        "clubName": "EA Guingamp",
+        "city": "Guingamp",
+        "country": "France",
+        "lat": 48.5618483,
+        "lng": -3.1502007,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Oldham Athletic",
+        "city": "Oldham",
+        "country": "England",
+        "lat": 53.5415797,
+        "lng": -2.1147831,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Tsarsko Selo (-2022)",
+        "city": "Sofia",
+        "country": "Bulgaria",
+        "lat": 42.6977028,
+        "lng": 23.3217359,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "SC Bastia",
+        "city": "Furiani",
+        "country": "France",
+        "lat": 42.6584811,
+        "lng": 9.4151285,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Johny_Placide"
+  },
+  {
+    "id": "josue-casimir",
+    "name": "Josué Casimir",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Haitian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "AC Le Havre B",
+        "city": "Le Havre",
+        "country": "France",
+        "lat": 49.4938975,
+        "lng": 0.1079732,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Le Havre AC",
+        "city": "Le Havre",
+        "country": "France",
+        "lat": 49.4938975,
+        "lng": 0.1079732,
+        "fromYear": 2021,
+        "toYear": 2025
+      },
+      {
+        "clubName": "AJ Auxerre",
+        "city": "Auxerre",
+        "country": "France",
+        "lat": 47.7961287,
+        "lng": 3.570579,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Josu%C3%A9_Casimir"
+  },
+  {
+    "id": "josue-duverger",
+    "name": "Josué Duverger",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Haitian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Vitória Setúbal FC",
+        "city": "Setúbal",
+        "country": "Portugal",
+        "lat": 38.5241783,
+        "lng": -8.8932341,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "UD Santarém",
+        "city": "Santarém",
+        "country": "Portugal",
+        "lat": 39.2363637,
+        "lng": -8.6867081,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Cosmos Koblenz",
+        "city": "Weißenthurm",
+        "country": "Germany",
+        "lat": 50.4145192,
+        "lng": 7.4557539,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Josu%C3%A9_Duverger"
+  },
+  {
+    "id": "keeto-thermoncy",
+    "name": "Keeto Thermoncy",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Haitian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Stade Nyonnais",
+        "city": "Nyon",
+        "country": "Switzerland",
+        "lat": 46.3820585,
+        "lng": 6.2402791,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Keeto_Thermoncy"
+  },
+  {
+    "id": "lenny-joseph",
+    "name": "Lenny Joseph",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Haitian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Le Puy-en-Velay FC",
+        "city": "Le Puy-en-Velay",
+        "country": "France",
+        "lat": 45.0459739,
+        "lng": 3.8855537,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Metz",
+        "city": "Metz",
+        "country": "France",
+        "lat": 49.1196964,
+        "lng": 6.1763552,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Grenoble Foot 38",
+        "city": "Grenoble",
+        "country": "France",
+        "lat": 45.1875602,
+        "lng": 5.7357819,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Ferencvárosi TC",
+        "city": "Budapest",
+        "country": "Hungary",
+        "lat": 47.4978789,
+        "lng": 19.0402383,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Lenny_Joseph"
+  },
+  {
+    "id": "louicius-deedson",
+    "name": "Louicius Deedson",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Haitian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Hobro IK",
+        "city": "Hobro",
+        "country": "Denmark",
+        "lat": 56.6371753,
+        "lng": 9.7939799,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Odense Boldklub",
+        "city": "Odense SØ.",
+        "country": "Denmark",
+        "lat": 55.363001,
+        "lng": 10.4649411,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Dallas",
+        "city": "Frisco, Texas",
+        "country": "United States",
+        "lat": 33.1505998,
+        "lng": -96.8238183,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Louicius_Deedson"
+  },
+  {
+    "id": "martin-experience",
+    "name": "Martin Expérience",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Haitian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Xerez CD",
+        "city": "Jerez de la Frontera",
+        "country": "Spain",
+        "lat": 36.6816936,
+        "lng": -6.1377402,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "US Changéenne",
+        "city": "Changé",
+        "country": "France",
+        "lat": 47.9875095,
+        "lng": 0.2839276,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "US Avranches",
+        "city": "Avranches",
+        "country": "France",
+        "lat": 48.6862085,
+        "lng": -1.3579476,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "SO Cholet",
+        "city": "Cholet",
+        "country": "France",
+        "lat": 47.0617293,
+        "lng": -0.8801359,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "AS Nancy-Lorraine",
+        "city": "Tomblaine",
+        "country": "France",
+        "lat": 48.6864409,
+        "lng": 6.2106707,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Martin_Exp%C3%A9rience"
+  },
+  {
+    "id": "ricardo-ade",
+    "name": "Ricardo Adé",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Haitian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Miami United FC",
+        "city": "Miami Beach, Florida",
+        "country": "United States",
+        "lat": 25.7929198,
+        "lng": -80.1353006,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Santiago Morning",
+        "city": "Santiago",
+        "country": "Chile",
+        "lat": -33.4376995,
+        "lng": -70.6510671,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Magallanes",
+        "city": "Maipú, Santiago",
+        "country": "Chile",
+        "lat": -33.5094409,
+        "lng": -70.756182,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Mushuc Runa SC",
+        "city": "Ambato",
+        "country": "Ecuador",
+        "lat": -1.2422413,
+        "lng": -78.6287594,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "SD Aucas",
+        "city": "Quito",
+        "country": "Ecuador",
+        "lat": -0.2201641,
+        "lng": -78.5123274,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "LDU Quito",
+        "city": "Quito",
+        "country": "Ecuador",
+        "lat": -0.2201641,
+        "lng": -78.5123274,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ricardo_Ad%C3%A9"
+  },
+  {
+    "id": "ruben-providence",
+    "name": "Ruben Providence",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Haitian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Club Brugge KV",
+        "city": "Brugge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "TSV Hartberg",
+        "city": "Hartberg",
+        "country": "Austria",
+        "lat": 47.2809371,
+        "lng": 15.9691769,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Almere City FC",
+        "city": "Almere",
+        "country": "Netherlands",
+        "lat": 52.4417513,
+        "lng": 5.2092943,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ruben_Providence"
+  },
+  {
+    "id": "wilguens-paugain",
+    "name": "Wilguens Paugain",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Haitian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "AS Nancy-Lorraine B",
+        "city": "Tomblaine",
+        "country": "France",
+        "lat": 48.6864409,
+        "lng": 6.2106707,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Akritas Chloraka",
+        "city": "Pafos",
+        "country": "Cyprus",
+        "lat": 34.7743988,
+        "lng": 32.4231586,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FK Auda",
+        "city": "Kekava",
+        "country": "Latvia",
+        "lat": 56.8261827,
+        "lng": 24.233653,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "SKN St. Pölten",
+        "city": "St. Pölten",
+        "country": "Austria",
+        "lat": 48.2043985,
+        "lng": 15.6229118,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Zulte Waregem",
+        "city": "Waregem",
+        "country": "Belgium",
+        "lat": 50.8868222,
+        "lng": 3.4323622,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "SKN St. Pölten",
+        "city": "St. Pölten",
+        "country": "Austria",
+        "lat": 48.2043985,
+        "lng": 15.6229118,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Wilguens_Paugain"
+  },
+  {
+    "id": "wilson-isidor",
+    "name": "Wilson Isidor",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Haitian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "AS Monaco",
+        "city": "Monaco",
+        "country": "Monaco",
+        "lat": 43.7309697,
+        "lng": 7.4248152,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Stade Lavallois",
+        "city": "Laval",
+        "country": "France",
+        "lat": 48.0706687,
+        "lng": -0.7734022,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "AS Monaco",
+        "city": "Monaco",
+        "country": "Monaco",
+        "lat": 43.7309697,
+        "lng": 7.4248152,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Lokomotiv Moscow",
+        "city": "Moskau",
+        "country": "Russia",
+        "lat": 55.625578,
+        "lng": 37.6063916,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Zenit St. Petersburg",
+        "city": "Sankt Petersburg",
+        "country": "Russia",
+        "lat": 59.9606739,
+        "lng": 30.1586551,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Lokomotiv Moscow",
+        "city": "Moskau",
+        "country": "Russia",
+        "lat": 55.625578,
+        "lng": 37.6063916,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Sunderland AFC",
+        "city": "Sunderland",
+        "country": "England",
+        "lat": 54.9058512,
+        "lng": -1.3828727,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Zenit St. Petersburg",
+        "city": "Sankt Petersburg",
+        "country": "Russia",
+        "lat": 59.9606739,
+        "lng": 30.1586551,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Wilson_Isidor"
+  },
+  {
+    "id": "woodensky-pierre",
+    "name": "Woodensky Pierre",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Haitian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Violette Athletic Club",
+        "city": "Port-au-Prince",
+        "country": "Haiti",
+        "lat": 18.547327,
+        "lng": -72.3395928,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Woodensky_Pierre"
+  },
+  {
+    "id": "yassin-fortune",
+    "name": "Yassin Fortuné",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Haitian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "FC Sion",
+        "city": "Martigny 1",
+        "country": "Switzerland",
+        "lat": 46.1241773,
+        "lng": 7.1392195,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Angers SCO",
+        "city": "Angers",
+        "country": "France",
+        "lat": 47.4739884,
+        "lng": -0.5515588,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Sion",
+        "city": "Martigny 1",
+        "country": "Switzerland",
+        "lat": 46.1241773,
+        "lng": 7.1392195,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "SO Cholet",
+        "city": "Cholet",
+        "country": "France",
+        "lat": 47.0617293,
+        "lng": -0.8801359,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Sion",
+        "city": "Martigny 1",
+        "country": "Switzerland",
+        "lat": 46.1241773,
+        "lng": 7.1392195,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Quevilly - Rouen Métropole",
+        "city": "Le Petit-Quevilly",
+        "country": "France",
+        "lat": 49.4238,
+        "lng": 1.06208,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Polissya Zhytomyr",
+        "city": "Zhytomyr",
+        "country": "Ukraine",
+        "lat": 50.9080532,
+        "lng": 28.3867504,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Sion",
+        "city": "Martigny 1",
+        "country": "Switzerland",
+        "lat": 46.1241773,
+        "lng": 7.1392195,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Vizela",
+        "city": "Caldas de Vizela",
+        "country": "Portugal",
+        "lat": 41.3728321,
+        "lng": -8.3132922,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Yassin_Fortun%C3%A9"
+  }
+]

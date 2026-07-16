@@ -1,0 +1,1529 @@
+[
+  {
+    "id": "alexis-saelemaekers",
+    "name": "Alexis Saelemaekers",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Belgian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "RSC Anderlecht",
+        "city": "Anderlecht (Brüssel)",
+        "country": "Belgium",
+        "lat": 50.841868,
+        "lng": 4.3375643,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "AC Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "RSC Anderlecht",
+        "city": "Anderlecht (Brüssel)",
+        "country": "Belgium",
+        "lat": 50.841868,
+        "lng": 4.3375643,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Bologna FC 1909",
+        "city": "Bologna",
+        "country": "Italy",
+        "lat": 44.4938203,
+        "lng": 11.3426327,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "AC Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "AC Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexis_Saelemaekers"
+  },
+  {
+    "id": "amadou-onana",
+    "name": "Amadou Onana",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Belgian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Hamburger SV",
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.5501721,
+        "lng": 10.0013165,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "LOSC Lille",
+        "city": "Camphin-en-Pévèle",
+        "country": "France",
+        "lat": 50.5948763,
+        "lng": 3.2583523,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Everton FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Aston Villa",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Amadou_Onana"
+  },
+  {
+    "id": "arthur-theate",
+    "name": "Arthur Theate",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Belgian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "KV Oostende (-2024)",
+        "city": "Oostende",
+        "country": "Belgium",
+        "lat": 51.2258565,
+        "lng": 2.919496,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Bologna FC 1909",
+        "city": "Bologna",
+        "country": "Italy",
+        "lat": 44.4938203,
+        "lng": 11.3426327,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "KV Oostende (-2024)",
+        "city": "Oostende",
+        "country": "Belgium",
+        "lat": 51.2258565,
+        "lng": 2.919496,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Stade Rennais FC",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Stade Rennais FC",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Theate"
+  },
+  {
+    "id": "axel-witsel",
+    "name": "Axel Witsel",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Belgian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Standard Liège",
+        "city": "Lüttich (Liège)",
+        "country": "Belgium",
+        "lat": 50.6419089,
+        "lng": 6.0178968,
+        "fromYear": 2006,
+        "toYear": 2011
+      },
+      {
+        "clubName": "SL Benfica",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2011,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Zenit St. Petersburg",
+        "city": "Sankt Petersburg",
+        "country": "Russia",
+        "lat": 59.9606739,
+        "lng": 30.1586551,
+        "fromYear": 2012,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Tianjin Tianhai (-2019)",
+        "city": "Jinnan Qu, Tianjin Shi",
+        "country": "China",
+        "lat": 38.9360958,
+        "lng": 117.3503955,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Atlético de Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Girona FC",
+        "city": "Girona",
+        "country": "Spain",
+        "lat": 41.9793006,
+        "lng": 2.8199439,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Axel_Witsel"
+  },
+  {
+    "id": "brandon-mechele",
+    "name": "Brandon Mechele",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Belgian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Club Brugge KV",
+        "city": "Brugge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2013,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Sint-Truidense VV",
+        "city": "Sint-Truiden",
+        "country": "Belgium",
+        "lat": 50.8152784,
+        "lng": 5.1858896,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Club Brugge KV",
+        "city": "Brugge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2017,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Brandon_Mechele"
+  },
+  {
+    "id": "charles-de-ketelaere",
+    "name": "Charles De Ketelaere",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Belgian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Club Brugge KV",
+        "city": "Brugge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "AC Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Atalanta BC",
+        "city": "Bergamo",
+        "country": "Italy",
+        "lat": 45.7566557,
+        "lng": 9.7542192,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "AC Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_De_Ketelaere"
+  },
+  {
+    "id": "diego-moreira",
+    "name": "Diego Moreira",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Belgian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "SL Benfica B",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Olympique Lyon",
+        "city": "Décines-Charpieu",
+        "country": "France",
+        "lat": 45.773606,
+        "lng": 4.9633314,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "RC Strasbourg Alsace",
+        "city": "Strasbourg",
+        "country": "France",
+        "lat": 48.584614,
+        "lng": 7.7507127,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Diego_Moreira"
+  },
+  {
+    "id": "dodi-lukebakio",
+    "name": "Dodi Lukébakio",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Belgian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "RSC Anderlecht",
+        "city": "Anderlecht (Brüssel)",
+        "country": "Belgium",
+        "lat": 50.841868,
+        "lng": 4.3375643,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "FC Toulouse",
+        "city": "Toulouse",
+        "country": "France",
+        "lat": 43.6044638,
+        "lng": 1.4442433,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Royal Charleroi SC",
+        "city": "Charleroi",
+        "country": "Belgium",
+        "lat": 50.4116233,
+        "lng": 4.444528,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "RSC Anderlecht",
+        "city": "Anderlecht (Brüssel)",
+        "country": "Belgium",
+        "lat": 50.841868,
+        "lng": 4.3375643,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Royal Charleroi SC",
+        "city": "Charleroi",
+        "country": "Belgium",
+        "lat": 50.4116233,
+        "lng": 4.444528,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Watford FC",
+        "city": "Watford",
+        "country": "England",
+        "lat": 51.6553875,
+        "lng": -0.3957425,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Fortuna Düsseldorf",
+        "city": "Düsseldorf",
+        "country": "Germany",
+        "lat": 51.2254018,
+        "lng": 6.7763137,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Hertha BSC",
+        "city": "Berlin",
+        "country": "Germany",
+        "lat": 52.5173885,
+        "lng": 13.3951309,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Watford FC",
+        "city": "Watford",
+        "country": "England",
+        "lat": 51.6553875,
+        "lng": -0.3957425,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "VfL Wolfsburg",
+        "city": "Wolfsburg",
+        "country": "Germany",
+        "lat": 52.4205588,
+        "lng": 10.7861682,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Hertha BSC",
+        "city": "Berlin",
+        "country": "Germany",
+        "lat": 52.5173885,
+        "lng": 13.3951309,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Sevilla FC",
+        "city": "Sevilla",
+        "country": "Spain",
+        "lat": 37.3886303,
+        "lng": -5.9953403,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "SL Benfica",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodi_Luk%C3%A9bakio"
+  },
+  {
+    "id": "hans-vanaken",
+    "name": "Hans Vanaken",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Belgian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Lommel SK",
+        "city": "Lommel",
+        "country": "Belgium",
+        "lat": 51.2305657,
+        "lng": 5.3076895,
+        "fromYear": 2010,
+        "toYear": 2013
+      },
+      {
+        "clubName": "KSC Lokeren (-2020)",
+        "city": "Lokeren",
+        "country": "Belgium",
+        "lat": 51.1483816,
+        "lng": 3.944247,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Club Brugge KV",
+        "city": "Brugge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2015,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Hans_Vanaken"
+  },
+  {
+    "id": "joaquin-seys",
+    "name": "Joaquin Seys",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Belgian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Club NXT",
+        "city": "Brugge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Club Brugge KV",
+        "city": "Brugge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Joaquin_Seys"
+  },
+  {
+    "id": "jeremy-doku",
+    "name": "Jérémy Doku",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Belgian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "RSC Anderlecht",
+        "city": "Anderlecht (Brüssel)",
+        "country": "Belgium",
+        "lat": 50.841868,
+        "lng": 4.3375643,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Stade Rennais FC",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%A9r%C3%A9my_Doku"
+  },
+  {
+    "id": "kevin-de-bruyne",
+    "name": "Kevin De Bruyne",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Belgian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "KRC Genk",
+        "city": "Genk",
+        "country": "Belgium",
+        "lat": 50.9654864,
+        "lng": 5.5001456,
+        "fromYear": 2008,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2012,
+        "toYear": 2012
+      },
+      {
+        "clubName": "SV Werder Bremen",
+        "city": "Bremen",
+        "country": "Germany",
+        "lat": 53.0758196,
+        "lng": 8.8071646,
+        "fromYear": 2012,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2012,
+        "toYear": 2014
+      },
+      {
+        "clubName": "VfL Wolfsburg",
+        "city": "Wolfsburg",
+        "country": "Germany",
+        "lat": 52.4205588,
+        "lng": 10.7861682,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2015,
+        "toYear": 2025
+      },
+      {
+        "clubName": "SSC Napoli",
+        "city": "Napoli",
+        "country": "Italy",
+        "lat": 40.8358846,
+        "lng": 14.2487679,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kevin_De_Bruyne"
+  },
+  {
+    "id": "koni-de-winter",
+    "name": "Koni De Winter",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Belgian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Empoli",
+        "city": "Empoli",
+        "country": "Italy",
+        "lat": 43.7194884,
+        "lng": 10.9458556,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Juventus FC",
+        "city": "Torino",
+        "country": "Italy",
+        "lat": 45.0677551,
+        "lng": 7.6824892,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Genoa CFC",
+        "city": "Genova",
+        "country": "Italy",
+        "lat": 44.40726,
+        "lng": 8.9338624,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Juventus FC",
+        "city": "Torino",
+        "country": "Italy",
+        "lat": 45.0677551,
+        "lng": 7.6824892,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "AC Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Koni_De_Winter"
+  },
+  {
+    "id": "leandro-trossard",
+    "name": "Leandro Trossard",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Belgian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "KRC Genk",
+        "city": "Genk",
+        "country": "Belgium",
+        "lat": 50.9654864,
+        "lng": 5.5001456,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "KVC Westerlo",
+        "city": "Westerlo",
+        "country": "Belgium",
+        "lat": 51.086694,
+        "lng": 4.9168675,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Lommel SK",
+        "city": "Lommel",
+        "country": "Belgium",
+        "lat": 51.2305657,
+        "lng": 5.3076895,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "KRC Genk",
+        "city": "Genk",
+        "country": "Belgium",
+        "lat": 50.9654864,
+        "lng": 5.5001456,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Lommel SK",
+        "city": "Lommel",
+        "country": "Belgium",
+        "lat": 51.2305657,
+        "lng": 5.3076895,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "KRC Genk",
+        "city": "Genk",
+        "country": "Belgium",
+        "lat": 50.9654864,
+        "lng": 5.5001456,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Oud-Heverlee Leuven",
+        "city": "Heverlee (Leuven)",
+        "country": "Belgium",
+        "lat": 50.8596468,
+        "lng": 4.7151342,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "KRC Genk",
+        "city": "Genk",
+        "country": "Belgium",
+        "lat": 50.9654864,
+        "lng": 5.5001456,
+        "fromYear": 2015,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Leandro_Trossard"
+  },
+  {
+    "id": "matias-fernandez-pardo",
+    "name": "Matias Fernandez-Pardo",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Belgian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "KAA Gent",
+        "city": "Gent",
+        "country": "Belgium",
+        "lat": 51.0538286,
+        "lng": 3.7250121,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "LOSC Lille",
+        "city": "Camphin-en-Pévèle",
+        "country": "France",
+        "lat": 50.5948763,
+        "lng": 3.2583523,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Matias_Fernandez-Pardo"
+  },
+  {
+    "id": "maxim-de-cuyper",
+    "name": "Maxim De Cuyper",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Belgian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Club Brugge KV",
+        "city": "Brugge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "KVC Westerlo",
+        "city": "Westerlo",
+        "country": "Belgium",
+        "lat": 51.086694,
+        "lng": 4.9168675,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Club Brugge KV",
+        "city": "Brugge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Maxim_De_Cuyper"
+  },
+  {
+    "id": "mike-penders",
+    "name": "Mike Penders",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Belgian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "KRC Genk",
+        "city": "Genk",
+        "country": "Belgium",
+        "lat": 50.9654864,
+        "lng": 5.5001456,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "KRC Genk",
+        "city": "Genk",
+        "country": "Belgium",
+        "lat": 50.9654864,
+        "lng": 5.5001456,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "RC Strasbourg Alsace",
+        "city": "Strasbourg",
+        "country": "France",
+        "lat": 48.584614,
+        "lng": 7.7507127,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mike_Penders"
+  },
+  {
+    "id": "nathan-ngoy",
+    "name": "Nathan Ngoy",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Belgian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Standard Liège",
+        "city": "Lüttich (Liège)",
+        "country": "Belgium",
+        "lat": 50.6419089,
+        "lng": 6.0178968,
+        "fromYear": 2021,
+        "toYear": 2025
+      },
+      {
+        "clubName": "LOSC Lille",
+        "city": "Camphin-en-Pévèle",
+        "country": "France",
+        "lat": 50.5948763,
+        "lng": 3.2583523,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nathan_Ngoy"
+  },
+  {
+    "id": "nicolas-raskin",
+    "name": "Nicolas Raskin",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Belgian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Standard Liège",
+        "city": "Lüttich (Liège)",
+        "country": "Belgium",
+        "lat": 50.6419089,
+        "lng": 6.0178968,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Rangers FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicolas_Raskin"
+  },
+  {
+    "id": "romelu-lukaku",
+    "name": "Romelu Lukaku",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Belgian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "RSC Anderlecht",
+        "city": "Anderlecht (Brüssel)",
+        "country": "Belgium",
+        "lat": 50.841868,
+        "lng": 4.3375643,
+        "fromYear": 2009,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2011,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Everton FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Everton FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2014,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Inter Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Inter Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "SSC Napoli",
+        "city": "Napoli",
+        "country": "Italy",
+        "lat": 40.8358846,
+        "lng": 14.2487679,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Romelu_Lukaku"
+  },
+  {
+    "id": "senne-lammens",
+    "name": "Senne Lammens",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Belgian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Club Brugge KV",
+        "city": "Brugge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Royal Antwerp FC",
+        "city": "Deurne - Antwerpen",
+        "country": "Belgium",
+        "lat": 51.2244162,
+        "lng": 4.463811,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Senne_Lammens"
+  },
+  {
+    "id": "thibaut-courtois",
+    "name": "Thibaut Courtois",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Belgian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "KRC Genk",
+        "city": "Genk",
+        "country": "Belgium",
+        "lat": 50.9654864,
+        "lng": 5.5001456,
+        "fromYear": 2009,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2011,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Atlético de Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2011,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2014,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2018,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Thibaut_Courtois"
+  },
+  {
+    "id": "thomas-meunier",
+    "name": "Thomas Meunier",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Belgian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Royal Excelsior Virton",
+        "city": "Virton",
+        "country": "Belgium",
+        "lat": 49.5677263,
+        "lng": 5.5329559,
+        "fromYear": 2009,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Club Brugge KV",
+        "city": "Brugge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2011,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Paris Saint-Germain",
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8534951,
+        "lng": 2.3483915,
+        "fromYear": 2016,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Trabzonspor",
+        "city": "Trabzon",
+        "country": "Türkiye",
+        "lat": 41.0054605,
+        "lng": 39.7301463,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "LOSC Lille",
+        "city": "Camphin-en-Pévèle",
+        "country": "France",
+        "lat": 50.5948763,
+        "lng": 3.2583523,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Thomas_Meunier"
+  },
+  {
+    "id": "timothy-castagne",
+    "name": "Timothy Castagne",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Belgian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "KRC Genk",
+        "city": "Genk",
+        "country": "Belgium",
+        "lat": 50.9654864,
+        "lng": 5.5001456,
+        "fromYear": 2014,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Atalanta BC",
+        "city": "Bergamo",
+        "country": "Italy",
+        "lat": 45.7566557,
+        "lng": 9.7542192,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Leicester City",
+        "city": "Leicester",
+        "country": "England",
+        "lat": 52.6362,
+        "lng": -1.1331969,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Fulham FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Timothy_Castagne"
+  },
+  {
+    "id": "youri-tielemans",
+    "name": "Youri Tielemans",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Belgian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "RSC Anderlecht",
+        "city": "Anderlecht (Brüssel)",
+        "country": "Belgium",
+        "lat": 50.841868,
+        "lng": 4.3375643,
+        "fromYear": 2013,
+        "toYear": 2017
+      },
+      {
+        "clubName": "AS Monaco",
+        "city": "Monaco",
+        "country": "Monaco",
+        "lat": 43.7309697,
+        "lng": 7.4248152,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Leicester City",
+        "city": "Leicester",
+        "country": "England",
+        "lat": 52.6362,
+        "lng": -1.1331969,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "AS Monaco",
+        "city": "Monaco",
+        "country": "Monaco",
+        "lat": 43.7309697,
+        "lng": 7.4248152,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Leicester City",
+        "city": "Leicester",
+        "country": "England",
+        "lat": 52.6362,
+        "lng": -1.1331969,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Aston Villa",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Youri_Tielemans"
+  },
+  {
+    "id": "zeno-debast",
+    "name": "Zeno Debast",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Belgian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "RSC Anderlecht",
+        "city": "Anderlecht (Brüssel)",
+        "country": "Belgium",
+        "lat": 50.841868,
+        "lng": 4.3375643,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Sporting CP",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Zeno_Debast"
+  }
+]

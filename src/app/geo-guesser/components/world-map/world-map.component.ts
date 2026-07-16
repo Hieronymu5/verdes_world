@@ -5,6 +5,7 @@ import { feature, mesh } from 'topojson-client';
 import type { GeometryCollection, Topology } from 'topojson-specification';
 import { ensureVisibleAccent } from '../../color-utils';
 import { ClubStop, Player } from '../../geo-guesser.models';
+import type { SvgGifFrame } from '../../../global/svg-gif-export.service';
 
 export interface MapPoint {
   key: string;
@@ -14,6 +15,8 @@ export interface MapPoint {
   radius: number;
   /** Seconds to wait before the dot appears (matches when its incoming line finishes). */
   animDelay: number;
+  /** CSS brightness() multiplier — ramps from 0.75 on the first dot to 1 on the last. */
+  brightness: number;
 }
 
 export interface TeamListItem {
@@ -57,6 +60,19 @@ const LINE_MAX_DURATION = 2.5;
 /** Small pause before the first line starts. */
 const INITIAL_PAUSE = 0.1;
 
+/** CSS brightness() applied to the very first dot in a player's journey. */
+const FIRST_DOT_BRIGHTNESS = 0.75;
+/** CSS brightness() applied to the last dot — normal, unadjusted color. */
+const LAST_DOT_BRIGHTNESS = 1;
+/** Dot radius is scaled down by this factor on World Cup team maps. */
+const TEAM_MAP_DOT_SCALE = 0.65;
+const GIF_FRAME_DELAY_MS = 500;
+const GIF_FINAL_FRAME_DELAY_MS = 1500;
+
+function escapeXmlText(value: string): string {
+  return value.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
 @Component({
   selector: 'app-world-map',
   changeDetection: ChangeDetectionStrategy.OnPush,
@@ -79,6 +95,9 @@ export class WorldMapComponent implements OnInit {
     if (!colors || colors.length === 0) return null;
     return ensureVisibleAccent(colors[0]);
   });
+
+  /** True when showing a World Cup team's roster rather than a single club career. */
+  readonly isTeamMap = computed(() => (this.countryColors()?.length ?? 0) > 0);
 
   readonly mapW = MAP_W;
   readonly mapH = MAP_H;
@@ -169,6 +188,7 @@ export class WorldMapComponent implements OnInit {
       dotDelays.push(nextDelay); // next dot appears when this line finishes
     }
 
+    const lastIndex = positions.length - 1;
     const points: MapPoint[] = positions.map((pos, i) => ({
       key: `${pos.club.clubName}-${pos.club.fromYear}-${pos.club.toYear}-${i}`,
       x: pos.x,
@@ -176,6 +196,10 @@ export class WorldMapComponent implements OnInit {
       club: pos.club,
       radius: this.dotRadius(pos.club),
       animDelay: dotDelays[i],
+      brightness:
+        lastIndex > 0
+          ? FIRST_DOT_BRIGHTNESS + ((LAST_DOT_BRIGHTNESS - FIRST_DOT_BRIGHTNESS) * i) / lastIndex
+          : LAST_DOT_BRIGHTNESS,
     }));
 
     return { points, lines };
@@ -257,10 +281,81 @@ export class WorldMapComponent implements OnInit {
     return [...nums].sort((a, b) => a - b);
   });
 
+  /** Builds the same progressive journey shown by the player map as standalone GIF frames. */
+  buildGifFrames(playerName: string): SvgGifFrame[] {
+    if (!this.landPath() || !this.bordersPath() || !this.graticulePath()) return [];
+
+    const points = this.mapPoints();
+    const lines = this.journeyLines();
+    const rows = this.teamListItems();
+    if (points.length === 0) return [];
+
+    return points.map((point, index) => ({
+      svg: this.frameSvgMarkup(playerName, points, lines, rows, index),
+      delayMs: index === points.length - 1 ? GIF_FINAL_FRAME_DELAY_MS : GIF_FRAME_DELAY_MS,
+    }));
+  }
+
+  private frameSvgMarkup(
+    playerName: string,
+    points: MapPoint[],
+    lines: JourneyLine[],
+    rows: TeamListItem[],
+    lastPoint: number,
+  ): string {
+    const lineMarkup = lines
+      .slice(0, lastPoint)
+      .map(
+        (line) =>
+          `<path d="${line.d}" fill="none" stroke="#00b140" stroke-width="2" stroke-linecap="round" opacity="0.9" />`,
+      )
+      .join('');
+    const dotMarkup = points
+      .slice(0, lastPoint + 1)
+      .map(
+        (point) =>
+          `<circle cx="${point.x}" cy="${point.y}" r="${point.radius}" fill="#ffffff" stroke="#00b140" stroke-width="1.5" />`,
+      )
+      .join('');
+    const visibleRows = rows.filter((row) => row.index <= lastPoint + 1);
+    const panelHeight = 40 + visibleRows.length * TEAM_LIST_ROW_H + 10;
+    const rowMarkup = visibleRows
+      .map(
+        (row) =>
+          `<text x="12" y="${row.y}" fill="#ffffff" font-family="Arial, sans-serif" font-size="10.5" font-weight="650" dominant-baseline="middle">${row.index}.</text>` +
+          `<text x="30" y="${row.y}" fill="#ffffff" font-family="Arial, sans-serif" font-size="10.5" font-weight="650" dominant-baseline="middle">${escapeXmlText(row.clubName)}</text>` +
+          `<text x="262" y="${row.y}" text-anchor="end" fill="#9ac7a5" font-family="Arial, sans-serif" font-size="9.5" font-weight="600" dominant-baseline="middle">${row.yearRange}</text>`,
+      )
+      .join('');
+
+    return [
+      `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${MAP_W} ${MAP_H}">`,
+      `<rect width="${MAP_W}" height="${MAP_H}" fill="#0d2a4a" />`,
+      `<path d="${this.graticulePath()}" fill="none" stroke="#0e3356" stroke-width="0.3" opacity="0.6" />`,
+      `<path d="${this.landPath()}" fill="#1e3d28" />`,
+      `<path d="${this.bordersPath()}" fill="none" stroke="#3d7a4d" stroke-width="0.4" stroke-linejoin="round" />`,
+      lineMarkup,
+      dotMarkup,
+      `<g transform="translate(${this.teamListX},10)">`,
+      `<rect width="${this.teamListW}" height="${panelHeight}" rx="8" fill="#061525" fill-opacity="0.86" stroke="#3d7a4d" />`,
+      `<text x="12" y="22" fill="#00b140" font-family="Arial, sans-serif" font-size="12" font-weight="800" letter-spacing="0.08em">CAREER PATH</text>`,
+      rowMarkup,
+      `</g>`,
+      `<rect x="180" y="${MAP_H - 42}" width="600" height="28" rx="5" fill="#00b140" opacity="0.93" />`,
+      `<text x="480" y="${MAP_H - 27}" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="18" font-weight="700" dominant-baseline="middle">${escapeXmlText(playerName)}</text>`,
+      `</svg>`,
+    ].join('');
+  }
+
   // ─── Helpers ─────────────────────────────────────────────────────────────
 
   isAustin(club: ClubStop): boolean {
     return club.clubName === 'Austin FC';
+  }
+
+  dotFilter(pt: MapPoint): string {
+    const glow = this.isAustin(pt.club) ? 'url(#glow)' : 'url(#dot-glow)';
+    return `${glow} brightness(${pt.brightness})`;
   }
 
   private dotRadius(club: ClubStop): number {
@@ -268,7 +363,8 @@ export class WorldMapComponent implements OnInit {
       return 6;
     }
     const years = Math.max(1, club.toYear - club.fromYear);
-    return Math.min(5 + years * 2.5, 20);
+    const radius = Math.min(5 + years * 2.5, 20);
+    return this.isTeamMap() ? radius * TEAM_MAP_DOT_SCALE : radius;
   }
 
   private truncate(value: string, max: number): string {

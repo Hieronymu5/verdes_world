@@ -1,0 +1,1394 @@
+[
+  {
+    "id": "abdelmouhib-chamakh",
+    "name": "Abdelmouhib Chamakh",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Tunisian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "CO Medenine",
+        "city": "Medenine",
+        "country": "Tunisia",
+        "lat": 32.9819987,
+        "lng": 11.2870254,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Club Africain",
+        "city": "Tunis",
+        "country": "Tunisia",
+        "lat": 36.8002068,
+        "lng": 10.1857757,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdelmouhib_Chamakh"
+  },
+  {
+    "id": "adem-arous",
+    "name": "Adem Arous",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Tunisian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Stade Tunisien",
+        "city": "Le Bardo",
+        "country": "Tunisia",
+        "lat": 36.8139969,
+        "lng": 10.1363018,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "AS Oued Ellil",
+        "city": "Oued Ellil",
+        "country": "Tunisia",
+        "lat": 36.8297587,
+        "lng": 10.0128966,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Stade Tunisien",
+        "city": "Le Bardo",
+        "country": "Tunisia",
+        "lat": 36.8139969,
+        "lng": 10.1363018,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Kasimpasa",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.006381,
+        "lng": 28.9758715,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Adem_Arous"
+  },
+  {
+    "id": "ali-abdi",
+    "name": "Ali Abdi",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Tunisian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "JS Kairouanaise",
+        "city": "Kairouan",
+        "country": "Tunisia",
+        "lat": 35.6710101,
+        "lng": 10.10062,
+        "fromYear": 2011,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Stade Tunisien",
+        "city": "Le Bardo",
+        "country": "Tunisia",
+        "lat": 36.8139969,
+        "lng": 10.1363018,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Club Africain",
+        "city": "Tunis",
+        "country": "Tunisia",
+        "lat": 36.8002068,
+        "lng": 10.1857757,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Paris FC",
+        "city": "Orly",
+        "country": "France",
+        "lat": 48.7431683,
+        "lng": 2.402391,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "SM Caen",
+        "city": "Caen",
+        "country": "France",
+        "lat": 49.1813403,
+        "lng": -0.3635615,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "OGC Nice",
+        "city": "Nice",
+        "country": "France",
+        "lat": 43.7009358,
+        "lng": 7.2683912,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Abdi"
+  },
+  {
+    "id": "anis-ben-slimane",
+    "name": "Anis Ben Slimane",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Tunisian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Akademisk Boldklub",
+        "city": "Søborg",
+        "country": "Denmark",
+        "lat": 55.736468,
+        "lng": 12.5088728,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Bröndby IF",
+        "city": "Brøndby",
+        "country": "Denmark",
+        "lat": 55.644111,
+        "lng": 12.4217135,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Sheffield United",
+        "city": "Sheffield",
+        "country": "England",
+        "lat": 53.3806626,
+        "lng": -1.4702278,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Norwich City",
+        "city": "Norwich",
+        "country": "England",
+        "lat": 52.6285576,
+        "lng": 1.2923954,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Sheffield United",
+        "city": "Sheffield",
+        "country": "England",
+        "lat": 53.3806626,
+        "lng": -1.4702278,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Anis_Ben_Slimane"
+  },
+  {
+    "id": "aymen-dahmen",
+    "name": "Aymen Dahmen",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Tunisian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "CS Sfaxien",
+        "city": "Sfax",
+        "country": "Tunisia",
+        "lat": 34.7394361,
+        "lng": 10.7604024,
+        "fromYear": 2018,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Hazem SC",
+        "city": "Rass, Al-Qassim",
+        "country": "Saudi Arabia",
+        "lat": 25.8685205,
+        "lng": 43.5038978,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "CS Sfaxien",
+        "city": "Sfax",
+        "country": "Tunisia",
+        "lat": 34.7394361,
+        "lng": 10.7604024,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Aymen_Dahmen"
+  },
+  {
+    "id": "dylan-bronn",
+    "name": "Dylan Bronn",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Tunisian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "AS Cannes",
+        "city": "Cannes La Bocca",
+        "country": "France",
+        "lat": 43.548847,
+        "lng": 6.9865913,
+        "fromYear": 2013,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Chamois Niortais FC (- 2025)",
+        "city": "Niort",
+        "country": "France",
+        "lat": 46.3239233,
+        "lng": -0.4646064,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "KAA Gent",
+        "city": "Gent",
+        "country": "Belgium",
+        "lat": 51.0538286,
+        "lng": 3.7250121,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Metz",
+        "city": "Metz",
+        "country": "France",
+        "lat": 49.1196964,
+        "lng": 6.1763552,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "US Salernitana 1919",
+        "city": "Salerno",
+        "country": "Italy",
+        "lat": 40.4194416,
+        "lng": 15.3106085,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Servette FC",
+        "city": "Carouge",
+        "country": "Switzerland",
+        "lat": 46.1846691,
+        "lng": 6.1396839,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "US Salernitana 1919",
+        "city": "Salerno",
+        "country": "Italy",
+        "lat": 40.4194416,
+        "lng": 15.3106085,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Servette FC",
+        "city": "Carouge",
+        "country": "Switzerland",
+        "lat": 46.1846691,
+        "lng": 6.1396839,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Dylan_Bronn"
+  },
+  {
+    "id": "elias-achouri",
+    "name": "Elias Achouri",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Tunisian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Vitória Guimarães SC B",
+        "city": "Guimarães",
+        "country": "Portugal",
+        "lat": 41.4417677,
+        "lng": -8.2955712,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "GD Estoril Praia",
+        "city": "Estoril",
+        "country": "Portugal",
+        "lat": 38.7095707,
+        "lng": -9.3901368,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "CD Trofense",
+        "city": "Trofa",
+        "country": "Portugal",
+        "lat": 41.3363471,
+        "lng": -8.5585061,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "GD Estoril Praia",
+        "city": "Estoril",
+        "country": "Portugal",
+        "lat": 38.7095707,
+        "lng": -9.3901368,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Viborg FF",
+        "city": "Viborg",
+        "country": "Denmark",
+        "lat": 56.4469128,
+        "lng": 9.4059354,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Copenhagen",
+        "city": "København Ø.",
+        "country": "Denmark",
+        "lat": 55.6428043,
+        "lng": 12.5549822,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Elias_Achouri"
+  },
+  {
+    "id": "elias-saad",
+    "name": "Elias Saad",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Tunisian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Buxtehuder SV",
+        "city": "Buxtehude",
+        "country": "Germany",
+        "lat": 53.4603692,
+        "lng": 9.6868902,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "HSV Barmbek-Uhlenhorst",
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.5501721,
+        "lng": 10.0013165,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Eintracht Norderstedt",
+        "city": "Norderstedt",
+        "country": "Germany",
+        "lat": 53.7089898,
+        "lng": 9.9891914,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC St. Pauli",
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.5501721,
+        "lng": 10.0013165,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Augsburg",
+        "city": "Augsburg",
+        "country": "Germany",
+        "lat": 48.3690341,
+        "lng": 10.8979522,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Hannover 96",
+        "city": "Hannover",
+        "country": "Germany",
+        "lat": 52.3744779,
+        "lng": 9.7385532,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "FC Augsburg",
+        "city": "Augsburg",
+        "country": "Germany",
+        "lat": 48.3690341,
+        "lng": 10.8979522,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Elias_Saad"
+  },
+  {
+    "id": "ellyes-skhiri",
+    "name": "Ellyes Skhiri",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Tunisian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Montpellier HSC B",
+        "city": "Montpellier",
+        "country": "France",
+        "lat": 43.6112422,
+        "lng": 3.8767337,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Montpellier HSC",
+        "city": "Montpellier",
+        "country": "France",
+        "lat": 43.6112422,
+        "lng": 3.8767337,
+        "fromYear": 2015,
+        "toYear": 2019
+      },
+      {
+        "clubName": "1.FC Köln",
+        "city": "Köln",
+        "country": "Germany",
+        "lat": 50.938361,
+        "lng": 6.959974,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ellyes_Skhiri"
+  },
+  {
+    "id": "firas-chaouat",
+    "name": "Firas Chaouat",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Tunisian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "CS Sfaxien",
+        "city": "Sfax",
+        "country": "Tunisia",
+        "lat": 34.7394361,
+        "lng": 10.7604024,
+        "fromYear": 2015,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Abha Club",
+        "city": "Abha",
+        "country": "Saudi Arabia",
+        "lat": 18.2164282,
+        "lng": 42.5043596,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "CS Sfaxien",
+        "city": "Sfax",
+        "country": "Tunisia",
+        "lat": 34.7394361,
+        "lng": 10.7604024,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Ismaily SC",
+        "city": "Ismailia",
+        "country": "Egypt",
+        "lat": 30.6043775,
+        "lng": 32.2770825,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Muharraq SC",
+        "city": "Muharraq",
+        "country": "Bahrain",
+        "lat": 26.2465946,
+        "lng": 50.6164127,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Etoile Sportive du Sahel",
+        "city": "Sousse",
+        "country": "Tunisia",
+        "lat": 35.8288284,
+        "lng": 10.6405254,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Club Africain",
+        "city": "Tunis",
+        "country": "Tunisia",
+        "lat": 36.8002068,
+        "lng": 10.1857757,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Firas_Chaouat"
+  },
+  {
+    "id": "hannibal",
+    "name": "Hannibal",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Tunisian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Birmingham City",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Sevilla FC",
+        "city": "Sevilla",
+        "country": "Spain",
+        "lat": 37.3886303,
+        "lng": -5.9953403,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Burnley FC",
+        "city": "Burnley",
+        "country": "England",
+        "lat": 53.7907262,
+        "lng": -2.2439196,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Hannibal"
+  },
+  {
+    "id": "hazem-mastouri",
+    "name": "Hazem Mastouri",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Tunisian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "La Palme Sportive Tozeur",
+        "city": "Tozeur",
+        "country": "Tunisia",
+        "lat": 33.9239001,
+        "lng": 8.1370639,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Al-Najaf FC",
+        "city": "Najaf",
+        "country": "Iraq",
+        "lat": 32.0010227,
+        "lng": 44.3299926,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "US Monastir",
+        "city": "Monastir",
+        "country": "Tunisia",
+        "lat": 35.7707582,
+        "lng": 10.8280511,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Dinamo Makhachkala",
+        "city": "Kaspiysk, Republic of Dagestan",
+        "country": "Russia",
+        "lat": 42.8921817,
+        "lng": 47.6372105,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Hazem_Mastouri"
+  },
+  {
+    "id": "ismael-gharbi",
+    "name": "Ismaël Gharbi",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Tunisian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Paris Saint-Germain",
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8534951,
+        "lng": 2.3483915,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Stade-Lausanne-Ouchy",
+        "city": "Lausanne",
+        "country": "Switzerland",
+        "lat": 46.5218269,
+        "lng": 6.6327025,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Paris Saint-Germain",
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8534951,
+        "lng": 2.3483915,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "SC Braga",
+        "city": "Braga",
+        "country": "Portugal",
+        "lat": 41.5510583,
+        "lng": -8.4280045,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Augsburg",
+        "city": "Augsburg",
+        "country": "Germany",
+        "lat": 48.3690341,
+        "lng": 10.8979522,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "SC Braga",
+        "city": "Braga",
+        "country": "Portugal",
+        "lat": 41.5510583,
+        "lng": -8.4280045,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Isma%C3%ABl_Gharbi"
+  },
+  {
+    "id": "khalil-ayari",
+    "name": "Khalil Ayari",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Tunisian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Stade Tunisien",
+        "city": "Le Bardo",
+        "country": "Tunisia",
+        "lat": 36.8139969,
+        "lng": 10.1363018,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Khalil_Ayari"
+  },
+  {
+    "id": "mohamed-amine-ben-hamida",
+    "name": "Mohamed Amine Ben Hamida",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Tunisian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Olympique Beja",
+        "city": "Beja",
+        "country": "Tunisia",
+        "lat": 36.7236755,
+        "lng": 9.185382,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "AS Soliman",
+        "city": "Soliman",
+        "country": "Tunisia",
+        "lat": 36.6944327,
+        "lng": 10.4865924,
+        "fromYear": 2017,
+        "toYear": 2019
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Amine_Ben_Hamida"
+  },
+  {
+    "id": "mohamed-belhadj-mahmoud",
+    "name": "Mohamed Belhadj Mahmoud",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Tunisian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Etoile Sportive du Sahel",
+        "city": "Sousse",
+        "country": "Tunisia",
+        "lat": 35.8288284,
+        "lng": 10.6405254,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Lugano",
+        "city": "Lugano",
+        "country": "Switzerland",
+        "lat": 46.0038007,
+        "lng": 8.9512275,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Belhadj_Mahmoud"
+  },
+  {
+    "id": "montassar-talbi",
+    "name": "Montassar Talbi",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Tunisian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Caykur Rizespor",
+        "city": "Merkez/RİZE",
+        "country": "Türkiye",
+        "lat": 41.0348622,
+        "lng": 40.5088943,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Benevento Calcio",
+        "city": "Benevento",
+        "country": "Italy",
+        "lat": 41.2476307,
+        "lng": 14.7057054,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Rubin Kazan",
+        "city": "Kazan",
+        "country": "Russia",
+        "lat": 55.7946485,
+        "lng": 49.1115022,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Lorient",
+        "city": "Lorient",
+        "country": "France",
+        "lat": 47.7477336,
+        "lng": -3.3660907,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Montassar_Talbi"
+  },
+  {
+    "id": "mortadha-ben-ouanes",
+    "name": "Mortadha Ben Ouanes",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Tunisian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Etoile Sportive du Sahel",
+        "city": "Sousse",
+        "country": "Tunisia",
+        "lat": 35.8288284,
+        "lng": 10.6405254,
+        "fromYear": 2012,
+        "toYear": 2015
+      },
+      {
+        "clubName": "US Monastir",
+        "city": "Monastir",
+        "country": "Tunisia",
+        "lat": 35.7707582,
+        "lng": 10.8280511,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Etoile Sportive du Sahel",
+        "city": "Sousse",
+        "country": "Tunisia",
+        "lat": 35.8288284,
+        "lng": 10.6405254,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Club Athlétique Bizertin",
+        "city": "Bizerta",
+        "country": "Tunisia",
+        "lat": 37.2720905,
+        "lng": 9.8708565,
+        "fromYear": 2015,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Etoile Sportive du Sahel",
+        "city": "Sousse",
+        "country": "Tunisia",
+        "lat": 35.8288284,
+        "lng": 10.6405254,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Kasimpasa",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.006381,
+        "lng": 28.9758715,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mortadha_Ben_Ouanes"
+  },
+  {
+    "id": "moutaz-neffati",
+    "name": "Moutaz Neffati",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Tunisian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "IFK Norrköping",
+        "city": "Norrköping",
+        "country": "Sweden",
+        "lat": 58.5909124,
+        "lng": 16.1903511,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "IF Sylvia (1922 - 2025)",
+        "city": "Norrköping",
+        "country": "Sweden",
+        "lat": 58.5909124,
+        "lng": 16.1903511,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "IFK Norrköping",
+        "city": "Norrköping",
+        "country": "Sweden",
+        "lat": 58.5909124,
+        "lng": 16.1903511,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "KR Reykjavík",
+        "city": "Reykjavík",
+        "country": "Iceland",
+        "lat": 64.145981,
+        "lng": -21.9422367,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Moutaz_Neffati"
+  },
+  {
+    "id": "omar-rekik",
+    "name": "Omar Rekik",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Tunisian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Hertha BSC II",
+        "city": "Berlin",
+        "country": "Germany",
+        "lat": 52.5173885,
+        "lng": 13.3951309,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Sparta Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Wigan Athletic",
+        "city": "Wigan",
+        "country": "England",
+        "lat": 53.546215,
+        "lng": -2.6319112,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Servette FC",
+        "city": "Carouge",
+        "country": "Switzerland",
+        "lat": 46.1846691,
+        "lng": 6.1396839,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "NK Maribor",
+        "city": "Maribor",
+        "country": "Slovenia",
+        "lat": 46.5576439,
+        "lng": 15.6455854,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Omar_Rekik"
+  },
+  {
+    "id": "raed-chikhaoui",
+    "name": "Raed Chikhaoui",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Tunisian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "ES Hammam Sousse",
+        "city": "Hammam Sousse",
+        "country": "Tunisia",
+        "lat": 35.8749788,
+        "lng": 10.5935183,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "US Monastir",
+        "city": "Monastir",
+        "country": "Tunisia",
+        "lat": 35.7707582,
+        "lng": 10.8280511,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Raed_Chikhaoui"
+  },
+  {
+    "id": "rani-khedira",
+    "name": "Rani Khedira",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Tunisian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "VfB Stuttgart II",
+        "city": "Stuttgart",
+        "country": "Germany",
+        "lat": 48.7784485,
+        "lng": 9.1800132,
+        "fromYear": 2012,
+        "toYear": 2012
+      },
+      {
+        "clubName": "VfB Stuttgart",
+        "city": "Stuttgart",
+        "country": "Germany",
+        "lat": 48.7784485,
+        "lng": 9.1800132,
+        "fromYear": 2012,
+        "toYear": 2014
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2014,
+        "toYear": 2017
+      },
+      {
+        "clubName": "FC Augsburg",
+        "city": "Augsburg",
+        "country": "Germany",
+        "lat": 48.3690341,
+        "lng": 10.8979522,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "1.FC Union Berlin",
+        "city": "Berlin",
+        "country": "Germany",
+        "lat": 52.5173885,
+        "lng": 13.3951309,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Rani_Khedira"
+  },
+  {
+    "id": "rayan-elloumi",
+    "name": "Rayan Elloumi",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Tunisian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Whitecaps FC 2",
+        "city": "Vancouver, British Columbia",
+        "country": "Canada",
+        "lat": 49.2608724,
+        "lng": -123.113952,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Vancouver Whitecaps FC",
+        "city": "Vancouver, British Columbia",
+        "country": "Canada",
+        "lat": 49.2608724,
+        "lng": -123.113952,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Rayan_Elloumi"
+  },
+  {
+    "id": "sabri-ben-hessen",
+    "name": "Sabri Ben Hessen",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Tunisian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "CS Sfaxien",
+        "city": "Sfax",
+        "country": "Tunisia",
+        "lat": 34.7394361,
+        "lng": 10.7604024,
+        "fromYear": 2013,
+        "toYear": 2018
+      },
+      {
+        "clubName": "CS Hammam-Lif",
+        "city": "Hammam-Lif",
+        "country": "Tunisia",
+        "lat": 36.7313788,
+        "lng": 10.3363985,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "CS Sfaxien",
+        "city": "Sfax",
+        "country": "Tunisia",
+        "lat": 34.7394361,
+        "lng": 10.7604024,
+        "fromYear": 2018,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Etoile Sportive du Sahel",
+        "city": "Sousse",
+        "country": "Tunisia",
+        "lat": 35.8288284,
+        "lng": 10.6405254,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Sabri_Ben_Hessen"
+  },
+  {
+    "id": "sebastian-tounekti",
+    "name": "Sebastian Tounekti",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Tunisian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Tromsdalen UIL",
+        "city": "Tromsø",
+        "country": "Norway",
+        "lat": 69.6516345,
+        "lng": 18.9558585,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FK Bodø/Glimt",
+        "city": "Bodø",
+        "country": "Norway",
+        "lat": 67.2844313,
+        "lng": 14.3817503,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Groningen",
+        "city": "Groningen",
+        "country": "Netherlands",
+        "lat": 53.2190652,
+        "lng": 6.5680077,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FK Bodø/Glimt",
+        "city": "Bodø",
+        "country": "Norway",
+        "lat": 67.2844313,
+        "lng": 14.3817503,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FK Haugesund",
+        "city": "Haugesund",
+        "country": "Norway",
+        "lat": 59.4682479,
+        "lng": 5.0827612,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Ranheim IL",
+        "city": "Ranheim",
+        "country": "Norway",
+        "lat": 63.4274654,
+        "lng": 10.5300119,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FK Haugesund",
+        "city": "Haugesund",
+        "country": "Norway",
+        "lat": 59.4682479,
+        "lng": 5.0827612,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Celtic FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Hammarby IF",
+        "city": "Årsta",
+        "country": "Sweden",
+        "lat": 59.2964776,
+        "lng": 18.0528626,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Sebastian_Tounekti"
+  },
+  {
+    "id": "yan-valery",
+    "name": "Yan Valery",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Tunisian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Southampton FC",
+        "city": "Southampton",
+        "country": "England",
+        "lat": 50.9025349,
+        "lng": -1.404189,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Birmingham City",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Southampton FC",
+        "city": "Southampton",
+        "country": "England",
+        "lat": 50.9025349,
+        "lng": -1.404189,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Angers SCO",
+        "city": "Angers",
+        "country": "France",
+        "lat": 47.4739884,
+        "lng": -0.5515588,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Sheffield Wednesday",
+        "city": "Sheffield",
+        "country": "England",
+        "lat": 53.3806626,
+        "lng": -1.4702278,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "BSC Young Boys",
+        "city": "Bern",
+        "country": "Switzerland",
+        "lat": 46.9484742,
+        "lng": 7.4521749,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Yan_Valery"
+  }
+]

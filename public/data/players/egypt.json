@@ -1,0 +1,1646 @@
+[
+  {
+    "id": "ahmed-fatouh",
+    "name": "Ahmed Fatouh",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Egyptian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Enppi SC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Zamalek SC",
+        "city": "Giza",
+        "country": "Egypt",
+        "lat": 29.9870753,
+        "lng": 31.2118063,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Smouha SC",
+        "city": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.1991806,
+        "lng": 29.8951716,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Zamalek SC",
+        "city": "Giza",
+        "country": "Egypt",
+        "lat": 29.9870753,
+        "lng": 31.2118063,
+        "fromYear": 2020,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_Fatouh"
+  },
+  {
+    "id": "el-mahdi-soliman",
+    "name": "El Mahdi Soliman",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Egyptian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Enppi SC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2008,
+        "toYear": 2011
+      },
+      {
+        "clubName": "El Mokawloon SC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2011,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Petrojet",
+        "city": "Suez",
+        "country": "Egypt",
+        "lat": 29.974498,
+        "lng": 32.537086,
+        "fromYear": 2011,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Enppi SC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2011,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Petrojet",
+        "city": "Suez",
+        "country": "Egypt",
+        "lat": 29.974498,
+        "lng": 32.537086,
+        "fromYear": 2012,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Enppi SC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Ghazl El Mahalla",
+        "city": "El Mahalla El Kubra",
+        "country": "Egypt",
+        "lat": 30.9723517,
+        "lng": 31.1683002,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Smouha SC",
+        "city": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.1991806,
+        "lng": 29.8951716,
+        "fromYear": 2014,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Pyramids FC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Ittihad Alexandria SC",
+        "city": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.1991806,
+        "lng": 29.8951716,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Zamalek SC",
+        "city": "Giza",
+        "country": "Egypt",
+        "lat": 29.9870753,
+        "lng": 31.2118063,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/El_Mahdi_Soliman"
+  },
+  {
+    "id": "emam-ashour",
+    "name": "Emam Ashour",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Egyptian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Ghazl El Mahalla",
+        "city": "El Mahalla El Kubra",
+        "country": "Egypt",
+        "lat": 30.9723517,
+        "lng": 31.1683002,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Harras El Hodoud",
+        "city": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.1991806,
+        "lng": 29.8951716,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Zamalek SC",
+        "city": "Giza",
+        "country": "Egypt",
+        "lat": 29.9870753,
+        "lng": 31.2118063,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Ghazl El Mahalla",
+        "city": "El Mahalla El Kubra",
+        "country": "Egypt",
+        "lat": 30.9723517,
+        "lng": 31.1683002,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Midtjylland",
+        "city": "Herning",
+        "country": "Denmark",
+        "lat": 56.1379757,
+        "lng": 8.9746623,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al Ahly FC",
+        "city": "Cairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Emam_Ashour"
+  },
+  {
+    "id": "haissem-hassan",
+    "name": "Haissem Hassan",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Egyptian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "LB Châteauroux B",
+        "city": "Châteauroux",
+        "country": "France",
+        "lat": 46.8203785,
+        "lng": 1.6770956,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "LB Châteauroux",
+        "city": "Châteauroux",
+        "country": "France",
+        "lat": 46.8203785,
+        "lng": 1.6770956,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Villarreal CF B",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "CD Mirandés",
+        "city": "Miranda de Ebro",
+        "country": "Spain",
+        "lat": 42.6800943,
+        "lng": -2.9747229,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Villarreal CF B",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Villarreal CF",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Sporting Gijón",
+        "city": "Leorio - Gijón (Asturias)",
+        "country": "Spain",
+        "lat": 43.4765996,
+        "lng": -5.6845375,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Villarreal CF",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Real Oviedo",
+        "city": "Oviedo",
+        "country": "Spain",
+        "lat": 43.3533452,
+        "lng": -5.8795096,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Haissem_Hassan"
+  },
+  {
+    "id": "hamdy-fathy",
+    "name": "Hamdy Fathy",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Egyptian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Ala'ab Damanhour",
+        "city": "Damanhour",
+        "country": "Egypt",
+        "lat": 31.0374982,
+        "lng": 30.4710625,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Enppi SC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Petrojet",
+        "city": "Suez",
+        "country": "Egypt",
+        "lat": 29.974498,
+        "lng": 32.537086,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Enppi SC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Al Ahly FC",
+        "city": "Cairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Wakrah SC",
+        "city": "Al-Wakra",
+        "country": "Qatar",
+        "lat": 25.0037453,
+        "lng": 51.4103338,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al Ahly FC",
+        "city": "Cairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Wakrah SC",
+        "city": "Al-Wakra",
+        "country": "Qatar",
+        "lat": 25.0037453,
+        "lng": 51.4103338,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Hamdy_Fathy"
+  },
+  {
+    "id": "hamza-abdelkarim",
+    "name": "Hamza Abdelkarim",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Egyptian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Al Ahly FC",
+        "city": "Cairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "FC Barcelona Atlètic",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Al Ahly FC",
+        "city": "Cairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Hamza_Abdelkarim"
+  },
+  {
+    "id": "hossam-abdelmaguid",
+    "name": "Hossam Abdelmaguid",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Egyptian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Zamalek SC",
+        "city": "Giza",
+        "country": "Egypt",
+        "lat": 29.9870753,
+        "lng": 31.2118063,
+        "fromYear": 2019,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Hossam_Abdelmaguid"
+  },
+  {
+    "id": "ibrahim-adel",
+    "name": "Ibrahim Adel",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Egyptian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "El Mareekh SC",
+        "city": "Port Said",
+        "country": "Egypt",
+        "lat": 31.263235,
+        "lng": 32.305505,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Pyramids FC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2019,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Jazira Club",
+        "city": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "lat": 24.4538352,
+        "lng": 54.3774014,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "FC Nordsjaelland",
+        "city": "Farum",
+        "country": "Denmark",
+        "lat": 55.8101232,
+        "lng": 12.3702505,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Al-Jazira Club",
+        "city": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "lat": 24.4538352,
+        "lng": 54.3774014,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibrahim_Adel"
+  },
+  {
+    "id": "karim-hafez",
+    "name": "Karim Hafez",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Egyptian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Lierse SK (-2018)",
+        "city": "Lier",
+        "country": "Belgium",
+        "lat": 51.131069,
+        "lng": 4.5696516,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Omonia Nicosia",
+        "city": "Nicosia",
+        "country": "Cyprus",
+        "lat": 35.1746503,
+        "lng": 33.3638783,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Lierse SK (-2018)",
+        "city": "Lier",
+        "country": "Belgium",
+        "lat": 51.131069,
+        "lng": 4.5696516,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "RC Lens",
+        "city": "Avion",
+        "country": "France",
+        "lat": 50.4126128,
+        "lng": 2.8343891,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Lierse SK (-2018)",
+        "city": "Lier",
+        "country": "Belgium",
+        "lat": 51.131069,
+        "lng": 4.5696516,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "RC Lens",
+        "city": "Avion",
+        "country": "France",
+        "lat": 50.4126128,
+        "lng": 2.8343891,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Wadi Degla FC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Lierse SK (-2018)",
+        "city": "Lier",
+        "country": "Belgium",
+        "lat": 51.131069,
+        "lng": 4.5696516,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Basaksehir FK",
+        "city": "Istanbul",
+        "country": "Türkiye",
+        "lat": 41.006381,
+        "lng": 28.9758715,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Kasimpasa",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.006381,
+        "lng": 28.9758715,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Wadi Degla FC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Kasimpasa",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.006381,
+        "lng": 28.9758715,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Wadi Degla FC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Yeni Malatyaspor",
+        "city": "Malatya",
+        "country": "Türkiye",
+        "lat": 38.3487153,
+        "lng": 38.3190674,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Wadi Degla FC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Yeni Malatyaspor",
+        "city": "Malatya",
+        "country": "Türkiye",
+        "lat": 38.3487153,
+        "lng": 38.3190674,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Pyramids FC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Karim_Hafez"
+  },
+  {
+    "id": "mahmoud-saber",
+    "name": "Mahmoud Saber",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Egyptian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Nogoom FC",
+        "city": "Of October",
+        "country": "Egypt",
+        "lat": 29.9155404,
+        "lng": 30.8771588,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Pyramids FC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Nogoom FC",
+        "city": "Of October",
+        "country": "Egypt",
+        "lat": 29.9155404,
+        "lng": 30.8771588,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Pyramids FC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Zed FC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Pyramids FC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Smouha SC",
+        "city": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.1991806,
+        "lng": 29.8951716,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Zed FC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Pyramids FC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahmoud_Saber"
+  },
+  {
+    "id": "marwan-ateya",
+    "name": "Marwan Ateya",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Egyptian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Ittihad Alexandria SC",
+        "city": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.1991806,
+        "lng": 29.8951716,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al Ahly FC",
+        "city": "Cairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marwan_Ateya"
+  },
+  {
+    "id": "mohamed-abdelmonem",
+    "name": "Mohamed Abdelmonem",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Egyptian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Smouha SC",
+        "city": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.1991806,
+        "lng": 29.8951716,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Al Ahly FC",
+        "city": "Cairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "OGC Nice",
+        "city": "Nice",
+        "country": "France",
+        "lat": 43.7009358,
+        "lng": 7.2683912,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Abdelmonem"
+  },
+  {
+    "id": "mohamed-alaa",
+    "name": "Mohamed Alaa",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Egyptian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Qanah FC",
+        "city": "Ismailia",
+        "country": "Egypt",
+        "lat": 30.6043775,
+        "lng": 32.2770825,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "El Gouna FC",
+        "city": "El Gouna",
+        "country": "Egypt",
+        "lat": 27.3989266,
+        "lng": 33.6741556,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Alaa"
+  },
+  {
+    "id": "mohamed-el-shenawy",
+    "name": "Mohamed El Shenawy",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Egyptian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Tala'ea El Gaish",
+        "city": "Cairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2009,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Harras El Hodoud",
+        "city": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.1991806,
+        "lng": 29.8951716,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Tala'ea El Gaish",
+        "city": "Cairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Petrojet",
+        "city": "Suez",
+        "country": "Egypt",
+        "lat": 29.974498,
+        "lng": 32.537086,
+        "fromYear": 2013,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Al Ahly FC",
+        "city": "Cairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2016,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_El_Shenawy"
+  },
+  {
+    "id": "mohamed-hany",
+    "name": "Mohamed Hany",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Egyptian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Al Ahly FC",
+        "city": "Cairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2015,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Hany"
+  },
+  {
+    "id": "mohamed-salah",
+    "name": "Mohamed Salah",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Egyptian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "El Mokawloon SC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2010,
+        "toYear": 2012
+      },
+      {
+        "clubName": "FC Basel 1893",
+        "city": "Basel",
+        "country": "Switzerland",
+        "lat": 47.5581077,
+        "lng": 7.5878261,
+        "fromYear": 2012,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "ACF Fiorentina",
+        "city": "Firenze",
+        "country": "Italy",
+        "lat": 43.7697955,
+        "lng": 11.2556404,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Liverpool FC",
+        "city": "Liverpool",
+        "country": "England",
+        "lat": 53.3933411,
+        "lng": -2.9166389,
+        "fromYear": 2017,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Salah"
+  },
+  {
+    "id": "mohanad-lasheen",
+    "name": "Mohanad Lasheen",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Egyptian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Pyramids FC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Tala'ea El Gaish",
+        "city": "Cairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Pyramids FC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohanad_Lasheen"
+  },
+  {
+    "id": "mostafa-ziko",
+    "name": "Mostafa Ziko",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Egyptian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Harras El Hodoud",
+        "city": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.1991806,
+        "lng": 29.8951716,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Zed FC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Pyramids FC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mostafa_Ziko"
+  },
+  {
+    "id": "nabil-dunga",
+    "name": "Nabil Dunga",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Egyptian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Pyramids FC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2016,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Zamalek SC",
+        "city": "Giza",
+        "country": "Egypt",
+        "lat": 29.9870753,
+        "lng": 31.2118063,
+        "fromYear": 2022,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Al-Najma SC",
+        "city": "Unaizah",
+        "country": "Saudi Arabia",
+        "lat": 26.0908582,
+        "lng": 43.9864354,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nabil_Dunga"
+  },
+  {
+    "id": "omar-marmoush",
+    "name": "Omar Marmoush",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Egyptian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Wadi Degla FC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "VfL Wolfsburg II (- 2021)",
+        "city": "Wolfsburg",
+        "country": "Germany",
+        "lat": 52.4205588,
+        "lng": 10.7861682,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "VfL Wolfsburg",
+        "city": "Wolfsburg",
+        "country": "Germany",
+        "lat": 52.4205588,
+        "lng": 10.7861682,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC St. Pauli",
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.5501721,
+        "lng": 10.0013165,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "VfL Wolfsburg",
+        "city": "Wolfsburg",
+        "country": "Germany",
+        "lat": 52.4205588,
+        "lng": 10.7861682,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "VfB Stuttgart",
+        "city": "Stuttgart",
+        "country": "Germany",
+        "lat": 48.7784485,
+        "lng": 9.1800132,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "VfL Wolfsburg",
+        "city": "Wolfsburg",
+        "country": "Germany",
+        "lat": 52.4205588,
+        "lng": 10.7861682,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Omar_Marmoush"
+  },
+  {
+    "id": "oufa-shobeir",
+    "name": "Oufa Shobeir",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Egyptian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Al Ahly FC",
+        "city": "Cairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2019,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Oufa_Shobeir"
+  },
+  {
+    "id": "ramy-rabia",
+    "name": "Ramy Rabia",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Egyptian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Al Ahly FC",
+        "city": "Cairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2011,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Sporting CP B",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Al Ahly FC",
+        "city": "Cairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2015,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Ain FC",
+        "city": "Al-Ain, Abu Dhabi",
+        "country": "United Arab Emirates",
+        "lat": 24.2248697,
+        "lng": 55.7452211,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ramy_Rabia"
+  },
+  {
+    "id": "tarek-alaa",
+    "name": "Tarek Alaa",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Egyptian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Smouha SC",
+        "city": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.1991806,
+        "lng": 29.8951716,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Pyramids FC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Zed FC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Pyramids FC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tarek_Alaa"
+  },
+  {
+    "id": "trezeguet",
+    "name": "Trezeguet",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Egyptian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Al Ahly FC",
+        "city": "Cairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2012,
+        "toYear": 2015
+      },
+      {
+        "clubName": "RSC Anderlecht",
+        "city": "Anderlecht (Brüssel)",
+        "country": "Belgium",
+        "lat": 50.841868,
+        "lng": 4.3375643,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Al Ahly FC",
+        "city": "Cairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Royal Excel Mouscron (-2022)",
+        "city": "Mouscron",
+        "country": "Belgium",
+        "lat": 50.7436672,
+        "lng": 3.2142729,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Kasimpasa",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.006381,
+        "lng": 28.9758715,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "RSC Anderlecht",
+        "city": "Anderlecht (Brüssel)",
+        "country": "Belgium",
+        "lat": 50.841868,
+        "lng": 4.3375643,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Kasimpasa",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "lat": 41.006381,
+        "lng": 28.9758715,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "RSC Anderlecht",
+        "city": "Anderlecht (Brüssel)",
+        "country": "Belgium",
+        "lat": 50.841868,
+        "lng": 4.3375643,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Aston Villa",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Trabzonspor",
+        "city": "Trabzon",
+        "country": "Türkiye",
+        "lat": 41.0054605,
+        "lng": 39.7301463,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Aston Villa",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Basaksehir FK",
+        "city": "Istanbul",
+        "country": "Türkiye",
+        "lat": 41.006381,
+        "lng": 28.9758715,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Rayyan SC",
+        "city": "Al-Rayyan",
+        "country": "Qatar",
+        "lat": 25.0819602,
+        "lng": 51.158416,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al Ahly FC",
+        "city": "Cairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Trabzonspor",
+        "city": "Trabzon",
+        "country": "Türkiye",
+        "lat": 41.0054605,
+        "lng": 39.7301463,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Trezeguet"
+  },
+  {
+    "id": "yasser-ibrahim",
+    "name": "Yasser Ibrahim",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Egyptian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Mansoura SC",
+        "city": "Mansoura",
+        "country": "Egypt",
+        "lat": 31.0407773,
+        "lng": 31.3581295,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Zamalek SC",
+        "city": "Giza",
+        "country": "Egypt",
+        "lat": 29.9870753,
+        "lng": 31.2118063,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Smouha SC",
+        "city": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.1991806,
+        "lng": 29.8951716,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Zamalek SC",
+        "city": "Giza",
+        "country": "Egypt",
+        "lat": 29.9870753,
+        "lng": 31.2118063,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Al Ahly FC",
+        "city": "Cairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2019,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Yasser_Ibrahim"
+  },
+  {
+    "id": "zizo",
+    "name": "Zizo",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Egyptian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Lierse SK (-2018)",
+        "city": "Lier",
+        "country": "Belgium",
+        "lat": 51.131069,
+        "lng": 4.5696516,
+        "fromYear": 2014,
+        "toYear": 2017
+      },
+      {
+        "clubName": "CD Nacional",
+        "city": "Funchal",
+        "country": "Portugal",
+        "lat": 32.6496497,
+        "lng": -16.9086783,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Lierse SK (-2018)",
+        "city": "Lier",
+        "country": "Belgium",
+        "lat": 51.131069,
+        "lng": 4.5696516,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Moreirense FC",
+        "city": "Moreira de Cónegos - Guimarães",
+        "country": "Portugal",
+        "lat": 41.3814913,
+        "lng": -8.3361532,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Zamalek SC",
+        "city": "Giza",
+        "country": "Egypt",
+        "lat": 29.9870753,
+        "lng": 31.2118063,
+        "fromYear": 2019,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al Ahly FC",
+        "city": "Cairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Zizo"
+  }
+]

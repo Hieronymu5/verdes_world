@@ -1,10 +1,16 @@
-import { ChangeDetectionStrategy, Component, computed, inject, OnInit, signal } from '@angular/core';
+import {
+  ChangeDetectionStrategy,
+  Component,
+  computed,
+  inject,
+  OnInit,
+  signal,
+} from '@angular/core';
 import { RouterLink } from '@angular/router';
 import { geoGraticule, geoNaturalEarth1, geoPath, GeoPath, GeoProjection } from 'd3-geo';
 import type { Feature, FeatureCollection, Geometry, LineString } from 'geojson';
 import { feature, mesh } from 'topojson-client';
 import type { GeometryCollection, Topology } from 'topojson-specification';
-import { ensureVisibleAccent } from '../geo-guesser/color-utils';
 import { GeoGuesserDataService } from '../geo-guesser/geo-guesser-data.service';
 import { ClubStop, Player } from '../geo-guesser/geo-guesser.models';
 
@@ -19,24 +25,17 @@ interface ReportDot {
   x: number;
   y: number;
   highlight: boolean;
-}
-
-interface TeamOption {
-  id: string;
-  name: string;
-  filename: string;
-  city: string;
-  country: string;
-  lat: number;
-  lng: number;
-  colors: string[];
-  clubId: string;
-  playerCount: number;
+  radius: number;
+  /** Inline fill for team-map dots — a gradient from the line color (first club) to white (most recent). Null elsewhere. */
+  fill: string | null;
 }
 
 const MAP_W = 960;
 const MAP_H = 500;
 const MIN_GAMES_OPTIONS = [20, 10, 5, -1] as const;
+
+const DOT_RADIUS_HIGHLIGHT = 2.8;
+const DOT_RADIUS_DEFAULT = 1.8;
 
 @Component({
   selector: 'app-report',
@@ -57,12 +56,6 @@ export class ReportComponent implements OnInit {
 
   readonly selectedMinGames = signal<number>(-1);
   readonly selectedYears = signal<Set<number>>(new Set<number>());
-
-  readonly teams = signal<TeamOption[]>([]);
-  readonly selectedTeamId = signal<string | null>(null);
-  readonly teamPlayersLoading = signal(false);
-  readonly teamError = signal<string | null>(null);
-  private readonly _teamPlayers = signal<Player[] | null>(null);
 
   readonly landPath = signal('');
   readonly bordersPath = signal('');
@@ -110,18 +103,7 @@ export class ReportComponent implements OnInit {
     });
   });
 
-  readonly selectedTeam = computed(
-    () => this.teams().find((team) => team.id === this.selectedTeamId()) ?? null,
-  );
-
-  readonly teamAccentColor = computed(() => {
-    const primary = this.selectedTeam()?.colors[0];
-    return primary ? ensureVisibleAccent(primary) : null;
-  });
-
-  readonly activePlayers = computed(() =>
-    this.selectedTeam() ? (this._teamPlayers() ?? []) : this.filteredPlayers(),
-  );
+  readonly activePlayers = this.filteredPlayers;
 
   private readonly _reportGeometry = computed(() => {
     const projection = this._projection();
@@ -130,7 +112,6 @@ export class ReportComponent implements OnInit {
       return { lines: [] as ReportLine[], dots: [] as ReportDot[] };
     }
 
-    const team = this.selectedTeam();
     const lines: ReportLine[] = [];
     const dots: ReportDot[] = [];
 
@@ -140,12 +121,16 @@ export class ReportComponent implements OnInit {
         return { x, y, club, index };
       });
 
+      const lastIndex = positions.length - 1;
       for (const position of positions) {
+        const highlight = this.isAustin(position.club);
         dots.push({
           key: `${player.id}-${position.club.clubName}-${position.club.fromYear}-${position.club.toYear}-${position.index}`,
           x: position.x,
           y: position.y,
-          highlight: team ? true : this.isAustin(position.club),
+          highlight,
+          radius: highlight ? DOT_RADIUS_HIGHLIGHT : DOT_RADIUS_DEFAULT,
+          fill: null,
         });
       }
 
@@ -166,7 +151,7 @@ export class ReportComponent implements OnInit {
         lines.push({
           key: `${player.id}-${cur.club.clubName}-${next.club.clubName}-${i}`,
           d,
-          highlight: team ? true : this.isAustin(cur.club) || this.isAustin(next.club),
+          highlight: this.isAustin(cur.club) || this.isAustin(next.club),
         });
       }
     }
@@ -178,36 +163,12 @@ export class ReportComponent implements OnInit {
   readonly reportDots = computed(() => this._reportGeometry().dots);
 
   async ngOnInit(): Promise<void> {
-    await Promise.all([this.loadData(), this.loadMapData(), this.loadTeams()]);
+    await Promise.all([this.loadData(), this.loadMapData()]);
     this.selectAllYears();
   }
 
   selectMinGames(minGames: number): void {
     this.selectedMinGames.set(minGames);
-  }
-
-  async selectTeam(teamId: string | null): Promise<void> {
-    if (teamId === this.selectedTeamId()) return;
-
-    this.selectedTeamId.set(teamId);
-    this.teamError.set(null);
-    this._teamPlayers.set(null);
-    if (teamId === null) return;
-
-    const team = this.teams().find((t) => t.id === teamId);
-    if (!team) return;
-
-    this.teamPlayersLoading.set(true);
-    try {
-      const response = await fetch(`/data/${team.filename}`);
-      if (!response.ok) throw new Error(`Failed to fetch roster for ${team.name}`);
-      const players = (await response.json()) as Player[];
-      this._teamPlayers.set(players);
-    } catch (err) {
-      this.teamError.set(err instanceof Error ? err.message : `Failed to load ${team.name} roster`);
-    } finally {
-      this.teamPlayersLoading.set(false);
-    }
   }
 
   onYearToggle(year: number, event: Event): void {
@@ -239,27 +200,17 @@ export class ReportComponent implements OnInit {
     }
   }
 
-  private async loadTeams(): Promise<void> {
-    try {
-      const response = await fetch('/data/teams.json');
-      if (!response.ok) return;
-      const teams = (await response.json()) as TeamOption[];
-      this.teams.set(teams);
-    } catch {
-      // team selector is an optional enhancement; ignore load failures
-    }
-  }
-
   private async loadMapData(): Promise<void> {
     const topo = await fetch('/data/world-110m.json').then(
       (response) =>
-        response.json() as Promise<Topology<{ countries: GeometryCollection; land: GeometryCollection }>>,
+        response.json() as Promise<
+          Topology<{ countries: GeometryCollection; land: GeometryCollection }>
+        >,
     );
 
-    const projection = geoNaturalEarth1().fitSize(
-      [MAP_W, MAP_H],
-      { type: 'Sphere' } as unknown as Feature<Geometry>,
-    );
+    const projection = geoNaturalEarth1().fitSize([MAP_W, MAP_H], {
+      type: 'Sphere',
+    } as unknown as Feature<Geometry>);
     const pathGenerator = geoPath(projection);
 
     this._projection.set(projection);

@@ -1,0 +1,1646 @@
+[
+  {
+    "id": "ar-jany-martha",
+    "name": "Ar'jany Martha",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "curacaoan",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Beerschot VA",
+        "city": "Antwerpen-Kiel",
+        "country": "Belgium",
+        "lat": 51.1895013,
+        "lng": 4.379055,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Rotherham United",
+        "city": "Rotherham",
+        "country": "England",
+        "lat": 53.4310417,
+        "lng": -1.355187,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ar%27jany_Martha"
+  },
+  {
+    "id": "armando-obispo",
+    "name": "Armando Obispo",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "curacaoan",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Vitesse Arnhem",
+        "city": "Arnhem",
+        "country": "Netherlands",
+        "lat": 51.984257,
+        "lng": 5.9108573,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2020,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Armando_Obispo"
+  },
+  {
+    "id": "brandley-kuwas",
+    "name": "Brandley Kuwas",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "curacaoan",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "KFC Koog aan de Zaan",
+        "city": "Koog aan de Zaan",
+        "country": "Netherlands",
+        "lat": 52.4620521,
+        "lng": 4.8071394,
+        "fromYear": 2009,
+        "toYear": 2012
+      },
+      {
+        "clubName": "FC Volendam",
+        "city": "Volendam",
+        "country": "Netherlands",
+        "lat": 52.4963759,
+        "lng": 5.0682736,
+        "fromYear": 2012,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Excelsior Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Heracles Almelo",
+        "city": "Almelo",
+        "country": "Netherlands",
+        "lat": 52.3563585,
+        "lng": 6.6636219,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Al-Nasr SC (UAE)",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "lat": 25.0742823,
+        "lng": 55.1885387,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Al-Jazira Club",
+        "city": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "lat": 24.4538352,
+        "lng": 54.3774014,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Al-Nasr SC (UAE)",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "lat": 25.0742823,
+        "lng": 55.1885387,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Maccabi Tel Aviv",
+        "city": "Tel-Aviv",
+        "country": "Israel",
+        "lat": 32.0852997,
+        "lng": 34.7818064,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Giresunspor",
+        "city": "Giresun",
+        "country": "Türkiye",
+        "lat": 40.6531617,
+        "lng": 38.5172032,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Volendam",
+        "city": "Volendam",
+        "country": "Netherlands",
+        "lat": 52.4963759,
+        "lng": 5.0682736,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Brandley_Kuwas"
+  },
+  {
+    "id": "deveron-fonville",
+    "name": "Deveron Fonville",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "curacaoan",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "USV Hercules Utrecht",
+        "city": "Utrecht",
+        "country": "Netherlands",
+        "lat": 52.0907006,
+        "lng": 5.1215634,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "VV IJsselmeervogels",
+        "city": "Bunschoten-Spakenburg",
+        "country": "Netherlands",
+        "lat": 52.2452013,
+        "lng": 5.3731599,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Dordrecht",
+        "city": "Dordrecht",
+        "country": "Netherlands",
+        "lat": 51.7689546,
+        "lng": 4.6867891,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "NEC Nijmegen",
+        "city": "Nijmegen",
+        "country": "Netherlands",
+        "lat": 51.8474946,
+        "lng": 5.8637771,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Deveron_Fonville"
+  },
+  {
+    "id": "eloy-room",
+    "name": "Eloy Room",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "curacaoan",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Vitesse Arnhem",
+        "city": "Arnhem",
+        "country": "Netherlands",
+        "lat": 51.984257,
+        "lng": 5.9108573,
+        "fromYear": 2008,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Go Ahead Eagles",
+        "city": "Deventer",
+        "country": "Netherlands",
+        "lat": 52.2694897,
+        "lng": 6.2364886,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Vitesse Arnhem",
+        "city": "Arnhem",
+        "country": "Netherlands",
+        "lat": 51.984257,
+        "lng": 5.9108573,
+        "fromYear": 2014,
+        "toYear": 2017
+      },
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Columbus Crew",
+        "city": "Columbus",
+        "country": "United States",
+        "lat": 39.9622601,
+        "lng": -83.0007065,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Vitesse Arnhem",
+        "city": "Arnhem",
+        "country": "Netherlands",
+        "lat": 51.984257,
+        "lng": 5.9108573,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Cercle Brugge",
+        "city": "Brügge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Miami FC",
+        "city": "Miami, Florida",
+        "country": "United States",
+        "lat": 25.7741566,
+        "lng": -80.1935973,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eloy_Room"
+  },
+  {
+    "id": "gervane-kastaneer",
+    "name": "Gervane Kastaneer",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "curacaoan",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "FC Dordrecht",
+        "city": "Dordrecht",
+        "country": "Netherlands",
+        "lat": 51.7689546,
+        "lng": 4.6867891,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "ADO Den Haag",
+        "city": "Den Haag",
+        "country": "Netherlands",
+        "lat": 52.0799838,
+        "lng": 4.3113461,
+        "fromYear": 2013,
+        "toYear": 2016
+      },
+      {
+        "clubName": "FC Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "ADO Den Haag",
+        "city": "Den Haag",
+        "country": "Netherlands",
+        "lat": 52.0799838,
+        "lng": 4.3113461,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "1.FC Kaiserslautern",
+        "city": "Kaiserslautern",
+        "country": "Germany",
+        "lat": 49.4432174,
+        "lng": 7.7689951,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "NAC Breda",
+        "city": "Breda",
+        "country": "Netherlands",
+        "lat": 51.5887845,
+        "lng": 4.7760237,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Coventry City",
+        "city": "Coventry",
+        "country": "England",
+        "lat": 52.4081812,
+        "lng": -1.510477,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Heart of Midlothian FC",
+        "city": "Edinburgh",
+        "country": "Scotland",
+        "lat": 55.9533456,
+        "lng": -3.1883749,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Coventry City",
+        "city": "Coventry",
+        "country": "England",
+        "lat": 52.4081812,
+        "lng": -1.510477,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "PEC Zwolle",
+        "city": "Zwolle",
+        "country": "Netherlands",
+        "lat": 52.5089759,
+        "lng": 6.0943765,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "CD Castellón",
+        "city": "Castellón de la Plana",
+        "country": "Spain",
+        "lat": 39.9860347,
+        "lng": -0.0377354,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "PERSIB Bandung",
+        "city": "Bandung",
+        "country": "Indonesia",
+        "lat": -6.9218457,
+        "lng": 107.6070833,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "PERSIS Solo",
+        "city": "Surakarta (Solo)",
+        "country": "Indonesia",
+        "lat": -7.5815339,
+        "lng": 110.8218905,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Terengganu FC",
+        "city": "Kuala Nerus, Terengganu",
+        "country": "Malaysia",
+        "lat": 5.3957398,
+        "lng": 103.0615343,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Gervane_Kastaneer"
+  },
+  {
+    "id": "godfried-roemeratoe",
+    "name": "Godfried Roemeratoe",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "curacaoan",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Twente Enschede",
+        "city": "Enschede",
+        "country": "Netherlands",
+        "lat": 52.2209855,
+        "lng": 6.8940537,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Willem II Tilburg",
+        "city": "Tilburg",
+        "country": "Netherlands",
+        "lat": 51.5856185,
+        "lng": 5.0660616,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Hapoel Tel Aviv",
+        "city": "Tel-Aviv-Yaffa (Tel-Aviv)",
+        "country": "Israel",
+        "lat": 32.0549517,
+        "lng": 34.7520118,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Twente Enschede",
+        "city": "Enschede",
+        "country": "Netherlands",
+        "lat": 52.2209855,
+        "lng": 6.8940537,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "RKC Waalwijk",
+        "city": "Waalwijk",
+        "country": "Netherlands",
+        "lat": 51.6873372,
+        "lng": 5.0173079,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Godfried_Roemeratoe"
+  },
+  {
+    "id": "jearl-margaritha",
+    "name": "Jearl Margaritha",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "curacaoan",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "VV Hoogeveen",
+        "city": "Hoogeveen",
+        "country": "Netherlands",
+        "lat": 52.7264258,
+        "lng": 6.4930815,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "TOP Oss",
+        "city": "Oss",
+        "country": "Netherlands",
+        "lat": 51.7783542,
+        "lng": 5.5320836,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Sabah FK",
+        "city": "Baku",
+        "country": "Azerbaijan",
+        "lat": 40.3755885,
+        "lng": 49.8328009,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Phoenix Rising FC",
+        "city": "Phoenix, Arizona",
+        "country": "United States",
+        "lat": 33.4484367,
+        "lng": -112.074141,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "SK Beveren",
+        "city": "Beveren",
+        "country": "Belgium",
+        "lat": 51.212611,
+        "lng": 4.2577808,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jearl_Margaritha"
+  },
+  {
+    "id": "jeremy-antonisse",
+    "name": "Jeremy Antonisse",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "curacaoan",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Moreirense FC",
+        "city": "Moreira de Cónegos - Guimarães",
+        "country": "Portugal",
+        "lat": 41.3814913,
+        "lng": -8.3361532,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Emmen",
+        "city": "Emmen",
+        "country": "Netherlands",
+        "lat": 52.7528662,
+        "lng": 6.9525135,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "AE Kifisia",
+        "city": "Kifisia",
+        "country": "Greece",
+        "lat": 38.0736082,
+        "lng": 23.8082244,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeremy_Antonisse"
+  },
+  {
+    "id": "joshua-brenet",
+    "name": "Joshua Brenet",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "curacaoan",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2013,
+        "toYear": 2018
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Vitesse Arnhem",
+        "city": "Arnhem",
+        "country": "Netherlands",
+        "lat": 51.984257,
+        "lng": 5.9108573,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Twente Enschede",
+        "city": "Enschede",
+        "country": "Netherlands",
+        "lat": 52.2209855,
+        "lng": 6.8940537,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Rayyan SC",
+        "city": "Al-Rayyan",
+        "country": "Qatar",
+        "lat": 25.0819602,
+        "lng": 51.158416,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Livingston FC",
+        "city": "Livingston",
+        "country": "Scotland",
+        "lat": 55.8829582,
+        "lng": -3.5175773,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Kayserispor",
+        "city": "Kayseri",
+        "country": "Türkiye",
+        "lat": 38.7219011,
+        "lng": 35.4873214,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Joshua_Brenet"
+  },
+  {
+    "id": "juninho-bacuna",
+    "name": "Juninho Bacuna",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "curacaoan",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Groningen",
+        "city": "Groningen",
+        "country": "Netherlands",
+        "lat": 53.2190652,
+        "lng": 6.5680077,
+        "fromYear": 2015,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Huddersfield Town",
+        "city": "Huddersfield",
+        "country": "England",
+        "lat": 53.6466645,
+        "lng": -1.7822482,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Rangers FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Birmingham City",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Wehda FC",
+        "city": "Mecca",
+        "country": "Saudi Arabia",
+        "lat": 21.420847,
+        "lng": 39.826869,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Gaziantep FK",
+        "city": "Şahinbey / Gaziantep",
+        "country": "Türkiye",
+        "lat": 37.0596208,
+        "lng": 37.3849645,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "FC Volendam",
+        "city": "Volendam",
+        "country": "Netherlands",
+        "lat": 52.4963759,
+        "lng": 5.0682736,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Gaziantep FK",
+        "city": "Şahinbey / Gaziantep",
+        "country": "Türkiye",
+        "lat": 37.0596208,
+        "lng": 37.3849645,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Juninho_Bacuna"
+  },
+  {
+    "id": "jurien-gaari",
+    "name": "Juriën Gaari",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "curacaoan",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "VV Smitshoek Barendrecht",
+        "city": "Barendrecht",
+        "country": "Netherlands",
+        "lat": 51.851938,
+        "lng": 4.5293835,
+        "fromYear": 2012,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Kozakken Boys Werkendam",
+        "city": "Werkendam",
+        "country": "Netherlands",
+        "lat": 51.8079227,
+        "lng": 4.8987346,
+        "fromYear": 2014,
+        "toYear": 2018
+      },
+      {
+        "clubName": "RKC Waalwijk",
+        "city": "Waalwijk",
+        "country": "Netherlands",
+        "lat": 51.6873372,
+        "lng": 5.0173079,
+        "fromYear": 2018,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Hazem SC",
+        "city": "Rass, Al-Qassim",
+        "country": "Saudi Arabia",
+        "lat": 25.8685205,
+        "lng": 43.5038978,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Abha Club",
+        "city": "Abha",
+        "country": "Saudi Arabia",
+        "lat": 18.2164282,
+        "lng": 42.5043596,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Juri%C3%ABn_Gaari"
+  },
+  {
+    "id": "jurgen-locadia",
+    "name": "Jürgen Locadia",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "curacaoan",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2012,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Cincinnati",
+        "city": "Cincinnati, Ohio",
+        "country": "United States",
+        "lat": 39.1012809,
+        "lng": -84.5127405,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Brighton & Hove Albion",
+        "city": "Brighton",
+        "country": "England",
+        "lat": 50.8214626,
+        "lng": -0.1400561,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "VfL Bochum",
+        "city": "Bochum",
+        "country": "Germany",
+        "lat": 51.4818111,
+        "lng": 7.2196635,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Persepolis FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "SD Amorebieta",
+        "city": "Amorebieta-Echano",
+        "country": "Spain",
+        "lat": 43.2158831,
+        "lng": -2.7094577,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "CF Intercity",
+        "city": "Alicante",
+        "country": "Spain",
+        "lat": 38.3436365,
+        "lng": -0.4881708,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Miami FC",
+        "city": "Miami, Florida",
+        "country": "United States",
+        "lat": 25.7741566,
+        "lng": -80.1935973,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%BCrgen_Locadia"
+  },
+  {
+    "id": "kenji-gorre",
+    "name": "Kenji Gorré",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "curacaoan",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Swansea City",
+        "city": "Swansea",
+        "country": "Wales",
+        "lat": 51.6195955,
+        "lng": -3.9459248,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "ADO Den Haag",
+        "city": "Den Haag",
+        "country": "Netherlands",
+        "lat": 52.0799838,
+        "lng": 4.3113461,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Swansea City",
+        "city": "Swansea",
+        "country": "Wales",
+        "lat": 51.6195955,
+        "lng": -3.9459248,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Northampton Town",
+        "city": "Sixfields Stadium, Northampton",
+        "country": "England",
+        "lat": 52.2352633,
+        "lng": -0.9335741,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Swansea City",
+        "city": "Swansea",
+        "country": "Wales",
+        "lat": 51.6195955,
+        "lng": -3.9459248,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "CD Nacional",
+        "city": "Funchal",
+        "country": "Portugal",
+        "lat": 32.6496497,
+        "lng": -16.9086783,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "GD Estoril Praia",
+        "city": "Estoril",
+        "country": "Portugal",
+        "lat": 38.7095707,
+        "lng": -9.3901368,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "CD Nacional",
+        "city": "Funchal",
+        "country": "Portugal",
+        "lat": 32.6496497,
+        "lng": -16.9086783,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Boavista FC",
+        "city": "Porto",
+        "country": "Portugal",
+        "lat": 41.1502195,
+        "lng": -8.6103497,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Umm Salal SC",
+        "city": "Umm Salal",
+        "country": "Qatar",
+        "lat": 25.4897276,
+        "lng": 51.3262709,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Maccabi Haifa",
+        "city": "Haifa",
+        "country": "Israel",
+        "lat": 32.8191218,
+        "lng": 34.9983856,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kenji_Gorr%C3%A9"
+  },
+  {
+    "id": "kevin-felida",
+    "name": "Kevin Felida",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "curacaoan",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Den Bosch",
+        "city": "’s-Hertogenbosch",
+        "country": "Netherlands",
+        "lat": 51.6889387,
+        "lng": 5.303116,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "RKC Waalwijk",
+        "city": "Waalwijk",
+        "country": "Netherlands",
+        "lat": 51.6873372,
+        "lng": 5.0173079,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Den Bosch",
+        "city": "’s-Hertogenbosch",
+        "country": "Netherlands",
+        "lat": 51.6889387,
+        "lng": 5.303116,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kevin_Felida"
+  },
+  {
+    "id": "leandro-bacuna",
+    "name": "Leandro Bacuna",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "curacaoan",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Groningen",
+        "city": "Groningen",
+        "country": "Netherlands",
+        "lat": 53.2190652,
+        "lng": 6.5680077,
+        "fromYear": 2009,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Aston Villa",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2013,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Reading FC",
+        "city": "Reading",
+        "country": "England",
+        "lat": 51.4564242,
+        "lng": -0.9700664,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Cardiff City",
+        "city": "Cardiff",
+        "country": "Wales",
+        "lat": 51.4816546,
+        "lng": -3.1791934,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Watford FC",
+        "city": "Watford",
+        "country": "England",
+        "lat": 51.6553875,
+        "lng": -0.3957425,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Groningen",
+        "city": "Groningen",
+        "country": "Netherlands",
+        "lat": 53.2190652,
+        "lng": 6.5680077,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Bandirma Spor",
+        "city": "Bandırma/BALIKESİR",
+        "country": "Türkiye",
+        "lat": 40.3556659,
+        "lng": 27.9757371,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Igdir FK",
+        "city": "Iğdır",
+        "country": "Türkiye",
+        "lat": 39.8945292,
+        "lng": 43.9427459,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Leandro_Bacuna"
+  },
+  {
+    "id": "livano-comenencia",
+    "name": "Livano Comenencia",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "curacaoan",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Zürich",
+        "city": "Zürich",
+        "country": "Switzerland",
+        "lat": 47.3744489,
+        "lng": 8.5410422,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Livano_Comenencia"
+  },
+  {
+    "id": "riechedly-bazoer",
+    "name": "Riechedly Bazoer",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "curacaoan",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Ajax Amsterdam",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "lat": 52.3730796,
+        "lng": 4.8924534,
+        "fromYear": 2014,
+        "toYear": 2017
+      },
+      {
+        "clubName": "VfL Wolfsburg",
+        "city": "Wolfsburg",
+        "country": "Germany",
+        "lat": 52.4205588,
+        "lng": 10.7861682,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "FC Porto",
+        "city": "Porto",
+        "country": "Portugal",
+        "lat": 41.1502195,
+        "lng": -8.6103497,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "VfL Wolfsburg",
+        "city": "Wolfsburg",
+        "country": "Germany",
+        "lat": 52.4205588,
+        "lng": 10.7861682,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Utrecht",
+        "city": "Utrecht",
+        "country": "Netherlands",
+        "lat": 52.0907006,
+        "lng": 5.1215634,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Vitesse Arnhem",
+        "city": "Arnhem",
+        "country": "Netherlands",
+        "lat": 51.984257,
+        "lng": 5.9108573,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "AZ Alkmaar",
+        "city": "Alkmaar",
+        "country": "Netherlands",
+        "lat": 52.6008538,
+        "lng": 4.8170994,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Konyaspor",
+        "city": "Selçuklu, Konya",
+        "country": "Türkiye",
+        "lat": 37.8768663,
+        "lng": 32.4873945,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Riechedly_Bazoer"
+  },
+  {
+    "id": "roshon-van-eijma",
+    "name": "Roshon van Eijma",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "curacaoan",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Roda JC Kerkrade",
+        "city": "Kerkrade",
+        "country": "Netherlands",
+        "lat": 50.8749089,
+        "lng": 6.0593853,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Preußen Münster",
+        "city": "Münster",
+        "country": "Germany",
+        "lat": 51.9625101,
+        "lng": 7.6251879,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "TOP Oss",
+        "city": "Oss",
+        "country": "Netherlands",
+        "lat": 51.7783542,
+        "lng": 5.5320836,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "RKC Waalwijk",
+        "city": "Waalwijk",
+        "country": "Netherlands",
+        "lat": 51.6873372,
+        "lng": 5.0173079,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Roshon_van_Eijma"
+  },
+  {
+    "id": "sherel-floranus",
+    "name": "Sherel Floranus",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "curacaoan",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Sparta Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "SC Heerenveen",
+        "city": "Heerenveen",
+        "country": "Netherlands",
+        "lat": 52.9984742,
+        "lng": 5.9231488,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Antalyaspor",
+        "city": "Muratpaşa/ANTALYA",
+        "country": "Türkiye",
+        "lat": 36.8524224,
+        "lng": 30.7563713,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Almere City FC",
+        "city": "Almere",
+        "country": "Netherlands",
+        "lat": 52.4417513,
+        "lng": 5.2092943,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "PEC Zwolle",
+        "city": "Zwolle",
+        "country": "Netherlands",
+        "lat": 52.5089759,
+        "lng": 6.0943765,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Sherel_Floranus"
+  },
+  {
+    "id": "shurandy-sambo",
+    "name": "Shurandy Sambo",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "curacaoan",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Sparta Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Burnley FC",
+        "city": "Burnley",
+        "country": "England",
+        "lat": 53.7907262,
+        "lng": -2.2439196,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Sparta Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Burnley FC",
+        "city": "Burnley",
+        "country": "England",
+        "lat": 53.7907262,
+        "lng": -2.2439196,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Shurandy_Sambo"
+  },
+  {
+    "id": "sontje-hansen",
+    "name": "Sontje Hansen",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "curacaoan",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "NEC Nijmegen",
+        "city": "Nijmegen",
+        "country": "Netherlands",
+        "lat": 51.8474946,
+        "lng": 5.8637771,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Middlesbrough FC",
+        "city": "Middlesbrough",
+        "country": "England",
+        "lat": 54.5760419,
+        "lng": -1.2344047,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Sontje_Hansen"
+  },
+  {
+    "id": "tahith-chong",
+    "name": "Tahith Chong",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "curacaoan",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "SV Werder Bremen",
+        "city": "Bremen",
+        "country": "Germany",
+        "lat": 53.0758196,
+        "lng": 8.8071646,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Club Brugge KV",
+        "city": "Brugge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Birmingham City",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Manchester United",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Luton Town",
+        "city": "Luton",
+        "country": "England",
+        "lat": 51.891073,
+        "lng": -0.4230304,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Sheffield United",
+        "city": "Sheffield",
+        "country": "England",
+        "lat": 53.3806626,
+        "lng": -1.4702278,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tahith_Chong"
+  },
+  {
+    "id": "trevor-doornbusch",
+    "name": "Trevor Doornbusch",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "curacaoan",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "SC Heerenveen",
+        "city": "Heerenveen",
+        "country": "Netherlands",
+        "lat": 52.9984742,
+        "lng": 5.9231488,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "SC Telstar",
+        "city": "Velsen-Zuid",
+        "country": "Netherlands",
+        "lat": 52.4600386,
+        "lng": 4.6514217,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Dordrecht",
+        "city": "Dordrecht",
+        "country": "Netherlands",
+        "lat": 51.7689546,
+        "lng": 4.6867891,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "VVV-Venlo",
+        "city": "Venlo",
+        "country": "Netherlands",
+        "lat": 51.3924489,
+        "lng": 6.1511724,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Trevor_Doornbusch"
+  },
+  {
+    "id": "tyrese-noslin",
+    "name": "Tyrese Noslin",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "curacaoan",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "SC Telstar",
+        "city": "Velsen-Zuid",
+        "country": "Netherlands",
+        "lat": 52.4600386,
+        "lng": 4.6514217,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tyrese_Noslin"
+  },
+  {
+    "id": "tyrick-bodak",
+    "name": "Tyrick Bodak",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "curacaoan",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "SC Telstar",
+        "city": "Velsen-Zuid",
+        "country": "Netherlands",
+        "lat": 52.4600386,
+        "lng": 4.6514217,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tyrick_Bodak"
+  }
+]

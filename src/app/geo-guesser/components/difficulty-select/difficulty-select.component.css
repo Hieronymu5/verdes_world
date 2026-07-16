@@ -99,10 +99,6 @@
   display: flex;
 }
 
-.difficulty-list > li.full-width {
-  grid-column: 1 / -1;
-}
-
 @media (max-width: 768px) {
   .select-screen {
     justify-content: flex-start;
@@ -171,10 +167,6 @@
 .difficulty-expert .card-id {
   color: var(--vw-color-error);
 }
-.difficulty-world-cup .card-id {
-  color: var(--vw-color-warning);
-}
-
 .difficulty-easy:hover,
 .difficulty-easy.selected {
   background: var(--vw-color-brand-light-08);
@@ -196,12 +188,6 @@
 .difficulty-expert:hover,
 .difficulty-expert.selected {
   background: var(--vw-color-error-08);
-  border-color: var(--vw-color-brand);
-}
-
-.difficulty-world-cup:hover,
-.difficulty-world-cup.selected {
-  background: var(--vw-color-warning-08);
   border-color: var(--vw-color-brand);
 }
 
@@ -253,7 +239,9 @@
   padding: var(--vw-space-sm) var(--vw-space-xl);
   border-radius: var(--vw-radius-md);
   background: var(--vw-color-brand-10);
-  transition: background-color 0.2s, color 0.2s;
+  transition:
+    background-color 0.2s,
+    color 0.2s;
 }
 
 .about-link:hover,

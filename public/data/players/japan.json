@@ -1,0 +1,1619 @@
+[
+  {
+    "id": "ao-tanaka",
+    "name": "Ao Tanaka",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Japanese",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Kawasaki Frontale",
+        "city": "Kawasaki, Kanagawa",
+        "country": "Japan",
+        "lat": 35.5306639,
+        "lng": 139.7037668,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Fortuna Düsseldorf",
+        "city": "Düsseldorf",
+        "country": "Germany",
+        "lat": 51.2254018,
+        "lng": 6.7763137,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Kawasaki Frontale",
+        "city": "Kawasaki, Kanagawa",
+        "country": "Japan",
+        "lat": 35.5306639,
+        "lng": 139.7037668,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Leeds United",
+        "city": "Leeds",
+        "country": "England",
+        "lat": 53.7974185,
+        "lng": -1.5437941,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ao_Tanaka"
+  },
+  {
+    "id": "ayase-ueda",
+    "name": "Ayase Ueda",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Japanese",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Kashima Antlers",
+        "city": "Kashima, Ibaraki",
+        "country": "Japan",
+        "lat": 35.9661164,
+        "lng": 140.6450292,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Cercle Brugge",
+        "city": "Brügge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Feyenoord Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ayase_Ueda"
+  },
+  {
+    "id": "ayumu-seko",
+    "name": "Ayumu Seko",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Japanese",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Cerezo Osaka",
+        "city": "Sakai - Osaka, Osaka",
+        "country": "Japan",
+        "lat": 34.511678,
+        "lng": 135.475778,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Grasshopper Club Zurich",
+        "city": "Niederhasli",
+        "country": "Switzerland",
+        "lat": 47.4812949,
+        "lng": 8.4858049,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Le Havre AC",
+        "city": "Le Havre",
+        "country": "France",
+        "lat": 49.4938975,
+        "lng": 0.1079732,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ayumu_Seko"
+  },
+  {
+    "id": "daichi-kamada",
+    "name": "Daichi Kamada",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Japanese",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Sint-Truidense VV",
+        "city": "Sint-Truiden",
+        "country": "Belgium",
+        "lat": 50.8152784,
+        "lng": 5.1858896,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "SS Lazio",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Crystal Palace",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Daichi_Kamada"
+  },
+  {
+    "id": "daizen-maeda",
+    "name": "Daizen Maeda",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Japanese",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Matsumoto Yamaga",
+        "city": "Matsumoto, Nagano",
+        "country": "Japan",
+        "lat": 36.2382047,
+        "lng": 137.9687141,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Mito HollyHock",
+        "city": "Mito, Ibaraki",
+        "country": "Japan",
+        "lat": 36.3659174,
+        "lng": 140.4731743,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Matsumoto Yamaga",
+        "city": "Matsumoto, Nagano",
+        "country": "Japan",
+        "lat": 36.2382047,
+        "lng": 137.9687141,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "CS Marítimo",
+        "city": "Funchal",
+        "country": "Portugal",
+        "lat": 32.6496497,
+        "lng": -16.9086783,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Yokohama F. Marinos",
+        "city": "Yokohama, Kanagawa",
+        "country": "Japan",
+        "lat": 35.4503381,
+        "lng": 139.6343802,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Matsumoto Yamaga",
+        "city": "Matsumoto, Nagano",
+        "country": "Japan",
+        "lat": 36.2382047,
+        "lng": 137.9687141,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Yokohama F. Marinos",
+        "city": "Yokohama, Kanagawa",
+        "country": "Japan",
+        "lat": 35.4503381,
+        "lng": 139.6343802,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Matsumoto Yamaga",
+        "city": "Matsumoto, Nagano",
+        "country": "Japan",
+        "lat": 36.2382047,
+        "lng": 137.9687141,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Celtic FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Yokohama F. Marinos",
+        "city": "Yokohama, Kanagawa",
+        "country": "Japan",
+        "lat": 35.4503381,
+        "lng": 139.6343802,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Daizen_Maeda"
+  },
+  {
+    "id": "hiroki-ito",
+    "name": "Hiroki Ito",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Japanese",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Júbilo Iwata",
+        "city": "Iwata, Shizuoka",
+        "country": "Japan",
+        "lat": 34.7177962,
+        "lng": 137.8515157,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Nagoya Grampus",
+        "city": "Toyota - Nagoya, Aichi",
+        "country": "Japan",
+        "lat": 35.1968921,
+        "lng": 136.8948342,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Júbilo Iwata",
+        "city": "Iwata, Shizuoka",
+        "country": "Japan",
+        "lat": 34.7177962,
+        "lng": 137.8515157,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "VfB Stuttgart",
+        "city": "Stuttgart",
+        "country": "Germany",
+        "lat": 48.7784485,
+        "lng": 9.1800132,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Júbilo Iwata",
+        "city": "Iwata, Shizuoka",
+        "country": "Japan",
+        "lat": 34.7177962,
+        "lng": 137.8515157,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Hiroki_Ito"
+  },
+  {
+    "id": "junnosuke-suzuki",
+    "name": "Junnosuke Suzuki",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Japanese",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Shonan Bellmare",
+        "city": "Hiratsuka, Kanagawa",
+        "country": "Japan",
+        "lat": 35.3350609,
+        "lng": 139.3494345,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Copenhagen",
+        "city": "København Ø.",
+        "country": "Denmark",
+        "lat": 55.6428043,
+        "lng": 12.5549822,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Junnosuke_Suzuki"
+  },
+  {
+    "id": "junya-ito",
+    "name": "Junya Ito",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Japanese",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Ventforet Kofu",
+        "city": "Kofu, Yamanashi",
+        "country": "Japan",
+        "lat": 35.6652481,
+        "lng": 138.5710441,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Kashiwa Reysol",
+        "city": "Kashiwa, Chiba",
+        "country": "Japan",
+        "lat": 35.8676218,
+        "lng": 139.9756876,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "KRC Genk",
+        "city": "Genk",
+        "country": "Belgium",
+        "lat": 50.9654864,
+        "lng": 5.5001456,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Kashiwa Reysol",
+        "city": "Kashiwa, Chiba",
+        "country": "Japan",
+        "lat": 35.8676218,
+        "lng": 139.9756876,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Stade Reims",
+        "city": "Reims",
+        "country": "France",
+        "lat": 49.2577886,
+        "lng": 4.031926,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "KRC Genk",
+        "city": "Genk",
+        "country": "Belgium",
+        "lat": 50.9654864,
+        "lng": 5.5001456,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Junya_Ito"
+  },
+  {
+    "id": "kaishu-sano",
+    "name": "Kaishu Sano",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Japanese",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Machida Zelvia",
+        "city": "Machida, Tokio",
+        "country": "Japan",
+        "lat": 35.5466803,
+        "lng": 139.4386999,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Kashima Antlers",
+        "city": "Kashima, Ibaraki",
+        "country": "Japan",
+        "lat": 35.9661164,
+        "lng": 140.6450292,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "1.FSV Mainz 05",
+        "city": "Mainz",
+        "country": "Germany",
+        "lat": 49.9995205,
+        "lng": 8.2736253,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kaishu_Sano"
+  },
+  {
+    "id": "keisuke-goto",
+    "name": "Keisuke Goto",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Japanese",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Júbilo Iwata",
+        "city": "Iwata, Shizuoka",
+        "country": "Japan",
+        "lat": 34.7177962,
+        "lng": 137.8515157,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "RSCA Futures",
+        "city": "Anderlecht",
+        "country": "Belgium",
+        "lat": 50.8286899,
+        "lng": 4.2895569,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Júbilo Iwata",
+        "city": "Iwata, Shizuoka",
+        "country": "Japan",
+        "lat": 34.7177962,
+        "lng": 137.8515157,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "RSC Anderlecht",
+        "city": "Anderlecht (Brüssel)",
+        "country": "Belgium",
+        "lat": 50.841868,
+        "lng": 4.3375643,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "RSCA Futures",
+        "city": "Anderlecht",
+        "country": "Belgium",
+        "lat": 50.8286899,
+        "lng": 4.2895569,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Sint-Truidense VV",
+        "city": "Sint-Truiden",
+        "country": "Belgium",
+        "lat": 50.8152784,
+        "lng": 5.1858896,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "SC Freiburg",
+        "city": "Freiburg im Breisgau",
+        "country": "Germany",
+        "lat": 47.9960901,
+        "lng": 7.8494005,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "RSC Anderlecht",
+        "city": "Anderlecht (Brüssel)",
+        "country": "Belgium",
+        "lat": 50.841868,
+        "lng": 4.3375643,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Keisuke_Goto"
+  },
+  {
+    "id": "keisuke-osako",
+    "name": "Keisuke Osako",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Japanese",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Sanfrecce Hiroshima",
+        "city": "Hiroshima, Hiroshima",
+        "country": "Japan",
+        "lat": 34.3972264,
+        "lng": 132.475965,
+        "fromYear": 2018,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Keisuke_Osako"
+  },
+  {
+    "id": "keito-nakamura",
+    "name": "Keito Nakamura",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Japanese",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Gamba Osaka",
+        "city": "Suita, Osaka",
+        "country": "Japan",
+        "lat": 34.7594193,
+        "lng": 135.516835,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Twente Enschede",
+        "city": "Enschede",
+        "country": "Netherlands",
+        "lat": 52.2209855,
+        "lng": 6.8940537,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Sint-Truidense VV",
+        "city": "Sint-Truiden",
+        "country": "Belgium",
+        "lat": 50.8152784,
+        "lng": 5.1858896,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Gamba Osaka",
+        "city": "Suita, Osaka",
+        "country": "Japan",
+        "lat": 34.7594193,
+        "lng": 135.516835,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "LASK Amateure OÖ",
+        "city": "Pasching",
+        "country": "Austria",
+        "lat": 48.2576453,
+        "lng": 14.2044214,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Gamba Osaka",
+        "city": "Suita, Osaka",
+        "country": "Japan",
+        "lat": 34.7594193,
+        "lng": 135.516835,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "LASK",
+        "city": "Pasching",
+        "country": "Austria",
+        "lat": 48.2576453,
+        "lng": 14.2044214,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Stade Reims",
+        "city": "Reims",
+        "country": "France",
+        "lat": 49.2577886,
+        "lng": 4.031926,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Keito_Nakamura"
+  },
+  {
+    "id": "kento-shiogai",
+    "name": "Kento Shiogai",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Japanese",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Yokohama F. Marinos",
+        "city": "Yokohama, Kanagawa",
+        "country": "Japan",
+        "lat": 35.4503381,
+        "lng": 139.6343802,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "NEC Nijmegen",
+        "city": "Nijmegen",
+        "country": "Netherlands",
+        "lat": 51.8474946,
+        "lng": 5.8637771,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "VfL Wolfsburg",
+        "city": "Wolfsburg",
+        "country": "Germany",
+        "lat": 52.4205588,
+        "lng": 10.7861682,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kento_Shiogai"
+  },
+  {
+    "id": "ko-itakura",
+    "name": "Ko Itakura",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Japanese",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Kawasaki Frontale",
+        "city": "Kawasaki, Kanagawa",
+        "country": "Japan",
+        "lat": 35.5306639,
+        "lng": 139.7037668,
+        "fromYear": 2015,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Vegalta Sendai",
+        "city": "Sendai, Miyagi",
+        "country": "Japan",
+        "lat": 38.2677554,
+        "lng": 140.8691498,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Kawasaki Frontale",
+        "city": "Kawasaki, Kanagawa",
+        "country": "Japan",
+        "lat": 35.5306639,
+        "lng": 139.7037668,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Groningen",
+        "city": "Groningen",
+        "country": "Netherlands",
+        "lat": 53.2190652,
+        "lng": 6.5680077,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Groningen",
+        "city": "Groningen",
+        "country": "Netherlands",
+        "lat": 53.2190652,
+        "lng": 6.5680077,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Schalke 04",
+        "city": "Gelsenkirchen",
+        "country": "Germany",
+        "lat": 51.5110321,
+        "lng": 7.0960124,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Borussia Mönchengladbach",
+        "city": "Mönchengladbach",
+        "country": "Germany",
+        "lat": 51.1947131,
+        "lng": 6.4353792,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Ajax Amsterdam",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "lat": 52.3730796,
+        "lng": 4.8924534,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ko_Itakura"
+  },
+  {
+    "id": "koki-ogawa",
+    "name": "Koki Ogawa",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Japanese",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Júbilo Iwata",
+        "city": "Iwata, Shizuoka",
+        "country": "Japan",
+        "lat": 34.7177962,
+        "lng": 137.8515157,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Mito HollyHock",
+        "city": "Mito, Ibaraki",
+        "country": "Japan",
+        "lat": 36.3659174,
+        "lng": 140.4731743,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Júbilo Iwata",
+        "city": "Iwata, Shizuoka",
+        "country": "Japan",
+        "lat": 34.7177962,
+        "lng": 137.8515157,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Yokohama FC",
+        "city": "Yokohama, Kanagawa",
+        "country": "Japan",
+        "lat": 35.4503381,
+        "lng": 139.6343802,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "NEC Nijmegen",
+        "city": "Nijmegen",
+        "country": "Netherlands",
+        "lat": 51.8474946,
+        "lng": 5.8637771,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Yokohama FC",
+        "city": "Yokohama, Kanagawa",
+        "country": "Japan",
+        "lat": 35.4503381,
+        "lng": 139.6343802,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Koki_Ogawa"
+  },
+  {
+    "id": "ritsu-doan",
+    "name": "Ritsu Doan",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Japanese",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Gamba Osaka",
+        "city": "Suita, Osaka",
+        "country": "Japan",
+        "lat": 34.7594193,
+        "lng": 135.516835,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "FC Groningen",
+        "city": "Groningen",
+        "country": "Netherlands",
+        "lat": 53.2190652,
+        "lng": 6.5680077,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Gamba Osaka",
+        "city": "Suita, Osaka",
+        "country": "Japan",
+        "lat": 34.7594193,
+        "lng": 135.516835,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Arminia Bielefeld",
+        "city": "Bielefeld",
+        "country": "Germany",
+        "lat": 52.0191005,
+        "lng": 8.531007,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "SC Freiburg",
+        "city": "Freiburg im Breisgau",
+        "country": "Germany",
+        "lat": 47.9960901,
+        "lng": 7.8494005,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ritsu_Doan"
+  },
+  {
+    "id": "shogo-taniguchi",
+    "name": "Shogo Taniguchi",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Japanese",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Kawasaki Frontale",
+        "city": "Kawasaki, Kanagawa",
+        "country": "Japan",
+        "lat": 35.5306639,
+        "lng": 139.7037668,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Al-Rayyan SC",
+        "city": "Al-Rayyan",
+        "country": "Qatar",
+        "lat": 25.0819602,
+        "lng": 51.158416,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Sint-Truidense VV",
+        "city": "Sint-Truiden",
+        "country": "Belgium",
+        "lat": 50.8152784,
+        "lng": 5.1858896,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Shogo_Taniguchi"
+  },
+  {
+    "id": "shuto-machino",
+    "name": "Shuto Machino",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Japanese",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Yokohama F. Marinos",
+        "city": "Yokohama, Kanagawa",
+        "country": "Japan",
+        "lat": 35.4503381,
+        "lng": 139.6343802,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Giravanz Kitakyushu",
+        "city": "Kitakyushu, Fukuoka",
+        "country": "Japan",
+        "lat": 33.8829996,
+        "lng": 130.8749015,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Yokohama F. Marinos",
+        "city": "Yokohama, Kanagawa",
+        "country": "Japan",
+        "lat": 35.4503381,
+        "lng": 139.6343802,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Shonan Bellmare",
+        "city": "Hiratsuka, Kanagawa",
+        "country": "Japan",
+        "lat": 35.3350609,
+        "lng": 139.3494345,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Holstein Kiel",
+        "city": "Kiel",
+        "country": "Germany",
+        "lat": 54.3227085,
+        "lng": 10.135555,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Borussia Mönchengladbach",
+        "city": "Mönchengladbach",
+        "country": "Germany",
+        "lat": 51.1947131,
+        "lng": 6.4353792,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Shuto_Machino"
+  },
+  {
+    "id": "takefusa-kubo",
+    "name": "Takefusa Kubo",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Japanese",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "FC Tokyo",
+        "city": "Chofu, Tokio",
+        "country": "Japan",
+        "lat": 35.6506036,
+        "lng": 139.5407066,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Yokohama F. Marinos",
+        "city": "Yokohama, Kanagawa",
+        "country": "Japan",
+        "lat": 35.4503381,
+        "lng": 139.6343802,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Tokyo",
+        "city": "Chofu, Tokio",
+        "country": "Japan",
+        "lat": 35.6506036,
+        "lng": 139.5407066,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "RCD Mallorca",
+        "city": "Palma de Mallorca",
+        "country": "Spain",
+        "lat": 39.5695818,
+        "lng": 2.6500745,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Villarreal CF",
+        "city": "Villarreal",
+        "country": "Spain",
+        "lat": 39.9372616,
+        "lng": -0.1004465,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Getafe CF",
+        "city": "Getafe (Madrid)",
+        "country": "Spain",
+        "lat": 40.3142702,
+        "lng": -3.6776595,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "RCD Mallorca",
+        "city": "Palma de Mallorca",
+        "country": "Spain",
+        "lat": 39.5695818,
+        "lng": 2.6500745,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Real Madrid",
+        "city": "Madrid",
+        "country": "Spain",
+        "lat": 40.416782,
+        "lng": -3.703507,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Real Sociedad",
+        "city": "Donostia-San Sebastián (Gipuzkoa)",
+        "country": "Spain",
+        "lat": 43.3224219,
+        "lng": -1.9838889,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Takefusa_Kubo"
+  },
+  {
+    "id": "takehiro-tomiyasu",
+    "name": "Takehiro Tomiyasu",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Japanese",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Avispa Fukuoka",
+        "city": "Fukuoka, Fukuoka",
+        "country": "Japan",
+        "lat": 33.5898988,
+        "lng": 130.4017509,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Sint-Truidense VV",
+        "city": "Sint-Truiden",
+        "country": "Belgium",
+        "lat": 50.8152784,
+        "lng": 5.1858896,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Bologna FC 1909",
+        "city": "Bologna",
+        "country": "Italy",
+        "lat": 44.4938203,
+        "lng": 11.3426327,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2021,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Ajax Amsterdam",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "lat": 52.3730796,
+        "lng": 4.8924534,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Takehiro_Tomiyasu"
+  },
+  {
+    "id": "tomoki-hayakawa",
+    "name": "Tomoki Hayakawa",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Japanese",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Kashima Antlers",
+        "city": "Kashima, Ibaraki",
+        "country": "Japan",
+        "lat": 35.9661164,
+        "lng": 140.6450292,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tomoki_Hayakawa"
+  },
+  {
+    "id": "tsuyoshi-watanabe",
+    "name": "Tsuyoshi Watanabe",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Japanese",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Tokyo",
+        "city": "Chofu, Tokio",
+        "country": "Japan",
+        "lat": 35.6506036,
+        "lng": 139.5407066,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "KV Kortrijk",
+        "city": "Kortrijk",
+        "country": "Belgium",
+        "lat": 50.8276429,
+        "lng": 3.2659884,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "KAA Gent",
+        "city": "Gent",
+        "country": "Belgium",
+        "lat": 51.0538286,
+        "lng": 3.7250121,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Feyenoord Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tsuyoshi_Watanabe"
+  },
+  {
+    "id": "yuito-suzuki",
+    "name": "Yuito Suzuki",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Japanese",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Shimizu S-Pulse",
+        "city": "Shizuoka, Shizuoka",
+        "country": "Japan",
+        "lat": 34.9716762,
+        "lng": 138.3885714,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "RC Strasbourg Alsace",
+        "city": "Strasbourg",
+        "country": "France",
+        "lat": 48.584614,
+        "lng": 7.7507127,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Shimizu S-Pulse",
+        "city": "Shizuoka, Shizuoka",
+        "country": "Japan",
+        "lat": 34.9716762,
+        "lng": 138.3885714,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Bröndby IF",
+        "city": "Brøndby",
+        "country": "Denmark",
+        "lat": 55.644111,
+        "lng": 12.4217135,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "SC Freiburg",
+        "city": "Freiburg im Breisgau",
+        "country": "Germany",
+        "lat": 47.9960901,
+        "lng": 7.8494005,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Yuito_Suzuki"
+  },
+  {
+    "id": "yukinari-sugawara",
+    "name": "Yukinari Sugawara",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Japanese",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Nagoya Grampus",
+        "city": "Toyota - Nagoya, Aichi",
+        "country": "Japan",
+        "lat": 35.1968921,
+        "lng": 136.8948342,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "AZ Alkmaar",
+        "city": "Alkmaar",
+        "country": "Netherlands",
+        "lat": 52.6008538,
+        "lng": 4.8170994,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Nagoya Grampus",
+        "city": "Toyota - Nagoya, Aichi",
+        "country": "Japan",
+        "lat": 35.1968921,
+        "lng": 136.8948342,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Southampton FC",
+        "city": "Southampton",
+        "country": "England",
+        "lat": 50.9025349,
+        "lng": -1.404189,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "SV Werder Bremen",
+        "city": "Bremen",
+        "country": "Germany",
+        "lat": 53.0758196,
+        "lng": 8.8071646,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Southampton FC",
+        "city": "Southampton",
+        "country": "England",
+        "lat": 50.9025349,
+        "lng": -1.404189,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Yukinari_Sugawara"
+  },
+  {
+    "id": "yuto-nagatomo",
+    "name": "Yuto Nagatomo",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Japanese",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Tokyo",
+        "city": "Chofu, Tokio",
+        "country": "Japan",
+        "lat": 35.6506036,
+        "lng": 139.5407066,
+        "fromYear": 2007,
+        "toYear": 2008
+      },
+      {
+        "clubName": "Cesena FC",
+        "city": "Cesena",
+        "country": "Italy",
+        "lat": 44.136352,
+        "lng": 12.2422442,
+        "fromYear": 2010,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Inter Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2011,
+        "toYear": 2011
+      },
+      {
+        "clubName": "FC Tokyo",
+        "city": "Chofu, Tokio",
+        "country": "Japan",
+        "lat": 35.6506036,
+        "lng": 139.5407066,
+        "fromYear": 2011,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Cesena FC",
+        "city": "Cesena",
+        "country": "Italy",
+        "lat": 44.136352,
+        "lng": 12.2422442,
+        "fromYear": 2011,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Inter Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2011,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Cesena FC",
+        "city": "Cesena",
+        "country": "Italy",
+        "lat": 44.136352,
+        "lng": 12.2422442,
+        "fromYear": 2011,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Galatasaray",
+        "city": "Sarıyer / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.1054207,
+        "lng": 29.006187,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Inter Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Olympique Marseille",
+        "city": "Marseille",
+        "country": "France",
+        "lat": 43.2963986,
+        "lng": 5.3777888,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Tokyo",
+        "city": "Chofu, Tokio",
+        "country": "Japan",
+        "lat": 35.6506036,
+        "lng": 139.5407066,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Yuto_Nagatomo"
+  },
+  {
+    "id": "zion-suzuki",
+    "name": "Zion Suzuki",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Japanese",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Urawa Red Diamonds",
+        "city": "Saitama, Saitama",
+        "country": "Japan",
+        "lat": 35.8616141,
+        "lng": 139.6455666,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Sint-Truidense VV",
+        "city": "Sint-Truiden",
+        "country": "Belgium",
+        "lat": 50.8152784,
+        "lng": 5.1858896,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Urawa Red Diamonds",
+        "city": "Saitama, Saitama",
+        "country": "Japan",
+        "lat": 35.8616141,
+        "lng": 139.6455666,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Parma Calcio 1913",
+        "city": "Parma",
+        "country": "Italy",
+        "lat": 44.6952006,
+        "lng": 10.0979869,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Zion_Suzuki"
+  }
+]

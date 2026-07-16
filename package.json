@@ -31,6 +31,7 @@
     "@angular/router": "^21.1.0",
     "cheerio": "^1.2.0",
     "d3-geo": "^3.1.1",
+    "gifenc": "^1.0.3",
     "rxjs": "~7.8.0",
     "topojson-client": "^3.1.0",
     "tslib": "^2.3.0",

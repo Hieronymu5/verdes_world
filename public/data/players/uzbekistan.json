@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "abbosbek-fayzullaev",
+    "name": "Abbosbek Fayzullaev",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "uzbeki",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Pakhtakor Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "CSKA Moscow",
+        "city": "Moscow",
+        "country": "Russia",
+        "lat": 55.625578,
+        "lng": 37.6063916,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Basaksehir FK",
+        "city": "Istanbul",
+        "country": "Türkiye",
+        "lat": 41.006381,
+        "lng": 28.9758715,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Abbosbek_Fayzullaev"
+  },
+  {
+    "id": "abdukodir-khusanov",
+    "name": "Abdukodir Khusanov",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "uzbeki",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "SKA-1938 Minsk",
+        "city": "Minsk",
+        "country": "Belarus",
+        "lat": 53.9024716,
+        "lng": 27.5618225,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "RC Lens",
+        "city": "Avion",
+        "country": "France",
+        "lat": 50.4126128,
+        "lng": 2.8343891,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdukodir_Khusanov"
+  },
+  {
+    "id": "abdulla-abdullaev",
+    "name": "Abdulla Abdullaev",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "uzbeki",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Bunyodkor Tashkent",
+        "city": "Taschkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2017,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC OKMK Olmaliq",
+        "city": "Olmaliq",
+        "country": "Uzbekistan",
+        "lat": 40.845729,
+        "lng": 69.6071609,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Khor Fakkan SSC",
+        "city": "Khor Fakkan, Sharjah",
+        "country": "United Arab Emirates",
+        "lat": 25.3491721,
+        "lng": 56.3478105,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Pakhtakor Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2024,
+        "toYear": 2025
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdulla_Abdullaev"
+  },
+  {
+    "id": "abduvokhid-nematov",
+    "name": "Abduvokhid Nematov",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "uzbeki",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Nasaf Qarshi",
+        "city": "Qarshi",
+        "country": "Uzbekistan",
+        "lat": 38.839824,
+        "lng": 65.7927794,
+        "fromYear": 2018,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Abduvokhid_Nematov"
+  },
+  {
+    "id": "akmal-mozgovoy",
+    "name": "Akmal Mozgovoy",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "uzbeki",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Nasaf Qarshi",
+        "city": "Qarshi",
+        "country": "Uzbekistan",
+        "lat": 38.839824,
+        "lng": 65.7927794,
+        "fromYear": 2018,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Baniyas",
+        "city": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "lat": 24.4538352,
+        "lng": 54.3774014,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Pakhtakor Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Akmal_Mozgovoy"
+  },
+  {
+    "id": "avazbek-ulmasaliev",
+    "name": "Avazbek Ulmasaliev",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "uzbeki",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Neftchi Fergana",
+        "city": "Fergana",
+        "country": "Uzbekistan",
+        "lat": 40.3764879,
+        "lng": 71.7913193,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Lokomotiv Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Bunyodkor Tashkent",
+        "city": "Taschkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Lokomotiv Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Bunyodkor Tashkent",
+        "city": "Taschkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Pakhtakor Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC OKMK Olmaliq",
+        "city": "Olmaliq",
+        "country": "Uzbekistan",
+        "lat": 40.845729,
+        "lng": 69.6071609,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Avazbek_Ulmasaliev"
+  },
+  {
+    "id": "aziz-ganiev",
+    "name": "Aziz Ganiev",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "uzbeki",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Nasaf Qarshi",
+        "city": "Qarshi",
+        "country": "Uzbekistan",
+        "lat": 38.839824,
+        "lng": 65.7927794,
+        "fromYear": 2016,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Shabab Al-Ahli Club",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "lat": 25.0742823,
+        "lng": 55.1885387,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Bataeh CSC",
+        "city": "-",
+        "country": "United Arab Emirates",
+        "lat": 24.0002488,
+        "lng": 53.9994829,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Aziz_Ganiev"
+  },
+  {
+    "id": "azizbek-amanov",
+    "name": "Azizbek Amanov",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "uzbeki",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Lokomotiv Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Buxoro",
+        "city": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.7759835,
+        "lng": 64.415153,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Esteghlal FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Nasaf Qarshi",
+        "city": "Qarshi",
+        "country": "Uzbekistan",
+        "lat": 38.839824,
+        "lng": 65.7927794,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Neftchi Fergana",
+        "city": "Fergana",
+        "country": "Uzbekistan",
+        "lat": 40.3764879,
+        "lng": 71.7913193,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Khor Fakkan SSC",
+        "city": "Khor Fakkan, Sharjah",
+        "country": "United Arab Emirates",
+        "lat": 25.3491721,
+        "lng": 56.3478105,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Buxoro",
+        "city": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.7759835,
+        "lng": 64.415153,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Bunyodkor Tashkent",
+        "city": "Taschkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Dinamo Samarqand",
+        "city": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.6550017,
+        "lng": 66.9756954,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Azizbek_Amanov"
+  },
+  {
+    "id": "bekhruz-karimov",
+    "name": "Bekhruz Karimov",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "uzbeki",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Surkhon Termiz",
+        "city": "Termiz",
+        "country": "Uzbekistan",
+        "lat": 37.2442466,
+        "lng": 67.283151,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Bekhruz_Karimov"
+  },
+  {
+    "id": "botirali-ergashev",
+    "name": "Botirali Ergashev",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "uzbeki",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Pakhtakor Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Navbahor Namangan",
+        "city": "Namangan",
+        "country": "Uzbekistan",
+        "lat": 40.9996482,
+        "lng": 71.6726238,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Pakhtakor Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Dinamo Samarqand",
+        "city": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.6550017,
+        "lng": 66.9756954,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Pakhtakor Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Dinamo Samarqand",
+        "city": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.6550017,
+        "lng": 66.9756954,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Kokand 1912",
+        "city": "Kokand",
+        "country": "Uzbekistan",
+        "lat": 40.5408463,
+        "lng": 70.9473889,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Dinamo Samarqand",
+        "city": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.6550017,
+        "lng": 66.9756954,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC OKMK Olmaliq",
+        "city": "Olmaliq",
+        "country": "Uzbekistan",
+        "lat": 40.845729,
+        "lng": 69.6071609,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Neftchi Fergana",
+        "city": "Fergana",
+        "country": "Uzbekistan",
+        "lat": 40.3764879,
+        "lng": 71.7913193,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Botirali_Ergashev"
+  },
+  {
+    "id": "dostonbek-khamdamov",
+    "name": "Dostonbek Khamdamov",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "uzbeki",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Bunyodkor Tashkent",
+        "city": "Taschkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2015,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Anzhi Makhachkala",
+        "city": "Kaspiysk",
+        "country": "Russia",
+        "lat": 42.8921817,
+        "lng": 47.6372105,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Pakhtakor Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Al-Nasr SC (UAE)",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "lat": 25.0742823,
+        "lng": 55.1885387,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Hatta Club",
+        "city": "Hatta, Emirate of Dubai",
+        "country": "United Arab Emirates",
+        "lat": 24.8069555,
+        "lng": 56.2008107,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Al-Nasr SC (UAE)",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "lat": 25.0742823,
+        "lng": 55.1885387,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Pakhtakor Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Al-Sailiya SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Pakhtakor Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Dostonbek_Khamdamov"
+  },
+  {
+    "id": "eldor-shomurodov",
+    "name": "Eldor Shomurodov",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "uzbeki",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Mash'al Mubarek",
+        "city": "Mubarek",
+        "country": "Uzbekistan",
+        "lat": 39.2615453,
+        "lng": 65.1580462,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Bunyodkor Tashkent",
+        "city": "Taschkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "FC Rostov",
+        "city": "Rostov-na-Donu",
+        "country": "Russia",
+        "lat": 47.2222596,
+        "lng": 39.7198736,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Genoa CFC",
+        "city": "Genova",
+        "country": "Italy",
+        "lat": 44.40726,
+        "lng": 8.9338624,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Spezia Calcio",
+        "city": "La Spezia",
+        "country": "Italy",
+        "lat": 44.238366,
+        "lng": 9.6912326,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Cagliari Calcio",
+        "city": "Assemini",
+        "country": "Italy",
+        "lat": 39.291538,
+        "lng": 9.001542,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Basaksehir FK",
+        "city": "Istanbul",
+        "country": "Türkiye",
+        "lat": 41.006381,
+        "lng": 28.9758715,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "AS Roma",
+        "city": "Roma",
+        "country": "Italy",
+        "lat": 41.8933203,
+        "lng": 12.4829321,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eldor_Shomurodov"
+  },
+  {
+    "id": "farrukh-sayfiev",
+    "name": "Farrukh Sayfiev",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "uzbeki",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Mash'al Mubarek",
+        "city": "Mubarek",
+        "country": "Uzbekistan",
+        "lat": 39.2615453,
+        "lng": 65.1580462,
+        "fromYear": 2011,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Nasaf Qarshi",
+        "city": "Qarshi",
+        "country": "Uzbekistan",
+        "lat": 38.839824,
+        "lng": 65.7927794,
+        "fromYear": 2011,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Pakhtakor Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2018,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Navbahor Namangan",
+        "city": "Namangan",
+        "country": "Uzbekistan",
+        "lat": 40.9996482,
+        "lng": 71.6726238,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Neftchi Fergana",
+        "city": "Fergana",
+        "country": "Uzbekistan",
+        "lat": 40.3764879,
+        "lng": 71.7913193,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Farrukh_Sayfiev"
+  },
+  {
+    "id": "igor-sergeev",
+    "name": "Igor Sergeev",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "uzbeki",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Pakhtakor Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2011,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Beijing Guoan",
+        "city": "Beijing",
+        "country": "China",
+        "lat": 39.9057136,
+        "lng": 116.3912972,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Pakhtakor Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Al-Dhafra FC",
+        "city": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "lat": 24.4538352,
+        "lng": 54.3774014,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Pakhtakor Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Aktobe",
+        "city": "Aktobe",
+        "country": "Kazakhstan",
+        "lat": 50.2836938,
+        "lng": 57.2298129,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Tobol Kostanay",
+        "city": "Kostanay",
+        "country": "Kazakhstan",
+        "lat": 52.0615626,
+        "lng": 62.9372689,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "BG Pathum United",
+        "city": "Thanyaburi, Pathum Thani",
+        "country": "Thailand",
+        "lat": 14.0326433,
+        "lng": 100.7722258,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Pakhtakor Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Persepolis FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Igor_Sergeev"
+  },
+  {
+    "id": "jakhongir-urozov",
+    "name": "Jakhongir Urozov",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "uzbeki",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Bunyodkor Tashkent",
+        "city": "Taschkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Eyüpspor",
+        "city": "Eyüp / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.0368536,
+        "lng": 28.9381873,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Dinamo Samarqand",
+        "city": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.6550017,
+        "lng": 66.9756954,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Eyüpspor",
+        "city": "Eyüp / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.0368536,
+        "lng": 28.9381873,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Dinamo Samarqand",
+        "city": "Samarkand",
+        "country": "Uzbekistan",
+        "lat": 39.6550017,
+        "lng": 66.9756954,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jakhongir_Urozov"
+  },
+  {
+    "id": "jamshid-iskanderov",
+    "name": "Jamshid Iskanderov",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "uzbeki",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Pakhtakor Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2012,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Lokomotiv Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Navbahor Namangan",
+        "city": "Namangan",
+        "country": "Uzbekistan",
+        "lat": 40.9996482,
+        "lng": 71.6726238,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Neftchi Fergana",
+        "city": "Fergana",
+        "country": "Uzbekistan",
+        "lat": 40.3764879,
+        "lng": 71.7913193,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jamshid_Iskanderov"
+  },
+  {
+    "id": "khozhiakbar-alizhonov",
+    "name": "Khozhiakbar Alizhonov",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "uzbeki",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Pakhtakor Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2016,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Khozhiakbar_Alizhonov"
+  },
+  {
+    "id": "odildzhon-khamrobekov",
+    "name": "Odildzhon Khamrobekov",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "uzbeki",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Nasaf Qarshi",
+        "city": "Qarshi",
+        "country": "Uzbekistan",
+        "lat": 38.839824,
+        "lng": 65.7927794,
+        "fromYear": 2013,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Pakhtakor Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Shabab Al-Ahli Club",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "lat": 25.0742823,
+        "lng": 55.1885387,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Pakhtakor Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Navbahor Namangan",
+        "city": "Namangan",
+        "country": "Uzbekistan",
+        "lat": 40.9996482,
+        "lng": 71.6726238,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Bunyodkor Tashkent",
+        "city": "Taschkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Tractor FC",
+        "city": "Tabriz",
+        "country": "Iran",
+        "lat": 38.0738612,
+        "lng": 46.2978789,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Odildzhon_Khamrobekov"
+  },
+  {
+    "id": "oston-urunov",
+    "name": "Oston Urunov",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "uzbeki",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Pakhtakor Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Navbahor Namangan",
+        "city": "Namangan",
+        "country": "Uzbekistan",
+        "lat": 40.9996482,
+        "lng": 71.6726238,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Pakhtakor Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Navbahor Namangan",
+        "city": "Namangan",
+        "country": "Uzbekistan",
+        "lat": 40.9996482,
+        "lng": 71.6726238,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Lokomotiv Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Spartak Moscow",
+        "city": "Moskau",
+        "country": "Russia",
+        "lat": 55.625578,
+        "lng": 37.6063916,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Ufa",
+        "city": "Ufa",
+        "country": "Russia",
+        "lat": 54.7261409,
+        "lng": 55.947499,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Spartak Moscow",
+        "city": "Moskau",
+        "country": "Russia",
+        "lat": 55.625578,
+        "lng": 37.6063916,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Ufa",
+        "city": "Ufa",
+        "country": "Russia",
+        "lat": 54.7261409,
+        "lng": 55.947499,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Ural Yekaterinburg",
+        "city": "Yekaterinburg",
+        "country": "Russia",
+        "lat": 56.8382071,
+        "lng": 60.6007886,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Spartak Moscow",
+        "city": "Moskau",
+        "country": "Russia",
+        "lat": 55.625578,
+        "lng": 37.6063916,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Navbahor Namangan",
+        "city": "Namangan",
+        "country": "Uzbekistan",
+        "lat": 40.9996482,
+        "lng": 71.6726238,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Persepolis FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Oston_Urunov"
+  },
+  {
+    "id": "otabek-shukurov",
+    "name": "Otabek Shukurov",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "uzbeki",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Mash'al Mubarek",
+        "city": "Mubarek",
+        "country": "Uzbekistan",
+        "lat": 39.2615453,
+        "lng": 65.1580462,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Bunyodkor Tashkent",
+        "city": "Taschkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "FC Buxoro",
+        "city": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.7759835,
+        "lng": 64.415153,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Bunyodkor Tashkent",
+        "city": "Taschkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2015,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Sharjah FC",
+        "city": "Sharjah City",
+        "country": "United Arab Emirates",
+        "lat": 25.3255476,
+        "lng": 55.3931393,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Fatih Karagümrük",
+        "city": "Fatih, İstanbul",
+        "country": "Türkiye",
+        "lat": 41.0192846,
+        "lng": 28.9479296,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Fayha FC",
+        "city": "Al-Majma'ah",
+        "country": "Saudi Arabia",
+        "lat": 25.903889,
+        "lng": 45.345556,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Kayserispor",
+        "city": "Kayseri",
+        "country": "Türkiye",
+        "lat": 38.7219011,
+        "lng": 35.4873214,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Baniyas",
+        "city": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "lat": 24.4538352,
+        "lng": 54.3774014,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Otabek_Shukurov"
+  },
+  {
+    "id": "ruslanbek-jiyanov",
+    "name": "Ruslanbek Jiyanov",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "uzbeki",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "FC Olympic",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Pari Nizhniy Novgorod",
+        "city": "Nizhny Novgorod",
+        "country": "Russia",
+        "lat": 56.3264816,
+        "lng": 44.0051395,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Olympic",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Navbahor Namangan",
+        "city": "Namangan",
+        "country": "Uzbekistan",
+        "lat": 40.9996482,
+        "lng": 71.6726238,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Pari Nizhniy Novgorod",
+        "city": "Nizhny Novgorod",
+        "country": "Russia",
+        "lat": 56.3264816,
+        "lng": 44.0051395,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Navbahor Namangan",
+        "city": "Namangan",
+        "country": "Uzbekistan",
+        "lat": 40.9996482,
+        "lng": 71.6726238,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ruslanbek_Jiyanov"
+  },
+  {
+    "id": "rustam-ashurmatov",
+    "name": "Rustam Ashurmatov",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "uzbeki",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Kokand 1912",
+        "city": "Kokand",
+        "country": "Uzbekistan",
+        "lat": 40.5408463,
+        "lng": 70.9473889,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Bunyodkor Tashkent",
+        "city": "Taschkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2015,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Gwangju FC",
+        "city": "Seo-gu, Gwangju",
+        "country": "Korea, South",
+        "lat": 35.1521401,
+        "lng": 126.8900561,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Gangwon FC",
+        "city": "Chuncheon/Gangneung, Gangwon",
+        "country": "Korea, South",
+        "lat": 37.7525381,
+        "lng": 128.8945076,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Navbahor Namangan",
+        "city": "Namangan",
+        "country": "Uzbekistan",
+        "lat": 40.9996482,
+        "lng": 71.6726238,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Rubin Kazan",
+        "city": "Kazan",
+        "country": "Russia",
+        "lat": 55.7946485,
+        "lng": 49.1115022,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Esteghlal FC",
+        "city": "Tehran",
+        "country": "Iran",
+        "lat": 35.6892523,
+        "lng": 51.3896004,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Rustam_Ashurmatov"
+  },
+  {
+    "id": "sherzod-esanov",
+    "name": "Sherzod Esanov",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "uzbeki",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Andijon",
+        "city": "Andijan",
+        "country": "Uzbekistan",
+        "lat": 40.7833471,
+        "lng": 72.3506746,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Olympic",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Andijon",
+        "city": "Andijan",
+        "country": "Uzbekistan",
+        "lat": 40.7833471,
+        "lng": 72.3506746,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Dynamo Brest",
+        "city": "Brest",
+        "country": "Belarus",
+        "lat": 52.093751,
+        "lng": 23.6851851,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "FC Buxoro",
+        "city": "Bukhara",
+        "country": "Uzbekistan",
+        "lat": 39.7759835,
+        "lng": 64.415153,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Sherzod_Esanov"
+  },
+  {
+    "id": "sherzod-nasrullaev",
+    "name": "Sherzod Nasrullaev",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "uzbeki",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Nasaf Qarshi",
+        "city": "Qarshi",
+        "country": "Uzbekistan",
+        "lat": 38.839824,
+        "lng": 65.7927794,
+        "fromYear": 2018,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Pakhtakor Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Sherzod_Nasrullaev"
+  },
+  {
+    "id": "umar-eshmurodov",
+    "name": "Umar Eshmurodov",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "uzbeki",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Nasaf Qarshi",
+        "city": "Qarshi",
+        "country": "Uzbekistan",
+        "lat": 38.839824,
+        "lng": 65.7927794,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Pakhtakor Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Nasaf Qarshi",
+        "city": "Qarshi",
+        "country": "Uzbekistan",
+        "lat": 38.839824,
+        "lng": 65.7927794,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Pakhtakor Tashkent",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "lat": 41.3123363,
+        "lng": 69.2787079,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Nasaf Qarshi",
+        "city": "Qarshi",
+        "country": "Uzbekistan",
+        "lat": 38.839824,
+        "lng": 65.7927794,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Selangor FC",
+        "city": "Shah Alam, Selangor",
+        "country": "Malaysia",
+        "lat": 3.0739429,
+        "lng": 101.5185278,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Nasaf Qarshi",
+        "city": "Qarshi",
+        "country": "Uzbekistan",
+        "lat": 38.839824,
+        "lng": 65.7927794,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Umar_Eshmurodov"
+  },
+  {
+    "id": "utkir-yusupov",
+    "name": "Utkir Yusupov",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "uzbeki",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Mash'al Mubarek",
+        "city": "Mubarek",
+        "country": "Uzbekistan",
+        "lat": 39.2615453,
+        "lng": 65.1580462,
+        "fromYear": 2012,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Nasaf Qarshi",
+        "city": "Qarshi",
+        "country": "Uzbekistan",
+        "lat": 38.839824,
+        "lng": 65.7927794,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Neftchi Fergana",
+        "city": "Fergana",
+        "country": "Uzbekistan",
+        "lat": 40.3764879,
+        "lng": 71.7913193,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "FC Kokand 1912",
+        "city": "Kokand",
+        "country": "Uzbekistan",
+        "lat": 40.5408463,
+        "lng": 70.9473889,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Navbahor Namangan",
+        "city": "Namangan",
+        "country": "Uzbekistan",
+        "lat": 40.9996482,
+        "lng": 71.6726238,
+        "fromYear": 2019,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Foolad FC",
+        "city": "Ahvaz",
+        "country": "Iran",
+        "lat": 31.3230637,
+        "lng": 48.67932,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Navbahor Namangan",
+        "city": "Namangan",
+        "country": "Uzbekistan",
+        "lat": 40.9996482,
+        "lng": 71.6726238,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Utkir_Yusupov"
+  }
+]

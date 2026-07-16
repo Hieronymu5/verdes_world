@@ -1,4 +1,11 @@
-import { ChangeDetectionStrategy, Component, computed, inject, OnInit, signal } from '@angular/core';
+import {
+  ChangeDetectionStrategy,
+  Component,
+  computed,
+  inject,
+  OnInit,
+  signal,
+} from '@angular/core';
 import { RouterLink } from '@angular/router';
 import { GeoGuesserDataService } from '../geo-guesser/geo-guesser-data.service';
 
@@ -26,7 +33,10 @@ export class PlayersComponent implements OnInit {
     if (!q) return this.players();
 
     const normal = (s: string) =>
-      s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+      s
+        .toLowerCase()
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '');
     const searchNum = parseInt(q, 10);
 
     return this.players().filter((p) => {

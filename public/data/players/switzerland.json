@@ -1,0 +1,1610 @@
+[
+  {
+    "id": "ardon-jashari",
+    "name": "Ardon Jashari",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Swiss",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Luzern",
+        "city": "Luzern",
+        "country": "Switzerland",
+        "lat": 47.052144,
+        "lng": 8.3058123,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Club Brugge KV",
+        "city": "Brugge",
+        "country": "Belgium",
+        "lat": 51.2085526,
+        "lng": 3.226772,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "AC Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ardon_Jashari"
+  },
+  {
+    "id": "aurele-amenda",
+    "name": "Aurèle Amenda",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Swiss",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "BSC Young Boys",
+        "city": "Bern",
+        "country": "Switzerland",
+        "lat": 46.9484742,
+        "lng": 7.4521749,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "BSC Young Boys",
+        "city": "Bern",
+        "country": "Switzerland",
+        "lat": 46.9484742,
+        "lng": 7.4521749,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Aur%C3%A8le_Amenda"
+  },
+  {
+    "id": "breel-embolo",
+    "name": "Breel Embolo",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Swiss",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "FC Basel 1893",
+        "city": "Basel",
+        "country": "Switzerland",
+        "lat": 47.5581077,
+        "lng": 7.5878261,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "FC Schalke 04",
+        "city": "Gelsenkirchen",
+        "country": "Germany",
+        "lat": 51.5110321,
+        "lng": 7.0960124,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Borussia Mönchengladbach",
+        "city": "Mönchengladbach",
+        "country": "Germany",
+        "lat": 51.1947131,
+        "lng": 6.4353792,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "AS Monaco",
+        "city": "Monaco",
+        "country": "Monaco",
+        "lat": 43.7309697,
+        "lng": 7.4248152,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Stade Rennais FC",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Breel_Embolo"
+  },
+  {
+    "id": "cedric-itten",
+    "name": "Cedric Itten",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Swiss",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "FC Luzern",
+        "city": "Luzern",
+        "country": "Switzerland",
+        "lat": 47.052144,
+        "lng": 8.3058123,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "FC Basel 1893",
+        "city": "Basel",
+        "country": "Switzerland",
+        "lat": 47.5581077,
+        "lng": 7.5878261,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "FC St. Gallen 1879",
+        "city": "St. Gallen",
+        "country": "Switzerland",
+        "lat": 47.425618,
+        "lng": 9.3762397,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "FC Basel 1893",
+        "city": "Basel",
+        "country": "Switzerland",
+        "lat": 47.5581077,
+        "lng": 7.5878261,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Rangers FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "SpVgg Greuther Fürth",
+        "city": "Fürth",
+        "country": "Germany",
+        "lat": 49.4885711,
+        "lng": 10.9587203,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "BSC Young Boys",
+        "city": "Bern",
+        "country": "Switzerland",
+        "lat": 46.9484742,
+        "lng": 7.4521749,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Rangers FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Fortuna Düsseldorf",
+        "city": "Düsseldorf",
+        "country": "Germany",
+        "lat": 51.2254018,
+        "lng": 6.7763137,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "SV Werder Bremen",
+        "city": "Bremen",
+        "country": "Germany",
+        "lat": 53.0758196,
+        "lng": 8.8071646,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Cedric_Itten"
+  },
+  {
+    "id": "christian-fassnacht",
+    "name": "Christian Fassnacht",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Swiss",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Red Star Zürich",
+        "city": "Zürich",
+        "country": "Switzerland",
+        "lat": 47.3744489,
+        "lng": 8.5410422,
+        "fromYear": 2009,
+        "toYear": 2010
+      },
+      {
+        "clubName": "FC Thalwil",
+        "city": "Thalwil",
+        "country": "Switzerland",
+        "lat": 47.2944325,
+        "lng": 8.5635762,
+        "fromYear": 2010,
+        "toYear": 2014
+      },
+      {
+        "clubName": "FC Tuggen",
+        "city": "Tuggen",
+        "country": "Switzerland",
+        "lat": 47.2022792,
+        "lng": 8.9424794,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "FC Thalwil",
+        "city": "Thalwil",
+        "country": "Switzerland",
+        "lat": 47.2944325,
+        "lng": 8.5635762,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "FC Winterthur",
+        "city": "Winterthur",
+        "country": "Switzerland",
+        "lat": 47.4991723,
+        "lng": 8.7291498,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "FC Thun",
+        "city": "Thun",
+        "country": "Switzerland",
+        "lat": 46.7582827,
+        "lng": 7.628086,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "BSC Young Boys",
+        "city": "Bern",
+        "country": "Switzerland",
+        "lat": 46.9484742,
+        "lng": 7.4521749,
+        "fromYear": 2017,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Norwich City",
+        "city": "Norwich",
+        "country": "England",
+        "lat": 52.6285576,
+        "lng": 1.2923954,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "BSC Young Boys",
+        "city": "Bern",
+        "country": "Switzerland",
+        "lat": 46.9484742,
+        "lng": 7.4521749,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_Fassnacht"
+  },
+  {
+    "id": "dan-ndoye",
+    "name": "Dan Ndoye",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Swiss",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "FC Lausanne-Sport",
+        "city": "Lausanne",
+        "country": "Switzerland",
+        "lat": 46.5218269,
+        "lng": 6.6327025,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "OGC Nice",
+        "city": "Nice",
+        "country": "France",
+        "lat": 43.7009358,
+        "lng": 7.2683912,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "FC Lausanne-Sport",
+        "city": "Lausanne",
+        "country": "Switzerland",
+        "lat": 46.5218269,
+        "lng": 6.6327025,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Basel 1893",
+        "city": "Basel",
+        "country": "Switzerland",
+        "lat": 47.5581077,
+        "lng": 7.5878261,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "OGC Nice",
+        "city": "Nice",
+        "country": "France",
+        "lat": 43.7009358,
+        "lng": 7.2683912,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Bologna FC 1909",
+        "city": "Bologna",
+        "country": "Italy",
+        "lat": 44.4938203,
+        "lng": 11.3426327,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Dan_Ndoye"
+  },
+  {
+    "id": "denis-zakaria",
+    "name": "Denis Zakaria",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Swiss",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Servette FC",
+        "city": "Carouge",
+        "country": "Switzerland",
+        "lat": 46.1846691,
+        "lng": 6.1396839,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "BSC Young Boys",
+        "city": "Bern",
+        "country": "Switzerland",
+        "lat": 46.9484742,
+        "lng": 7.4521749,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Borussia Mönchengladbach",
+        "city": "Mönchengladbach",
+        "country": "Germany",
+        "lat": 51.1947131,
+        "lng": 6.4353792,
+        "fromYear": 2017,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Chelsea FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Juventus FC",
+        "city": "Torino",
+        "country": "Italy",
+        "lat": 45.0677551,
+        "lng": 7.6824892,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "AS Monaco",
+        "city": "Monaco",
+        "country": "Monaco",
+        "lat": 43.7309697,
+        "lng": 7.4248152,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Denis_Zakaria"
+  },
+  {
+    "id": "djibril-sow",
+    "name": "Djibril Sow",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Swiss",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Borussia Mönchengladbach II",
+        "city": "Mönchengladbach",
+        "country": "Germany",
+        "lat": 51.1947131,
+        "lng": 6.4353792,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Borussia Mönchengladbach",
+        "city": "Mönchengladbach",
+        "country": "Germany",
+        "lat": 51.1947131,
+        "lng": 6.4353792,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "BSC Young Boys",
+        "city": "Bern",
+        "country": "Switzerland",
+        "lat": 46.9484742,
+        "lng": 7.4521749,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Eintracht Frankfurt",
+        "city": "Frankfurt am Main",
+        "country": "Germany",
+        "lat": 50.1106444,
+        "lng": 8.6820917,
+        "fromYear": 2019,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Sevilla FC",
+        "city": "Sevilla",
+        "country": "Spain",
+        "lat": 37.3886303,
+        "lng": -5.9953403,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Djibril_Sow"
+  },
+  {
+    "id": "eray-comert",
+    "name": "Eray Cömert",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Swiss",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Basel 1893",
+        "city": "Basel",
+        "country": "Switzerland",
+        "lat": 47.5581077,
+        "lng": 7.5878261,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "FC Lugano",
+        "city": "Lugano",
+        "country": "Switzerland",
+        "lat": 46.0038007,
+        "lng": 8.9512275,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "FC Sion",
+        "city": "Martigny 1",
+        "country": "Switzerland",
+        "lat": 46.1241773,
+        "lng": 7.1392195,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "FC Basel 1893",
+        "city": "Basel",
+        "country": "Switzerland",
+        "lat": 47.5581077,
+        "lng": 7.5878261,
+        "fromYear": 2017,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Valencia CF",
+        "city": "Valencia",
+        "country": "Spain",
+        "lat": 39.4697065,
+        "lng": -0.3763353,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Nantes",
+        "city": "La Chapelle-sur-Erdre",
+        "country": "France",
+        "lat": 47.2996846,
+        "lng": -1.5518632,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Valencia CF",
+        "city": "Valencia",
+        "country": "Spain",
+        "lat": 39.4697065,
+        "lng": -0.3763353,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Real Valladolid CF",
+        "city": "Valladolid",
+        "country": "Spain",
+        "lat": 41.6200024,
+        "lng": -4.7259906,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Valencia CF",
+        "city": "Valencia",
+        "country": "Spain",
+        "lat": 39.4697065,
+        "lng": -0.3763353,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Eray_C%C3%B6mert"
+  },
+  {
+    "id": "fabian-rieder",
+    "name": "Fabian Rieder",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Swiss",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "BSC Young Boys",
+        "city": "Bern",
+        "country": "Switzerland",
+        "lat": 46.9484742,
+        "lng": 7.4521749,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Stade Rennais FC",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "VfB Stuttgart",
+        "city": "Stuttgart",
+        "country": "Germany",
+        "lat": 48.7784485,
+        "lng": 9.1800132,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Augsburg",
+        "city": "Augsburg",
+        "country": "Germany",
+        "lat": 48.3690341,
+        "lng": 10.8979522,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Stade Rennais FC",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Fabian_Rieder"
+  },
+  {
+    "id": "granit-xhaka",
+    "name": "Granit Xhaka",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Swiss",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Basel 1893",
+        "city": "Basel",
+        "country": "Switzerland",
+        "lat": 47.5581077,
+        "lng": 7.5878261,
+        "fromYear": 2010,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Borussia Mönchengladbach",
+        "city": "Mönchengladbach",
+        "country": "Germany",
+        "lat": 51.1947131,
+        "lng": 6.4353792,
+        "fromYear": 2012,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Arsenal FC",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2016,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Bayer 04 Leverkusen",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "lat": 51.0324743,
+        "lng": 6.9881194,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Sunderland AFC",
+        "city": "Sunderland",
+        "country": "England",
+        "lat": 54.9058512,
+        "lng": -1.3828727,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Granit_Xhaka"
+  },
+  {
+    "id": "gregor-kobel",
+    "name": "Gregor Kobel",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Swiss",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2016,
+        "toYear": 2016
+      },
+      {
+        "clubName": "VfB Stuttgart",
+        "city": "Stuttgart",
+        "country": "Germany",
+        "lat": 48.7784485,
+        "lng": 9.1800132,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Augsburg",
+        "city": "Augsburg",
+        "country": "Germany",
+        "lat": 48.3690341,
+        "lng": 10.8979522,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "TSG 1899 Hoffenheim",
+        "city": "Zuzenhausen",
+        "country": "Germany",
+        "lat": 49.2967457,
+        "lng": 8.825661,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "VfB Stuttgart",
+        "city": "Stuttgart",
+        "country": "Germany",
+        "lat": 48.7784485,
+        "lng": 9.1800132,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Gregor_Kobel"
+  },
+  {
+    "id": "johan-manzambi",
+    "name": "Johan Manzambi",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Swiss",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "SC Freiburg II",
+        "city": "Freiburg im Breisgau",
+        "country": "Germany",
+        "lat": 47.9960901,
+        "lng": 7.8494005,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "SC Freiburg",
+        "city": "Freiburg im Breisgau",
+        "country": "Germany",
+        "lat": 47.9960901,
+        "lng": 7.8494005,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Johan_Manzambi"
+  },
+  {
+    "id": "luca-jaquez",
+    "name": "Luca Jaquez",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Swiss",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Luzern",
+        "city": "Luzern",
+        "country": "Switzerland",
+        "lat": 47.052144,
+        "lng": 8.3058123,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "VfB Stuttgart",
+        "city": "Stuttgart",
+        "country": "Germany",
+        "lat": 48.7784485,
+        "lng": 9.1800132,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Luca_Jaquez"
+  },
+  {
+    "id": "manuel-akanji",
+    "name": "Manuel Akanji",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Swiss",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Winterthur",
+        "city": "Winterthur",
+        "country": "Switzerland",
+        "lat": 47.4991723,
+        "lng": 8.7291498,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "FC Basel 1893",
+        "city": "Basel",
+        "country": "Switzerland",
+        "lat": 47.5581077,
+        "lng": 7.5878261,
+        "fromYear": 2015,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Borussia Dortmund",
+        "city": "Dortmund",
+        "country": "Germany",
+        "lat": 51.5142273,
+        "lng": 7.4652789,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Inter Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Manchester City",
+        "city": "Manchester",
+        "country": "England",
+        "lat": 53.4424618,
+        "lng": -2.2324547,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_Akanji"
+  },
+  {
+    "id": "marvin-keller",
+    "name": "Marvin Keller",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Swiss",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Grasshopper Club Zurich",
+        "city": "Niederhasli",
+        "country": "Switzerland",
+        "lat": 47.4812949,
+        "lng": 8.4858049,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Wil 1900",
+        "city": "Wil",
+        "country": "Switzerland",
+        "lat": 47.465266,
+        "lng": 9.0415478,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "BSC Young Boys",
+        "city": "Bern",
+        "country": "Switzerland",
+        "lat": 46.9484742,
+        "lng": 7.4521749,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Winterthur",
+        "city": "Winterthur",
+        "country": "Switzerland",
+        "lat": 47.4991723,
+        "lng": 8.7291498,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "BSC Young Boys",
+        "city": "Bern",
+        "country": "Switzerland",
+        "lat": 46.9484742,
+        "lng": 7.4521749,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Marvin_Keller"
+  },
+  {
+    "id": "michel-aebischer",
+    "name": "Michel Aebischer",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Swiss",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "BSC Young Boys",
+        "city": "Bern",
+        "country": "Switzerland",
+        "lat": 46.9484742,
+        "lng": 7.4521749,
+        "fromYear": 2017,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Bologna FC 1909",
+        "city": "Bologna",
+        "country": "Italy",
+        "lat": 44.4938203,
+        "lng": 11.3426327,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "BSC Young Boys",
+        "city": "Bern",
+        "country": "Switzerland",
+        "lat": 46.9484742,
+        "lng": 7.4521749,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Pisa Sporting Club",
+        "city": "Pisa",
+        "country": "Italy",
+        "lat": 43.4714722,
+        "lng": 10.6797912,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Bologna FC 1909",
+        "city": "Bologna",
+        "country": "Italy",
+        "lat": 44.4938203,
+        "lng": 11.3426327,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Michel_Aebischer"
+  },
+  {
+    "id": "miro-muheim",
+    "name": "Miro Muheim",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Swiss",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Zürich",
+        "city": "Zürich",
+        "country": "Switzerland",
+        "lat": 47.3744489,
+        "lng": 8.5410422,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "FC St. Gallen 1879",
+        "city": "St. Gallen",
+        "country": "Switzerland",
+        "lat": 47.425618,
+        "lng": 9.3762397,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Hamburger SV",
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.5501721,
+        "lng": 10.0013165,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC St. Gallen 1879",
+        "city": "St. Gallen",
+        "country": "Switzerland",
+        "lat": 47.425618,
+        "lng": 9.3762397,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Miro_Muheim"
+  },
+  {
+    "id": "nico-elvedi",
+    "name": "Nico Elvedi",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Swiss",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Zürich",
+        "city": "Zürich",
+        "country": "Switzerland",
+        "lat": 47.3744489,
+        "lng": 8.5410422,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Borussia Mönchengladbach",
+        "city": "Mönchengladbach",
+        "country": "Germany",
+        "lat": 51.1947131,
+        "lng": 6.4353792,
+        "fromYear": 2015,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nico_Elvedi"
+  },
+  {
+    "id": "noah-okafor",
+    "name": "Noah Okafor",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Swiss",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "FC Basel 1893",
+        "city": "Basel",
+        "country": "Switzerland",
+        "lat": 47.5581077,
+        "lng": 7.5878261,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Red Bull Salzburg",
+        "city": "Wals-Siezenheim",
+        "country": "Austria",
+        "lat": 47.7986,
+        "lng": 12.9807,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "AC Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "SSC Napoli",
+        "city": "Napoli",
+        "country": "Italy",
+        "lat": 40.8358846,
+        "lng": 14.2487679,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "AC Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Leeds United",
+        "city": "Leeds",
+        "country": "England",
+        "lat": 53.7974185,
+        "lng": -1.5437941,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Noah_Okafor"
+  },
+  {
+    "id": "remo-freuler",
+    "name": "Remo Freuler",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Swiss",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Grasshopper Club Zurich",
+        "city": "Niederhasli",
+        "country": "Switzerland",
+        "lat": 47.4812949,
+        "lng": 8.4858049,
+        "fromYear": 2011,
+        "toYear": 2012
+      },
+      {
+        "clubName": "FC Winterthur",
+        "city": "Winterthur",
+        "country": "Switzerland",
+        "lat": 47.4991723,
+        "lng": 8.7291498,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Grasshopper Club Zurich",
+        "city": "Niederhasli",
+        "country": "Switzerland",
+        "lat": 47.4812949,
+        "lng": 8.4858049,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "FC Luzern",
+        "city": "Luzern",
+        "country": "Switzerland",
+        "lat": 47.052144,
+        "lng": 8.3058123,
+        "fromYear": 2014,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Atalanta BC",
+        "city": "Bergamo",
+        "country": "Italy",
+        "lat": 45.7566557,
+        "lng": 9.7542192,
+        "fromYear": 2016,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Bologna FC 1909",
+        "city": "Bologna",
+        "country": "Italy",
+        "lat": 44.4938203,
+        "lng": 11.3426327,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Nottingham Forest",
+        "city": "West Bridgford",
+        "country": "England",
+        "lat": 52.9310754,
+        "lng": -1.1256663,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Remo_Freuler"
+  },
+  {
+    "id": "ricardo-rodriguez",
+    "name": "Ricardo Rodríguez",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Swiss",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Zürich",
+        "city": "Zürich",
+        "country": "Switzerland",
+        "lat": 47.3744489,
+        "lng": 8.5410422,
+        "fromYear": 2010,
+        "toYear": 2012
+      },
+      {
+        "clubName": "VfL Wolfsburg",
+        "city": "Wolfsburg",
+        "country": "Germany",
+        "lat": 52.4205588,
+        "lng": 10.7861682,
+        "fromYear": 2012,
+        "toYear": 2017
+      },
+      {
+        "clubName": "AC Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Torino FC",
+        "city": "Torino",
+        "country": "Italy",
+        "lat": 45.0677551,
+        "lng": 7.6824892,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "AC Milan",
+        "city": "Milano",
+        "country": "Italy",
+        "lat": 45.4641943,
+        "lng": 9.1896346,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Real Betis Balompié",
+        "city": "Sevilla",
+        "country": "Spain",
+        "lat": 37.3886303,
+        "lng": -5.9953403,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ricardo_Rodr%C3%ADguez"
+  },
+  {
+    "id": "ruben-vargas",
+    "name": "Rubén Vargas",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Swiss",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "FC Luzern",
+        "city": "Luzern",
+        "country": "Switzerland",
+        "lat": 47.052144,
+        "lng": 8.3058123,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "FC Augsburg",
+        "city": "Augsburg",
+        "country": "Germany",
+        "lat": 48.3690341,
+        "lng": 10.8979522,
+        "fromYear": 2019,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Sevilla FC",
+        "city": "Sevilla",
+        "country": "Spain",
+        "lat": 37.3886303,
+        "lng": -5.9953403,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Rub%C3%A9n_Vargas"
+  },
+  {
+    "id": "silvan-widmer",
+    "name": "Silvan Widmer",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Swiss",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Aarau",
+        "city": "Aarau",
+        "country": "Switzerland",
+        "lat": 47.3927146,
+        "lng": 8.0444448,
+        "fromYear": 2011,
+        "toYear": 2012
+      },
+      {
+        "clubName": "Granada CF",
+        "city": "Granada",
+        "country": "Spain",
+        "lat": 37.1734995,
+        "lng": -3.5995337,
+        "fromYear": 2012,
+        "toYear": 2012
+      },
+      {
+        "clubName": "FC Aarau",
+        "city": "Aarau",
+        "country": "Switzerland",
+        "lat": 47.3927146,
+        "lng": 8.0444448,
+        "fromYear": 2012,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Udinese Calcio",
+        "city": "Udine",
+        "country": "Italy",
+        "lat": 46.0634632,
+        "lng": 13.2358377,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Granada CF",
+        "city": "Granada",
+        "country": "Spain",
+        "lat": 37.1734995,
+        "lng": -3.5995337,
+        "fromYear": 2013,
+        "toYear": 2018
+      },
+      {
+        "clubName": "FC Basel 1893",
+        "city": "Basel",
+        "country": "Switzerland",
+        "lat": 47.5581077,
+        "lng": 7.5878261,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "1.FSV Mainz 05",
+        "city": "Mainz",
+        "country": "Germany",
+        "lat": 49.9995205,
+        "lng": 8.2736253,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Silvan_Widmer"
+  },
+  {
+    "id": "yvon-mvogo",
+    "name": "Yvon Mvogo",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Swiss",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "BSC Young Boys",
+        "city": "Bern",
+        "country": "Switzerland",
+        "lat": 46.9484742,
+        "lng": 7.4521749,
+        "fromYear": 2011,
+        "toYear": 2017
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "PSV Eindhoven",
+        "city": "Eindhoven",
+        "country": "Netherlands",
+        "lat": 51.4485569,
+        "lng": 5.4501225,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Lorient",
+        "city": "Lorient",
+        "country": "France",
+        "lat": 47.7477336,
+        "lng": -3.3660907,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Yvon_Mvogo"
+  },
+  {
+    "id": "zeki-amdouni",
+    "name": "Zeki Amdouni",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Swiss",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Etoile Carouge FC",
+        "city": "Carouge",
+        "country": "Switzerland",
+        "lat": 46.1846691,
+        "lng": 6.1396839,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "FC Stade-Lausanne-Ouchy",
+        "city": "Lausanne",
+        "country": "Switzerland",
+        "lat": 46.5218269,
+        "lng": 6.6327025,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "FC Lausanne-Sport",
+        "city": "Lausanne",
+        "country": "Switzerland",
+        "lat": 46.5218269,
+        "lng": 6.6327025,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Basel 1893",
+        "city": "Basel",
+        "country": "Switzerland",
+        "lat": 47.5581077,
+        "lng": 7.5878261,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Lausanne-Sport",
+        "city": "Lausanne",
+        "country": "Switzerland",
+        "lat": 46.5218269,
+        "lng": 6.6327025,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Burnley FC",
+        "city": "Burnley",
+        "country": "England",
+        "lat": 53.7907262,
+        "lng": -2.2439196,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "SL Benfica",
+        "city": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7077507,
+        "lng": -9.1365919,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Burnley FC",
+        "city": "Burnley",
+        "country": "England",
+        "lat": 53.7907262,
+        "lng": -2.2439196,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Zeki_Amdouni"
+  }
+]

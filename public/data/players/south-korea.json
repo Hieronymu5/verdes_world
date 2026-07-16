@@ -1,0 +1,1664 @@
+[
+  {
+    "id": "bum-keun-song",
+    "name": "Bum-keun Song",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "South Korean",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Jeonbuk Hyundai Motors",
+        "city": "Jeonju, Jeollabuk",
+        "country": "Korea, South",
+        "lat": 35.8237631,
+        "lng": 127.1472805,
+        "fromYear": 2018,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Shonan Bellmare",
+        "city": "Hiratsuka, Kanagawa",
+        "country": "Japan",
+        "lat": 35.3350609,
+        "lng": 139.3494345,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Jeonbuk Hyundai Motors",
+        "city": "Jeonju, Jeollabuk",
+        "country": "Korea, South",
+        "lat": 35.8237631,
+        "lng": 127.1472805,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Bum-keun_Song"
+  },
+  {
+    "id": "dong-gyeong-lee",
+    "name": "Dong-gyeong Lee",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "South Korean",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Daegu Hwawon Elementary School",
+        "city": "Daegu",
+        "country": "Korea, South",
+        "lat": 35.8713,
+        "lng": 128.6018,
+        "fromYear": 2010,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Hongik University",
+        "city": "Mapo-gu, Seoul",
+        "country": "Korea, South",
+        "lat": 37.566571,
+        "lng": 126.9015317,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Ulsan HD FC",
+        "city": "Dong-gu, Ulsan",
+        "country": "Korea, South",
+        "lat": 35.5046663,
+        "lng": 129.4170114,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "FC Anyang",
+        "city": "Anyang, Gyeonggi",
+        "country": "Korea, South",
+        "lat": 37.3938528,
+        "lng": 126.9570605,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Ulsan HD FC",
+        "city": "Dong-gu, Ulsan",
+        "country": "Korea, South",
+        "lat": 35.5046663,
+        "lng": 129.4170114,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Hansa Rostock",
+        "city": "Rostock",
+        "country": "Germany",
+        "lat": 54.0886707,
+        "lng": 12.1400211,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Schalke 04",
+        "city": "Gelsenkirchen",
+        "country": "Germany",
+        "lat": 51.5110321,
+        "lng": 7.0960124,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Ulsan HD FC",
+        "city": "Dong-gu, Ulsan",
+        "country": "Korea, South",
+        "lat": 35.5046663,
+        "lng": 129.4170114,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Gimcheon Sangmu",
+        "city": "Gimcheon, Gyeongbuk",
+        "country": "Korea, South",
+        "lat": 36.1398035,
+        "lng": 128.1139534,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Ulsan HD FC",
+        "city": "Dong-gu, Ulsan",
+        "country": "Korea, South",
+        "lat": 35.5046663,
+        "lng": 129.4170114,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Dong-gyeong_Lee"
+  },
+  {
+    "id": "gi-hyuk-lee",
+    "name": "Gi-hyuk Lee",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "South Korean",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Seoul Wooi Elementary School",
+        "city": "---, Seoul",
+        "country": "Korea, South",
+        "lat": 37.5666791,
+        "lng": 126.9782914,
+        "fromYear": 2013,
+        "toYear": 2013
+      },
+      {
+        "clubName": "University of Ulsan",
+        "city": "Ulsan",
+        "country": "Korea, South",
+        "lat": 35.5391697,
+        "lng": 129.3119136,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Suwon FC",
+        "city": "Jangan-gu, Suwon, Gyeonggi",
+        "country": "Korea, South",
+        "lat": 37.3037639,
+        "lng": 127.0105254,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Jeju SK",
+        "city": "Seogwipo, Jeju",
+        "country": "Korea, South",
+        "lat": 33.252845,
+        "lng": 126.5610278,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Gangwon FC",
+        "city": "Chuncheon/Gangneung, Gangwon",
+        "country": "Korea, South",
+        "lat": 37.7525381,
+        "lng": 128.8945076,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Gi-hyuk_Lee"
+  },
+  {
+    "id": "gue-sung-cho",
+    "name": "Gue-sung Cho",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "South Korean",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Iho Elementary School",
+        "city": "Ansan, Gyeonggi",
+        "country": "Korea, South",
+        "lat": 37.3217152,
+        "lng": 126.8308604,
+        "fromYear": 2010,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Wongok Middle School",
+        "city": "Ansan, Gyeonggi",
+        "country": "Korea, South",
+        "lat": 37.3217152,
+        "lng": 126.8308604,
+        "fromYear": 2010,
+        "toYear": 2013
+      },
+      {
+        "clubName": "FC Anyang",
+        "city": "Anyang, Gyeonggi",
+        "country": "Korea, South",
+        "lat": 37.3938528,
+        "lng": 126.9570605,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Jeonbuk Hyundai Motors",
+        "city": "Jeonju, Jeollabuk",
+        "country": "Korea, South",
+        "lat": 35.8237631,
+        "lng": 127.1472805,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Gimcheon Sangmu",
+        "city": "Gimcheon, Gyeongbuk",
+        "country": "Korea, South",
+        "lat": 36.1398035,
+        "lng": 128.1139534,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Jeonbuk Hyundai Motors",
+        "city": "Jeonju, Jeollabuk",
+        "country": "Korea, South",
+        "lat": 35.8237631,
+        "lng": 127.1472805,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Midtjylland",
+        "city": "Herning",
+        "country": "Denmark",
+        "lat": 56.1379757,
+        "lng": 8.9746623,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Gue-sung_Cho"
+  },
+  {
+    "id": "han-beom-lee",
+    "name": "Han-beom Lee",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "South Korean",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Daegu Hwawon Elementary School",
+        "city": "Daegu",
+        "country": "Korea, South",
+        "lat": 35.8713,
+        "lng": 128.6018,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "FC Seoul",
+        "city": "Mapo-gu, Seoul",
+        "country": "Korea, South",
+        "lat": 37.566571,
+        "lng": 126.9015317,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "FC Midtjylland",
+        "city": "Herning",
+        "country": "Denmark",
+        "lat": 56.1379757,
+        "lng": 8.9746623,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Han-beom_Lee"
+  },
+  {
+    "id": "hee-chan-hwang",
+    "name": "Hee-chan Hwang",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "South Korean",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Puin Elementary School",
+        "city": "Buan, Jeollabuk",
+        "country": "Korea, South",
+        "lat": 35.7316783,
+        "lng": 126.7330195,
+        "fromYear": 2007,
+        "toYear": 2007
+      },
+      {
+        "clubName": "Uijeongbu Singok Elementary School",
+        "city": "Uijeongbu, Gyeonggi",
+        "country": "Korea, South",
+        "lat": 37.7380747,
+        "lng": 127.0339665,
+        "fromYear": 2007,
+        "toYear": 2009
+      },
+      {
+        "clubName": "FC Liefering",
+        "city": "Salzburg",
+        "country": "Austria",
+        "lat": 47.7981346,
+        "lng": 13.0464806,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Red Bull Salzburg",
+        "city": "Wals-Siezenheim",
+        "country": "Austria",
+        "lat": 47.7986,
+        "lng": 12.9807,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Hamburger SV",
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.5501721,
+        "lng": 10.0013165,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Red Bull Salzburg",
+        "city": "Wals-Siezenheim",
+        "country": "Austria",
+        "lat": 47.7986,
+        "lng": 12.9807,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Wolverhampton Wanderers",
+        "city": "Wolverhampton",
+        "country": "England",
+        "lat": 52.5847651,
+        "lng": -2.127567,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "RB Leipzig",
+        "city": "Leipzig",
+        "country": "Germany",
+        "lat": 51.3406321,
+        "lng": 12.3747329,
+        "fromYear": 2022,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Hee-chan_Hwang"
+  },
+  {
+    "id": "heung-min-son",
+    "name": "Heung-min Son",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "South Korean",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Hamburger SV II",
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.5501721,
+        "lng": 10.0013165,
+        "fromYear": 2010,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Hamburger SV",
+        "city": "Hamburg",
+        "country": "Germany",
+        "lat": 53.5501721,
+        "lng": 10.0013165,
+        "fromYear": 2010,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Bayer 04 Leverkusen",
+        "city": "Leverkusen",
+        "country": "Germany",
+        "lat": 51.0324743,
+        "lng": 6.9881194,
+        "fromYear": 2013,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Tottenham Hotspur",
+        "city": "London",
+        "country": "England",
+        "lat": 51.5074456,
+        "lng": -0.1277653,
+        "fromYear": 2015,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Los Angeles FC",
+        "city": "Los Angeles, California",
+        "country": "United States",
+        "lat": 34.0536909,
+        "lng": -118.242766,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Heung-min_Son"
+  },
+  {
+    "id": "hyeon-gyu-oh",
+    "name": "Hyeon-gyu Oh",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "South Korean",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Maseog Elementary School",
+        "city": "Namyangju, Gyeonggi",
+        "country": "Korea, South",
+        "lat": 37.6359398,
+        "lng": 127.2165051,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Suwon Samsung Bluewings",
+        "city": "Paldal-gu, Suwon, Gyeonggi",
+        "country": "Korea, South",
+        "lat": 37.2825292,
+        "lng": 127.0199808,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Gimcheon Sangmu",
+        "city": "Gimcheon, Gyeongbuk",
+        "country": "Korea, South",
+        "lat": 36.1398035,
+        "lng": 128.1139534,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Suwon Samsung Bluewings",
+        "city": "Paldal-gu, Suwon, Gyeonggi",
+        "country": "Korea, South",
+        "lat": 37.2825292,
+        "lng": 127.0199808,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Celtic FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "KRC Genk",
+        "city": "Genk",
+        "country": "Belgium",
+        "lat": 50.9654864,
+        "lng": 5.5001456,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Besiktas JK",
+        "city": "Beşiktaş / İstanbul",
+        "country": "Türkiye",
+        "lat": 41.0670098,
+        "lng": 29.0421066,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyeon-gyu_Oh"
+  },
+  {
+    "id": "hyeon-woo-jo",
+    "name": "Hyeon-woo Jo",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "South Korean",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Sinjeong FC",
+        "city": "Seoul",
+        "country": "Korea, South",
+        "lat": 37.5666791,
+        "lng": 126.9782914,
+        "fromYear": 2004,
+        "toYear": 2004
+      },
+      {
+        "clubName": "Chung-Ang University High School",
+        "city": "Gangnam-gu, Seoul",
+        "country": "Korea, South",
+        "lat": 37.5177,
+        "lng": 127.0473,
+        "fromYear": 2007,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Sun Moon University",
+        "city": "Asan, Chungnam",
+        "country": "Korea, South",
+        "lat": 36.7899498,
+        "lng": 127.0026769,
+        "fromYear": 2010,
+        "toYear": 2013
+      },
+      {
+        "clubName": "Daegu FC",
+        "city": "Daegu",
+        "country": "Korea, South",
+        "lat": 35.8713,
+        "lng": 128.6018,
+        "fromYear": 2013,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Ulsan HD FC",
+        "city": "Dong-gu, Ulsan",
+        "country": "Korea, South",
+        "lat": 35.5046663,
+        "lng": 129.4170114,
+        "fromYear": 2020,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyeon-woo_Jo"
+  },
+  {
+    "id": "hyun-jun-yang",
+    "name": "Hyun-jun Yang",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "South Korean",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Busan Information High School",
+        "city": "Busanjin, Busan",
+        "country": "Korea, South",
+        "lat": 35.1252494,
+        "lng": 129.0490798,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Gangwon FC",
+        "city": "Chuncheon/Gangneung, Gangwon",
+        "country": "Korea, South",
+        "lat": 37.7525381,
+        "lng": 128.8945076,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Celtic FC",
+        "city": "Glasgow",
+        "country": "Scotland",
+        "lat": 55.861155,
+        "lng": -4.2501687,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyun-jun_Yang"
+  },
+  {
+    "id": "in-beom-hwang",
+    "name": "In-beom Hwang",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "South Korean",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Daejeon Moonhwa Elementary School",
+        "city": "Daejeon",
+        "country": "Korea, South",
+        "lat": 36.3497007,
+        "lng": 127.3849016,
+        "fromYear": 2009,
+        "toYear": 2009
+      },
+      {
+        "clubName": "Daejeon Hana Citizen",
+        "city": "Daejeon",
+        "country": "Korea, South",
+        "lat": 36.3497007,
+        "lng": 127.3849016,
+        "fromYear": 2015,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Asan Mugunghwa (2017-2019)",
+        "city": "Asan",
+        "country": "Korea, South",
+        "lat": 36.7899498,
+        "lng": 127.0026769,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Daejeon Hana Citizen",
+        "city": "Daejeon",
+        "country": "Korea, South",
+        "lat": 36.3497007,
+        "lng": 127.3849016,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Vancouver Whitecaps FC",
+        "city": "Vancouver, British Columbia",
+        "country": "Canada",
+        "lat": 49.2608724,
+        "lng": -123.113952,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Rubin Kazan",
+        "city": "Kazan",
+        "country": "Russia",
+        "lat": 55.7946485,
+        "lng": 49.1115022,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Seoul",
+        "city": "Mapo-gu, Seoul",
+        "country": "Korea, South",
+        "lat": 37.566571,
+        "lng": 126.9015317,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Rubin Kazan",
+        "city": "Kazan",
+        "country": "Russia",
+        "lat": 55.7946485,
+        "lng": 49.1115022,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "FC Seoul",
+        "city": "Mapo-gu, Seoul",
+        "country": "Korea, South",
+        "lat": 37.566571,
+        "lng": 126.9015317,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Rubin Kazan",
+        "city": "Kazan",
+        "country": "Russia",
+        "lat": 55.7946485,
+        "lng": 49.1115022,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Olympiacos Piraeus",
+        "city": "Piraeus",
+        "country": "Greece",
+        "lat": 37.9431594,
+        "lng": 23.6470593,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Red Star Belgrade",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "lat": 44.8153318,
+        "lng": 20.4456588,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Feyenoord Rotterdam",
+        "city": "Rotterdam",
+        "country": "Netherlands",
+        "lat": 51.9244424,
+        "lng": 4.47775,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/In-beom_Hwang"
+  },
+  {
+    "id": "jae-sung-lee",
+    "name": "Jae-sung Lee",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "South Korean",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Ulsan Okdong Elementary School",
+        "city": "---, Ulsan",
+        "country": "Korea, South",
+        "lat": 35.5391697,
+        "lng": 129.3119136,
+        "fromYear": 2005,
+        "toYear": 2005
+      },
+      {
+        "clubName": "Haksung High School",
+        "city": "Nam-gu, Ulsan",
+        "country": "Korea, South",
+        "lat": 35.5436,
+        "lng": 129.3304,
+        "fromYear": 2008,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Jeonbuk Hyundai Motors",
+        "city": "Jeonju, Jeollabuk",
+        "country": "Korea, South",
+        "lat": 35.8237631,
+        "lng": 127.1472805,
+        "fromYear": 2014,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Holstein Kiel",
+        "city": "Kiel",
+        "country": "Germany",
+        "lat": 54.3227085,
+        "lng": 10.135555,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "1.FSV Mainz 05",
+        "city": "Mainz",
+        "country": "Germany",
+        "lat": 49.9995205,
+        "lng": 8.2736253,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jae-sung_Lee"
+  },
+  {
+    "id": "jens-castrop",
+    "name": "Jens Castrop",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "South Korean",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "1.FC Köln II",
+        "city": "Köln",
+        "country": "Germany",
+        "lat": 50.938361,
+        "lng": 6.959974,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "1.FC Nuremberg",
+        "city": "Nürnberg",
+        "country": "Germany",
+        "lat": 49.453872,
+        "lng": 11.077298,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "1.FC Köln II",
+        "city": "Köln",
+        "country": "Germany",
+        "lat": 50.938361,
+        "lng": 6.959974,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Borussia Mönchengladbach",
+        "city": "Mönchengladbach",
+        "country": "Germany",
+        "lat": 51.1947131,
+        "lng": 6.4353792,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jens_Castrop"
+  },
+  {
+    "id": "ji-sung-eom",
+    "name": "Ji-sung Eom",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "South Korean",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Iri Dongsan Elementary School",
+        "city": "Iksan, Jeollabuk",
+        "country": "Korea, South",
+        "lat": 35.9479291,
+        "lng": 126.9578025,
+        "fromYear": 2015,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Daejeon Jungni Middle School",
+        "city": "Daedeok-gu, Daejeon",
+        "country": "Korea, South",
+        "lat": 36.3465766,
+        "lng": 127.4158483,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Gwangju FC",
+        "city": "Seo-gu, Gwangju",
+        "country": "Korea, South",
+        "lat": 35.1521401,
+        "lng": 126.8900561,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Swansea City",
+        "city": "Swansea",
+        "country": "Wales",
+        "lat": 51.6195955,
+        "lng": -3.9459248,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ji-sung_Eom"
+  },
+  {
+    "id": "jin-gyu-kim",
+    "name": "Jin-gyu Kim",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "South Korean",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Busan IPark",
+        "city": "Busan",
+        "country": "Korea, South",
+        "lat": 35.1799528,
+        "lng": 129.0752365,
+        "fromYear": 2015,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Jeonbuk Hyundai Motors",
+        "city": "Jeonju, Jeollabuk",
+        "country": "Korea, South",
+        "lat": 35.8237631,
+        "lng": 127.1472805,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Gimcheon Sangmu",
+        "city": "Gimcheon, Gyeongbuk",
+        "country": "Korea, South",
+        "lat": 36.1398035,
+        "lng": 128.1139534,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Jeonbuk Hyundai Motors",
+        "city": "Jeonju, Jeollabuk",
+        "country": "Korea, South",
+        "lat": 35.8237631,
+        "lng": 127.1472805,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jin-gyu_Kim"
+  },
+  {
+    "id": "jin-seob-park",
+    "name": "Jin-seob Park",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "South Korean",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Jeonju Jochon Elementary School",
+        "city": "Jeonju, Jeollabuk",
+        "country": "Korea, South",
+        "lat": 35.8237631,
+        "lng": 127.1472805,
+        "fromYear": 2008,
+        "toYear": 2008
+      },
+      {
+        "clubName": "Jeonju Technical High School",
+        "city": "Jeonju, Jeollabuk",
+        "country": "Korea, South",
+        "lat": 35.8237631,
+        "lng": 127.1472805,
+        "fromYear": 2011,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Digital Seoul Culture Arts University",
+        "city": "Seoul",
+        "country": "Korea, South",
+        "lat": 37.5666791,
+        "lng": 126.9782914,
+        "fromYear": 2014,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Daejeon Korail FC",
+        "city": "Dong-gu, Daejeon",
+        "country": "Korea, South",
+        "lat": 36.3120051,
+        "lng": 127.4554285,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Ansan Greeners",
+        "city": "Ansan, Gyeonggi",
+        "country": "Korea, South",
+        "lat": 37.3217152,
+        "lng": 126.8308604,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Daejeon Hana Citizen",
+        "city": "Daejeon",
+        "country": "Korea, South",
+        "lat": 36.3497007,
+        "lng": 127.3849016,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Jeonbuk Hyundai Motors",
+        "city": "Jeonju, Jeollabuk",
+        "country": "Korea, South",
+        "lat": 35.8237631,
+        "lng": 127.1472805,
+        "fromYear": 2022,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Zhejiang FC",
+        "city": "Hangzhou",
+        "country": "China",
+        "lat": 30.2489634,
+        "lng": 120.2052342,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jin-seob_Park"
+  },
+  {
+    "id": "jun-ho-bae",
+    "name": "Jun-ho Bae",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "South Korean",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Daejeon Hana Citizen",
+        "city": "Daejeon",
+        "country": "Korea, South",
+        "lat": 36.3497007,
+        "lng": 127.3849016,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Stoke City",
+        "city": "Stoke-on-Trent",
+        "country": "England",
+        "lat": 53.0162014,
+        "lng": -2.1812607,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Jun-ho_Bae"
+  },
+  {
+    "id": "kang-in-lee",
+    "name": "Kang-in Lee",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "South Korean",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Little Flyings",
+        "city": "Incheon",
+        "country": "Korea, South",
+        "lat": 37.456,
+        "lng": 126.7052,
+        "fromYear": 2011,
+        "toYear": 2011
+      },
+      {
+        "clubName": "Valencia Mestalla",
+        "city": "Valencia",
+        "country": "Spain",
+        "lat": 39.4697065,
+        "lng": -0.3763353,
+        "fromYear": 2018,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Valencia CF",
+        "city": "Valencia",
+        "country": "Spain",
+        "lat": 39.4697065,
+        "lng": -0.3763353,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "RCD Mallorca",
+        "city": "Palma de Mallorca",
+        "country": "Spain",
+        "lat": 39.5695818,
+        "lng": 2.6500745,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Paris Saint-Germain",
+        "city": "Paris",
+        "country": "France",
+        "lat": 48.8534951,
+        "lng": 2.3483915,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kang-in_Lee"
+  },
+  {
+    "id": "min-jae-kim",
+    "name": "Min-jae Kim",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "South Korean",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Dooryong Elementary School",
+        "city": "Tongyeong, Gyeongnam",
+        "country": "Korea, South",
+        "lat": 34.854254,
+        "lng": 128.433205,
+        "fromYear": 2007,
+        "toYear": 2007
+      },
+      {
+        "clubName": "Gimhae Gaya Elementary School",
+        "city": "Gimhae, Gyeongnam",
+        "country": "Korea, South",
+        "lat": 35.2279109,
+        "lng": 128.8895378,
+        "fromYear": 2007,
+        "toYear": 2009
+      },
+      {
+        "clubName": "Namhae Haesung Middle School",
+        "city": "Namhae, Gyeongnam",
+        "country": "Korea, South",
+        "lat": 34.8374437,
+        "lng": 127.8925589,
+        "fromYear": 2009,
+        "toYear": 2010
+      },
+      {
+        "clubName": "Suwon Technical High School",
+        "city": "Suwon",
+        "country": "Korea, South",
+        "lat": 37.2633325,
+        "lng": 127.0287472,
+        "fromYear": 2012,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Yonsei University",
+        "city": "Sinchon-dong, Seodaemun-gu, Seoul",
+        "country": "Korea, South",
+        "lat": 37.5662284,
+        "lng": 126.942899,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Gyeongju Korea Hydro & Nuclear Power",
+        "city": "Gyeongju",
+        "country": "Korea, South",
+        "lat": 35.8556705,
+        "lng": 129.2248811,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Jeonbuk Hyundai Motors",
+        "city": "Jeonju, Jeollabuk",
+        "country": "Korea, South",
+        "lat": 35.8237631,
+        "lng": 127.1472805,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Beijing Guoan",
+        "city": "Beijing",
+        "country": "China",
+        "lat": 39.9057136,
+        "lng": 116.3912972,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Fenerbahce",
+        "city": "Kadıköy / İstanbul",
+        "country": "Türkiye",
+        "lat": 40.9912028,
+        "lng": 29.0401521,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "SSC Napoli",
+        "city": "Napoli",
+        "country": "Italy",
+        "lat": 40.8358846,
+        "lng": 14.2487679,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Bayern Munich",
+        "city": "München",
+        "country": "Germany",
+        "lat": 48.1371079,
+        "lng": 11.5753822,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Min-jae_Kim"
+  },
+  {
+    "id": "moon-hwan-kim",
+    "name": "Moon-hwan Kim",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "South Korean",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Suwon High School",
+        "city": "Suwon, Gyeonggi",
+        "country": "Korea, South",
+        "lat": 37.2633325,
+        "lng": 127.0287472,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Chung-Ang University",
+        "city": "Seoul",
+        "country": "Korea, South",
+        "lat": 37.5666791,
+        "lng": 126.9782914,
+        "fromYear": 2014,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Busan IPark",
+        "city": "Busan",
+        "country": "Korea, South",
+        "lat": 35.1799528,
+        "lng": 129.0752365,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Los Angeles FC",
+        "city": "Los Angeles, California",
+        "country": "United States",
+        "lat": 34.0536909,
+        "lng": -118.242766,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Jeonbuk Hyundai Motors",
+        "city": "Jeonju, Jeollabuk",
+        "country": "Korea, South",
+        "lat": 35.8237631,
+        "lng": 127.1472805,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Duhail SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Daejeon Hana Citizen",
+        "city": "Daejeon",
+        "country": "Korea, South",
+        "lat": 36.3497007,
+        "lng": 127.3849016,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Moon-hwan_Kim"
+  },
+  {
+    "id": "seung-gyu-kim",
+    "name": "Seung-gyu Kim",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "South Korean",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Ulsan HD FC",
+        "city": "Dong-gu, Ulsan",
+        "country": "Korea, South",
+        "lat": 35.5046663,
+        "lng": 129.4170114,
+        "fromYear": 2006,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Vissel Kobe",
+        "city": "Kobe, Hyogo",
+        "country": "Japan",
+        "lat": 34.6932379,
+        "lng": 135.1943764,
+        "fromYear": 2016,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Ulsan HD FC",
+        "city": "Dong-gu, Ulsan",
+        "country": "Korea, South",
+        "lat": 35.5046663,
+        "lng": 129.4170114,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Kashiwa Reysol",
+        "city": "Kashiwa, Chiba",
+        "country": "Japan",
+        "lat": 35.8676218,
+        "lng": 139.9756876,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Al-Shabab FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2022,
+        "toYear": 2025
+      },
+      {
+        "clubName": "FC Tokyo",
+        "city": "Chofu, Tokio",
+        "country": "Japan",
+        "lat": 35.6506036,
+        "lng": 139.5407066,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Seung-gyu_Kim"
+  },
+  {
+    "id": "seung-ho-paik",
+    "name": "Seung-ho Paik",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "South Korean",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "FC Barcelona Atlètic",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3825802,
+        "lng": 2.177073,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Girona FC",
+        "city": "Girona",
+        "country": "Spain",
+        "lat": 41.9793006,
+        "lng": 2.8199439,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "SV Darmstadt 98",
+        "city": "Darmstadt",
+        "country": "Germany",
+        "lat": 49.872775,
+        "lng": 8.651177,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Jeonbuk Hyundai Motors",
+        "city": "Jeonju, Jeollabuk",
+        "country": "Korea, South",
+        "lat": 35.8237631,
+        "lng": 127.1472805,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Birmingham City",
+        "city": "Birmingham",
+        "country": "England",
+        "lat": 52.4948994,
+        "lng": -1.8518439,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Seung-ho_Paik"
+  },
+  {
+    "id": "tae-hyeon-kim",
+    "name": "Tae-hyeon Kim",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "South Korean",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Ulsan HD FC",
+        "city": "Dong-gu, Ulsan",
+        "country": "Korea, South",
+        "lat": 35.5046663,
+        "lng": 129.4170114,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Daejeon Hana Citizen",
+        "city": "Daejeon",
+        "country": "Korea, South",
+        "lat": 36.3497007,
+        "lng": 127.3849016,
+        "fromYear": 2019,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Ulsan HD FC",
+        "city": "Dong-gu, Ulsan",
+        "country": "Korea, South",
+        "lat": 35.5046663,
+        "lng": 129.4170114,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Seoul E-Land",
+        "city": "Seoul",
+        "country": "Korea, South",
+        "lat": 37.5666791,
+        "lng": 126.9782914,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Ulsan HD FC",
+        "city": "Dong-gu, Ulsan",
+        "country": "Korea, South",
+        "lat": 35.5046663,
+        "lng": 129.4170114,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Vegalta Sendai",
+        "city": "Sendai, Miyagi",
+        "country": "Japan",
+        "lat": 38.2677554,
+        "lng": 140.8691498,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Ulsan HD FC",
+        "city": "Dong-gu, Ulsan",
+        "country": "Korea, South",
+        "lat": 35.5046663,
+        "lng": 129.4170114,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Kashima Antlers",
+        "city": "Kashima, Ibaraki",
+        "country": "Japan",
+        "lat": 35.9661164,
+        "lng": 140.6450292,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tae-hyeon_Kim"
+  },
+  {
+    "id": "tae-seok-lee",
+    "name": "Tae-seok Lee",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "South Korean",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "FC Seoul",
+        "city": "Mapo-gu, Seoul",
+        "country": "Korea, South",
+        "lat": 37.566571,
+        "lng": 126.9015317,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Pohang Steelers",
+        "city": "Pohang, Gyeongbuk",
+        "country": "Korea, South",
+        "lat": 36.0189315,
+        "lng": 129.3429384,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Austria Vienna",
+        "city": "Wien",
+        "country": "Austria",
+        "lat": 48.2083537,
+        "lng": 16.3725042,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tae-seok_Lee"
+  },
+  {
+    "id": "wi-je-cho",
+    "name": "Wi-je Cho",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "South Korean",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Yong In University",
+        "city": "Yongin, Gyeonggi",
+        "country": "Korea, South",
+        "lat": 37.2405741,
+        "lng": 127.1785572,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Busan IPark",
+        "city": "Busan",
+        "country": "Korea, South",
+        "lat": 35.1799528,
+        "lng": 129.0752365,
+        "fromYear": 2022,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Jeonbuk Hyundai Motors",
+        "city": "Jeonju, Jeollabuk",
+        "country": "Korea, South",
+        "lat": 35.8237631,
+        "lng": 127.1472805,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Wi-je_Cho"
+  },
+  {
+    "id": "young-woo-seol",
+    "name": "Young-woo Seol",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "South Korean",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Eonyang Elementary School",
+        "city": "Ulju, Ulsan",
+        "country": "Korea, South",
+        "lat": 35.5222362,
+        "lng": 129.2423693,
+        "fromYear": 2008,
+        "toYear": 2008
+      },
+      {
+        "clubName": "Ulsan Okdong Elementary School",
+        "city": "---, Ulsan",
+        "country": "Korea, South",
+        "lat": 35.5391697,
+        "lng": 129.3119136,
+        "fromYear": 2008,
+        "toYear": 2011
+      },
+      {
+        "clubName": "University of Ulsan",
+        "city": "Ulsan",
+        "country": "Korea, South",
+        "lat": 35.5391697,
+        "lng": 129.3119136,
+        "fromYear": 2017,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Ulsan HD FC",
+        "city": "Dong-gu, Ulsan",
+        "country": "Korea, South",
+        "lat": 35.5046663,
+        "lng": 129.4170114,
+        "fromYear": 2020,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Red Star Belgrade",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "lat": 44.8153318,
+        "lng": 20.4456588,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Young-woo_Seol"
+  }
+]

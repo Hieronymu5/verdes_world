@@ -1,0 +1,1547 @@
+[
+  {
+    "id": "abdallah-al-fakhouri",
+    "name": "Abdallah Al-Fakhouri",
+    "jerseyNumbers": [
+      22
+    ],
+    "nationality": "Jordanian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Al-Wehdat SC",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2018,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Ain SFC",
+        "city": "Al-Qara, Al-Bahah",
+        "country": "Saudi Arabia",
+        "lat": 20.2507795,
+        "lng": 41.3503986,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Wehdat SC",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdallah_Al-Fakhouri"
+  },
+  {
+    "id": "abdallah-nasib",
+    "name": "Abdallah Nasib",
+    "jerseyNumbers": [
+      3
+    ],
+    "nationality": "Jordanian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "That Ras Club",
+        "city": "Al Karak",
+        "country": "Jordan",
+        "lat": 31.1847222,
+        "lng": 35.7047218,
+        "fromYear": 2017,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Al-Ramtha SC",
+        "city": "Ar-Ramtha",
+        "country": "Jordan",
+        "lat": 32.559167,
+        "lng": 36.006944,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Al-Wehdat SC",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2019,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Ittihad Alexandria SC",
+        "city": "Alexandria",
+        "country": "Egypt",
+        "lat": 31.1991806,
+        "lng": 29.8951716,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Hussein SC (Irbid)",
+        "city": "Irbid, Irbid",
+        "country": "Jordan",
+        "lat": 32.4010093,
+        "lng": 35.5607928,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Zawraa SC",
+        "city": "Baghdad",
+        "country": "Iraq",
+        "lat": 33.3061701,
+        "lng": 44.3872213,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Al-Hussein SC (Irbid)",
+        "city": "Irbid, Irbid",
+        "country": "Jordan",
+        "lat": 32.4010093,
+        "lng": 35.5607928,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdallah_Nasib"
+  },
+  {
+    "id": "ali-azaizeh",
+    "name": "Ali Azaizeh",
+    "jerseyNumbers": [
+      24
+    ],
+    "nationality": "Jordanian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Al-Ramtha SC",
+        "city": "Ar-Ramtha",
+        "country": "Jordan",
+        "lat": 32.559167,
+        "lng": 36.006944,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Kazma SC",
+        "city": "Kuwait City",
+        "country": "Kuwait",
+        "lat": 29.3796532,
+        "lng": 47.9734174,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Ramtha SC",
+        "city": "Ar-Ramtha",
+        "country": "Jordan",
+        "lat": 32.559167,
+        "lng": 36.006944,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Shabab FC",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "lat": 24.638916,
+        "lng": 46.7160104,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Kazma SC",
+        "city": "Kuwait City",
+        "country": "Kuwait",
+        "lat": 29.3796532,
+        "lng": 47.9734174,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Azaizeh"
+  },
+  {
+    "id": "ali-olwan",
+    "name": "Ali Olwan",
+    "jerseyNumbers": [
+      9
+    ],
+    "nationality": "Jordanian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Al-Jazeera Club (Jordan)",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Al-Shamal SC",
+        "city": "Al-Shamal",
+        "country": "Qatar",
+        "lat": 26.0517166,
+        "lng": 51.2005821,
+        "fromYear": 2022,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Selangor FC",
+        "city": "Shah Alam, Selangor",
+        "country": "Malaysia",
+        "lat": 3.0739429,
+        "lng": 101.5185278,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Shamal SC",
+        "city": "Al-Shamal",
+        "country": "Qatar",
+        "lat": 26.0517166,
+        "lng": 51.2005821,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Sailiya SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Olwan"
+  },
+  {
+    "id": "amer-jamous",
+    "name": "Amer Jamous",
+    "jerseyNumbers": [
+      6
+    ],
+    "nationality": "Jordanian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Al-Jazeera Club (Jordan)",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Wehdat SC",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Jazeera Club (Jordan)",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Al-Zawraa SC",
+        "city": "Baghdad",
+        "country": "Iraq",
+        "lat": 33.3061701,
+        "lng": 44.3872213,
+        "fromYear": 2026,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Al-Wehdat SC",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Amer_Jamous"
+  },
+  {
+    "id": "anas-badawi",
+    "name": "Anas Badawi",
+    "jerseyNumbers": [
+      26
+    ],
+    "nationality": "Jordanian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Al-Jazeera Club (Jordan)",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Faisaly SC",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Anas_Badawi"
+  },
+  {
+    "id": "ehsan-haddad",
+    "name": "Ehsan Haddad",
+    "jerseyNumbers": [
+      23
+    ],
+    "nationality": "Jordanian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Al-Ramtha SC",
+        "city": "Ar-Ramtha",
+        "country": "Jordan",
+        "lat": 32.559167,
+        "lng": 36.006944,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Al-Hussein SC (Irbid)",
+        "city": "Irbid, Irbid",
+        "country": "Jordan",
+        "lat": 32.4010093,
+        "lng": 35.5607928,
+        "fromYear": 2015,
+        "toYear": 2016
+      },
+      {
+        "clubName": "Al-Ramtha SC",
+        "city": "Ar-Ramtha",
+        "country": "Jordan",
+        "lat": 32.559167,
+        "lng": 36.006944,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Al-Wehdat SC",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Al-Faisaly SC",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Al-Quwa Al-Jawiya",
+        "city": "Rusafa District, Bagdad",
+        "country": "Iraq",
+        "lat": 33.3321171,
+        "lng": 44.4522741,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Al-Faisaly SC",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Shorta SC",
+        "city": "Baghdad, Rusafa District",
+        "country": "Iraq",
+        "lat": 33.3311253,
+        "lng": 44.4329234,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Faisaly SC",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Hussein SC (Irbid)",
+        "city": "Irbid, Irbid",
+        "country": "Jordan",
+        "lat": 32.4010093,
+        "lng": 35.5607928,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ehsan_Haddad"
+  },
+  {
+    "id": "husam-abu-dahab",
+    "name": "Husam Abu Dahab",
+    "jerseyNumbers": [
+      4
+    ],
+    "nationality": "Jordanian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Al-Faisaly SC",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2019,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Husam_Abu_Dahab"
+  },
+  {
+    "id": "ibrahim-saadeh",
+    "name": "Ibrahim Saadeh",
+    "jerseyNumbers": [
+      15
+    ],
+    "nationality": "Jordanian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Al-Jazeera Club (Jordan)",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2018,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Al-Hussein SC (Irbid)",
+        "city": "Irbid, Irbid",
+        "country": "Jordan",
+        "lat": 32.4010093,
+        "lng": 35.5607928,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Zawraa SC",
+        "city": "Baghdad",
+        "country": "Iraq",
+        "lat": 33.3061701,
+        "lng": 44.3872213,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Muharraq SC",
+        "city": "Muharraq",
+        "country": "Bahrain",
+        "lat": 26.2465946,
+        "lng": 50.6164127,
+        "fromYear": 2024,
+        "toYear": 2025
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibrahim_Saadeh"
+  },
+  {
+    "id": "mahmoud-al-mardi",
+    "name": "Mahmoud Al-Mardi",
+    "jerseyNumbers": [
+      13
+    ],
+    "nationality": "Jordanian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Ittihad Al-Zarqa",
+        "city": "Zarqa",
+        "country": "Jordan",
+        "lat": 32.0668425,
+        "lng": 36.0885771,
+        "fromYear": 2013,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Al-Sheikh Hussein FC",
+        "city": "Irbid",
+        "country": "Jordan",
+        "lat": 32.4010093,
+        "lng": 35.5607928,
+        "fromYear": 2014,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Ittihad Al-Zarqa",
+        "city": "Zarqa",
+        "country": "Jordan",
+        "lat": 32.0668425,
+        "lng": 36.0885771,
+        "fromYear": 2014,
+        "toYear": 2015
+      },
+      {
+        "clubName": "Al-Ahli (Amman)",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2015,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Al-Faisaly SC",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Al-Jazeera Club (Jordan)",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Oman Club",
+        "city": "Muscat",
+        "country": "Oman",
+        "lat": 23.6123628,
+        "lng": 58.5938134,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Al-Salt SC",
+        "city": "Al-Salt",
+        "country": "Jordan",
+        "lat": 32.0390779,
+        "lng": 35.7269843,
+        "fromYear": 2021,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Al-Muharraq SC",
+        "city": "Muharraq",
+        "country": "Bahrain",
+        "lat": 26.2465946,
+        "lng": 50.6164127,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Kedah Darul Aman FC",
+        "city": "Alor Star, Kedah Darul Aman",
+        "country": "Malaysia",
+        "lat": 6.1163313,
+        "lng": 100.368414,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Qadsia SC",
+        "city": "Kuwait City",
+        "country": "Kuwait",
+        "lat": 29.3796532,
+        "lng": 47.9734174,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Hussein SC (Irbid)",
+        "city": "Irbid, Irbid",
+        "country": "Jordan",
+        "lat": 32.4010093,
+        "lng": 35.5607928,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahmoud_Al-Mardi"
+  },
+  {
+    "id": "mohammad-abu-ghoush",
+    "name": "Mohammad Abu Ghoush",
+    "jerseyNumbers": [
+      18
+    ],
+    "nationality": "Jordanian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Shabab Al-Ordon Club",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Al-Hussein SC (Irbid)",
+        "city": "Irbid, Irbid",
+        "country": "Jordan",
+        "lat": 32.4010093,
+        "lng": 35.5607928,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohammad_Abu_Ghoush"
+  },
+  {
+    "id": "mohammad-abu-hasheesh",
+    "name": "Mohammad Abu Hasheesh",
+    "jerseyNumbers": [
+      2
+    ],
+    "nationality": "Jordanian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Al-Baqaa",
+        "city": "Ain Al-Basha, Balqa",
+        "country": "Jordan",
+        "lat": 32.06,
+        "lng": 35.830833,
+        "fromYear": 2020,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Al-Salt SC",
+        "city": "Al-Salt",
+        "country": "Jordan",
+        "lat": 32.0390779,
+        "lng": 35.7269843,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Al-Wehdat SC",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Ahed",
+        "city": "Beirut",
+        "country": "Lebanon",
+        "lat": 33.8892265,
+        "lng": 35.5025585,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Zawraa SC",
+        "city": "Baghdad",
+        "country": "Iraq",
+        "lat": 33.3061701,
+        "lng": 44.3872213,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Naft Al-Wassat SC",
+        "city": "Najaf",
+        "country": "Iraq",
+        "lat": 32.0010227,
+        "lng": 44.3299926,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Zakho SC",
+        "city": "Zakho",
+        "country": "Iraq",
+        "lat": 37.1433762,
+        "lng": 42.6822907,
+        "fromYear": 2024,
+        "toYear": 2025
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohammad_Abu_Hasheesh"
+  },
+  {
+    "id": "mohammad-abu-zrayq",
+    "name": "Mohammad Abu Zrayq",
+    "jerseyNumbers": [
+      7
+    ],
+    "nationality": "Jordanian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Al-Ramtha SC",
+        "city": "Ar-Ramtha",
+        "country": "Jordan",
+        "lat": 32.559167,
+        "lng": 36.006944,
+        "fromYear": 2017,
+        "toYear": 2019
+      },
+      {
+        "clubName": "Al-Sailiya SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2019,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Al-Ramtha SC",
+        "city": "Ar-Ramtha",
+        "country": "Jordan",
+        "lat": 32.559167,
+        "lng": 36.006944,
+        "fromYear": 2020,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Al-Ahli SC",
+        "city": "Tripoli",
+        "country": "Libya",
+        "lat": 32.896672,
+        "lng": 13.1777923,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Wehdat SC",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Shorta SC",
+        "city": "Baghdad, Rusafa District",
+        "country": "Iraq",
+        "lat": 33.3311253,
+        "lng": 44.4329234,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Hussein SC (Irbid)",
+        "city": "Irbid, Irbid",
+        "country": "Jordan",
+        "lat": 32.4010093,
+        "lng": 35.5607928,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Ramtha SC",
+        "city": "Ar-Ramtha",
+        "country": "Jordan",
+        "lat": 32.559167,
+        "lng": 36.006944,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohammad_Abu_Zrayq"
+  },
+  {
+    "id": "mohammad-abualnadi",
+    "name": "Mohammad Abualnadi",
+    "jerseyNumbers": [
+      16
+    ],
+    "nationality": "Jordanian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Sporting Kansas City II",
+        "city": "Kansas City, Kansas",
+        "country": "United States",
+        "lat": 39.1134562,
+        "lng": -94.626497,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Pittsburgh Panthers (University of Pittsburgh)",
+        "city": "Pittsburgh, Pennsylvania",
+        "country": "United States",
+        "lat": 40.4406968,
+        "lng": -80.0025666,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Sporting Kansas City II",
+        "city": "Kansas City, Kansas",
+        "country": "United States",
+        "lat": 39.1134562,
+        "lng": -94.626497,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Hussein SC (Irbid)",
+        "city": "Irbid, Irbid",
+        "country": "Jordan",
+        "lat": 32.4010093,
+        "lng": 35.5607928,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Selangor FC",
+        "city": "Shah Alam, Selangor",
+        "country": "Malaysia",
+        "lat": 3.0739429,
+        "lng": 101.5185278,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Corvinul Hunedoara",
+        "city": "Hunedoara",
+        "country": "Romania",
+        "lat": 45.7954068,
+        "lng": 22.945243,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohammad_Abualnadi"
+  },
+  {
+    "id": "mohammad-al-dawoud",
+    "name": "Mohammad Al-Dawoud",
+    "jerseyNumbers": [
+      25
+    ],
+    "nationality": "Jordanian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Al-Ramtha SC",
+        "city": "Ar-Ramtha",
+        "country": "Jordan",
+        "lat": 32.559167,
+        "lng": 36.006944,
+        "fromYear": 2011,
+        "toYear": 2014
+      },
+      {
+        "clubName": "Hidd SCC",
+        "city": "Al Hidd, Muharraq",
+        "country": "Bahrain",
+        "lat": 26.2440537,
+        "lng": 50.6528891,
+        "fromYear": 2014,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Al-Ramtha SC",
+        "city": "Ar-Ramtha",
+        "country": "Jordan",
+        "lat": 32.559167,
+        "lng": 36.006944,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Hidd SCC",
+        "city": "Al Hidd, Muharraq",
+        "country": "Bahrain",
+        "lat": 26.2440537,
+        "lng": 50.6528891,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Al-Salt SC",
+        "city": "Al-Salt",
+        "country": "Jordan",
+        "lat": 32.0390779,
+        "lng": 35.7269843,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Hussein SC (Irbid)",
+        "city": "Irbid, Irbid",
+        "country": "Jordan",
+        "lat": 32.4010093,
+        "lng": 35.5607928,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Faisaly SC",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Al-Wehdat SC",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohammad_Al-Dawoud"
+  },
+  {
+    "id": "mohannad-abu-taha",
+    "name": "Mohannad Abu Taha",
+    "jerseyNumbers": [
+      20
+    ],
+    "nationality": "Jordanian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Al-Wehdat SC",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2021,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Karkh SC",
+        "city": "Karkh, Baghdad",
+        "country": "Iraq",
+        "lat": 33.3163798,
+        "lng": 44.3658908,
+        "fromYear": 2024,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Orobah FC",
+        "city": "Sakakah, Al-Jawf",
+        "country": "Saudi Arabia",
+        "lat": 29.9784008,
+        "lng": 40.2047701,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Karkh SC",
+        "city": "Karkh, Baghdad",
+        "country": "Iraq",
+        "lat": 33.3163798,
+        "lng": 44.3658908,
+        "fromYear": 2025,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Al-Quwa Al-Jawiya",
+        "city": "Rusafa District, Bagdad",
+        "country": "Iraq",
+        "lat": 33.3321171,
+        "lng": 44.4522741,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohannad_Abu_Taha"
+  },
+  {
+    "id": "mousa-tamari",
+    "name": "Mousa Tamari",
+    "jerseyNumbers": [
+      10
+    ],
+    "nationality": "Jordanian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Shabab Al-Ordon Club",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2016,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Al-Jazeera Club (Jordan)",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2017,
+        "toYear": 2018
+      },
+      {
+        "clubName": "APOEL Nicosia",
+        "city": "Nikosia",
+        "country": "Cyprus",
+        "lat": 35.1746503,
+        "lng": 33.3638783,
+        "fromYear": 2018,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Shabab Al-Ordon Club",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Oud-Heverlee Leuven",
+        "city": "Heverlee (Leuven)",
+        "country": "Belgium",
+        "lat": 50.8596468,
+        "lng": 4.7151342,
+        "fromYear": 2020,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Montpellier HSC",
+        "city": "Montpellier",
+        "country": "France",
+        "lat": 43.6112422,
+        "lng": 3.8767337,
+        "fromYear": 2023,
+        "toYear": 2025
+      },
+      {
+        "clubName": "Stade Rennais FC",
+        "city": "Rennes",
+        "country": "France",
+        "lat": 48.1113387,
+        "lng": -1.6800198,
+        "fromYear": 2025,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Mousa_Tamari"
+  },
+  {
+    "id": "nizar-al-rashdan",
+    "name": "Nizar Al-Rashdan",
+    "jerseyNumbers": [
+      21
+    ],
+    "nationality": "Jordanian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Al-Hussein SC (Irbid)",
+        "city": "Irbid, Irbid",
+        "country": "Jordan",
+        "lat": 32.4010093,
+        "lng": 35.5607928,
+        "fromYear": 2019,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Al-Faisaly SC",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Newroz SC",
+        "city": "Sulaymaniyah",
+        "country": "Iraq",
+        "lat": 35.5570501,
+        "lng": 45.4425963,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Emirates Club",
+        "city": "Ras Al-Khaimah",
+        "country": "United Arab Emirates",
+        "lat": 25.7737705,
+        "lng": 55.938232,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Faisaly SC",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Zawraa SC",
+        "city": "Baghdad",
+        "country": "Iraq",
+        "lat": 33.3061701,
+        "lng": 44.3872213,
+        "fromYear": 2025,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Qatar SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Nizar_Al-Rashdan"
+  },
+  {
+    "id": "noor-al-rawabdeh",
+    "name": "Noor Al-Rawabdeh",
+    "jerseyNumbers": [
+      8
+    ],
+    "nationality": "Jordanian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Al-Jazeera Club (Jordan)",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2017,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Al-Muharraq SC",
+        "city": "Muharraq",
+        "country": "Bahrain",
+        "lat": 26.2465946,
+        "lng": 50.6164127,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Al-Faisaly SC",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Selangor FC",
+        "city": "Shah Alam, Selangor",
+        "country": "Malaysia",
+        "lat": 3.0739429,
+        "lng": 101.5185278,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Noor_Al-Rawabdeh"
+  },
+  {
+    "id": "noor-bane-ataya",
+    "name": "Noor Bane Ataya",
+    "jerseyNumbers": [
+      12
+    ],
+    "nationality": "Jordanian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Al-Faisaly SC",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2012,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Al-Jazeera Club (Jordan)",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Al-Faisaly SC",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2021,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Noor_Bane_Ataya"
+  },
+  {
+    "id": "odeh-fakhoury",
+    "name": "Odeh Fakhoury",
+    "jerseyNumbers": [
+      11
+    ],
+    "nationality": "Jordanian",
+    "position": "FW",
+    "clubs": [
+      {
+        "clubName": "Al-Hussein SC (Irbid)",
+        "city": "Irbid, Irbid",
+        "country": "Jordan",
+        "lat": 32.4010093,
+        "lng": 35.5607928,
+        "fromYear": 2024,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Pyramids FC",
+        "city": "Kairo",
+        "country": "Egypt",
+        "lat": 30.0443879,
+        "lng": 31.2357257,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Odeh_Fakhoury"
+  },
+  {
+    "id": "rajaei-ayed",
+    "name": "Rajaei Ayed",
+    "jerseyNumbers": [
+      14
+    ],
+    "nationality": "Jordanian",
+    "position": "MF",
+    "clubs": [
+      {
+        "clubName": "Al-Wehdat SC",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2012,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Ratchaburi FC",
+        "city": "Ratchaburi",
+        "country": "Thailand",
+        "lat": 13.6317897,
+        "lng": 99.3558216,
+        "fromYear": 2022,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Al-Hussein SC (Irbid)",
+        "city": "Irbid, Irbid",
+        "country": "Jordan",
+        "lat": 32.4010093,
+        "lng": 35.5607928,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Rajaei_Ayed"
+  },
+  {
+    "id": "saed-al-rousan",
+    "name": "Saed Al-Rousan",
+    "jerseyNumbers": [
+      19
+    ],
+    "nationality": "Jordanian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Mansheyat Bani Hasan Club",
+        "city": "Mafraq",
+        "country": "Jordan",
+        "lat": 32.1934466,
+        "lng": 37.4472962,
+        "fromYear": 2016,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Al-Baqaa",
+        "city": "Ain Al-Basha, Balqa",
+        "country": "Jordan",
+        "lat": 32.06,
+        "lng": 35.830833,
+        "fromYear": 2018,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Ma'an SC",
+        "city": "Ma'an, Ma'an",
+        "country": "Jordan",
+        "lat": 30.2,
+        "lng": 35.7333329,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Al-Hussein SC (Irbid)",
+        "city": "Irbid, Irbid",
+        "country": "Jordan",
+        "lat": 32.4010093,
+        "lng": 35.5607928,
+        "fromYear": 2021,
+        "toYear": 2026
+      },
+      {
+        "clubName": "Al-Quwa Al-Jawiya",
+        "city": "Rusafa District, Bagdad",
+        "country": "Iraq",
+        "lat": 33.3321171,
+        "lng": 44.4522741,
+        "fromYear": 2026,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Saed_Al-Rousan"
+  },
+  {
+    "id": "saleem-obaid",
+    "name": "Saleem Obaid",
+    "jerseyNumbers": [
+      17
+    ],
+    "nationality": "Jordanian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Al-Ahli (Amman)",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2011,
+        "toYear": 2018
+      },
+      {
+        "clubName": "Al-Wehdat SC",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2018,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Sahab SC",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2021,
+        "toYear": 2022
+      },
+      {
+        "clubName": "Shabab Al-Ordon Club",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2022,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Hussein SC (Irbid)",
+        "city": "Irbid, Irbid",
+        "country": "Jordan",
+        "lat": 32.4010093,
+        "lng": 35.5607928,
+        "fromYear": 2023,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Saleem_Obaid"
+  },
+  {
+    "id": "yazan-al-arab",
+    "name": "Yazan Al-Arab",
+    "jerseyNumbers": [
+      5
+    ],
+    "nationality": "Jordanian",
+    "position": "DF",
+    "clubs": [
+      {
+        "clubName": "Al-Jazeera Club (Jordan)",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2015,
+        "toYear": 2020
+      },
+      {
+        "clubName": "Al-Wehdat SC",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2020,
+        "toYear": 2021
+      },
+      {
+        "clubName": "Selangor FC",
+        "city": "Shah Alam, Selangor",
+        "country": "Malaysia",
+        "lat": 3.0739429,
+        "lng": 101.5185278,
+        "fromYear": 2021,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Shorta SC",
+        "city": "Baghdad, Rusafa District",
+        "country": "Iraq",
+        "lat": 33.3311253,
+        "lng": 44.4329234,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Muaither SC",
+        "city": "Doha",
+        "country": "Qatar",
+        "lat": 25.3108807,
+        "lng": 51.5081812,
+        "fromYear": 2024,
+        "toYear": 2024
+      },
+      {
+        "clubName": "FC Seoul",
+        "city": "Mapo-gu, Seoul",
+        "country": "Korea, South",
+        "lat": 37.566571,
+        "lng": 126.9015317,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Yazan_Al-Arab"
+  },
+  {
+    "id": "yazeed-abulaila",
+    "name": "Yazeed Abulaila",
+    "jerseyNumbers": [
+      1
+    ],
+    "nationality": "Jordanian",
+    "position": "GK",
+    "clubs": [
+      {
+        "clubName": "Shabab Al-Ordon Club",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2014,
+        "toYear": 2017
+      },
+      {
+        "clubName": "Al-Faisaly SC",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2017,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Jabalain FC",
+        "city": "Hail",
+        "country": "Saudi Arabia",
+        "lat": 26.9920987,
+        "lng": 41.4892578,
+        "fromYear": 2023,
+        "toYear": 2023
+      },
+      {
+        "clubName": "Al-Faisaly SC",
+        "city": "Amman",
+        "country": "Jordan",
+        "lat": 31.9515694,
+        "lng": 35.9239625,
+        "fromYear": 2023,
+        "toYear": 2024
+      },
+      {
+        "clubName": "Al-Hussein SC (Irbid)",
+        "city": "Irbid, Irbid",
+        "country": "Jordan",
+        "lat": 32.4010093,
+        "lng": 35.5607928,
+        "fromYear": 2024,
+        "toYear": 2026
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Yazeed_Abulaila"
+  }
+]
